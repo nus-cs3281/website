@@ -36,6 +36,9 @@ The two modules will run concurrently, but separately.
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)**
   * **[100%]: Do a major contribution to a medium size OSS project** <br>
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://github.com/nus-oss/main)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
+  * CS3282 projects at STePS (2016 April):<br>
+    <img src="{{baseUrl}}/images/STePS-2016.png" width="800" />
+  
 
 ## Workload
 
