@@ -26,7 +26,7 @@ future as a Software Engineer. CS3281&2 provides an entry point to the [von Neum
 
 The two modules will run concurrently, but separately. 
 
-* **CS3281** 
+* **[CS3281]({{baseUrl}}/admin/cs3281.html)** 
   * **[30%]: Do a small contribution to a big OSS project**<br>
     Pick an established OSS project of your choice (recommended: pick from projects participating in the Google Summer of Code programme thus increasing your chances of getting into future GSoC programmes) and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run.
   * **[70%]: Build up an expertise area**<br>
@@ -43,7 +43,7 @@ The two modules will run concurrently, but separately.
 * Lectures are compulsory to attend.
   * CS3281 lecture -- MON 1200-1400 in COM1-B103
   * CS3282 lecture -- THU 1200-1400 in COM1-B103
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** on the first Saturday of the semester (Jan 20th)==.
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3282)on the first Saturday of the semester (Jan 20th)==.
 * No tutorials. Ignore the tutorial timings given in IVLE/CORS.
 
 ## Assessment

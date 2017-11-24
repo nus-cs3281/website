@@ -18,6 +18,10 @@
       "title": "CS3282 Info"
     },
     {
+      "src": "admin/expertAreas.md",
+      "title": "CS3281 Expert Areas"
+    },
+    {
       "src": "schedule/index.md",
       "title": "CS3281 and CS3281 Schedule"
     }
