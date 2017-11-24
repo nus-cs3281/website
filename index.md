@@ -1,11 +1,3 @@
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
+<include src="admin/callForApplications.md" />
 
-<include src="common/header.md" />
-
-<div class="website-content">
-
-# Hello CS3281
-Welcome to CS3281 Website generated with MarkBind.
-
-</div>
 

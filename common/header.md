@@ -5,8 +5,8 @@
   <li><a href="{{baseUrl}}/admin/cs3281.html">CS3281</a></li>
   <li><a href="{{baseUrl}}/admin/cs3282.html">CS3282</a></li>
   <dropdown text="Links">
-    <li><a href="" target="_blank">Call for Applications</a></li>
-    <li><a href="instructors.html">Instructors</a></li>   
-    <li><a href="" target="_blank">Previous semesters</a></li>
+    <li><a href="{{baseUrl}}/admin/callForApplications.html">Call for Applications</a></li>
+    <!-- <li><a href="instructors.html">Instructors</a></li>  --> 
+    <!-- <li><a href="" target="_blank">Previous semesters</a></li> -->
   </dropdown>    
 </navbar>
