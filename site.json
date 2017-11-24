@@ -1,9 +1,21 @@
 {
-  "baseUrl": "/",
+  "baseUrl": "/website",
   "pages": [
     {
       "src": "index.md",
       "title": "CS3281&2 - AY1718S2"
+    },
+    {
+      "src": "cs3281.md",
+      "title": "CS3281 Info"
+    },
+    {
+      "src": "cs3282.md",
+      "title": "CS3282 Info"
+    },
+    {
+      "src": "schedule/index.md",
+      "title": "CS3281 and CS3281 Schedule"
     }
   ],
   "ignore": [
