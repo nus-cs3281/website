@@ -1,0 +1,16 @@
+{
+  "baseUrl": "/",
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "CS3281&2 - AY1718S2"
+    }
+  ],
+  "ignore": [
+    "_site/*",
+    "site.json"
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
