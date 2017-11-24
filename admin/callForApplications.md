@@ -33,7 +33,7 @@ The two modules will run concurrently, but separately.
     Pick an expertise area (of your choice) that can enhance your SE career prospects %%-- a tool e.g. Node.js, 
     a technology  e.g Cloud, an aspect e.g. Code quality -- and develop a demonstrable expertise in that area.%% 
 
-* **CS3282**
+* **[CS3282]({{baseUrl}}/admin/cs3282.html)**
   * **[100%]: Do a major contribution to a medium size OSS project** <br>
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://github.com/nus-oss/main)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
@@ -48,8 +48,7 @@ The two modules will run concurrently, but separately.
 
 ## Assessment
 
-Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam.
-
+Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam. 
 
 ## Enrollment
 
