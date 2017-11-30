@@ -32,7 +32,7 @@ The two modules will run concurrently, but as two separate modules.
 
 <tip-box> 
 
-CS3282 projects at STePS (2016 April):<p>
+CS3282 projects at STePS (2017 April):<p>
     <img src="{{baseUrl}}/images/STePS-2016.png" width="800" />
 
 </tip-box>
