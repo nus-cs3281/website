@@ -10,7 +10,7 @@ CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for leg
 
 Both modules involve **working within the context of large OSS projects** that are being developed and used in industry; students will not be building a new product from scratch.
 
-These two modules are to be taken concurrently and are offered in Semester 2 only. However, ==a small number of CS3282 places (without needing to take CS3281) are available for those who have already completed one of these combinations: CS3201&2, CS3216+CS3217.== 
+These two modules are to be taken concurrently and are offered in Semester 2 only. However, ==a small number of CS3282 places (without needing to take CS3281) are available for those who have already completed or will be completing their third year project module requirement using other project modules (e.g. CS3201&2, CS3216+CS3217, similar).== 
 
 CS3281&2 provides an entry point to the [von Neumann Program](https://www.comp.nus.edu.sg/undergraduates/cs_vpn_prospective.html) %%&nbsp;(the only other entry point is CS3217.)%% If you perform well in this module, you will be invited to join the vNP.
 
