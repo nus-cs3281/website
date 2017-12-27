@@ -18,7 +18,7 @@ CS3281&2 provides an entry point to the [von Neumann Program](https://www.comp.n
 
 ## Structure 
 
-The two modules will run concurrently, but as two separate modules. 
+%%The two modules will run concurrently, but as two separate modules.%% 
 
 * **[CS3281]({{baseUrl}}/admin/cs3281.html)** 
   * **[30%]: Do a small contribution to a big OSS project**<br>
@@ -71,7 +71,7 @@ The outcome of all applications are expected to be **released via email around 1
 
 ## FAQ
 
-* Q: Can I apply to both CS3217 and CS3281&2<br>
+* Q: Can I apply to both CS3217 and CS3281&2?<br>
   A: Yes. If you get places in both, you will be given time to decide which one to take.
   
 * Q: Can I take this module while doing ATAP/SIP?<br>
