@@ -1,3 +1,3 @@
-<include src="admin/callForApplications.md" />
+<include src="schedule/index.md" />
 
 
