@@ -44,7 +44,7 @@ CS3282 projects at STePS (2017 April):<p>
 * Lectures are compulsory to attend.
   * CS3281 lecture -- MON 1200-1400 in COM1-B103
   * CS3282 lecture -- THU 1200-1400 in COM1-B103
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3282)on the first Saturday of the semester (Jan 20th)==.
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3282) on the first Saturday of the semester (Jan 20th)==.
 * No tutorials. Ignore the tutorial timings given in IVLE/CORS.
 
 ## Assessment
