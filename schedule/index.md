@@ -13,16 +13,28 @@
 #### Todo
 
 * :clipboard: Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
-* :clipboard: Add your details and your resume to the repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo.
+* :clipboard: Add your details and your resume to the repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
 * :clipboard: Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
+* :clipboard: Join `nusossprojects` slack channel when you receive the invitation.
 
 #### Monday
 
 * :loudspeaker: Lecture : CS3281 Module Intro
+  * Sit as teams. Team allocation:
+    * Team 1: Cara, Nicholas, Shradheya, Jun Kiat
+    * Team 2: Daniel, Joanne, Lewis, Lechuan
+    * Team 3: Yan Hwa, Bao, Haozhe, Jun an
+    * Team 4: Darren, Chun Rong, Rachael, Vivek
+    * Team 5: Alex, Li Hao, Dat, Wen Xin, Zhi Yuan
 
 #### Thursday
 
 * :loudspeaker: Lecture: CS3282 Module Intro
+  * Sit as project teams
+    * Table 1 : MarkBind
+    * Table 2 : PowerPointLabs
+    * Table 3 : SE-EDU
+    * Table 4-6 : TEAMMATES
 
 #### Saturday (Code Sprint)
 
