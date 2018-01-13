@@ -22,6 +22,10 @@
       "title": "CS3281 Expert Areas"
     },
     {
+      "src": "admin/mentors.md",
+      "title": "CS3281 Mentors"
+    },
+    {
       "src": "schedule/index.md",
       "title": "CS3281 and CS3281 Schedule"
     }
