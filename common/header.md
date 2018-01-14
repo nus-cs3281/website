@@ -7,6 +7,6 @@
   <dropdown text="Links">
     <li><a href="{{baseUrl}}/admin/callForApplications.html">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html">Mentors</a></li> 
-    <!-- <li><a href="" target="_blank">Previous semesters</a></li> -->
+    <li><a href="https://github.com/nus-cs3281/2018/blob/master/students/studentlist.md" target="_blank">Students</a></li>
   </dropdown>    
 </navbar>
