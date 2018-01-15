@@ -19,16 +19,17 @@
 
 ## SE-EDU
 
-* Paul Tan
 * Eugene Tan
+* Paul Tan
+* Tan Wang Leng
 
 ## TEAMMATES
 
 * John Yong
-* Wilson Kurniawan (Industry)<sup>1</sup>
 * Chow Yuan Bin
 * Lee Yi Min
 * Thenaesh Elango
+* Wilson Kurniawan (Industry)<sup>1</sup>
 
 ---
 
