@@ -25,11 +25,12 @@
 
 ## TEAMMATES
 
-* John Yong
 * Chow Yuan Bin
+* John Yong
 * Lee Yi Min
 * Thenaesh Elango
 * Wilson Kurniawan (Industry)<sup>1</sup>
+* Xiao Pu
 
 ---
 
