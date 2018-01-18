@@ -31,10 +31,10 @@
 
 * :loudspeaker: Lecture: CS3282 Module Intro
   * Sit as project teams
-    * Table 1 : MarkBind
-    * Table 2 : PowerPointLabs
-    * Table 3 : SE-EDU
-    * Table 4-6 : TEAMMATES
+    * Table 6 : MarkBind
+    * Table 1 : PowerPointLabs
+    * Table 2 : SE-EDU
+    * Table 3-5 : TEAMMATES
 
 #### Saturday (Code Sprint)
 
