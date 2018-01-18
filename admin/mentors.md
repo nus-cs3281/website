@@ -19,8 +19,8 @@
 
 ## SE-EDU
 
-* Eugene Tan
-* Paul Tan
+* Eugene Peh
+* Paul Tan (Industry)<sup>1</sup>
 * Tan Wang Leng
 
 ## TEAMMATES
