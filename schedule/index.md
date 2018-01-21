@@ -21,7 +21,7 @@
 
 * :loudspeaker: Lecture : CS3281 Module Intro
   * Sit as teams. Team allocation:
-    * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat Wen Xin,
+    * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat, Wen Xin
     * Team 2: Daniel, Joanne, Lewis, Lechuan
     * Team 3: Yan Hwa, Bao, Haozhe, Jun an
     * Team 4: Darren, Chun Rong, Rachael, Vivek
