@@ -21,11 +21,11 @@
 
 * :loudspeaker: Lecture : CS3281 Module Intro
   * Sit as teams. Team allocation:
-    * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat
+    * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat Wen Xin,
     * Team 2: Daniel, Joanne, Lewis, Lechuan
     * Team 3: Yan Hwa, Bao, Haozhe, Jun an
     * Team 4: Darren, Chun Rong, Rachael, Vivek
-    * Team 5: Alex, Cara, Dat, Wen Xin, Zhi Yuan
+    * Team 5: Alex, Cara, Dat, Zhi Yuan
 
 #### Thursday
 
@@ -40,6 +40,7 @@
 
 * :mag: The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
 
+* Venue: SR10 ==(not the usual place)==
 * Schedule:
   * 0930 - 1200 : Project work
   * 1200 - 1300 : Lunch break (lunch not provided)
@@ -57,16 +58,26 @@
 
 #### Monday
 
-* :loudspeaker: Lecture: Briefing on giving tech talks
-* :alarm_clock: Post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
-  * Issue subject: the title of your talk
-  * Issue body: 2-3 sentence preview of the talk 
+* :loudspeaker: Lecture: Tips for tech talks - Part 1
+* Choosing topics for Lightning Talks:
+  * :alarm_clock: By the end of teh session, post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+    * Issue subject: the title of your talk
+    * Issue body: 2-3 sentence preview of the talk
+  * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
+  * It is in your interest to choose a topic related to one of your expert areas. It is not a strict requirement though.
+* The order of talks %%&nbsp;(i.e., who presents in which week)%% will be announced by Monday night.
+* Read the schedule for [next Monday](#week3-monday) to find more info about the upcoming lightning talks.
 
 #### Thursday
 
 * :loudspeaker: Lecture: Project-specific discussions
 
+* If you are presenting next Monday,
+  * You can rehearse your talk with a peer and get his/her feedback, but do this _after_ the session.
+  * If you plan to use your own laptop for the presentation, you can test your connection to the projector during the session.
+
 <!-- ----------------------------------------------------------------------------------- -->
+<div id="week3-monday"/>
 
 ## Week 3 [Jan 29]
 
@@ -76,7 +87,7 @@
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
-  1. Remember to start the talk with a _PUNCH_, _WIIFY_, and the _Promise_.<br> 
+  1. Try to follow the tips discussed previous Monday: In particular, remember to start the talk with a _PUNCH_, _WIIFY_, and the _Promise_.<br> 
      The WIIFY can work better if it relates to the audience at a concrete level. 
      For example, explaining ‘how Foo technology can benefit you right now’ is better than making a general claim that ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
      WIIFY can be revisited at the end of the talk too.
@@ -85,8 +96,8 @@
   1. Also show how the topic fits into the big picture. For example, let’s say your topic is a tool called X. 
      _The ‘big picture’ view can be something like this: 
      >There are two categories of tools for doing Bar which is an essential part in building apps. Category 1 tools work inside-out and Category 2 tools work outside-in. Tool X is the currently a hot tool in category 2 because it is faster and more secure than other popular tools in that category, namely Y and Z.
-  1. Please limit the length to 7 minutes. The remaining 3 minutes is for Q&A.
-  1. Test your laptop connection to the projector in advance.
+  1. Please limit the length to **7 minutes**. The remaining 3 minutes is for Q&A.
+  1. Test your laptop connection to the projector in advance. 
   
 </panel>
 <panel header="During the session" expanded no-close> 
@@ -217,9 +228,7 @@
 
 #### Monday
 
-* :loudspeaker: Lecture: 
-  * Lightning Talks Round B - Part 3
-  * Tips for Tech Talks - Part 3
+* :loudspeaker: Lecture: Lightning Talks Round B - Part 3
 
 #### Thursday
 
