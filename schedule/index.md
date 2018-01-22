@@ -60,7 +60,7 @@
 
 * :loudspeaker: Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
-  * :alarm_clock: By the end of teh session, post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
@@ -87,10 +87,12 @@
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
-  1. Try to follow the tips discussed previous Monday: In particular, remember to start the talk with a _PUNCH_, _WIIFY_, and the _Promise_.<br> 
+  1. Try to follow the tips discussed previous Monday: 
+     1. In particular, remember to start the talk with a _PUNCH_, _WIIFY_, and the _Promise_.<br> 
      The WIIFY can work better if it relates to the audience at a concrete level. 
      For example, explaining ‘how Foo technology can benefit you right now’ is better than making a general claim that ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
-     WIIFY can be revisited at the end of the talk too.
+       WIIFY can be revisited at the end of the talk too.
+     1. Be clear about your key points. Remember, we look for points, top topics.
   1. One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br>
      Peers reviewing a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can spot those holes.
   1. Also show how the topic fits into the big picture. For example, let’s say your topic is a tool called X. 
@@ -109,9 +111,9 @@
 <panel header="After the session" expanded no-close>
   
   * :alarm_clock: by Monday midnight:
-    * Speakers should update the issue description of the talk by adding slides.
-    * Edit the issue description (rather than add as a new comment) to update the synopsis (if needed) and add the slides.
-      Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.
+    * Speakers should update the issue description (rather than add as a new comment) as follows:
+      * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
+      * State WIIFY, Key Points, Call to Action
   * :alarm_clock: by Tuesday midnight:
     * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
      
