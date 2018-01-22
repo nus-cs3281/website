@@ -84,6 +84,10 @@
 #### Monday
 
 * :loudspeaker: Lecture: Lightning Talks Round A - Part 1
+  * Speaker order: chosen based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week.  
+    * Week 3: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat
+    * Week 4: Darren, Yan Hwa, Rachael, Shradheya, Jun An, Lechuan, Zhi Yuan
+    * Week 5: Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
