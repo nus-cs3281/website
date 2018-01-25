@@ -25,9 +25,8 @@
 
 ## TEAMMATES
 
-* Chow Yuan Bin
+* Chow Yuan Bin (Industry)<sup>1</sup>
 * John Yong
-* Lee Yi Min
 * Thenaesh Elango
 * Wilson Kurniawan (Industry)<sup>1</sup>
 * Xiao Pu
