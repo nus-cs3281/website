@@ -91,19 +91,18 @@
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
-  1. Try to follow the tips discussed previous Monday: 
-     1. In particular, remember to **start the talk with a _PUNCH_, _WIIFY_, and the _Promise/Roadmap_**.<br> 
+  1. Start your preparation of the talk by **defining the _intended impact_ of the talk.** Then, choose some key points that help you achieve that impact. Be clear about your key points. Remember, **we look for points, top topics**.
+  1. **Start the talk with a _PUNCH_, _WIIFY_, and the _Promise/Roadmap_**.<br> 
      The **WIIFY can work better if it relates to this _specific_ audience at a _concrete_ level**. 
      For example, explaining ‘how Foo technology can benefit SoC students right now’ is better than making a general claim that ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
        WIIFY can be revisited at the end of the talk too.
-     1. Be clear about your key points. Remember, **we look for points, top topics**.
   1. One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br>
      Peers reviewing a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can spot those holes.
   1. Also show how the topic fits into the big picture. For example, let’s say your topic is a tool called X. 
      _The ‘big picture’ view can be something like this: 
      >There are two categories of tools for doing Bar which is an essential part in building apps. Category 1 tools work inside-out and Category 2 tools work outside-in. Tool X is the currently a hot tool in category 2 because it is faster and more secure than other popular tools in that category, namely Y and Z.
   1. Please limit the length to **7 minutes**. The remaining 3 minutes is for Q&A.
-  1. Test your laptop connection to the projector in advance. 
+  1. **Test your laptop connection to the projector in advance**. 
   
 </panel>
 <panel header="During the session" expanded no-close> 
