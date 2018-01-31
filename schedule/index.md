@@ -92,11 +92,11 @@
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
   1. Try to follow the tips discussed previous Monday: 
-     1. In particular, remember to start the talk with a _PUNCH_, _WIIFY_, and the _Promise_.<br> 
-     The WIIFY can work better if it relates to the audience at a concrete level. 
-     For example, explaining ‘how Foo technology can benefit you right now’ is better than making a general claim that ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
+     1. In particular, remember to **start the talk with a _PUNCH_, _WIIFY_, and the _Promise/Roadmap_**.<br> 
+     The **WIIFY can work better if it relates to this _specific_ audience at a _concrete_ level**. 
+     For example, explaining ‘how Foo technology can benefit SoC students right now’ is better than making a general claim that ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
        WIIFY can be revisited at the end of the talk too.
-     1. Be clear about your key points. Remember, we look for points, top topics.
+     1. Be clear about your key points. Remember, **we look for points, top topics**.
   1. One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br>
      Peers reviewing a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can spot those holes.
   1. Also show how the topic fits into the big picture. For example, let’s say your topic is a tool called X. 
@@ -117,7 +117,7 @@
   * :alarm_clock: by Monday midnight:
     * Speakers should update the issue description (rather than add as a new comment) as follows:
       * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
-      * State WIIFY, Key Points, Call to Action
+      * State **WIIFY, Key Points, Impact**
   * :alarm_clock: by Tuesday midnight:
     * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
      
