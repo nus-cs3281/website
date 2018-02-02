@@ -15,6 +15,7 @@
 
 * Heng Le
 * Ian Teo
+* Syed Abdullah (Industry)<sup>1</sup>
 * Xie Kai (Industry)<sup>1</sup>
 
 ## SE-EDU
