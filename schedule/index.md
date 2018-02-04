@@ -136,22 +136,10 @@
 
 * :clipboard: If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
 * :clipboard: Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) (aka 'book chapter' deliverable).
-  * While you have write access to the repo, use your own fork to submit PRs.
-  * You can create PRs without corresponding issues.
-  * Please get the PRs reviewed and approved by a peer before requesting prof's review.
-  * Aim to get some content merged before mid-semester break.
-  * If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication of work.
-  * Some things to keep in mind when writing the 'book chapter':
-    * Despite using the name ‘book chapter’ for this deliverable (for the lack of a better term), 
-      it is not a normal book. It’s more of an online repository of learning resources. 
-      Therefore, don’t try to follow the structure of normal text books. 
-    * Related to the above, there’s no need to use a very formal tone that you see in some text books. 
-      Instead, prefer an informal tone you would use in a blog post or an stackoverflow question.
-    * The book is aimed at typical SE students, but not necessarily SE students in our school. 
-    * Don’t assume the reader has any prior knowledge of the topic. Just because it is covered in a core module in our school does not mean it will be known to every reader.
-    * Try to include content that is highly useful and relevant to the reader. The objective is to help the reader, not to demonstrate your expertise. The latter is only a by-product of the former.
-    * Do not re-invent the wheel by writing a lot of original content. 
-      Instead, give a brief high-level view and point to other existing resources that you recommend the reader to use. The value you add is in the form of assembling **a curated list of the best resources into a meaningful sequence, possibly with commentary**, NOT creating new content. 
+
+<panel header="%%CS3281 » Deliverables →%%" expanded no-close>
+  <include src="../admin/cs3281.md#deliverable-book-chapter" />
+</panel>
         
 
 #### Monday
