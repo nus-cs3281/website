@@ -150,6 +150,10 @@
 
 * :loudspeaker: Lecture: Project-specific discussions
 
+#### Sunday
+
+* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/2018/blob/master/students/progress.md) page. 
+
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 5 [Feb 12]
@@ -201,7 +205,7 @@
 #### Todo
 
 * :alarm_clock: by Friday
-  * Some progress expected on book chapter (counts for 5%)
+  * Some progress expected on book chapter
 
 <!-- ----------------------------------------------------------------------------------- -->
 

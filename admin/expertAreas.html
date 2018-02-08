@@ -13,7 +13,8 @@
 <div id="app" class="container-fluid">
     <link rel="stylesheet" href="/website/css/main.css">
 <div>
-  <navbar placement="top" type="inverse"><a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - AY1718S2]</a>
+  <navbar placement="top" type="inverse">
+    <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - AY1718S2]</a>
     <li><a href="/website/schedule/index.html">Schedule</a></li>
     <li><a href="/website/admin/cs3281.html">CS3281</a></li>
     <li><a href="/website/admin/cs3282.html">CS3282</a></li>
@@ -41,19 +42,19 @@
     <tbody>
       <tr>
         <td>Java</td>
-        <td><code>SE</code><code>TM</code></td>
+        <td><code>SE</code> <code>TM</code></td>
       </tr>
       <tr>
         <td>HTML</td>
-        <td><code>MB</code><code>TM</code></td>
+        <td><code>MB</code> <code>TM</code></td>
       </tr>
       <tr>
         <td>CSS</td>
-        <td><code>MB</code><code>TM</code></td>
+        <td><code>MB</code> <code>TM</code></td>
       </tr>
       <tr>
         <td>JavaScript</td>
-        <td><code>MB</code><code>TM</code></td>
+        <td><code>MB</code> <code>TM</code></td>
       </tr>
       <tr>
         <td>C#</td>
@@ -67,11 +68,11 @@
   <ul>
     <li>Static analysis
       <ul>
-        <li>Checkstyle <code>TM</code><code>SE</code></li>
+        <li>Checkstyle <code>TM</code> <code>SE</code></li>
         <li>Codacy <code>SE</code></li>
         <li>ESLint <code>TM</code></li>
-        <li>FindBugs <code>TM</code><code>SE</code></li>
-        <li>PMD <code>TM</code><code>SE</code></li>
+        <li>FindBugs <code>TM</code> <code>SE</code></li>
+        <li>PMD <code>TM</code> <code>SE</code></li>
         <li>Stylelint <code>TM</code></li>
         <li>StyleCop <code>PL</code></li>
       </ul>
@@ -82,24 +83,24 @@
     <li>
       <p>Build</p>
       <ul>
-        <li>Gradle <code>TM</code><code>SE</code></li>
+        <li>Gradle <code>TM</code> <code>SE</code></li>
         <li>MSBuild <code>PL</code></li>
-        <li>npm <code>MB</code><code>TM</code></li>
+        <li>npm <code>MB</code> <code>TM</code></li>
       </ul>
     </li>
     <li>
       <p>CI</p>
       <ul>
-        <li>AppVeyor <code>SE</code><code>PL</code></li>
-        <li>Travis <code>TM</code><code>SE</code></li>
+        <li>AppVeyor <code>SE</code> <code>PL</code></li>
+        <li>Travis <code>TM</code> <code>SE</code></li>
       </ul>
     </li>
     <li>
       <p>Process</p>
       <ul>
-        <li>Workflow <code>MB</code><code>TM</code><code>SE</code><code>PL</code></li>
-        <li>Dev community management <code>TM</code><code>SE</code><code>PL</code></li>
-        <li>Release management <code>TM</code><code>SE</code><code>PL</code></li>
+        <li>Workflow <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code></li>
+        <li>Dev community management <code>TM</code> <code>SE</code> <code>PL</code></li>
+        <li>Release management <code>TM</code> <code>SE</code> <code>PL</code></li>
       </ul>
     </li>
   </ul>
@@ -113,7 +114,7 @@
       </ul>
     </li>
     <li>
-      <p>Installers <code>SE</code><code>PL</code></p>
+      <p>Installers <code>SE</code> <code>PL</code></p>
     </li>
     <li>
       <p>Portability <code>SE</code> (ensuring the apps can run an all major OS'es)</p>
@@ -122,11 +123,11 @@
   <h3 id="documentation">Documentation</h3>
   <p>Generating and maintaining user/developer docs require good writing skills as well and various tools.</p>
   <ul>
-    <li>UML <code>TM</code><code>SE</code><code>PL</code></li>
-    <li>Document generation <code>MB</code><code>TM</code><code>SE</code><code>PL</code>
+    <li>UML <code>TM</code> <code>SE</code> <code>PL</code></li>
+    <li>Document generation <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code>
       <ul>
-        <li>Jekyll <code>MB</code><code>PL</code></li>
-        <li>AsciiDoc <code>MB</code><code>SE</code></li>
+        <li>Jekyll <code>MB</code> <code>PL</code></li>
+        <li>AsciiDoc <code>MB</code> <code>SE</code></li>
         <li>Markdown <code>MB</code></li>
       </ul>
     </li>
@@ -135,8 +136,8 @@
   <p>This is especially important to <code>TM</code> because Web apps are vulnerable to all sorts of intermittent faults. For example, one problem it faces is called 'eventual consistency' where new data requires some time to propagate through all nodes
     of the distributed database during which time the app has to deal with data in an inconsistent state.</p>
   <ul>
-    <li>Logging <code>MB</code><code>TM</code><code>SE</code><code>PL</code></li>
-    <li>Error reporting <code>MB</code><code>TM</code><code>SE</code><code>PL</code></li>
+    <li>Logging <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code></li>
+    <li>Error reporting <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code></li>
     <li>Backup and restore <code>TM</code></li>
   </ul>
   <h3 id="performance-and-scalability">Performance and scalability</h3>
@@ -149,9 +150,9 @@
   </ul>
   <p>Sub areas:</p>
   <ul>
-    <li>Multi-threading <code>TM</code><code>SE</code></li>
-    <li>Profiling <code>MB</code><code>TM</code><code>SE</code><code>PL</code> : To find performance bottlenecks</li>
-    <li>Scalability testing <code>MB</code><code>TM</code><code>SE</code></li>
+    <li>Multi-threading <code>TM</code> <code>SE</code></li>
+    <li>Profiling <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code> : To find performance bottlenecks</li>
+    <li>Scalability testing <code>MB</code> <code>TM</code> <code>SE</code></li>
   </ul>
   <h3 id="security">Security</h3>
   <ul>
@@ -164,8 +165,8 @@
       <p>Code coverage</p>
       <ul>
         <li>Blanket.js <code>TM</code></li>
-        <li>Coveralls <code>TM</code><code>SE</code></li>
-        <li>EclEmma <code>TM</code><code>SE</code></li>
+        <li>Coveralls <code>TM</code> <code>SE</code></li>
+        <li>EclEmma <code>TM</code> <code>SE</code></li>
         <li>JaCoCo <code>TM</code></li>
         <li>MSTest code coverage <code>PL</code></li>
       </ul>
@@ -197,7 +198,7 @@
   </ul>
   <h3 id="uix">UIX</h3>
   <ul>
-    <li>Usability <code>MB</code><code>TM</code><code>SE</code><code>PL</code></li>
+    <li>Usability <code>MB</code> <code>TM</code> <code>SE</code> <code>PL</code></li>
     <li>Accessibility <code>TM</code> : Some students who access <code>TM</code> may have accessibility needs</li>
     <li>Responsiveness <code>TM</code> : The app can be accessed using a variety of devices</li>
   </ul>
