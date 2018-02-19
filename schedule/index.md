@@ -223,8 +223,7 @@ Try to follow these steps in this sequence:
 #### Todo
 
 * :alarm_clock: by Friday
-  * Peer evaluations
-  * Some progress expected on external project 
+  * Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
 
 ---
 
@@ -236,9 +235,19 @@ Try to follow these steps in this sequence:
 
 ## Week 7 [Mar 5]
 
+#### Todo
+
+* :alarm_clock: by Monday
+  * Peer evaluations
+  * Some progress expected on the external project
+  
 #### Monday
 
 * :loudspeaker: Lightning Talks Round B - Part 1
+
+  * The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).
+  * In your slide design and delivery, try to apply the tips covered in week 6 lecture.
+  * In addition, aim for a more emphatic application of tips given for round A (see the panel below for a reference)
 
 <panel header="%%For reference: Tips from round A%%" no-close>
 
