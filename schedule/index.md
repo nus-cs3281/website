@@ -244,8 +244,8 @@ Try to follow these steps in this sequence:
 #### Monday
 
 * Teams for 2nd half of the semester:
-  * Team 1: Wen Xin, Vivek, Lechuan, Haozhe
-  * Team 2: Rachael, Lewis, Alex, Li Hao, Darren
+  * Team 1: Wen Xin, Vivek, Alex, Lechuan, Haozhe
+  * Team 2: Rachael, Lewis, Li Hao, Darren
   * Team 3: Joanne, Zhi Yuan, Shradheya, Jun An
   * Team 4: Cara, Daniel, Quoc Bao, Jun Kiat
   * Team 5: Yan Hwa, Nicholas, Chun Rong, Dat
