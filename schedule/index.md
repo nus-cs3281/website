@@ -243,11 +243,44 @@ Try to follow these steps in this sequence:
   
 #### Monday
 
-* :loudspeaker: Lightning Talks Round B - Part 1
+* Teams for 2nd half of the semester:
+  * Team 1: Wen Xin, Vivek, Lechuan, Haozhe
+  * Team 2: Rachael, Lewis, Alex, Li Hao, Darren
+  * Team 3: Joanne, Zhi Yuan, Shradheya, Jun An
+  * Team 4: Cara, Daniel, Quoc Bao, Jun Kiat
+  * Team 5: Yan Hwa, Nicholas, Chun Rong, Dat
 
+* :loudspeaker: Lightning Talks Round B - Part 1
   * The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).
-  * In your slide design and delivery, try to apply the tips covered in week 6 lecture.
+  * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk.
   * In addition, aim for a more emphatic application of tips given for round A (see the panel below for a reference)
+
+<panel header="Tips for round B" expanded no-close>
+
+* **Make slides more visual**:
+  * Instead of bullet points, use other suitable visual structures %%e.g., a flow chart%%
+  * Instead of text, use graphical forms
+  * But avoid visual clutter such as background graphics that do not add value
+  
+  * :tv: Given below is a video containing some slide design tips:
+  
+    @[youtube](_bMzItCJWq0)
+
+* **Make the point clear**:
+  * Ask yourself "what is the point I want to make in this slide?" Once you have determined the point, ask yourself "can I improve the slide to make the point clearer?"
+  * Use _assertion-evidence_ type slides rather that _topic-content_ type where applicable.
+  * Ensure every technical term used is either known to the audience or you define it explicitly. If you are not sure if the audience know the definition, _slip in_ the definition casually to your explanations.
+  * Demo/describe your solution early to avoid setting expectations too high. %%If you spend a lot of time explaning the problem or criticising competing solutions, audience expectations of your own solution might climb too high.%%
+
+* **Animate meaningfully**: Use animations/transitions to enhance the meaning of your slide content.
+
+* **Use the Click-Look-Recall technique** instead of using cue cards: 
+  * Ensure that you know the sequence of your talking points in advance.
+  * Map each point to a click on your slide, which should add a visual cue onto the slide that reminds you of the point you are supposed to talk about.
+  * During delivery, look at the slide as you click, and use the visual cue to recall the point. 
+  
+
+</panel>
 
 <panel header="%%For reference: Tips from round A%%" no-close>
 
