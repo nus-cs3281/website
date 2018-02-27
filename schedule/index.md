@@ -325,7 +325,7 @@ Try to follow these steps in this sequence:
 
 ## Week 10 [Mar 26]
 
-##### Todo
+#### Todo
 
 * :clipboard: Document your observations about the workflow of your external OSS project:
   * Info to include:
@@ -364,8 +364,6 @@ Try to follow these steps in this sequence:
 #### Thursday
 
 * :loudspeaker: Lecture: Project-specific discussions
-
-*  (Rehearsal)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
