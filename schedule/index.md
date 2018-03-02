@@ -277,8 +277,7 @@ Try to follow these steps in this sequence:
 * **Use the Click-Look-Recall technique** instead of using cue cards: 
   * Ensure that you know the sequence of your talking points in advance.
   * Map each point to a click on your slide, which should add a visual cue onto the slide that reminds you of the point you are supposed to talk about.
-  * During delivery, look at the slide as you click, and use the visual cue to recall the point. 
-  
+  * During delivery, _look_ at the screen as you _click_, and use the visual cue to _recall_ the point. 
 
 </panel>
 
