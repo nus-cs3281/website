@@ -26,13 +26,16 @@
       "title": "CS3281 Mentors"
     },
     {
+      "src": "common/search.md",
+      "title": "Search this website"
+    },
+    {
       "src": "schedule/index.md",
       "title": "CS3281 and CS3281 Schedule"
     }
   ],
   "ignore": [
-    "_site/*",
-    "site.json"
+    "_site/*"
   ],
   "deploy": {
     "message": "Site Update."

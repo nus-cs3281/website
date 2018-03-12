@@ -9,5 +9,8 @@
     <li><a href="{{baseUrl}}/admin/mentors.html">Mentors</a></li> 
     <li><a href="https://github.com/nus-cs3281/2018/blob/master/students/studentlist.md" target="_blank">Students</a></li>
     <li><a href="https://docs.google.com/document/d/1I67ovHJp7ES96YupZyiuvVuVlqC5t5qimLduOH8MCF0/edit?usp=sharing" target="_blank">Project Ideas</a></li>
-  </dropdown>    
+  </dropdown> 
+<li>
+<a href="{{baseUrl}}/common/search.html">Search <span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
+</li>   
 </navbar>
