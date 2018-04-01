@@ -345,23 +345,31 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Discussion on external project workflow
+* :loudspeaker: Lecture : Feedback for LT round B
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* :loudspeaker: Lecture: Project-specific discussions, Discussion on external project workflow
 
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 11 [Apr 2]
 
+#### Todo
+
+* Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.
+
+* STePS preparations:
+  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale. 
+  * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
+
 #### Monday
 
-* :loudspeaker: Lecture : Discussion on external project workflow
+* :loudspeaker: Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* :loudspeaker: Lecture: Project-specific discussions, Discussion on external project workflow (remainder)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -370,70 +378,75 @@ Try to follow these steps in this sequence:
 #### Monday
 
 * :loudspeaker: Lecture : Lightning Talks Round C - Part 1
+  * Venue SR1
+  * No Q&A
+  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Rachael 
+  
 
-<panel type="danger" header="**Targets for LT Round C**" expanded>
+<panel type="danger" header="**Targets for LT Round C**" expanded no-close>
 
 In this round you are ==expected to hit almost all targets(:dart:)== given below. You are recommended to follow tips (:bulb:) given under each target closely.
 
 **Talk structure**
 
-* :dart: The talk is well-structured and aims for high impact.
-  * :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) as an extra/hidden slide in the slide deck (for verification/grading purposes)
-    1. Intended impact:
-       * Know
-       * Believe
-       * Do
-    1. WIIFY
-    1. Key points 
-    1. Call-to-action
-    1. Roadmap
-    1. PUNCH
+1. :dart: The talk is well-structured and aims for high impact.
+   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) as an extra/hidden slide in the slide deck (for verification/grading purposes)
+      * Intended impact:
+         * Know
+         * Believe
+         * Do
+      * WIIFY
+      * Key points 
+      * Call-to-action
+      * Roadmap
+      * PUNCH
 
 **Slide design**
 
-* :dart: No visual clutter
-  * :bulb: Remove any conspicuous background graphics
-  * :bulb: Avoid using <tooltip content="done without good reason; uncalled for">gratuitous</tooltip> images that don't really add value
-* :dart: Visual slides
-  * :bulb: Wherever you have bullet points (or paragraph text), look for another suitable structure such as a table, flow chart, map, graph, etc.
-  * :bulb: Use graphics instead of (or in addition to) text
-* :dart: Important elements of the talk are captured prominently in slides
-  * :bulb: Ensure there are slides corresponding to your WIIFY, Roadmap, and each key point
-* :dart: _<tooltip content="slides containing key points">Key slides</tooltip>_ stand out from the rest
-  * :bulb: use words `Key point` in the title so that they are hard to miss<br>
+1. :dart: No visual clutter
+   1. :bulb: Remove any conspicuous background graphics that do not add value
+   1. :bulb: Avoid using <tooltip content="done without good reason; uncalled for">gratuitous</tooltip> images that don't really add value
+1. :dart: Visual slides
+   1. :bulb: Wherever you have bullet points (or paragraph text), look for another suitable structure such as a table, flow chart, map, graph, etc.
+   1. :bulb: Use graphics instead of (or in addition to) text
+1. :dart: Important elements of the talk are captured prominently in slides
+   1. :bulb: Ensure WIIFY, Roadmap, start/end of sections of the Roadmap, and each keypoint are captured as separate slides or as noticeable visual elements
+   1. :bulb: Use words `Key point` in text so that they are hard to miss<br>
     %%e.g., `KEY POINT: Java is verbose!`%%
-  * :bulb: use a different slide design for key slides<br>
+   1. :bulb: use a different (and more prominent) design for important slides and key elements<br>
     %%e.g., use a brighter background, bigger font size%%  
-* :dart: Last slide is used to good effect
-  * :bulb: at least it should contain key points and the call-to-action
-* :dart: Slides optimized to convey the point, and help your delivery
-  * :bulb: Write down in slide notes the point(s) a slide is supposed to convey. Each slide should have at least a main point, and possibly some sub points. e.g.,
-    ```
-    Java is still the most popular language today.
-    * Java positions lead job vacancies.
-    * Highest percentage of devices support JVM.
-    * All fortune 500 companies use Java for their enterprise systems.
-    ```
-  * :bulb: If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
+1. :dart: Last slide is used to good effect
+   1. :bulb: at least it should contain key points and the call-to-action
+   1. :bulb: as the last slide should contain the essence of the talk, it is ok to be 'crowded'
+   1. :bulb: you may want to include your contact details in the last slide too
+1. :dart: Slides optimized to convey the point, and help your delivery
+   1. :bulb: Write down in slide notes the point(s) a slide is supposed to convey. Each slide should have at least a main point, and possibly some sub points. e.g.,
+      ```
+      Java is still the most popular language today.
+      * Java positions lead job vacancies.
+      * Highest percentage of devices support JVM.
+      * All fortune 500 companies use Java for their enterprise systems.
+      ```
+   1. :bulb: If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
     %%e.g., the slide title can be `Java is still the most popular language today.` (i.e., the main point) instead of `Java popularity` (i.e., a phrase/topic)%% 
-  * :bulb: For each sub point, ensure there is a corresponding click.<br> 
+   1. :bulb: For each sub point, ensure there is a corresponding click.<br> 
     %%e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.%% 
-* :dart: Minimum use of jargon
-  * :bulb: Format jargon in a different way e.g., use a different font so that you remember to define them. Alternatively, put the definition on the slide.
-* :dart: Meaningful animations
-  * :bulb: Use meaningful slide transitions e.g., use a more drastic transition when moving from one major section to another.
-  * :bulb: When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery. 
+1. :dart: Minimum use of jargon
+   1. :bulb: Format jargon in a different way e.g., use a different font so that you remember to define them. Alternatively, put the definition on the slide.
+1. :dart: Meaningful animations
+   1. :bulb: Use meaningful slide transitions e.g., use a more drastic transition when moving from one major section to another.
+   1. :bulb: When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery. 
 
 **Delivery**
 
-* :dart: Start with a PUNCH (instead of traditional self-intro)
-  * :bulb: Open with a brief greeting, and jump starlight into your PUNCH
-* :dart: WIIFY and Roadmap clearly communicated. 
-  * :bulb: Use clear 'marker' phrases to draw attention to these important elements of the talk. e.g., `"I think this is a very important topic to you because ..."` `"In the next few minutes, I'm going to talk about (a)... (b)... and (c)"`
-* :dart: Each key point is clearly made 
-  * :bulb: When the key slide comes up, use the marker phrase `"So, the _key point_ here is ..."` to draw attention to it.
-* :dart: Finish by reiterating key points, and call-to-action.
-  * :bulb: Follow the call-to-action with a clear `"Thank you!"` and if applicable, `"I'm ready for your questions"` to indicate the end of your talk.
+1. :dart: Start with a PUNCH (instead of traditional self-intro)
+   1. :bulb: Open with a brief greeting, and jump starlight into your PUNCH
+1. :dart: WIIFY and Roadmap clearly communicated. 
+   1. :bulb: Use clear 'marker' phrases to draw attention to these important elements of the talk. e.g., `"I think this is a very important topic to you because ..."` `"In the next few minutes, I'm going to talk about (a)... (b)... and (c)"`
+1. :dart: Each key point is clearly made 
+   1. :bulb: When the key slide comes up, use the marker phrase `"So, the key point here is ..."` to draw attention to it.
+1. :dart: Finish by reiterating key points, and call-to-action.
+   1. :bulb: Follow the call-to-action with a clear `"Thank you!"` and if applicable, `"I'm ready for your questions"` to indicate the end of your talk.
 
 </panel>
 
@@ -449,10 +462,11 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 #### Monday
 
 * :loudspeaker: Lecture: Lightning Talks Round C - Part 2
+  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
 
 #### Wednesday
 
-STePS
+* STePS
 
 #### Thursday
 
@@ -462,7 +476,7 @@ STePS
 
 ## Reading Week [Apr 23]
 
-* Exit interviews
+* Exit interviews (Schedule TBD)
 
 
 </div>
