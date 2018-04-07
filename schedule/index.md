@@ -380,7 +380,11 @@ Try to follow these steps in this sequence:
 * :loudspeaker: Lecture : Lightning Talks Round C - Part 1
   * Venue SR1
   * No Q&A
-  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Rachael 
+  * If possible, ==use LT PC instead of your laptop==. Copy your slides into the PC in advance.
+  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Wen Xin
+  * After the talk (by midnight the same day), create an issue in [the issue tracker](https://github.com/nus-cs3281/2018/issues) with the following info 
+    * Talk title (as issue title)
+    * Slides
   
 
 <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
@@ -390,7 +394,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 **Talk structure**
 
 1. :dart: The talk is well-structured and aims for high impact.
-   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) as an extra/hidden slide in the slide deck (for verification/grading purposes)
+   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) ==as an extra/hidden slide in the slide deck== (for verification/grading purposes)
       * Intended impact:
          * Know
          * Believe
@@ -462,7 +466,8 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 #### Monday
 
 * :loudspeaker: Lecture: Lightning Talks Round C - Part 2
-  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
+  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Rachael, Haozhe
+  * Refer to Week 12 for more info on what to do in LT Round C.
 
 #### Wednesday
 
@@ -474,7 +479,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Reading Week [Apr 23]
+## Early Exam Period
 
 * Exit interviews (Schedule TBD)
 
