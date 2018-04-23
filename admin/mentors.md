@@ -1,3 +1,7 @@
+<frontmatter>
+title: "CS3281 Mentors"
+</frontmatter>
+
 <link rel="stylesheet" href="{{baseUrl}}/css/main.css">
 
 <include src="../common/header.md" />

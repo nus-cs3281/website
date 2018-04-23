@@ -1,0 +1,46 @@
+{
+  "pages": [
+    {
+      "src": "README.md",
+      "title": ""
+    },
+    {
+      "src": "_markbind/variables.md",
+      "title": ""
+    },
+    {
+      "title": "CS3281&2 Call for Applications",
+      "keywords": "call, applications, structure, enrollment, assessment, FAQ",
+      "src": "admin/callForApplications.md"
+    },
+    {
+      "title": "CS3281 Info",
+      "keywords": "lectures, external project, expertise area, team structure, pre-module preparations",
+      "src": "admin/cs3281.md"
+    },
+    {
+      "title": "CS3282 Info",
+      "src": "admin/cs3282.md"
+    },
+    {
+      "title": "CS3281 Expert Areas",
+      "src": "admin/expertAreas.md"
+    },
+    {
+      "title": "CS3281 Mentors",
+      "src": "admin/mentors.md"
+    },
+    {
+      "src": "common/header.md",
+      "title": ""
+    },
+    {
+      "title": "CS3281&2AY1718S2",
+      "src": "index.md"
+    },
+    {
+      "title": "CS3281 and CS3281 Schedule",
+      "src": "schedule/index.md"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+2018-04-23T02:22:14.291Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T02:22:20.848Z - info: Pages built
+2018-04-23T02:22:21.283Z - info: Site data built
+2018-04-23T02:22:21.296Z - info: Generate Site durationMs=19934
+2018-04-23T02:22:22.118Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T02:22:22.118Z - info: Press CTRL+C to stop ...
+2018-04-23T02:25:29.501Z - info: Reload for file change: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:25:30.514Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:25:30.517Z - info: Rebuilding 8 pages
+2018-04-23T02:25:30.935Z - info: Pages rebuilt
+2018-04-23T02:25:30.951Z - info: Site data built
+2018-04-23T02:26:03.764Z - info: Reload for file change: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:26:04.776Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:26:04.779Z - info: Rebuilding 8 pages
+2018-04-23T02:26:05.214Z - info: Pages rebuilt
+2018-04-23T02:26:05.214Z - info: Site data built
+2018-04-23T02:26:20.308Z - info: Reload for file change: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:26:21.318Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:26:21.320Z - info: Rebuilding 8 pages
+2018-04-23T02:26:21.648Z - info: Pages rebuilt
+2018-04-23T02:26:21.663Z - info: Site data built
+2018-04-23T02:27:02.365Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T02:27:07.283Z - info: Pages built
+2018-04-23T02:27:07.342Z - info: Site data built
+2018-04-23T02:27:07.358Z - info: Generate Site durationMs=7065
+2018-04-23T02:27:07.692Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T02:27:07.692Z - info: Press CTRL+C to stop ...
+2018-04-23T02:27:31.568Z - info: Reload for file change: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:27:32.584Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:27:32.584Z - info: Rebuilding 8 pages
+2018-04-23T02:27:33.038Z - info: Pages rebuilt
+2018-04-23T02:27:33.054Z - info: Site data built
+2018-04-23T02:28:00.769Z - info: Reload for file change: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:28:01.784Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\common\header.md
+2018-04-23T02:28:01.784Z - info: Rebuilding 8 pages
+2018-04-23T02:28:02.100Z - info: Pages rebuilt
+2018-04-23T02:28:02.119Z - info: Site data built
+2018-04-23T02:35:08.432Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T02:35:12.373Z - info: Pages built
+2018-04-23T02:35:12.412Z - info: Site data built
+2018-04-23T02:35:12.415Z - info: Generate Site durationMs=6027
+2018-04-23T02:35:12.739Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T02:35:12.740Z - info: Press CTRL+C to stop ...
+2018-04-23T04:48:50.901Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T04:49:07.067Z - info: Pages built
+2018-04-23T04:49:07.366Z - info: Site data built
+2018-04-23T04:49:07.366Z - info: Generate Site durationMs=29228
+2018-04-23T04:49:07.836Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T04:49:07.836Z - info: Press CTRL+C to stop ...
+2018-04-23T04:51:52.918Z - info: Reload for file change: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-23T04:51:53.936Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-23T04:51:53.936Z - info: Rebuilding 3 pages
+2018-04-23T04:51:54.189Z - info: Pages rebuilt
+2018-04-23T04:51:54.189Z - info: Site data built
+2018-04-23T04:52:18.205Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T04:52:20.844Z - info: Pages built
+2018-04-23T04:52:20.895Z - info: Site data built
+2018-04-23T04:52:20.911Z - info: Generate Site durationMs=4723
+2018-04-23T04:52:21.246Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T04:52:21.246Z - info: Press CTRL+C to stop ...
+2018-04-23T05:10:41.578Z - info: Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.md
+2018-04-23T05:10:42.595Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.md
+2018-04-23T05:10:42.596Z - info: Rebuilding 1 pages
+2018-04-23T05:10:42.648Z - info: Pages rebuilt
+2018-04-23T05:10:42.664Z - info: Site data built
+2018-04-23T05:14:40.292Z - info: Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.md
+2018-04-23T05:14:41.294Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.md
+2018-04-23T05:14:41.294Z - info: Rebuilding 1 pages
+2018-04-23T05:14:41.344Z - info: Pages rebuilt
+2018-04-23T05:14:41.351Z - info: Site data built
+2018-04-23T05:16:00.709Z - info: Reload for file change: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-23T05:16:01.726Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-23T05:16:01.726Z - info: Rebuilding 3 pages
+2018-04-23T05:16:01.996Z - info: Pages rebuilt
+2018-04-23T05:16:01.996Z - info: Site data built
+2018-04-23T05:19:53.597Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs3281\website\_markbind\variables.md'
+2018-04-23T05:19:59.061Z - info: Pages built
+2018-04-23T05:19:59.132Z - info: Site data built
+2018-04-23T05:19:59.138Z - info: Generate Site durationMs=7679
+2018-04-23T05:19:59.470Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T05:19:59.470Z - info: Press CTRL+C to stop ...

@@ -1,3 +1,8 @@
+<frontmatter>
+title: "CS3281&2 Call for Applications"
+keywords: call, applications, structure, enrollment, assessment, FAQ
+</frontmatter>
+
 <link rel="stylesheet" href="{{baseUrl}}/css/main.css">
 
 <include src="../common/header.md" />

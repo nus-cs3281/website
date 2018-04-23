@@ -10,7 +10,9 @@
     <li><a href="https://github.com/nus-cs3281/2018/blob/master/students/studentlist.md" target="_blank">Students</a></li>
     <li><a href="https://docs.google.com/document/d/1I67ovHJp7ES96YupZyiuvVuVlqC5t5qimLduOH8MCF0/edit?usp=sharing" target="_blank">Project Ideas</a></li>
   </dropdown> 
-<li>
-<a href="{{baseUrl}}/common/search.html">Search <span class="glyphicon glyphicon-search" aria-hidden="true"></span></a>
-</li>   
+  <li slot="right">
+    <form class="navbar-form">
+        <typeahead :data="searchData" placeholder="Search" :template="titleTemplate" template-name="title" :on-hit="searchCallback"></typeahead>  
+    </form>
+  </li>  
 </navbar>
