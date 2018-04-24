@@ -79,3 +79,13 @@
 2018-04-23T05:19:59.138Z - info: Generate Site durationMs=7679
 2018-04-23T05:19:59.470Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
 2018-04-23T05:19:59.470Z - info: Press CTRL+C to stop ...
+2018-04-23T05:24:11.997Z - info: Pages built
+2018-04-23T05:24:12.039Z - info: Site data built
+2018-04-23T05:24:12.039Z - info: Build success!
+2018-04-23T05:24:12.040Z - info: Generate Site durationMs=4753
+2018-04-23T05:24:36.293Z - info: Deployed!
+2018-04-23T05:28:13.829Z - info: Pages built
+2018-04-23T05:28:13.866Z - info: Site data built
+2018-04-23T05:28:13.882Z - info: Generate Site durationMs=4790
+2018-04-23T05:28:14.199Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-23T05:28:14.199Z - info: Press CTRL+C to stop ...

@@ -32,7 +32,7 @@ title: "CS3281 and CS3281 Schedule"
 #### Todo
 
 * :clipboard: Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
-* :clipboard: Add your details and your resume to the repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
+* :clipboard: Add your details and your resume to the repo [nus-cs3281/{{year}}](https://github.com/nus-cs3281/{{year}}) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
 * :clipboard: Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
 * :clipboard: Join `nusossprojects` slack channel when you receive the invitation.
 
@@ -79,7 +79,7 @@ title: "CS3281 and CS3281 Schedule"
 
 * :loudspeaker: Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
-  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/{{year}}](https://github.com/nus-cs3281/{{year}}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
@@ -191,7 +191,7 @@ Try to follow these steps in this sequence:
 
 #### Sunday
 
-* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/2018/blob/master/students/progress.md) page. 
+* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/{{year}}/blob/master/students/progress.md) page. 
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -341,7 +341,7 @@ Try to follow these steps in this sequence:
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
     1. [Optional] Suggested areas of improvement for the external project 
   * Submission:
-    * Add your observations to the file `nus-cs3281/2018/students/processObservations.md`. 
+    * Add your observations to the file `nus-cs3281/{{year}}/students/processObservations.md`. 
     * Recommended length: about 0.5 - 1 A4 page
     * Deadline: Before week 10 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
@@ -386,7 +386,7 @@ Try to follow these steps in this sequence:
   * No Q&A
   * If possible, ==use LT PC instead of your laptop==. Copy your slides into the PC in advance.
   * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Wen Xin
-  * After the talk (by midnight the same day), create an issue in [the issue tracker](https://github.com/nus-cs3281/2018/issues) with the following info 
+  * After the talk (by midnight the same day), create an issue in [the issue tracker](https://github.com/nus-cs3281/{{year}}/issues) with the following info 
     * Talk title (as issue title)
     * Slides
   
