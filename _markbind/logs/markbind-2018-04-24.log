@@ -14,3 +14,18 @@
 2018-04-24T08:56:19.770Z - info: Rebuilding 8 pages
 2018-04-24T08:56:20.192Z - info: Pages rebuilt
 2018-04-24T08:56:20.208Z - info: Site data built
+2018-04-24T08:58:57.722Z - info: Pages built
+2018-04-24T08:58:57.761Z - info: Site data built
+2018-04-24T08:58:57.761Z - info: Build success!
+2018-04-24T08:58:57.762Z - info: Generate Site durationMs=5021
+2018-04-24T08:59:58.478Z - info: Deployed!
+2018-04-24T09:04:56.102Z - info: Pages built
+2018-04-24T09:04:56.142Z - info: Site data built
+2018-04-24T09:04:56.151Z - info: Generate Site durationMs=5080
+2018-04-24T09:04:56.478Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-04-24T09:04:56.478Z - info: Press CTRL+C to stop ...
+2018-04-24T09:06:31.939Z - info: Reload for file change: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-24T09:06:32.955Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3281.md
+2018-04-24T09:06:32.955Z - info: Rebuilding 3 pages
+2018-04-24T09:06:33.325Z - info: Pages rebuilt
+2018-04-24T09:06:33.325Z - info: Site data built
