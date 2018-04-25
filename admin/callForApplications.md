@@ -1,6 +1,6 @@
 <frontmatter>
 title: "CS3281&2 Call for Applications"
-keywords: call, applications, structure, enrollment, assessment, FAQ
+keywords: Structure, Workload, Enrollment, Assessment, FAQ
 </frontmatter>
 
 <link rel="stylesheet" href="{{baseUrl}}/css/main.css">

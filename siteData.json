@@ -10,7 +10,7 @@
     },
     {
       "title": "CS3281&2 Call for Applications",
-      "keywords": "call, applications, structure, enrollment, assessment, FAQ",
+      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
       "src": "admin/callForApplications.md"
     },
     {
@@ -20,10 +20,12 @@
     },
     {
       "title": "CS3282 Info",
+      "keywords": "Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations",
       "src": "admin/cs3282.md"
     },
     {
       "title": "CS3281 Expert Areas",
+      "keywords": "Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web",
       "src": "admin/expertAreas.md"
     },
     {

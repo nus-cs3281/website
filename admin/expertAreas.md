@@ -1,5 +1,6 @@
 <frontmatter>
 title: "CS3281 Expert Areas"
+keywords: Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web
 </frontmatter>
 
 <link rel="stylesheet" href="{{baseUrl}}/css/main.css">
@@ -85,7 +86,7 @@ This is especially important to `TM` because Web apps are vulnerable to all sort
 * Error reporting `MB` `TM` `SE` `PL`
 * Backup and restore `TM`
 
-### Performance and scalability
+### Performance and Scalability
 
 This affects all projects:
 
