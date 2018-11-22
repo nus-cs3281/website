@@ -1,11 +1,10 @@
 <frontmatter>
-title: CS3281 Info
-keywords: lectures, external project, expertise area, team structure, pre-module preparations
+title: "CS3281 Module Info"
+footer: footer.mbdf
+head: head.mbdf
 </frontmatter>
 
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
-
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
@@ -14,6 +13,7 @@ keywords: lectures, external project, expertise area, team structure, pre-module
 CS3281 has two main parts: [External Project](#external-project), [Expertise Areas](#expertise-areas)
 
 * [Lectures](#lectures)
+* [SE-EDU Contribution](#se-edu-contribution)
 * [External Project](#external-project)
 * [Expertise Areas](#expertise-areas)
 * [Team Structure](#team-structure)
@@ -22,6 +22,15 @@ CS3281 has two main parts: [External Project](#external-project), [Expertise Are
 ## Lectures 
 
 MON 1200-1400 in COM1-B103  
+
+## SE-EDU Contribution
+
+Submit 1-2 PRs to one of the [AB1-4 repos](https://se-edu.github.io/) and follow the SE-EDU PR process to get them merged.
+
+### Grading
+
+* Counts for 10% of the module
+* Based on PRs completed
 
 ## External Project
 
@@ -50,8 +59,8 @@ The work under this part,
 
 ### Grading
  
-* Counts for 30% of the module
-* Based on PRs completed [20%]  and the report [10%]
+* Counts for 20% of the module
+* Based on PRs completed [15%]  and the report [5%]
 
 
 ## Expertise Areas
@@ -129,7 +138,7 @@ One important way you can establish credibility as an 'Expert' is by educating o
   * There are three rounds of lightning talks: Round A, B, and C. However, Round B is a rehearsal for Round C i.e., only two talks, but the second one is given twice.
 * Each talk will be about 7 minutes + 3 minutes for Q&A. There will be 7-8 talks per week.
 * You are recommended to rehearse the talk with one or more of your team members and improve based on their feedback before delivering it to the class.
-* After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3281/{{year}} repo for future reference and further discussion.
+* After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3281/{{ year }} repo for future reference and further discussion.
 
 <a name="expertise-grading"/>
 
@@ -150,9 +159,12 @@ One important way you can establish credibility as an 'Expert' is by educating o
     * Participation in class discussions
 * **Exit interview [10%]** -- This is a technical interview based on your resume
   * Mostly based on the _skills/expertise_ section of your resume given [here](https://github.com/nus-cs3281/{{year}}/blob/master/students/studentlist.md). Ensure that the resume is up-to-date.
+
   * venue: prof's office COM2-02-57
   * dress code: none
   * other requirements: be sure to come on time
+
+
 
 ## Team structure
 

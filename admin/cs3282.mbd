@@ -1,11 +1,11 @@
 <frontmatter>
-title: "CS3282 Info"
+title: "CS3282 Module Info"
 keywords: Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations
+footer: footer.mbdf
+head: head.mbdf
 </frontmatter>
 
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
-
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
@@ -25,7 +25,16 @@ CS3282 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2:
 
 ## Lectures
 
-THU 1200-1400 in COM1-B103
+THU 1400-1600 in COM1-B103
+
+## Projects
+
+Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semester.
+
+* MarkBind
+* RepoSense
+* PowerPointLabs
+* TEAMMATES
 
 ## Stage 1: Learning 
 

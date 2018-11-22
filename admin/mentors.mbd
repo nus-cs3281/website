@@ -1,10 +1,10 @@
 <frontmatter>
-title: "CS3281 Mentors"
+title: "Mentors"
+footer: footer.mbdf
+head: head.mbdf
 </frontmatter>
 
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
-
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 

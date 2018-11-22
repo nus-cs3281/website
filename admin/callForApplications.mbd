@@ -1,35 +1,36 @@
 <frontmatter>
 title: "CS3281&2 Call for Applications"
 keywords: Structure, Workload, Enrollment, Assessment, FAQ
+footer: footer.mbdf
+head: head.mbdf
 </frontmatter>
 
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
-
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
-# CS3281&2 Call for Application - AY2017/18, Semester II 
+# CS3281&2 Call for Application - AY20{{ AY }}, Semester II
  
-CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Large Projects_**) aim to build up your ability to work with large, complex systems that you will likely encounter in future as a Software Engineer, towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability.  
+CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Large Projects_**) aim to build up your ability to work with large, complex systems that you will likely encounter in future as a Software Engineer, towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of senior project members some of whom are currently working in the industry.
 
 Both modules involve **working within the context of large OSS projects** that are being developed and used in industry; students will not be building a new product from scratch.
 
-These two modules are to be taken concurrently and are offered in Semester 2 only. However, ==a small number of CS3282 places (without needing to take CS3281) are available for those who have already completed or will be completing their third year project module requirement using other project modules (e.g. CS3201&2, CS3216+CS3217, similar).== 
+These two modules are to be taken concurrently and are offered in Semester 2 only.
 
 CS3281&2 provides an entry point to the [von Neumann Program](https://www.comp.nus.edu.sg/undergraduates/cs_vpn_prospective.html) %%&nbsp;(the only other entry point is CS3217.)%% If you perform well in this module, you will be invited to join the vNP.
 
-**Prerequisites** : CS2103 or CS2103T
+**Prerequisites** : CS2103/T or CS2113/T (with approval)
 
 ## Structure 
 
 %%The two modules will run concurrently, but as two separate modules.%% 
 
 * **[CS3281]({{baseUrl}}/admin/cs3281.html)** 
-  * **[30%]: Do a small contribution to a big OSS project**<br>
+  * **[30%]: Do a small contribution to AB1-4, and to a big OSS project**<br>
+    Do a small contribution to AB1-4. The objective is to learn good OSS practices in the context of a small but high rigor project.<br>
     Pick an established OSS project of your choice (recommended: pick from projects participating in the Google Summer of Code programme thus increasing your chances of getting into future GSoC programmes) and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run.
   * **[70%]: Build up an expertise area**<br>
-    Pick a few expertise areas (of your choice) that can enhance your SE career prospects %%-- a tool/technology e.g. Node.js, Cloud, an aspect e.g. Code quality, a language e.g. Kotlyn, Go -- and develop a demonstrable expertise in that area.%% 
+    Pick a few SE-related expertise areas (of your choice) that can enhance your SE career prospects %%-- a tool/technology e.g. Node.js, Cloud, an aspect e.g. Code quality, a language e.g. Kotlin, Go -- and develop a demonstrable expertise in that area.%%
 
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)**
   * **[100%]: Do a major contribution to a medium size OSS project** <br>
@@ -48,8 +49,8 @@ CS3282 projects at STePS (2017 April):<p>
 * As CS3281&2 will be run and graded as two separate modules each generating a 4MC workload, i.e. 10+10= **20 hours of workload per week** in total. 
 * Lectures are compulsory to attend.
   * CS3281 lecture -- MON 1200-1400 in COM1-B103
-  * CS3282 lecture -- THU 1200-1400 in COM1-B103
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3282) on the first Saturday of the semester (Jan 20th)==.
+  * CS3282 lecture -- THU 1400-1600 in COM1-B103
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3282) on the first Saturday of the semester (Jan 19th)==.
 * No tutorials. Ignore the tutorial timings given in IVLE/CORS.
 
 ## Assessment
@@ -70,9 +71,9 @@ Student selection is **not based on CORS bidding**. Instead, follow these instru
 3. Submit your application using the [survey named _Application to Enroll in CS3281&2_](https://ivle.nus.edu.sg/v1/survey/student/survey.aspx?surveyid=c268d088-157e-4f81-a2e8-1d032bd0d5bb)
 4. Upload your transcript to the [Files folder _Transcripts_](https://ivle.nus.edu.sg/v1/File/Student/default.aspx?CourseID=5b3555fe-e1bb-4584-ba63-510e74c6f70e&WorkbinID=24c75d0e-afab-4f14-99fd-39dffb0f37ae&FolderID=5d2d7901-2384-441b-b9a6-fce0520faefe). ==File name should be your name==.
 
-:alarm_clock: Interested students are to **complete the application process by Mon 11 December 2017**. Late applications will not be entertained.
+:alarm_clock: Interested students are to **complete the application process by Mon 10 December 2018**. Late applications will not be entertained.
 
-The outcome of all applications are expected to be **released via email around 18 December 2017**.
+The outcome of all applications are expected to be **released via email around 17 December 2018**.
 
 ## FAQ
 

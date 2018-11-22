@@ -1,14 +1,20 @@
 <frontmatter>
-title: "CS3281 and CS3281 Schedule"
+title: "CS3281&2 Thematic Systems Project I & II"
+footer: footer.mbdf
+head: head.mbdf
 </frontmatter>
 
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
-
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
-# CS3281&2 Schedule
+<box>
+
+==**Applications for AY1819 Semester 2 is now open! See the [Call for Applications]({{baseUrl}}/admin/callForApplications.html)**==
+
+</box>
+
+# ~~CS3281&2 Schedule~~ TBD
 
 * [Week 1 [Jan 15]](#week-1-jan-15)
 * [Week 2 [Jan 22]](#week-2-jan-22)
@@ -32,7 +38,7 @@ title: "CS3281 and CS3281 Schedule"
 #### Todo
 
 * :clipboard: Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
-* :clipboard: Add your details and your resume to the repo [nus-cs3281/{{year}}](https://github.com/nus-cs3281/{{year}}) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
+* :clipboard: Add your details and your resume to the repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
 * :clipboard: Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
 * :clipboard: Join `nusossprojects` slack channel when you receive the invitation.
 
@@ -79,7 +85,7 @@ title: "CS3281 and CS3281 Schedule"
 
 * :loudspeaker: Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
-  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/{{year}}](https://github.com/nus-cs3281/{{year}}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
@@ -177,7 +183,7 @@ Try to follow these steps in this sequence:
 * :clipboard: Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) (aka 'book chapter' deliverable).
 
 <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
-  <include src="../admin/cs3281.md#deliverable-book-chapter" />
+  <include src="../admin/cs3281.mbd#deliverable-book-chapter" />
 </panel>
         
 
@@ -191,7 +197,7 @@ Try to follow these steps in this sequence:
 
 #### Sunday
 
-* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/{{year}}/blob/master/students/progress.md) page. 
+* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/{{ year }}/blob/master/students/progress.md) page.
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -287,7 +293,7 @@ Try to follow these steps in this sequence:
 
 <panel header="%%For reference: Tips from round A%%" no-close>
 
-<include src="./index.md#tips-roundA" />
+<include src="./index.mbd#tips-roundA" />
 
 </panel>
 
@@ -341,7 +347,7 @@ Try to follow these steps in this sequence:
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
     1. [Optional] Suggested areas of improvement for the external project 
   * Submission:
-    * Add your observations to the file `nus-cs3281/{{year}}/students/processObservations.md`. 
+    * Add your observations to the file `nus-cs3281/{{ year }}/students/processObservations.md`.
     * Recommended length: about 0.5 - 1 A4 page
     * Deadline: Before week 10 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
@@ -384,11 +390,7 @@ Try to follow these steps in this sequence:
 * :loudspeaker: Lecture : Lightning Talks Round C - Part 1
   * Venue SR1
   * No Q&A
-  * If possible, ==use LT PC instead of your laptop==. Copy your slides into the PC in advance.
-  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Wen Xin
-  * After the talk (by midnight the same day), create an issue in [the issue tracker](https://github.com/nus-cs3281/{{year}}/issues) with the following info 
-    * Talk title (as issue title)
-    * Slides
+  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Rachael 
   
 
 <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
@@ -398,7 +400,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 **Talk structure**
 
 1. :dart: The talk is well-structured and aims for high impact.
-   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) ==as an extra/hidden slide in the slide deck== (for verification/grading purposes)
+   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) as an extra/hidden slide in the slide deck (for verification/grading purposes)
       * Intended impact:
          * Know
          * Believe
@@ -470,8 +472,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 #### Monday
 
 * :loudspeaker: Lecture: Lightning Talks Round C - Part 2
-  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Rachael, Haozhe
-  * Refer to Week 12 for more info on what to do in LT Round C.
+  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
 
 #### Wednesday
 
@@ -483,7 +484,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Early Exam Period
+## Reading Week [Apr 23]
 
 * Exit interviews (Schedule TBD)
 

@@ -1,15 +1,16 @@
 {
   "baseUrl": "/website",
   "pages": [
-    {
-      "glob": "**/*.md"
-    }
+    {"glob": "**/*.mbd"}
   ],
   "ignore": [
-    "_site/*"
+    "_site/*",
+    ".idea/*",
+    ".gitignore",
+    "README.md",
+    "schedule/admin/*",
+    "*.md",
+    ".git/*"
   ],
-  "deploy": {
-    "message": "Site Update."
-  },
-  "titlePrefix": ""
+  "headingIndexingLevel": 2
 }
