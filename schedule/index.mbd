@@ -1,8 +1,18 @@
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
+<frontmatter>
+title: "CS3281&2 Thematic Systems Project I & II"
+footer: footer.mbdf
+head: head.mbdf
+</frontmatter>
 
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
+
+<box>
+
+==**{{ icon_info }} The schedule below is from the previous year. The new schedule will be released soon.**==
+
+</box>
 
 # CS3281&2 Schedule
 
@@ -27,14 +37,14 @@
 
 #### Todo
 
-* :clipboard: Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
-* :clipboard: Add your details and your resume to the repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
-* :clipboard: Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
-* :clipboard: Join `nusossprojects` slack channel when you receive the invitation.
+* {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
+* {{ icon_todo }} Add your details and your resume to the repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
+* {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation.
 
 #### Monday
 
-* :loudspeaker: Lecture : CS3281 Module Intro
+* {{ icon_lecture }} Lecture : CS3281 Module Intro
   * Sit as teams. Team allocation:
     * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat, Wen Xin
     * Team 2: Daniel, Joanne, Lewis, Lechuan
@@ -44,7 +54,7 @@
 
 #### Thursday
 
-* :loudspeaker: Lecture: CS3282 Module Intro
+* {{ icon_lecture }} Lecture: CS3282 Module Intro
   * Sit as project teams
     * Table 6 : MarkBind
     * Table 1 : PowerPointLabs
@@ -69,13 +79,13 @@
 
 #### Todo
 
-* :clipboard: Start looking for an external project (aka _minor_ project) to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
+* {{ icon_todo }} Start looking for an external project (aka _minor_ project) to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
 
 #### Monday
 
-* :loudspeaker: Lecture: Tips for tech talks - Part 1
+* {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
-  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/2018](https://github.com/nus-cs3281/2018) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+  * :alarm_clock: By the end of Monday, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
@@ -85,7 +95,7 @@
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 * If you are presenting next Monday,
   * You can rehearse your talk with a peer and get his/her feedback, but do this _after_ the session.
@@ -98,7 +108,7 @@
 
 #### Monday
 
-* :loudspeaker: Lecture: Lightning Talks Round A - Part 1
+* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
   * Speaker order: chosen based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week.  
     * Week 3: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat
     * Week 4: Darren, Yan Hwa, Rachael, Shradheya, Jun An, Lechuan, Zhi Yuan
@@ -161,7 +171,7 @@ Try to follow these steps in this sequence:
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -169,25 +179,25 @@ Try to follow these steps in this sequence:
 
 #### Todo
 
-* :clipboard: If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
-* :clipboard: Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) (aka 'book chapter' deliverable).
+* {{ icon_todo }} If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
+* {{ icon_todo }} Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) (aka 'book chapter' deliverable).
 
 <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
-  <include src="../admin/cs3281.md#deliverable-book-chapter" />
+  <include src="../admin/cs3281.mbd#deliverable-book-chapter" />
 </panel>
         
 
 #### Monday
 
-* :loudspeaker: Lightning Talks Round A - Part 2
+* {{ icon_lecture }} Lightning Talks Round A - Part 2
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### Sunday
 
-* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/2018/blob/master/students/progress.md) page. 
+* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/{{ year }}/blob/master/students/progress.md) page.
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -202,11 +212,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Lightning Talks Round A - Part 3
+* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
 
 #### Thursday
 
-* :loudspeaker: No lecture (CNY eve) 
+* {{ icon_lecture }} No lecture (CNY eve)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -214,11 +224,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture: Tips for Tech Talks - Part 2
+* {{ icon_lecture }} Lecture: Tips for Tech Talks - Part 2
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### Todo
 
@@ -250,7 +260,7 @@ Try to follow these steps in this sequence:
   * Team 4: Cara, Daniel, Quoc Bao, Jun Kiat
   * Team 5: Yan Hwa, Nicholas, Chun Rong, Dat
 
-* :loudspeaker: Lightning Talks Round B - Part 1
+* {{ icon_lecture }} Lightning Talks Round B - Part 1
   * The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).
   * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk.
   * In addition, aim for a more emphatic application of tips given for round A (see the panel below for a reference)
@@ -283,13 +293,13 @@ Try to follow these steps in this sequence:
 
 <panel header="%%For reference: Tips from round A%%" no-close>
 
-<include src="./index.md#tips-roundA" />
+<include src="./index.mbd#tips-roundA" />
 
 </panel>
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### Todo
 
@@ -302,11 +312,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Lightning Talks Round B - Part 2
+* {{ icon_lecture }} Lecture : Lightning Talks Round B - Part 2
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### :alarm_clock: by Sunday
 
@@ -318,11 +328,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture: Lightning Talks Round B - Part 3
+* {{ icon_lecture }} Lecture: Lightning Talks Round B - Part 3
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 <!-- ------------------------------------------------------------------------------------ -->
 
@@ -330,14 +340,14 @@ Try to follow these steps in this sequence:
 
 #### Todo
 
-* :clipboard: Document your observations about the workflow of your external OSS project:
+* {{ icon_todo }} Document your observations about the workflow of your external OSS project:
   * Info to include:
     1. Links to any online documents about the workflow of external project
     1. Important things you learned from contributing to that project, if any
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
     1. [Optional] Suggested areas of improvement for the external project 
   * Submission:
-    * Add your observations to the file `nus-cs3281/2018/students/processObservations.md`. 
+    * Add your observations to the file `nus-cs3281/{{ year }}/students/processObservations.md`.
     * Recommended length: about 0.5 - 1 A4 page
     * Deadline: Before week 10 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
@@ -345,11 +355,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Feedback for LT round B
+* {{ icon_lecture }} Lecture : Feedback for LT round B
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions, Discussion on external project workflow
+* {{ icon_lecture }} Lecture: Project-specific discussions, Discussion on external project workflow
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -365,11 +375,11 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)
+* {{ icon_lecture }} Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions, Discussion on external project workflow (remainder)
+* {{ icon_lecture }} Lecture: Project-specific discussions, Discussion on external project workflow (remainder)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -377,7 +387,7 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* :loudspeaker: Lecture : Lightning Talks Round C - Part 1
+* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
   * Venue SR1
   * No Q&A
   * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Rachael 
@@ -453,7 +463,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 #### Thursday
 
-* :loudspeaker: Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: Project-specific discussions
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -461,7 +471,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 #### Monday
 
-* :loudspeaker: Lecture: Lightning Talks Round C - Part 2
+* {{ icon_lecture }} Lecture: Lightning Talks Round C - Part 2
   * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
 
 #### Wednesday
@@ -470,7 +480,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 #### Thursday
 
-* ~~:loudspeaker: Lecture:~~
+* ~~{{ icon_lecture }} Lecture:~~
 
 <!-- ----------------------------------------------------------------------------------- -->
 

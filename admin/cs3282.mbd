@@ -1,6 +1,11 @@
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
+<frontmatter>
+title: "CS3282 Module Info"
+keywords: Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations
+footer: footer.mbdf
+head: head.mbdf
+</frontmatter>
 
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
@@ -20,7 +25,17 @@ CS3282 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2:
 
 ## Lectures
 
-THU 1200-1400 in COM1-B103
+{{ cs3282_time }} in {{ cs3282_venue }}
+
+## Projects
+
+Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semester.
+
+* MarkBind
+* PowerPointLabs
+* RepoSense
+* SE-EDU
+* TEAMMATES
 
 ## Stage 1: Learning 
 
@@ -85,14 +100,14 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 
 ## Grading
 
-:exclamation: As a general principle, try to do good work and become better software engineers as you do module work, and good grades will follow. Given the small class size, it will be easy to detect attempts to 'game the system' or 'optimize for grades over learning' and such behavior will not earn you high grades. In other words, follow the spirit of the grading scheme (rather than the letter). 
+{{ icon_important_red }} As a general principle, try to do good work and become better software engineers as you do module work, and good grades will follow. Given the small class size, it will be easy to detect attempts to 'game the system' or 'optimize for grades over learning' and such behavior will not earn you high grades. In other words, follow the spirit of the grading scheme (rather than the letter).
 
 * **Consistency** [10%]: this component is an incentive for you to spread the work across the semester. To earn full marks, you should meet both these criteria.
   * Committed code (in your PRs) in at least 10 weeks
   * Merged PRs in at least 5 weeks. For this criteria, PR merges can be credited to future weeks but not past weeks. e.g. if you happen to merge two PRs in a week, one can be counted for that week and the other for a future week (but not for a past week).
   
 * **Achievements** [80%]:
-  * Measures the quality, depth, and quantity of your work. :exclamation: Your goal should be to become as highly valued to the project as possible, not to do as much work as possible. i.e., quality and depth is more important than quantity or speed. 
+  * Measures the quality, depth, and quantity of your work. {{ icon_important_red }} Your goal should be to become as highly valued to the project as possible, not to do as much work as possible. i.e., quality and depth is more important than quantity or speed.
   * At weeks 4 and 8 an indicative mark (out of 80) and feedback will be given to you so that you get some sense of how you are progressing in the module.
   
 * **Professional conduct and teamwork** [5+5=10%]: 

@@ -1,6 +1,11 @@
-<link rel="stylesheet" href="{{baseUrl}}/css/main.css">
+<frontmatter>
+title: "Expert Areas"
+keywords: Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web
+footer: footer.mbdf
+head: head.mbdf
+</frontmatter>
 
-<include src="../common/header.md" />
+<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
@@ -81,7 +86,7 @@ This is especially important to `TM` because Web apps are vulnerable to all sort
 * Error reporting `MB` `TM` `SE` `PL`
 * Backup and restore `TM`
 
-### Performance and scalability
+### Performance and Scalability
 
 This affects all projects:
 

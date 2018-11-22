@@ -1,0 +1,53 @@
+<frontmatter>
+title: "Mentors"
+footer: footer.mbdf
+head: head.mbdf
+</frontmatter>
+
+<include src="../common/header.mbdf" />
+
+<div class="website-content">
+
+# CS3282 Project Mentors
+
+**{{ icon_info }} The mentor list given below is for the 2018 offering. The 2019 mentor list is coming soon.**
+
+## MarkBind
+
+* Aaron Chong(Industry)<sup>1</sup>
+* Chng Zhi Xuan
+* Jiang Sheng (Industry)<sup>1</sup>
+* Tan Wang Leng(Industry)<sup>1</sup>
+
+## PowerPointLabs
+
+* Alex Fong Jie Wen
+* Jun Kiat Tan
+* Lee Yan Hwa
+* Syed Abdullah (Industry)<sup>1</sup>
+* Xie Kai (Industry)<sup>1</sup>
+
+## RepoSense
+
+* Jun An
+* Eugene Peh (Industry)<sup>1</sup>
+
+
+## SE-EDU
+
+* Eugene Peh(Industry)<sup>1</sup>
+* Paul Tan<sup>1</sup>
+* Tan Wang Leng(Industry)<sup>1</sup>
+
+## TEAMMATES
+
+* Heng Yeow
+* Wilson Kurniawan (Industry)<sup>1</sup>
+* Xiao Pu
+
+---
+
+%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.%%
+
+</div>
+
