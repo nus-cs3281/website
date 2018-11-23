@@ -98,6 +98,7 @@
         "reading-week-apr-23": "Reading Week [Apr 23]"
       },
       "title": "CS3281&2 Thematic Systems Project I & II",
+      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "index.mbd",
