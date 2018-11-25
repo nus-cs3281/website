@@ -1,2 +1,164 @@
 2018-11-23T14:17:11.633Z - info: Website generation started at 22:17:11
 2018-11-23T14:17:12.007Z - info: Building assets...
+2018-11-23T14:17:12.248Z - info: Assets built
+2018-11-23T14:17:12.249Z - info: Generating pages...
+2018-11-23T14:17:12.967Z - info: Pages built
+2018-11-23T14:17:13.058Z - info: Site data built
+2018-11-23T14:17:13.059Z - info: Website generation complete! Total build time: 1.626s
+2018-11-23T14:17:13.067Z - info: Generate Site durationMs=1634
+2018-11-23T14:17:13.087Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-11-23T14:17:13.087Z - info: Press CTRL+C to stop ...
+2018-11-23T14:18:57.359Z - info: [22:18:57] Reload for file change: C:\repos\nus-cs3281\website\index.mbd
+2018-11-23T14:18:58.363Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\index.mbd
+2018-11-23T14:18:58.366Z - info: Rebuilding 1 pages
+2018-11-23T14:18:58.471Z - info: Pages rebuilt
+2018-11-23T14:18:58.475Z - info: Site data built
+2018-11-23T14:20:41.169Z - info: [22:20:41] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:20:42.172Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:20:42.172Z - info: Rebuilding 2 pages
+2018-11-23T14:20:42.261Z - info: Pages rebuilt
+2018-11-23T14:20:42.265Z - info: Site data built
+2018-11-23T14:21:04.168Z - info: [22:21:04] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:21:05.174Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:21:05.176Z - info: Rebuilding 2 pages
+2018-11-23T14:21:05.300Z - info: Pages rebuilt
+2018-11-23T14:21:05.305Z - info: Site data built
+2018-11-23T14:22:59.498Z - info: [22:22:59] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-23T14:23:00.502Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-23T14:23:00.503Z - info: Rebuilding 1 pages
+2018-11-23T14:23:00.552Z - info: Pages rebuilt
+2018-11-23T14:23:00.559Z - info: Site data built
+2018-11-23T14:24:08.998Z - info: [22:24:08] Reload for file change: C:\repos\nus-cs3281\website\_markbind\variables.md
+2018-11-23T14:24:10.004Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\_markbind\variables.md
+2018-11-23T14:24:10.061Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2018-11-23T14:24:10.064Z - info: Rebuilding 7 pages
+2018-11-23T14:24:10.504Z - info: Pages rebuilt
+2018-11-23T14:24:10.511Z - info: Site data built
+2018-11-23T14:24:35.722Z - info: [22:24:35] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-23T14:24:36.723Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-23T14:24:36.725Z - info: Rebuilding 1 pages
+2018-11-23T14:24:36.799Z - info: Pages rebuilt
+2018-11-23T14:24:36.804Z - info: Site data built
+2018-11-23T14:26:10.960Z - info: [22:26:10] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:26:11.960Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:26:11.961Z - info: Rebuilding 2 pages
+2018-11-23T14:26:12.043Z - info: Pages rebuilt
+2018-11-23T14:26:12.048Z - info: Site data built
+2018-11-23T14:29:03.129Z - info: [22:29:03] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3281.mbd
+2018-11-23T14:29:04.131Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3281.mbd
+2018-11-23T14:29:04.133Z - info: Rebuilding 2 pages
+2018-11-23T14:29:04.352Z - info: Pages rebuilt
+2018-11-23T14:29:04.358Z - info: Site data built
+2018-11-23T14:33:32.808Z - info: [22:33:32] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:33:33.821Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:33:33.826Z - info: Rebuilding 2 pages
+2018-11-23T14:33:33.961Z - info: Pages rebuilt
+2018-11-23T14:33:33.963Z - info: Site data built
+2018-11-23T14:34:52.824Z - info: [22:34:52] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:34:53.827Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:34:53.830Z - info: Rebuilding 2 pages
+2018-11-23T14:34:53.960Z - info: Pages rebuilt
+2018-11-23T14:34:53.965Z - info: Site data built
+2018-11-23T14:36:23.822Z - info: [22:36:23] Reload for file change: C:\repos\nus-cs3281\website\css\main.css
+2018-11-23T14:36:24.831Z - info: Assets built
+2018-11-23T14:37:05.450Z - info: [22:37:05] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:37:06.454Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:37:06.454Z - info: Rebuilding 2 pages
+2018-11-23T14:37:06.575Z - info: Pages rebuilt
+2018-11-23T14:37:06.578Z - info: Site data built
+2018-11-23T14:40:51.086Z - info: [22:40:51] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:40:52.095Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:40:52.098Z - info: Rebuilding 2 pages
+2018-11-23T14:40:52.190Z - info: Pages rebuilt
+2018-11-23T14:40:52.206Z - info: Site data built
+2018-11-23T14:41:01.688Z - info: [22:41:01] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:41:02.703Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T14:41:02.705Z - info: Rebuilding 2 pages
+2018-11-23T14:41:02.880Z - info: Pages rebuilt
+2018-11-23T14:41:02.884Z - info: Site data built
+2018-11-23T14:57:46.126Z - info: [22:57:46] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:57:47.151Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:57:47.151Z - info: Rebuilding 1 pages
+2018-11-23T14:57:47.283Z - info: Pages rebuilt
+2018-11-23T14:57:47.287Z - info: Site data built
+2018-11-23T14:58:07.140Z - info: [22:58:07] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:08.149Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:08.149Z - info: Rebuilding 1 pages
+2018-11-23T14:58:08.306Z - info: Pages rebuilt
+2018-11-23T14:58:08.306Z - info: Site data built
+2018-11-23T14:58:39.366Z - info: [22:58:39] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:40.371Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:40.371Z - info: Rebuilding 1 pages
+2018-11-23T14:58:40.588Z - info: Pages rebuilt
+2018-11-23T14:58:40.588Z - info: Site data built
+2018-11-23T14:58:56.230Z - info: [22:58:56] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:57.247Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:58:57.247Z - info: Rebuilding 1 pages
+2018-11-23T14:58:57.507Z - info: Pages rebuilt
+2018-11-23T14:58:57.548Z - info: Site data built
+2018-11-23T14:59:03.912Z - info: [22:59:03] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:59:04.928Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:59:04.928Z - info: Rebuilding 1 pages
+2018-11-23T14:59:05.140Z - info: Pages rebuilt
+2018-11-23T14:59:05.140Z - info: Site data built
+2018-11-23T14:59:33.913Z - info: [22:59:33] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:59:34.929Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T14:59:34.929Z - info: Rebuilding 1 pages
+2018-11-23T14:59:35.050Z - info: Pages rebuilt
+2018-11-23T14:59:35.050Z - info: Site data built
+2018-11-23T15:00:00.375Z - info: [23:00:00] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:01.394Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:01.394Z - info: Rebuilding 1 pages
+2018-11-23T15:00:01.537Z - info: Pages rebuilt
+2018-11-23T15:00:01.537Z - info: Site data built
+2018-11-23T15:00:20.606Z - info: [23:00:20] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:21.622Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:21.622Z - info: Rebuilding 1 pages
+2018-11-23T15:00:21.749Z - info: Pages rebuilt
+2018-11-23T15:00:21.753Z - info: Site data built
+2018-11-23T15:00:51.106Z - info: [23:00:51] Reload for file change: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:52.119Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\schedule\index.mbd
+2018-11-23T15:00:52.123Z - info: Rebuilding 1 pages
+2018-11-23T15:00:52.417Z - info: Pages rebuilt
+2018-11-23T15:00:52.417Z - info: Site data built
+2018-11-23T15:05:22.241Z - info: [23:05:22] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T15:05:22.258Z - info: [23:05:22] Reload for file change: C:\repos\nus-cs3281\website\_markbind\variables.md
+2018-11-23T15:05:22.262Z - info: [23:05:22] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3281.mbd
+2018-11-23T15:05:23.259Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd,C:\repos\nus-cs3281\website\_markbind\variables.md,C:\repos\nus-cs3281\website\admin\cs3281.mbd
+2018-11-23T15:05:23.368Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2018-11-23T15:05:23.368Z - info: Rebuilding 7 pages
+2018-11-23T15:05:23.782Z - info: Pages rebuilt
+2018-11-23T15:05:23.782Z - info: Site data built
+2018-11-23T15:06:07.786Z - info: [23:06:07] Reload for file change: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T15:06:08.808Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\callForApplications.mbd
+2018-11-23T15:06:08.808Z - info: Rebuilding 2 pages
+2018-11-23T15:06:08.928Z - info: Pages rebuilt
+2018-11-23T15:06:08.944Z - info: Site data built
+2018-11-23T15:06:24.910Z - info: [23:06:24] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-23T15:06:25.927Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-23T15:06:25.927Z - info: Rebuilding 1 pages
+2018-11-23T15:06:25.978Z - info: Pages rebuilt
+2018-11-23T15:06:25.978Z - info: Site data built
+2018-11-23T15:08:30.523Z - info: [23:08:30] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-23T15:08:31.535Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-23T15:08:31.535Z - info: Rebuilding 1 pages
+2018-11-23T15:08:31.622Z - info: Pages rebuilt
+2018-11-23T15:08:31.637Z - info: Site data built
+2018-11-23T15:10:32.564Z - info: [23:10:32] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-23T15:10:32.564Z - info: [23:10:32] Reload for file change: C:\repos\nus-cs3281\website\_markbind\variables.md
+2018-11-23T15:10:33.567Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd,C:\repos\nus-cs3281\website\_markbind\variables.md
+2018-11-23T15:10:33.671Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2018-11-23T15:10:33.675Z - info: Rebuilding 7 pages
+2018-11-23T15:10:33.951Z - info: Pages rebuilt
+2018-11-23T15:10:33.951Z - info: Site data built
+2018-11-23T15:24:14.839Z - info: Deployed!
+2018-11-23T15:27:22.852Z - info: Website generation started at 23:27:22
+2018-11-23T15:27:23.611Z - info: Building assets...
+2018-11-23T15:27:24.091Z - info: Assets built
+2018-11-23T15:27:24.091Z - info: Generating pages...
+2018-11-23T15:27:24.616Z - info: Pages built
+2018-11-23T15:27:24.688Z - info: Site data built
+2018-11-23T15:27:24.688Z - info: Website generation complete! Total build time: 2.158s
+2018-11-23T15:27:24.696Z - info: Generate Site durationMs=2166
+2018-11-23T15:27:24.712Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-11-23T15:27:24.712Z - info: Press CTRL+C to stop ...

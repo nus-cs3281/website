@@ -10,6 +10,8 @@
     "README.md",
     "schedule/admin/*",
     "*.md",
+    "*.mbd",
+    "*.mbdf",
     ".git/*"
   ],
   "headingIndexingLevel": 2
