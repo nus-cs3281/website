@@ -22,7 +22,8 @@ Language   | Projects
 Java       | `SE` `TM`
 HTML       | `MB` `TM`
 CSS        | `MB` `TM`
-JavaScript | `MB` `TM`
+JavaScript | `MB`
+TypeScript | `TM`
 C#         | `PL`
 
 
@@ -35,8 +36,8 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
 * Static analysis 
   * Checkstyle `TM` `SE`
   * Codacy `SE`
-  * ESLint `TM`
-  * FindBugs `TM` `SE` 
+  * TSLint `TM`
+  * SpotBugs `TM` `SE`
   * PMD `TM` `SE`
   * Stylelint `TM`
   * StyleCop `PL`
@@ -49,7 +50,7 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
   * npm `MB` `TM`
 
 * CI
-  * AppVeyor `SE` `PL`
+  * AppVeyor `TM` `SE` `PL`
   * Travis `TM` `SE`
 
 * Process 
@@ -109,17 +110,17 @@ Sub areas:
 ### Testing
 
 * Code coverage 
-  * Blanket.js `TM`
-  * Coveralls `TM` `SE`
-  * EclEmma `TM` `SE`
-  * JaCoCo `TM`
+  * Istanbul `TM`
+  * Coveralls `SE`
+  * Codecov `TM`
+  * JaCoCo `TM` `SE`
   * MSTest code coverage `PL`
 
 * Testing frameworks
   * JUnit `SE`
   * MS Test `PL`
   * TestNG `TM`
-  * QUnit `TM`
+  * Karma/Jasmine `TM`
 
 * UI testing
   * MS Test `PL`
@@ -141,11 +142,10 @@ Sub areas:
 * Front End frameworks: 
   * Bootstrap `TM`
   * Vuestrap `MB`
-  * JQuery `TM`
+  * Angular `TM`
 
 * Dynamic page generation
-  * JSP `TM`
-  * JSTL `TM`
+  * Angular `TM`
 
 ### Web (Backend)
 
@@ -153,7 +153,7 @@ Sub areas:
 * Servlets `TM`
 * Node.js `MB`
 * Persistence
-  * JDO, JPA, GAE DataStore: `TM`
+  * Google Cloud Datastore: `TM`
   
 <tip-box> 
 

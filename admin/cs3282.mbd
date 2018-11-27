@@ -126,9 +126,13 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
   MarkBind | JavaScript, CSS | Node.js
   PowerPointLabs | C# | VisualStudio, Jekyll
   SE-EDU | Java, CSS | Gradle, Travis, AsciiDoc
-  TEAMMATES | Java, JavaScript, CSS, HTML | Gradle, Google App Engine
+  TEAMMATES<sup>1</sup> | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
 
 * All internal projects use Git. Learn advanced Git features such as rebase, squash, blame, bisect, etc. Other tools you can learn are given in the table above.
+
+---
+
+%%[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.
 
 </div>
 
