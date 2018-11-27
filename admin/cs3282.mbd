@@ -123,8 +123,9 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 
   Project | Languages | Tools
   ------- | --------- | -----
-  MarkBind | JavaScript, CSS | Node.js
+  MarkBind | JavaScript, CSS | Node.js, NunJucks
   PowerPointLabs | C# | VisualStudio, Jekyll
+  RepoSense | Java | Java, CSS, HTML, JavaScript, Jade, Gradle
   SE-EDU | Java, CSS | Gradle, Travis, AsciiDoc
   TEAMMATES<sup>1</sup> | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
 
@@ -132,7 +133,7 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 
 ---
 
-%%[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.
+<sub>[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.</sub>
 
 </div>
 
