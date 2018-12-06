@@ -1,2 +1,46 @@
 2018-11-27T15:39:25.439Z - info: Website generation started at 23:39:25
 2018-11-27T15:39:25.908Z - info: Building assets...
+2018-11-27T15:39:26.171Z - info: Assets built
+2018-11-27T15:39:26.172Z - info: Generating pages...
+2018-11-27T15:39:26.755Z - info: Pages built
+2018-11-27T15:39:26.816Z - info: Site data built
+2018-11-27T15:39:26.816Z - info: Website generation complete! Total build time: 1.728s
+2018-11-27T15:39:26.832Z - info: Generate Site durationMs=1744
+2018-11-27T15:39:26.847Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2018-11-27T15:39:26.847Z - info: Press CTRL+C to stop ...
+2018-11-27T15:40:49.068Z - info: [23:40:49] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:40:50.101Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:40:50.211Z - info: Rebuilding 1 pages
+2018-11-27T15:40:50.768Z - info: Pages rebuilt
+2018-11-27T15:40:50.777Z - info: Site data built
+2018-11-27T15:42:10.445Z - info: [23:42:10] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:42:11.447Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:42:11.447Z - info: Rebuilding 1 pages
+2018-11-27T15:42:11.527Z - info: Pages rebuilt
+2018-11-27T15:42:11.531Z - info: Site data built
+2018-11-27T15:42:53.958Z - info: [23:42:53] Reload for file change: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:42:54.977Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\cs3282.mbd
+2018-11-27T15:42:54.977Z - info: Rebuilding 1 pages
+2018-11-27T15:42:55.102Z - info: Pages rebuilt
+2018-11-27T15:42:55.102Z - info: Site data built
+2018-11-27T15:43:56.927Z - info: [23:43:56] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:43:57.935Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:43:57.935Z - info: Rebuilding 1 pages
+2018-11-27T15:43:58.029Z - info: Pages rebuilt
+2018-11-27T15:43:58.029Z - info: Site data built
+2018-11-27T15:44:24.204Z - info: [23:44:24] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:44:25.205Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:44:25.207Z - info: Rebuilding 1 pages
+2018-11-27T15:44:25.290Z - info: Pages rebuilt
+2018-11-27T15:44:25.294Z - info: Site data built
+2018-11-27T15:45:28.427Z - info: [23:45:28] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:45:29.439Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:45:29.439Z - info: Rebuilding 1 pages
+2018-11-27T15:45:29.512Z - info: Pages rebuilt
+2018-11-27T15:45:29.512Z - info: Site data built
+2018-11-27T15:46:05.482Z - info: [23:46:05] Reload for file change: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:46:06.485Z - verbose: Rebuild affected paths: C:\repos\nus-cs3281\website\admin\mentors.mbd
+2018-11-27T15:46:06.485Z - info: Rebuilding 1 pages
+2018-11-27T15:46:06.556Z - info: Pages rebuilt
+2018-11-27T15:46:06.560Z - info: Site data built
+2018-11-27T15:53:15.323Z - info: Deployed!
