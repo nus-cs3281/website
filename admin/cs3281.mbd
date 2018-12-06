@@ -13,7 +13,6 @@ head: head.mbdf
 CS3281 has two main parts: [External Project](#external-project), [Expertise Areas](#expertise-areas)
 
 * [Lectures](#lectures)
-* [SE-EDU Contribution](#se-edu-contribution)
 * [External Project](#external-project)
 * [Expertise Areas](#expertise-areas)
 * [Team Structure](#team-structure)
@@ -22,15 +21,6 @@ CS3281 has two main parts: [External Project](#external-project), [Expertise Are
 ## Lectures 
 
 {{ cs3281_time }} in {{ cs3281_venue }}
-
-## SE-EDU Contribution
-
-Submit 1-2 PRs to one of the [AB1-4 repos](https://se-edu.github.io/) and follow the SE-EDU PR process to get them merged.
-
-### Grading
-
-* Counts for 10-20% of the module
-* Based on PRs completed
 
 ## External Project
 
@@ -59,8 +49,8 @@ The work under this part,
 
 ### Grading
  
-* Counts for 10-20% of the module
-* Based on PRs completed [5-15%]  and the report [5%]
+* Counts for 30% of the module
+* Based on PRs completed [20%]  and the report [10%]
 
 
 ## Expertise Areas
