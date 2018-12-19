@@ -1,9 +1,9 @@
 <span id="year">2019</span>
 <span id="AY">18/19</span>
 <span id="cs3281_time">MON 1200-1400</span>
-<span id="cs3281_venue">COM1-B103</span>
+<span id="cs3281_venue">COM1-0210 (SR10)</span>
 <span id="cs3282_time">THU 1400-1600</span>
-<span id="cs3282_venue">COM1-B103</span>
+<span id="cs3282_venue">COM1-0210 (SR10)</span>
 
 
 <span id="icon_deadline">:alarm_clock:</span>
