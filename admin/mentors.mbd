@@ -15,6 +15,7 @@ head: head.mbdf
 * Aaron Chong(Industry)<sup>1</sup>
 * Chng Zhi Xuan
 * Jiang Sheng (Industry)<sup>1</sup>
+* Chua Yun Zhi Nicholas
 * Tan Wang Leng(Industry)<sup>1</sup>
 
 ## PowerPointLabs
@@ -27,8 +28,9 @@ head: head.mbdf
 
 ## RepoSense
 
-* Jun An
 * Eugene Peh (Industry)<sup>1</sup>
+* Jun An
+* Teng Yong Hao (Industry)<sup>1</sup>
 
 
 ## SE-EDU
@@ -37,11 +39,13 @@ head: head.mbdf
 * Jun An
 * Paul Tan
 * Tan Wang Leng (Industry)<sup>1</sup>
+* Yong Zhi Yuan (Industry)<sup>1</sup>
 
 ## TEAMMATES
 
 * Darren Wee
-* Heng Yeow (Industry)<sup>1</sup>
+* Joanne Ong
+* Sun Shengran
 * Tran Tien Dat
 * Wilson Kurniawan (Industry)<sup>1</sup>
 * Wen Xin
@@ -49,7 +53,7 @@ head: head.mbdf
 
 ---
 
-%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.%%
+<small>%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.%%</small>
 
 </div>
 

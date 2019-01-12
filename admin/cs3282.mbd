@@ -15,9 +15,9 @@ CS3282 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2:
 
 
 * [Lectures](#lectures)
-* [Stage1: Learning](#stage-1-learning)
-* [Stage2: Contributing](#stage-2-contributing)
-* [Stage3: Managing](#stage-3-managing)
+* [Stage1: Learning](#stage-1%3A-learning)
+* [Stage2: Contributing](#stage-2%3A-contributing)
+* [Stage3: Managing](#stage-3%3A-managing)
 * [Team Structure](#team-structure)
 * [Grading](#grading)
 * [Pre-Module Preparations](#pre-module-preparations)
@@ -55,7 +55,7 @@ Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semes
   %%(instead of picking unrelated issues at random)%%.
 * Pay attention to instructions provided e.g. Developer guides, troubleshooting guides, etc. 
   Following those instructions will reduce the chances of encountering problems. When you encounter problems, try to solve yourself before asking for help.
-* Your PRs will be reviewed by the developers of the project. You are expected to learn from the review comments and improve the quality of your work as you go. You will not score high if you keep committing the same mistake even after being corrected by the reviewer multiple times.
+* Your PRs will be reviewed by the project's dev team. You are expected to learn from the review comments and improve the quality of your work as you go. You will not score high if you keep repeating the same mistake even after being corrected by the reviewer multiple times.
 * Focus on learning how things are done in the project; ==hold back your suggestions on ‘how to do things better’ until stage 3== (i.e. until you have a more in-depth idea about the project).
 
 

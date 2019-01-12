@@ -15,14 +15,14 @@ Given below are some areas that have overlaps with internal projects that you'll
 
 ## Languages
 
-Here are the main languages used in the three projects (`MB` : MarkBind, `PL` : PowerPointLabs, `SE` : SE-EDU, `TM` : TEAMMATES). 
+Here are the main languages used in the three projects (`MB`: MarkBind, `PL`: PowerPointLabs, `RS`: RepoSense, `SE`: SE-EDU, `TM`: TEAMMATES).
 
 Language   | Projects
 -----------|-----
-Java       | `SE` `TM`
-HTML       | `MB` `TM`
-CSS        | `MB` `TM`
-JavaScript | `MB`
+Java       | `RS` `SE` `TM`
+HTML       | `MB` `RS` `TM`
+CSS        | `MB` `RS` `TM`
+JavaScript | `MB` `RS`
 TypeScript | `TM`
 C#         | `PL`
 
@@ -34,131 +34,130 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
 ### Code Quality
 
 * Static analysis 
-  * Checkstyle `TM` `SE`
-  * Codacy `SE`
-  * TSLint `TM`
-  * SpotBugs `TM` `SE`
-  * PMD `TM` `SE`
-  * Stylelint `TM`
-  * StyleCop `PL`
+  * Checkstyle: `TM` `RS` `SE`
+  * Codacy: `SE`
+  * TSLint: `TM`
+  * SpotBugs: `TM` `SE`
+  * PMD: `TM` `SE`
+  * Stylelint: `TM`
+  * StyleCop: `PL`
 
 ### Dev Ops
 
 * Build 
-  * Gradle `TM` `SE`
-  * MSBuild `PL`
-  * npm `MB` `TM`
+  * Gradle: `TM` `RS` `SE`
+  * MSBuild: `PL`
+  * Netlify: `MB` `RS`
+  * npm: `MB` `TM`
 
 * CI
-  * AppVeyor `TM` `SE` `PL`
-  * Travis `TM` `SE`
+  * AppVeyor: `TM` `SE` `PL`
+  * Travis: `TM` `RS` `SE`
 
 * Process 
-  * Workflow `MB` `TM` `SE` `PL`
-  * Dev community management `TM` `SE` `PL`
-  * Release management `TM` `SE` `PL`
+  * Workflow: all projects
+  * Dev community management: all projects
+  * Release management: all projects
 
 
 ### Desktop
 
 * GUI
-  * JavaFx, ControlsFx `SE`
-  * Windows Presentation Foundation (WPF), Winform `PL`
+  * JavaFx, ControlsFx: `SE`
+  * Windows Presentation Foundation (WPF), Winform: `PL`
 
-* Installers `SE` `PL`
+* Installers: `SE` `PL`
 
-* Portability `SE` (ensuring the apps can run an all major OS'es)
+* Portability: `SE` (ensuring the apps can run an all major OS'es)
 
 ### Documentation
 
 Generating and maintaining user/developer docs require good writing skills as well and various tools.
 
-* UML `TM` `SE` `PL`
-* Document generation `MB` `TM` `SE` `PL` 
-  * Jekyll `MB` `PL`
-  * AsciiDoc `MB` `SE`
-  * Markdown `MB` 
+* UML: all projects
+* Document generation
+  * Jekyll: `MB` `PL`
+  * AsciiDoc: `MB` `SE`
+  * Markdown, nunjucks: `MB` `RS` `TM`
 
 ### Fault Tolerance
 
 This is especially important to `TM` because Web apps are vulnerable to all sorts of intermittent faults. For example, one problem it faces is called 'eventual consistency' where new data requires some time to propagate through all nodes of the distributed database during which time the app has to deal with data in an inconsistent state.
 
-* Logging `MB` `TM` `SE` `PL`
-* Error reporting `MB` `TM` `SE` `PL`
-* Backup and restore `TM`
+* Logging: all projects
+* Error reporting: all projects
+* Backup and restore: `TM`
 
 ### Performance and Scalability
 
 This affects all projects:
 
-* `MB` : Rendering content takes far too long for big websites at the moment
-* `PL` : Users don't like their PowerPoint to slow down due to our plugin
-* `SE` : We want the app to be very fast and to be able to handle lot of data (especially when connected to third party backends such as Google calendar) 
-* `TM` : 1. It has to deal with spikes in load. 2. Every CPU cycle or byte of data transfer costs us money.
+* `MB`: Build and live preview features need to be fast.
+* `PL`: Users don't like their PowerPoint to slow down due to our plugin.
+* `RS`: Report generation needs to be fast. Memory consumption should be minimized.
+* `SE`: We want the app to be very fast.
+* `TM`: 1. It has to deal with spikes in load. 2. Every CPU cycle or byte of data transfer costs us money.
 
 Sub areas: 
 
-* Multi-threading `TM` `SE`  
-* Profiling `MB` `TM` `SE` `PL` : To find performance bottlenecks
-* Scalability testing `MB` `TM` `SE`
+* Multi-threading: `TM` `SE`
+* Profiling (to find performance bottlenecks): all projects
+* Scalability testing: all projects
 
 ### Security
 
-* Vulnerabilities `TM`: SQL injection, cross site scripting
-* Access control `TM`
+* Vulnerabilities: `TM`
+* Access control: `TM`
 
 ### Testing
 
 * Code coverage 
-  * Istanbul `TM`
-  * Coveralls `SE`
-  * Codecov `TM`
-  * JaCoCo `TM` `SE`
-  * MSTest code coverage `PL`
+  * Istanbul: `TM`
+  * Coveralls: `SE`
+  * Codecov: `TM`
+  * JaCoCo: `TM` `SE`
+  * MSTest code coverage: `PL`
 
 * Testing frameworks
-  * JUnit `SE`
-  * MS Test `PL`
-  * TestNG `TM`
-  * Karma/Jasmine `TM`
+  * JUnit: `RS` `SE`
+  * MS Test: `PL`
+  * TestNG: `TM`
+  * Karma/Jasmine: `TM`
 
 * UI testing
-  * MS Test `PL`
-  * Selenium `TM`
-  * TestFx `SE`
+  * MS Test: `PL`
+  * Selenium: `TM`
+  * TestFx: `SE`
   
 * Mocking
-  * Mockito, PowerMock `SE`
-  * Moq `PL`
+  * Mockito, PowerMock: `SE`
+  * Moq: `PL`
 
 ### UIX
 
-* Usability `MB` `TM` `SE` `PL`
-* Accessibility `TM` : Some students who access `TM` may have accessibility needs
-* Responsiveness `TM` : The app can be accessed using a variety of devices
+* Usability: all projects
+* Accessibility: all projects -- e.g. some users may have accessibility needs
+* Responsiveness: `MB` `RS` `TM`
 
 ### Web (Frontend)
 
 * Front End frameworks: 
-  * Bootstrap `TM`
-  * Vuestrap `MB`
-  * Angular `TM`
-
-* Dynamic page generation
-  * Angular `TM`
+  * Bootstrap: `TM`
+  * Vuestrap: `MB`
+  * Angular: `TM`
 
 ### Web (Backend)
 
-* Google App Engine `TM`
-* Servlets `TM`
-* Node.js `MB`
+* Google App Engine: `TM`
+* Servlets: `TM`
+* Node.js: `MB`
 * Persistence
   * Google Cloud Datastore: `TM`
   
-<tip-box> 
+<box>
 
-:information_source: Information in this page can get outdated as the projects evolve. PRs to update this page are welcome.
+{{ icon_info }} Information in this page can get outdated as the projects evolve. PRs to update this page are welcome.
 
-</tip-box> 
+</box>
   
 </div>
