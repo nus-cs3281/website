@@ -4,8 +4,12 @@ Vue.use(VueStrap);
 
 function scrollToUrlAnchorHeading() {
   if (window.location.hash) {
-    jQuery(window.location.hash)[0].scrollIntoView();
-    window.scrollBy(0, -document.body.style.paddingTop.replace('px', ''));
+    // remove leading hash to get element ID
+    const headingElement = document.getElementById(window.location.hash.slice(1));
+    if (headingElement) {
+      headingElement.scrollIntoView();
+      window.scrollBy(0, -document.body.style.paddingTop.replace('px', ''));
+    }
   }
 }
 
@@ -17,8 +21,10 @@ function flattenModals() {
 
 function setupAnchors() {
   jQuery('h1, h2, h3, h4, h5, h6, .header-wrapper').each((index, heading) => {
-    jQuery(heading).on('mouseenter', () => jQuery(heading).find('.fa.fa-anchor').show());
-    jQuery(heading).on('mouseleave', () => jQuery(heading).find('.fa.fa-anchor').hide());
+    jQuery(heading).on('mouseenter',
+                       () => jQuery(heading).find('.fa.fa-anchor').css('visibility', 'visible'));
+    jQuery(heading).on('mouseleave',
+                       () => jQuery(heading).find('.fa.fa-anchor').css('visibility', 'hidden'));
   });
   jQuery('.fa-anchor').each((index, anchor) => {
     jQuery(anchor).on('click', function () {
