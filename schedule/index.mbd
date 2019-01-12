@@ -8,78 +8,73 @@ head: head.mbdf
 
 <div class="website-content">
 
-<box>
-
-==**{{ icon_info }} The schedule below is from the previous year. The new schedule will be released soon.**==
-
-</box>
-
 # CS3281&2 Schedule
 
-* [Week 1 [Jan 15]](#week-1-%5Bjan-15%5D)
-* [Week 2 [Jan 22]](#week-2-%5Bjan-22%5D)
-* [Week 3 [Jan 29]](#week-3-%5Bjan-29%5D)
-* [Week 4 [Feb 5]](#week-4-%5Bfeb-5%5D)
-* [Week 5 [Feb 12]](#week-5-%5Bfeb-12%5D)
-* [Week 6 [Feb 19]](#week-6-%5Bfeb-19%5D)
-* [Week 7 [Mar 5]](#week-7-%5Bmar-5%5D)
-* [Week 8 [Mar 12]](#week-8-%5Bmar-12%5D)
-* [Week 9 [Mar 19]](#week-9-%5Bmar-19%5D)
-* [Week 10 [Mar 26]](#week-10%5B-mar-26%5D)
-* [Week 11 [Apr 2]](#week-11%5B-apr-2%5D)
-* [Week 12 [Apr 9]](#week-12%5B-apr-9%5D)
-* [Week 13 [Apr 16]](#week-13%5B-apr-16%5D)
-* [Reading Week [Apr 23]](#reading-week-ap%5Br-23%5D)
+* [Week 1 [Jan 14]](#week-1-%5Bjan-14%5D)
+* [Week 2 [Jan 21]](#week-2-%5Bjan-21%5D)
+* [Week 3 [Jan 28]](#week-3-%5Bjan-28%5D)
+* [Week 4 [Feb 4]](#week-4-%5Bfeb-4%5D)
+* [Week 5 [Feb 11]](#week-5-%5Bfeb-11%5D)
+* [Week 6 [Feb 18]](#week-6-%5Bfeb-18%5D)
+* [Week 7 [Mar 4]](#week-7-%5Bmar-4%5D)
+* [Week 8 [Mar 11]](#week-8-%5Bmar-11%5D)
+* [Week 9 [Mar 18]](#week-9-%5Bmar-18%5D)
+* [Week 10 [Mar 25]](#week-10%5B-mar-25%5D)
+* [Week 11 [Apr 1]](#week-11%5B-apr-1%5D)
+* [Week 12 [Apr 8]](#week-12%5B-apr-8%5D)
+* [Week 13 [Apr 15]](#week-13%5B-apr-15%5D)
+* [Reading Week [Apr 22]](#reading-week-ap%5Br-22%5D)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 1 [Jan 15]
+## Week 1 [Jan 14]
 
 #### Todo
 
 * {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.
-* {{ icon_todo }} Add your details and your resume to the repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) [:alarm_clock: Deadline: Friday]. More instructions are given in the `README.md` of that repo. You will be given write permission to the repo by Monday.
-* {{ icon_todo }} Set up the dev environment of your CS3282 project (aka the _internal_ project, or the _major_ project) in your Computer. Follow instructions provided by the project for new contributors.
+* {{ icon_todo }} Add your info and your resume to the repo [nus-cs3281/{{ year }}](https://nus-cs3281-{{ year }}.netlify.com/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} Set up the dev environment of your CS3282 internal project(s) in your Computer. Follow instructions provided by the project for new contributors.
 * {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation.
 
 #### Monday
 
 * {{ icon_lecture }} Lecture : CS3281 Module Intro
   * Sit as teams. Team allocation:
-    * Team 1: Li Hao, Nicholas, Shradheya, Jun Kiat, Wen Xin
-    * Team 2: Daniel, Joanne, Lewis, Lechuan
-    * Team 3: Yan Hwa, Bao, Haozhe, Jun an
-    * Team 4: Darren, Chun Rong, Rachael, Vivek
-    * Team 5: Alex, Cara, Dat, Zhi Yuan
+    * Team 1: Marvin, Gilbert, Amrut, Jeremy,
+    * Team 2: Kenneth, Si Jie, Chester, Chunhui, Junming
+    * Team 3: Maddi, Shu Peng, Bryan, Penchang (Jacob), Ronak
+    * Team 4: Zen Yong, Wang Chao, Monika, Rahul,
+    * Team 5: Chelsey, Henry, Ayush, Heng Yeow
 
 #### Thursday
 
 * {{ icon_lecture }} Lecture: CS3282 Module Intro
   * Sit as project teams
-    * Table 6 : MarkBind
-    * Table 1 : PowerPointLabs
-    * Table 2 : SE-EDU
-    * Table 3-5 : TEAMMATES
+
 
 #### Saturday (Code Sprint)
 
-* :mag: The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
+* The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
 
-* Venue: SR10 ==(not the usual place)==
+* Venue: SR10
 * Schedule:
   * 0930 - 1200 : Project work
-  * 1200 - 1300 : Lunch break (lunch not provided)
-  * 1300 - 1500 : Project work
-  * 1500 - 1530 : Pizza! :pizza: 
-  * 1530 - 1700 : Project work
+  * 1200 - 1300 : Lunch break (lunch  provided :stew:)
+  * 1300 - 1700 : Project work
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 2 [Jan 22]
+<box>
+
+==**{{ icon_info }} The schedule for the weeks below is from the previous year. To be updated along the way.**==
+
+</box>
+
+## Week 2 [Jan 21]
 
 #### Todo
 
-* {{ icon_todo }} Start looking for an external project (aka _minor_ project) to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
+* {{ icon_todo }} Start looking for an external project to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
 
 #### Monday
 
@@ -104,15 +99,15 @@ head: head.mbdf
 <!-- ----------------------------------------------------------------------------------- -->
 <div id="week3-monday"/>
 
-## Week 3 [Jan 29]
+## Week 3 [Jan 28]
 
 #### Monday
 
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
   * Speaker order: chosen based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week.  
-    * Week 3: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat
-    * Week 4: Darren, Yan Hwa, Rachael, Shradheya, Jun An, Lechuan, Zhi Yuan
-    * Week 5: Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
+    * Week 3:
+    * Week 4:
+    * Week 5:
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
@@ -175,7 +170,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 4 [Feb 5]
+## Week 4 [Feb 4]
 
 #### Todo
 
@@ -201,7 +196,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 5 [Feb 12]
+## Week 5 [Feb 11]
 
 #### Todo
 
@@ -220,7 +215,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 6 [Feb 19]
+## Week 6 [Feb 18]
 
 #### Monday
 
@@ -243,7 +238,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 7 [Mar 5]
+## Week 7 [Mar 4]
 
 #### Todo
 
@@ -308,7 +303,7 @@ Try to follow these steps in this sequence:
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 8 [Mar 12]
+## Week 8 [Mar 11]
 
 #### Monday
 
@@ -324,7 +319,7 @@ Try to follow these steps in this sequence:
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 9 [Mar 19]
+## Week 9 [Mar 18]
 
 #### Monday
 
@@ -336,7 +331,7 @@ Try to follow these steps in this sequence:
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 10 [Mar 26]
+## Week 10 [Mar 25]
 
 #### Todo
 
@@ -363,7 +358,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 11 [Apr 2]
+## Week 11 [Apr 1]
 
 #### Todo
 
@@ -383,7 +378,7 @@ Try to follow these steps in this sequence:
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 12 [Apr 9]
+## Week 12 [Apr 8]
 
 #### Monday
 
@@ -467,7 +462,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 13 [Apr 16]
+## Week 13 [Apr 15]
 
 #### Monday
 
@@ -484,7 +479,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Reading Week [Apr 23]
+## Reading Week [Apr 22]
 
 * Exit interviews (Schedule TBD)
 

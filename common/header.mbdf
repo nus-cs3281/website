@@ -7,9 +7,8 @@
   <dropdown text="Links" class="nav-link">
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
-    <!--<li><a href="https://github.com/nus-cs3281/2018/blob/master/students/studentlist.md" target="_blank"class="dropdown-item">Students</a></li>
-    <li><a href="https://docs.google.com/document/d/1I67ovHJp7ES96YupZyiuvVuVlqC5t5qimLduOH8MCF0/edit?usp=sharing" target="_blank"class="dropdown-item">Project Ideas</a></li>-->
-  </dropdown> 
+    <li><a href="https://nus-cs3281-{{ year }}.netlify.com" target="_blank"class="dropdown-item">Students</a></li>
+  </dropdown>
   <li slot="right" class="nav-link">
     <form class="navbar-form">
       <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right ></searchbar>
