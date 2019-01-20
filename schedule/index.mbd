@@ -42,7 +42,7 @@ head: head.mbdf
   * Sit as teams. Team allocation:
     * Team 1: Marvin, Gilbert, Amrut, Jeremy,
     * Team 2: Kenneth, Chester, Chunhui, Junming
-    * Team 3: Maddi, Shu Peng, Bryan, Pengcheng (Jacob), Ronak
+    * Team 3: Aadyaa, Shu Peng, Bryan, Pengcheng (Jacob), Ronak
     * Team 4: Zhen Yong, Wang Chao, Monika, Rahul,
     * Team 5: Chelsey, Si Jie, Henry, Ayush, Heng Yeow
 
@@ -64,12 +64,6 @@ head: head.mbdf
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-<box>
-
-==**{{ icon_info }} The schedule for the weeks below is from the previous year. To be updated along the way.**==
-
-</box>
-
 ## Week 2 [Jan 21]
 
 #### Todo
@@ -85,18 +79,21 @@ head: head.mbdf
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
   * It is in your interest to choose a topic related to one of your expert areas. It is not a strict requirement though.
-* The order of talks %%&nbsp;(i.e., who presents in which week)%% will be announced by Monday night.
-* Read the schedule for [next Monday](#week3-monday) to find more info about the upcoming lightning talks.
+  * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==.
+* Read the schedule for [next Monday](#week3-monday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Project-specific discussions
-
-* If you are presenting next Monday,
-  * You can rehearse your talk with a peer and get his/her feedback, but do this _after_ the session.
-  * If you plan to use your own laptop for the presentation, you can test your connection to the projector during the session.
+* {{ icon_lecture }} Lecture: Product demos, project-specific discussions
+* Demo the product created by your project. Suggested timing:
+  * MarkBind: 10-15 minutes
+  * PowerPointLabs: 30 minutes
+  * RepoSense: 10-15 minutes
+  * TEAMMATES: 10-15 minutes
+* If you are presenting next Monday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.
 
 <!-- ----------------------------------------------------------------------------------- -->
+
 <div id="week3-monday"/>
 
 ## Week 3 [Jan 28]
@@ -105,9 +102,10 @@ head: head.mbdf
 
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
   * Speaker order: chosen based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week.  
-    * Week 3:
-    * Week 4:
-    * Week 5:
+    * Week 3: AMRUT, LI PENGCHENG (JACOB), SHU PENG, HENG YEOW, RAHUL, KENNETH, CHELSEY
+    * Week 4: MONIKA, CHUNHUI, JUNMING, SI JIE, JEREMY, HENRY, RONAK
+    * Week 5: WANG CHAO, ZHEN YONG, GILBERT, CHESTER, AYUSH, BRYAN, MARVIN, AADYAA
+
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
 
@@ -123,8 +121,8 @@ Try to follow these steps in this sequence:
      If you cannot find a convincing WIIFY, reconsider the topic as there is a risk that the audience may not find the talk useful.
   1. Choose some key points that help you achieve that impact. Be clear about your key points. 
      * We look for **points, not topics** %%e.g., `how to use X` is a topic while `X is easy to use` is a point%%. 
-     * Make sure your key points are aligned with the intended impact. If you key points are `a`, `b`, `c`, you should be able to say "`a`; `b`; `c`; _therefore_, `CtA`" %%e.g., "`X is fast`; `X is free`; `X is getting popular`; _therefore_, switch to X!"%%
-  1. Decide the talk roadmap (aka agenda, or promise). The may be similar to key points but not necessarily the same. Roadmap can be topics (rather than points) and can be questions (rather than answers).
+     * Make sure your key points are aligned with the intended impact. If you key points are `a`, `b`, `c`, you should be able to say "`a`; `b`; `c`; _therefore_, `CtA`" %%e.g., "`X is fast`; `X is free`; `X is getting popular`; _therefore_, `switch to X!`"%%
+  1. Decide the talk roadmap (aka the agenda, or the _promise_). The may be similar to key points but not necessarily the same. Roadmap can be topics (rather than points) and can be questions (rather than answers).
      Roadmap | Key points
      --- | ----
      `What is X`<br> `Demo of X`<br> `Benefits of X` | `X is fast`<br> `X is free`<br> `X is getting popular`
@@ -169,6 +167,13 @@ Try to follow these steps in this sequence:
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
 <!-- ----------------------------------------------------------------------------------- -->
+
+
+<box>
+
+==**{{ icon_info }} The schedule for the weeks below is from the previous year. To be updated along the way.**==
+
+</box>
 
 ## Week 4 [Feb 4]
 
