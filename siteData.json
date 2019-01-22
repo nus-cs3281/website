@@ -1,17 +1,19 @@
 {
+  "enableSearch": true,
   "pages": [
     {
       "headings": {
-        "cs3281%262-call-for-application---ay2018%2F19%2C-semester-ii": "CS3281&amp;2 Call for Application - AY2018/19, Semester II",
+        "c-s3281-and-2-call-for-application-a-y2018-19-semester-ii": "CS3281&amp;2 Call for Application - AY2018/19, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
         "enrollment": "Enrollment",
         "faq": "FAQ",
-        "have-a-question%3F": "Have a Question?"
+        "have-a-question": "Have a Question?"
       },
       "title": "CS3281&2 Call for Applications",
       "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
+      "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/callForApplications.mbd",
@@ -19,7 +21,7 @@
     },
     {
       "headings": {
-        "cs3281-%3A-thematic-systems-project-i": "CS3281 : Thematic Systems Project I",
+        "c-s3281-thematic-systems-project-i": "CS3281 : Thematic Systems Project I",
         "lectures": "Lectures",
         "external-project": "External Project",
         "expertise-areas": "Expertise Areas",
@@ -27,6 +29,7 @@
         "pre-module-preparations": "Pre-Module Preparations"
       },
       "title": "CS3281 Module Info",
+      "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/cs3281.mbd",
@@ -34,18 +37,19 @@
     },
     {
       "headings": {
-        "cs3282-%3A-thematic-systems-projects-ii": "CS3282 : Thematic Systems Projects II",
+        "c-s3282-thematic-systems-projects-ii": "CS3282 : Thematic Systems Projects II",
         "lectures": "Lectures",
         "projects": "Projects",
-        "stage-1%3A-learning": "Stage 1: Learning",
-        "stage-2%3A-contributing": "Stage 2: Contributing",
-        "stage-3%3A-managing": "Stage 3: Managing",
+        "stage-1-learning": "Stage 1: Learning",
+        "stage-2-contributing": "Stage 2: Contributing",
+        "stage-3-managing": "Stage 3: Managing",
         "team-structure": "Team structure",
         "grading": "Grading",
         "pre-module-preparations": "Pre-Module Preparations"
       },
       "title": "CS3282 Module Info",
       "keywords": "Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations",
+      "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/cs3282.mbd",
@@ -55,7 +59,7 @@
       "headings": {
         "expert-areas": "Expert Areas",
         "languages": "Languages",
-        "tools%2C-tech-topics": "Tools, Tech Topics"
+        "tools-tech-topics": "Tools, Tech Topics"
       },
       "title": "Expert Areas",
       "keywords": "Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web",
@@ -66,10 +70,10 @@
     },
     {
       "headings": {
-        "cs3282-project-mentors": "CS3282 Project Mentors",
-        "markbind": "MarkBind",
-        "powerpointlabs": "PowerPointLabs",
-        "reposense": "RepoSense",
+        "c-s3282-project-mentors": "CS3282 Project Mentors",
+        "mark-bind": "MarkBind",
+        "power-point-labs": "PowerPointLabs",
+        "repo-sense": "RepoSense",
         "se-edu": "SE-EDU",
         "teammates": "TEAMMATES"
       },
@@ -81,23 +85,24 @@
     },
     {
       "headings": {
-        "cs3281%262-schedule": "CS3281&amp;2 Schedule",
-        "week-1-%5Bjan-14%5D": "Week 1 [Jan 14]",
-        "week-2-%5Bjan-21%5D": "Week 2 [Jan 21]",
-        "week-3-%5Bjan-28%5D": "Week 3 [Jan 28]",
-        "week-4-%5Bfeb-4%5D": "Week 4 [Feb 4]",
-        "week-5-%5Bfeb-11%5D": "Week 5 [Feb 11]",
-        "week-6-%5Bfeb-18%5D": "Week 6 [Feb 18]",
-        "week-7-%5Bmar-4%5D": "Week 7 [Mar 4]",
-        "week-8-%5Bmar-11%5D": "Week 8 [Mar 11]",
-        "week-9-%5Bmar-18%5D": "Week 9 [Mar 18]",
-        "week-10-%5Bmar-25%5D": "Week 10 [Mar 25]",
-        "week-11-%5Bapr-1%5D": "Week 11 [Apr 1]",
-        "week-12-%5Bapr-8%5D": "Week 12 [Apr 8]",
-        "week-13-%5Bapr-15%5D": "Week 13 [Apr 15]",
-        "reading-week-%5Bapr-22%5D": "Reading Week [Apr 22]"
+        "c-s3281-and-2-schedule": "CS3281&amp;2 Schedule",
+        "week-1-jan-14": "Week 1 [Jan 14]",
+        "week-2-jan-21": "Week 2 [Jan 21]",
+        "week-3-jan-28": "Week 3 [Jan 28]",
+        "week-4-feb-4": "Week 4 [Feb 4]",
+        "week-5-feb-11": "Week 5 [Feb 11]",
+        "week-6-feb-18": "Week 6 [Feb 18]",
+        "week-7-mar-4": "Week 7 [Mar 4]",
+        "week-8-mar-11": "Week 8 [Mar 11]",
+        "week-9-mar-18": "Week 9 [Mar 18]",
+        "week-10-mar-25": "Week 10 [Mar 25]",
+        "week-11-apr-1": "Week 11 [Apr 1]",
+        "week-12-apr-8": "Week 12 [Apr 8]",
+        "week-13-apr-15": "Week 13 [Apr 15]",
+        "reading-week-apr-22": "Reading Week [Apr 22]"
       },
       "title": "CS3281&2 Thematic Systems Project I & II",
+      "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "index.mbd",
@@ -105,23 +110,24 @@
     },
     {
       "headings": {
-        "cs3281%262-schedule": "CS3281&amp;2 Schedule",
-        "week-1-%5Bjan-14%5D": "Week 1 [Jan 14]",
-        "week-2-%5Bjan-21%5D": "Week 2 [Jan 21]",
-        "week-3-%5Bjan-28%5D": "Week 3 [Jan 28]",
-        "week-4-%5Bfeb-4%5D": "Week 4 [Feb 4]",
-        "week-5-%5Bfeb-11%5D": "Week 5 [Feb 11]",
-        "week-6-%5Bfeb-18%5D": "Week 6 [Feb 18]",
-        "week-7-%5Bmar-4%5D": "Week 7 [Mar 4]",
-        "week-8-%5Bmar-11%5D": "Week 8 [Mar 11]",
-        "week-9-%5Bmar-18%5D": "Week 9 [Mar 18]",
-        "week-10-%5Bmar-25%5D": "Week 10 [Mar 25]",
-        "week-11-%5Bapr-1%5D": "Week 11 [Apr 1]",
-        "week-12-%5Bapr-8%5D": "Week 12 [Apr 8]",
-        "week-13-%5Bapr-15%5D": "Week 13 [Apr 15]",
-        "reading-week-%5Bapr-22%5D": "Reading Week [Apr 22]"
+        "c-s3281-and-2-schedule": "CS3281&amp;2 Schedule",
+        "week-1-jan-14": "Week 1 [Jan 14]",
+        "week-2-jan-21": "Week 2 [Jan 21]",
+        "week-3-jan-28": "Week 3 [Jan 28]",
+        "week-4-feb-4": "Week 4 [Feb 4]",
+        "week-5-feb-11": "Week 5 [Feb 11]",
+        "week-6-feb-18": "Week 6 [Feb 18]",
+        "week-7-mar-4": "Week 7 [Mar 4]",
+        "week-8-mar-11": "Week 8 [Mar 11]",
+        "week-9-mar-18": "Week 9 [Mar 18]",
+        "week-10-mar-25": "Week 10 [Mar 25]",
+        "week-11-apr-1": "Week 11 [Apr 1]",
+        "week-12-apr-8": "Week 12 [Apr 8]",
+        "week-13-apr-15": "Week 13 [Apr 15]",
+        "reading-week-apr-22": "Reading Week [Apr 22]"
       },
       "title": "CS3281&2 Thematic Systems Project I & II",
+      "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "schedule/index.mbd",
