@@ -86,11 +86,13 @@ head: head.mbdf
 #### Thursday
 
 * {{ icon_lecture }} Lecture: Product demos, project-specific discussions
-* Demo the product created by your project. Suggested timing:
-  * MarkBind: 10-15 minutes
-  * PowerPointLabs: 30 minutes
-  * RepoSense: 10-15 minutes
-  * TEAMMATES: 10-15 minutes
+* Demo the product created by your project.
+  * Suggested timing (try not to exceed the max time limit, OK to take less time than allocated):
+    * MarkBind: 10-15 minutes
+    * PowerPointLabs: 20-30 minutes
+    * RepoSense: 10-15 minutes
+    * TEAMMATES: 10-15 minutes
+  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.
 * If you are presenting next Monday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.
 
 <!-- ----------------------------------------------------------------------------------- -->
