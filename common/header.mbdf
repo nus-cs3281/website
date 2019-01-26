@@ -8,7 +8,9 @@
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
     <li><a href="https://nus-cs3281-{{ year }}.netlify.com" target="_blank"class="dropdown-item">Students</a></li>
+    <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank"class="dropdown-item">Dashboard</a></li>
   </dropdown>
+  <li><a href="https://github.com/nus-cs3281/website" class="nav-link">{{ fab_github }}</a></li>
   <li slot="right" class="nav-link">
     <form class="navbar-form">
       <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right ></searchbar>
