@@ -1,0 +1,69 @@
+2019-01-31T10:23:23.054Z - info: Website generation started at 6:23:22 PM
+2019-01-31T10:23:23.257Z - info: Building assets...
+2019-01-31T10:23:23.511Z - info: Assets built
+2019-01-31T10:23:23.511Z - info: Generating pages...
+2019-01-31T10:23:24.031Z - info: Pages built
+2019-01-31T10:23:24.272Z - info: Website generation complete! Total build time: 1.343s
+2019-01-31T10:23:24.286Z - info: Generate Site durationMs=1357
+2019-01-31T10:23:24.626Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-01-31T10:23:24.626Z - info: Press CTRL+C to stop ...
+2019-01-31T10:23:24.653Z - info: Site data built
+2019-01-31T10:27:57.849Z - info: [6:27:57 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+2019-01-31T10:27:58.859Z - info: Rebuilding affected source files
+2019-01-31T10:27:58.862Z - info: Rebuilding 7 pages
+2019-01-31T10:27:59.410Z - info: Pages rebuilt
+2019-01-31T10:27:59.418Z - info: Site data built
+2019-01-31T10:29:21.511Z - info: [6:29:21 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-01-31T10:29:22.513Z - info: Rebuilding affected source files
+2019-01-31T10:29:22.514Z - info: Rebuilding 1 pages
+2019-01-31T10:29:22.592Z - info: Pages rebuilt
+2019-01-31T10:29:22.599Z - info: Site data built
+2019-01-31T10:33:26.068Z - info: [6:33:26 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T10:33:27.072Z - info: Rebuilding affected source files
+2019-01-31T10:33:27.073Z - info: Rebuilding 2 pages
+2019-01-31T10:33:27.353Z - info: Pages rebuilt
+2019-01-31T10:33:27.360Z - info: Site data built
+2019-01-31T10:35:53.743Z - info: [6:35:53 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T10:35:54.744Z - info: Rebuilding affected source files
+2019-01-31T10:35:54.745Z - info: Rebuilding 2 pages
+2019-01-31T10:35:55.189Z - info: Pages rebuilt
+2019-01-31T10:35:55.196Z - info: Site data built
+2019-01-31T10:39:16.960Z - info: [6:39:16 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T10:39:17.962Z - info: Rebuilding affected source files
+2019-01-31T10:39:17.962Z - info: Rebuilding 2 pages
+2019-01-31T10:39:18.382Z - info: Pages rebuilt
+2019-01-31T10:39:18.389Z - info: Site data built
+2019-01-31T10:44:39.946Z - info: [6:44:39 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T10:44:40.961Z - info: Rebuilding affected source files
+2019-01-31T10:44:40.962Z - info: Rebuilding 2 pages
+2019-01-31T10:44:41.247Z - info: Pages rebuilt
+2019-01-31T10:44:41.254Z - info: Site data built
+2019-01-31T10:47:00.617Z - info: [6:47:00 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T10:47:01.618Z - info: Rebuilding affected source files
+2019-01-31T10:47:01.619Z - info: Rebuilding 2 pages
+2019-01-31T10:47:02.022Z - info: Pages rebuilt
+2019-01-31T10:47:02.030Z - info: Site data built
+2019-01-31T11:40:36.040Z - info: [7:40:36 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-01-31T11:40:37.053Z - info: Rebuilding affected source files
+2019-01-31T11:40:37.056Z - info: Rebuilding 2 pages
+2019-01-31T11:40:37.128Z - info: [7:40:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.mbd
+2019-01-31T11:40:37.154Z - info: [7:40:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+2019-01-31T11:40:37.155Z - info: [7:40:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-01-31T11:40:37.165Z - info: [7:40:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\footers\footer.mbdf
+2019-01-31T11:40:37.334Z - info: [7:40:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\head\head.mbdf
+2019-01-31T11:40:37.563Z - info: Pages rebuilt
+2019-01-31T11:40:37.574Z - info: Site data built
+2019-01-31T11:40:38.131Z - info: Rebuilding affected source files
+2019-01-31T11:40:38.132Z - info: Rebuilding 7 pages
+2019-01-31T11:40:38.208Z - info: [7:40:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-01-31T11:40:38.209Z - info: [7:40:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-01-31T11:40:38.209Z - info: [7:40:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-01-31T11:40:38.209Z - info: [7:40:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-01-31T11:40:38.638Z - info: Pages rebuilt
+2019-01-31T11:40:38.649Z - info: Site data built
+2019-01-31T11:40:39.211Z - info: Rebuilding affected source files
+2019-01-31T11:40:39.215Z - info: Rebuilding 4 pages
+2019-01-31T11:40:39.343Z - info: Pages rebuilt
+2019-01-31T11:40:39.349Z - info: Site data built
+2019-01-31T11:43:52.335Z - info: Website generation started at 7:43:52 PM
+2019-01-31T11:43:52.544Z - info: Building assets...

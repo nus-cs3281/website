@@ -57,12 +57,11 @@
     },
     {
       "headings": {
-        "expert-areas": "Expert Areas",
+        "expert-areas-related-to-internal-projects": "Expert Areas Related to Internal Projects",
         "languages": "Languages",
         "tools-tech-topics": "Tools, Tech Topics"
       },
-      "title": "Expert Areas",
-      "keywords": "Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web",
+      "title": "Expert Areas Related to Internal Projects",
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/expertAreas.mbd",
