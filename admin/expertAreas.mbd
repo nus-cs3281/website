@@ -1,6 +1,5 @@
 <frontmatter>
-title: "Expert Areas"
-keywords: Languages, Tools, Tech Topics, Code Quality, Dev Ops, Desktop, Documentation, Fault Tolerance, Performance, Scalability, Security, Testing, UIX, Web
+title: "Expert Areas Related to Internal Projects"
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
@@ -9,7 +8,7 @@ head: head.mbdf
 
 <div class="website-content">
 
-# Expert Areas
+# Expert Areas Related to Internal Projects
 
 Given below are some areas that have overlaps with internal projects that you'll be working in CS3282. Picking these will have the advantage that your work in the internal projects can increase your expertise in the chosen areas (i.e. your work in CS3282 can help you earn more credit in CS3281).
 

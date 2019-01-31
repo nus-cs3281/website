@@ -7,6 +7,7 @@
   <dropdown text="Links" class="nav-link">
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
+    <li><a href="{{baseUrl}}/admin/expertAreas.html"class="dropdown-item">Project Expert Areas</a></li>
     <li><a href="https://nus-cs3281-{{ year }}.netlify.com" target="_blank"class="dropdown-item">Students</a></li>
     <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank"class="dropdown-item">Dashboard</a></li>
   </dropdown>

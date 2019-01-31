@@ -197,15 +197,16 @@ Try to follow these steps in this sequence:
 
 #### Monday
 
-* {{ icon_lecture }} Lightning Talks Round A - Part 2
+* {{ icon_lecture }} ~~Lightning Talks Round A - Part 2~~ No lecture on account of CNY
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: ~~Project-specific discussions~~ Lightning Talks Round A - Part 2
 
 #### Sunday
 
-* :alarm_clock: Update the [progress](https://github.com/nus-cs3281/{{ year }}/blob/master/students/progress.md) page.
+* :alarm_clock: PR to update [these csv config files](https://github.com/nus-cs3281/2019-dashboard/tree/master/configs) if all your internal project work is not captured in the [dashboard](https://nus-cs3281.github.io/{{ year }}-dashboard). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
+* :alarm_clock: Update the [progress](https://nus-cs3281-{{ year }}.netlify.com/instructions.html#updating-your-project-progress) page.
 
 <!-- ----------------------------------------------------------------------------------- -->
 
