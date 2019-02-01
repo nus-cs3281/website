@@ -1,2 +1,13 @@
 2019-02-01T14:08:49.560Z - info: Website generation started at 22:08:49
 2019-02-01T14:08:50.547Z - info: Building assets...
+2019-02-01T14:08:50.866Z - info: Assets built
+2019-02-01T14:08:50.866Z - info: Generating pages...
+2019-02-01T14:08:51.656Z - info: Pages built
+2019-02-01T14:08:51.850Z - info: Website generation complete! Total build time: 2.809s
+2019-02-01T14:08:51.854Z - info: Generate Site durationMs=2813
+2019-02-01T14:08:51.870Z - info: Serving "C:\repos\nus-cs3281\website\_site" at http://127.0.0.1:8080
+2019-02-01T14:08:51.870Z - info: Press CTRL+C to stop ...
+2019-02-01T14:08:51.886Z - info: Site data built
+2019-02-01T14:11:14.563Z - info: Deployed!
+2019-02-01T14:21:59.791Z - info: Website generation started at 22:21:59
+2019-02-01T14:22:00.230Z - info: Building assets...
