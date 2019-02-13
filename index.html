@@ -6,15 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CS3281&amp;2 Thematic Systems Project I &amp; II</title>
-    <link rel="stylesheet" href="markbind\css\bootstrap.min.css">
-    <link rel="stylesheet" href="markbind\css\bootstrap-vue.min.css">
-    <link rel="stylesheet" href="markbind\css\font-awesome.min.css" >
-    <link rel="stylesheet" href="markbind\css\bootstrap-glyphicons.min.css" >
-    <link rel="stylesheet" href="markbind\css\github.min.css">
-    <link rel="stylesheet" href="markbind\css\markbind.css">
-    <link rel="stylesheet" href="markbind\layouts\default\styles.css">
+    <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+    <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+    <link rel="stylesheet" href="markbind/css/font-awesome.min.css" >
+    <link rel="stylesheet" href="markbind/css/bootstrap-glyphicons.min.css" >
+    <link rel="stylesheet" href="markbind/css/github.min.css">
+    <link rel="stylesheet" href="markbind/css/markbind.css">
+    <link rel="stylesheet" href="markbind/layouts/default/styles.css">
     
-    <link rel="stylesheet" href="markbind\css\page-nav.css">
+    <link rel="stylesheet" href="markbind/css/page-nav.css">
     <link rel="stylesheet" href="/website/css/main.css">
     <link rel="icon" href="/website/favicon.ico">
 </head>
@@ -23,7 +23,7 @@
     <nav id="page-nav" class="navbar navbar-light bg-transparent slim-scroll">
 
   <nav class="nav nav-pills flex-column my-0 small" style="flex-wrap: nowrap;">
-    <a class="nav-link py-1" href="#c-s3281-and-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
+    <a class="nav-link py-1" href="#cs3281-and-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
     <nav class="nav nav-pills flex-column my-0" style="margin-left: 5%; flex-wrap: nowrap;">
       <a class="nav-link py-1" href="#week-1-jan-14">Week 1 [Jan 14]&#x200E;</a>
       <a class="nav-link py-1" href="#week-2-jan-21">Week 2 [Jan 21]&#x200E;</a>
@@ -48,12 +48,13 @@
   <div id="content-wrapper">
     <div>
       <div>
-        <navbar placement="top" type="inverse">
+        <navbar placement="top" type="inverse" class="temp-navbar">
           <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
           <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
           <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
           <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-          <dropdown text="Links" class="nav-link">
+          <span class="nav-link temp-dropdown-placeholder">Links</span>
+          <dropdown text="Links" class="nav-link temp-dropdown">
             <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
             <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
             <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
@@ -69,7 +70,7 @@
         </navbar>
       </div>
       <div class="website-content">
-        <h1 id="c-s3281-and-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#c-s3281-and-2-schedule"></a></h1>
+        <h1 id="cs3281-and-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#cs3281-and-2-schedule"></a></h1>
         <ul>
           <li><a href="#week-1-jan-14">Week 1 [Jan 14]</a></li>
           <li><a href="#week-2-jan-21">Week 2 [Jan 21]</a></li>
@@ -305,9 +306,6 @@
           <li><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Lecture: Project-specific discussions</li>
         </ul>
 
-        <box>
-          <p><mark><strong><span class="fas fa-info-circle"></span> The schedule for the weeks below is from the previous year. To be updated along the way.</strong></mark></p>
-        </box>
         <h2 id="week-4-feb-4">Week 4 [Feb 4]<a class="fa fa-anchor" href="#week-4-feb-4"></a></h2>
         <h4 id="todo-3">Todo</h4>
         <ul>
@@ -392,6 +390,9 @@
         <p><strong>Recess</strong></p>
         <hr>
 
+        <box>
+          <p><mark><strong><span class="fas fa-info-circle"></span> The schedule for the weeks below is from the previous year. To be updated along the way.</strong></mark></p>
+        </box>
         <h2 id="week-7-mar-4">Week 7 [Mar 4]<a class="fa fa-anchor" href="#week-7-mar-4"></a></h2>
         <h4 id="todo-6">Todo</h4>
         <ul>
@@ -786,18 +787,19 @@
 <div id="flex-div"></div>
 <footer>
   <div class="text-center">
-    <small>This site was built with <a href="https://markbind.github.io/markbind/">MarkBind 1.17.1</a> at Sun, 03 Feb 2019 06:20:27 GMT</small></div>
+    <small>This site was built with <a href="https://markbind.github.io/markbind/">MarkBind 1.18.0</a> at Wed, 13 Feb 2019 07:55:25 GMT</small></div>
 </footer>
 </div>
 </body>
-<script src="markbind\js\vue.min.js"></script>
-<script src="markbind\js\vue-strap.min.js"></script>
-<script src="markbind\js\bootstrap-utility.min.js"></script>
-<script src="markbind\js\polyfill.min.js"></script>
-<script src="markbind\js\bootstrap-vue.min.js"></script>
+<script src="markbind/js/vue.min.js"></script>
+<script src="markbind/js/vue-strap.min.js"></script>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script src="markbind/js/polyfill.min.js"></script>
+<script src="markbind/js/bootstrap-vue.min.js"></script>
 <script>
     const baseUrl = '/website'
+    const enableSearch = true
 </script>
-<script src="markbind\js\setup.js"></script>
-<script src="markbind\layouts\default\scripts.js"></script>
+<script src="markbind/js/setup.js"></script>
+<script src="markbind/layouts/default/scripts.js"></script>
 </html>

@@ -3,7 +3,7 @@
   "pages": [
     {
       "headings": {
-        "c-s3281-and-2-call-for-application-a-y2018-19-semester-ii": "CS3281&amp;2 Call for Application - AY2018/19, Semester II",
+        "cs3281-and-2-call-for-application-ay2018-19-semester-ii": "CS3281&amp;2 Call for Application - AY2018/19, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
@@ -21,7 +21,7 @@
     },
     {
       "headings": {
-        "c-s3281-thematic-systems-project-i": "CS3281 : Thematic Systems Project I",
+        "cs3281-thematic-systems-project-i": "CS3281 : Thematic Systems Project I",
         "lectures": "Lectures",
         "external-project": "External Project",
         "expertise-areas": "Expertise Areas",
@@ -37,7 +37,7 @@
     },
     {
       "headings": {
-        "c-s3282-thematic-systems-projects-ii": "CS3282 : Thematic Systems Projects II",
+        "cs3282-thematic-systems-projects-ii": "CS3282 : Thematic Systems Projects II",
         "lectures": "Lectures",
         "projects": "Projects",
         "stage-1-learning": "Stage 1: Learning",
@@ -69,10 +69,10 @@
     },
     {
       "headings": {
-        "c-s3282-project-mentors": "CS3282 Project Mentors",
-        "mark-bind": "MarkBind",
-        "power-point-labs": "PowerPointLabs",
-        "repo-sense": "RepoSense",
+        "cs3282-project-mentors": "CS3282 Project Mentors",
+        "markbind": "MarkBind",
+        "powerpointlabs": "PowerPointLabs",
+        "reposense": "RepoSense",
         "se-edu": "SE-EDU",
         "teammates": "TEAMMATES"
       },
@@ -84,7 +84,7 @@
     },
     {
       "headings": {
-        "c-s3281-and-2-schedule": "CS3281&amp;2 Schedule",
+        "cs3281-and-2-schedule": "CS3281&amp;2 Schedule",
         "week-1-jan-14": "Week 1 [Jan 14]",
         "week-2-jan-21": "Week 2 [Jan 21]",
         "week-3-jan-28": "Week 3 [Jan 28]",
@@ -109,7 +109,7 @@
     },
     {
       "headings": {
-        "c-s3281-and-2-schedule": "CS3281&amp;2 Schedule",
+        "cs3281-and-2-schedule": "CS3281&amp;2 Schedule",
         "week-1-jan-14": "Week 1 [Jan 14]",
         "week-2-jan-21": "Week 2 [Jan 21]",
         "week-3-jan-28": "Week 3 [Jan 28]",
