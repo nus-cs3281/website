@@ -64,7 +64,7 @@
           <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
           <li slot="right" class="nav-link">
             <form class="navbar-form">
-              <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right=""></searchbar>
+              <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
             </form>
           </li>
         </navbar>
@@ -196,7 +196,7 @@
             </ul>
           </li>
         </ul>
-        <panel header="Some things to consider when preparing for the talk" expanded="" no-close="">
+        <panel header="Some things to consider when preparing for the talk" expanded no-close>
           <span id="tips-roundA">
             <box type="warning">
               <p>Give priority to applying the techniques covered in week 2 Monday lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
@@ -271,13 +271,13 @@
               </li>
             </ol>
           </span></panel>
-        <panel header="During the session" expanded="" no-close="">
+        <panel header="During the session" expanded no-close>
           <ul>
             <li>No laptops allowed during talks (except the speaker).</li>
             <li>Note down comments about the talk on paper (provided).</li>
           </ul>
         </panel>
-        <panel header="After the session" expanded="" no-close="">
+        <panel header="After the session" expanded no-close>
           <ul>
             <li>
               <p>⏰ by Monday midnight:</p>
@@ -312,7 +312,7 @@
           <li><span class="glyphicon glyphicon-check" aria-hidden="true"></span> If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.</li>
           <li><span class="glyphicon glyphicon-check" aria-hidden="true"></span> Get started with adding content to the <a href="https://github.com/se-edu/learningresources">learning resources repo</a> (aka 'book chapter' deliverable).</li>
         </ul>
-        <panel header="%%CS3281 » Deliverables →%%" expanded="" no-close="">
+        <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
           <div>
             <h4 id="book-chapter">Book Chapter</h4>
             <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
@@ -390,9 +390,16 @@
         <p><strong>Recess</strong></p>
         <hr>
 
-        <box>
-          <p><mark><strong><span class="fas fa-info-circle"></span> The schedule for the weeks below is from the previous year. To be updated along the way.</strong></mark></p>
-        </box>
+        <panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
+          <ul>
+            <li><strong>Team 1</strong>: Chelsey, Jacob, Marvin, Rahul</li>
+            <li><strong>Team 2</strong>: Si Jie, Bryan, Gilbert, Junming</li>
+            <li><strong>Team 3</strong>: Henry, Ronak, Amrut, Kenneth, Monika</li>
+            <li><strong>Team 4</strong>: Ayush, Shu Peng, Chunhui, Zhen Yong</li>
+            <li><strong>Team 5</strong>: Heng Yeow, Aadya, Jeremy, Chester, Wang Chao</li>
+          </ul>
+        </panel>
+        <br>
         <h2 id="week-7-mar-4">Week 7 [Mar 4]<a class="fa fa-anchor" href="#week-7-mar-4"></a></h2>
         <h4 id="todo-6">Todo</h4>
         <ul>
@@ -405,26 +412,15 @@
         </ul>
         <h4 id="monday-7">Monday</h4>
         <ul>
-          <li>
-            <p>Teams for 2nd half of the semester:</p>
-            <ul>
-              <li>Team 1: Wen Xin, Vivek, Alex, Lechuan, Haozhe</li>
-              <li>Team 2: Rachael, Lewis, Li Hao, Darren</li>
-              <li>Team 3: Joanne, Zhi Yuan, Shradheya, Jun An</li>
-              <li>Team 4: Cara, Daniel, Quoc Bao, Jun Kiat</li>
-              <li>Team 5: Yan Hwa, Nicholas, Chun Rong, Dat</li>
-            </ul>
-          </li>
-          <li>
-            <p><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Lightning Talks Round B - Part 1</p>
+          <li><span class="glyphicon glyphicon-blackboard" aria-hidden="true"></span> Lightning Talks Round B - Part 1
             <ul>
               <li>The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).</li>
-              <li>In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk.</li>
-              <li>In addition, aim for a more emphatic application of tips given for round A (see the panel below for a reference)</li>
+              <li>In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the <em>generic slide deck</em> pptx file, do take a look at it and make sure all its elements are also present in your slide deck.</li>
+              <li>In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)</li>
             </ul>
           </li>
         </ul>
-        <panel header="Tips for round B" expanded="" no-close="">
+        <panel header="Tips for round B" expanded no-close>
           <ul>
             <li>
               <p><strong>Make slides more visual</strong>:</p>
@@ -440,7 +436,7 @@
                 </li>
                 <li>
                   <p>📺 Given below is a video containing some slide design tips:</p>
-                  <div class="block-embed block-embed-service-youtube"><iframe type="text/html" src="//www.youtube.com/embed/_bMzItCJWq0" frameborder="0" width="640" height="390" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe></div>
+                  <div class="block-embed block-embed-service-youtube"><iframe type="text/html" src="//www.youtube.com/embed/_bMzItCJWq0" frameborder="0" width="640" height="390" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
                 </li>
               </ul>
             </li>
@@ -466,7 +462,7 @@
             </li>
           </ul>
         </panel>
-        <panel header="%%For reference: Tips from round A%%" no-close="">
+        <panel header="%%For reference: Tips from round A%%" no-close>
           <div>
             <box type="warning">
               <p>Give priority to applying the techniques covered in week 2 Monday lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
@@ -555,6 +551,9 @@
           </li>
         </ul>
 
+        <box>
+          <p><mark><strong><span class="fas fa-info-circle"></span> The schedule for the weeks below is from the previous year. To be updated along the way.</strong></mark></p>
+        </box>
         <h2 id="week-8-mar-11">Week 8 [Mar 11]<a class="fa fa-anchor" href="#week-8-mar-11"></a></h2>
         <h4 id="monday-8">Monday</h4>
         <ul>
@@ -647,7 +646,7 @@
             </ul>
           </li>
         </ul>
-        <panel type="danger" header="**Targets for LT Round C**" expanded="" no-close="">
+        <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
           <p>In this round you are <mark>expected to hit almost all targets(🎯)</mark> given below. You are recommended to follow tips (💡) given under each target closely.</p>
           <p><strong>Talk structure</strong></p>
           <ol>
@@ -787,7 +786,7 @@
 <div id="flex-div"></div>
 <footer>
   <div class="text-center">
-    <small>This site was built with <a href="https://markbind.github.io/markbind/">MarkBind 1.18.0</a> at Wed, 13 Feb 2019 07:55:25 GMT</small></div>
+    <small>This site was built with <a href="https://markbind.github.io/markbind/">MarkBind 1.19.0</a> at Thu, 21 Feb 2019 05:49:54 GMT</small></div>
 </footer>
 </div>
 </body>
