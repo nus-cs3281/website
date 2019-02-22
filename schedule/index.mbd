@@ -104,10 +104,7 @@ head: head.mbdf
 #### Monday
 
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
-  * Speaker order: chosen based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week.  
-    * Week 3: AMRUT, LI PENGCHENG (JACOB), SHU PENG, HENG YEOW, RAHUL, KENNETH, CHELSEY
-    * Week 4: MONIKA, CHUNHUI, JUNMING, SI JIE, JEREMY, HENRY, RONAK
-    * Week 5: WANG CHAO, ZHEN YONG, GILBERT, CHESTER, AYUSH, BRYAN, MARVIN, AADYAA
+  * See the **<a href="{{ org_site }}/{{ year }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week).
 
 
 <panel header="Some things to consider when preparing for the talk" expanded no-close>
@@ -273,7 +270,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
   
 #### Monday
 
-* {{ icon_lecture }} Lightning Talks Round B - Part 1
+* {{ icon_lecture }} Lightning Talks Round B - Part 1 (see <a href="{{ org_site }}/{{ year }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
   * The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).
   * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the _generic slide deck_ pptx file, do take a look at it and make sure all its elements are also present in your slide deck.
   * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
