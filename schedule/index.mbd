@@ -262,16 +262,20 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ## Week 7 [Mar 4]
 
+<box type="warning">
+
+For the internal project(s), avoid starting work that you are not confident of finishing by week 13. Not only **unmerged work will not earn credit** for the module, such work might affect your grade negatively because of the waste of mentor efforts it caused to the project. Of course work abandoned due to no fault of your own (e.g., senior devs decided later the direction is not worth pursuing) will still earn you credit.
+</box>
+
 #### Todo
 
 * :alarm_clock: by Monday
-  * Peer evaluations
   * Some progress expected on the external project
   
 #### Monday
 
 * {{ icon_lecture }} Lightning Talks Round B - Part 1 (see <a href="{{ org_site }}/{{ year }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
-  * The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).
+  * ~~The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).~~
   * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the _generic slide deck_ pptx file, do take a look at it and make sure all its elements are also present in your slide deck.
   * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
 
@@ -319,12 +323,10 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-<box>
-
-==**{{ icon_info }} The schedule for the weeks below is from the previous year. To be updated along the way.**==
-</box>
-
 ## Week 8 [Mar 11]
+
+* :alarm_clock: by Monday
+  * Peer evaluations
 
 #### Monday
 
@@ -363,7 +365,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
     1. [Optional] Suggested areas of improvement for the external project 
   * Submission:
-    * Add your observations to the file `nus-cs3281/{{ year }}/students/processObservations.md`.
+    * Add your observations to the file `nus-cs3281/{{ year }}/students/yourName/observations.md`.
     * Recommended length: about 0.5 - 1 A4 page
     * Deadline: Before week 10 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
@@ -406,7 +408,6 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
   * Venue SR1
   * No Q&A
-  * 10 speakers: Daniel, Joanne, Vivek, Bao, Dat, Li Hao, Jun Kiat, Darren, Yan Hwa, Rachael 
   
 
 <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
@@ -488,7 +489,6 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 #### Monday
 
 * {{ icon_lecture }} Lecture: Lightning Talks Round C - Part 2
-  * Speakers: Shradheya, Jun An, Lechuan, Zhi Yuan, Nicholas, Chun Rong, Cara, Alex, Lewis, Wen Xin, Haozhe
 
 #### Wednesday
 
