@@ -1,0 +1,1013 @@
+2019-03-18T08:50:50.797Z - info: Website generation started at 4:50:50 PM
+2019-03-18T08:50:51.066Z - info: Building assets...
+2019-03-18T08:50:51.378Z - info: Assets built
+2019-03-18T08:50:51.378Z - info: Generating pages...
+2019-03-18T08:50:51.546Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T08:50:52.050Z - info: Pages built
+2019-03-18T08:50:52.297Z - info: Website generation complete! Total build time: 1.652s
+2019-03-18T08:50:52.661Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T08:50:52.661Z - info: Press CTRL+C to stop ...
+2019-03-18T08:50:52.689Z - info: Site data built
+2019-03-18T08:59:07.187Z - info: [4:59:07 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T08:59:08.197Z - info: Rebuilding affected source files
+2019-03-18T08:59:08.245Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T08:59:08.247Z - info: Rebuilding 7 pages
+2019-03-18T08:59:08.356Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T08:59:08.866Z - info: Pages rebuilt
+2019-03-18T08:59:08.873Z - info: Site data built
+2019-03-18T09:02:51.543Z - info: [5:02:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:02:52.547Z - info: Rebuilding affected source files
+2019-03-18T09:02:52.587Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:02:52.588Z - info: Rebuilding 7 pages
+2019-03-18T09:02:52.640Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:02:53.108Z - info: Pages rebuilt
+2019-03-18T09:02:53.116Z - info: Site data built
+2019-03-18T09:03:34.353Z - info: [5:03:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:03:35.367Z - info: Rebuilding affected source files
+2019-03-18T09:03:35.405Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:03:35.406Z - info: Rebuilding 7 pages
+2019-03-18T09:03:35.512Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:03:35.976Z - info: Pages rebuilt
+2019-03-18T09:03:35.984Z - info: Site data built
+2019-03-18T09:04:02.003Z - info: Website generation started at 5:04:01 PM
+2019-03-18T09:04:02.289Z - info: Building assets...
+2019-03-18T09:04:02.531Z - info: Assets built
+2019-03-18T09:04:02.531Z - info: Generating pages...
+2019-03-18T09:04:02.704Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:04:03.213Z - info: Pages built
+2019-03-18T09:04:03.384Z - info: Website generation complete! Total build time: 1.546s
+2019-03-18T09:04:03.744Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T09:04:03.745Z - info: Press CTRL+C to stop ...
+2019-03-18T09:04:03.768Z - info: Site data built
+2019-03-18T09:05:34.332Z - info: [5:05:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T09:05:35.351Z - info: Rebuilding affected source files
+2019-03-18T09:05:35.352Z - info: Rebuilding 2 pages
+2019-03-18T09:05:35.874Z - info: Pages rebuilt
+2019-03-18T09:05:35.882Z - info: Site data built
+2019-03-18T09:06:03.899Z - info: [5:06:03 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T09:06:04.913Z - info: Rebuilding affected source files
+2019-03-18T09:06:04.914Z - info: Rebuilding 2 pages
+2019-03-18T09:06:05.393Z - info: Pages rebuilt
+2019-03-18T09:06:05.402Z - info: Site data built
+2019-03-18T09:06:37.901Z - info: [5:06:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:06:38.903Z - info: Rebuilding affected source files
+2019-03-18T09:06:38.945Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:06:38.946Z - info: Rebuilding 7 pages
+2019-03-18T09:06:39.043Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:06:39.546Z - info: Pages rebuilt
+2019-03-18T09:06:39.554Z - info: Site data built
+2019-03-18T09:07:13.141Z - info: Website generation started at 5:07:12 PM
+2019-03-18T09:07:13.402Z - info: Building assets...
+2019-03-18T09:07:13.629Z - info: Assets built
+2019-03-18T09:07:13.630Z - info: Generating pages...
+2019-03-18T09:07:13.761Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:07:14.291Z - info: Pages built
+2019-03-18T09:07:14.464Z - info: Website generation complete! Total build time: 1.485s
+2019-03-18T09:07:14.843Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T09:07:14.843Z - info: Press CTRL+C to stop ...
+2019-03-18T09:07:14.863Z - info: Site data built
+2019-03-18T09:08:50.467Z - info: [5:08:50 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:08:51.480Z - info: Rebuilding affected source files
+2019-03-18T09:08:51.522Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:08:51.524Z - info: Rebuilding 7 pages
+2019-03-18T09:08:51.616Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:08:52.159Z - info: Pages rebuilt
+2019-03-18T09:08:52.167Z - info: Site data built
+2019-03-18T09:10:02.050Z - info: [5:10:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:10:03.050Z - info: Rebuilding affected source files
+2019-03-18T09:10:03.073Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:10:03.074Z - info: Rebuilding 7 pages
+2019-03-18T09:10:03.146Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:10:03.653Z - info: Pages rebuilt
+2019-03-18T09:10:03.662Z - info: Site data built
+2019-03-18T09:10:16.403Z - info: [5:10:16 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:10:17.407Z - info: Rebuilding affected source files
+2019-03-18T09:10:17.420Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:10:17.422Z - info: Rebuilding 7 pages
+2019-03-18T09:10:17.467Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:10:18.088Z - info: Pages rebuilt
+2019-03-18T09:10:18.098Z - info: Site data built
+2019-03-18T09:11:27.236Z - info: [5:11:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:11:28.237Z - info: Rebuilding affected source files
+2019-03-18T09:11:28.271Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:11:28.272Z - info: Rebuilding 7 pages
+2019-03-18T09:11:28.382Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:11:28.839Z - info: Pages rebuilt
+2019-03-18T09:11:28.849Z - info: Site data built
+2019-03-18T09:11:41.253Z - info: [5:11:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:11:42.260Z - info: Rebuilding affected source files
+2019-03-18T09:11:42.296Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:11:42.297Z - info: Rebuilding 7 pages
+2019-03-18T09:11:42.335Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:11:42.834Z - info: Pages rebuilt
+2019-03-18T09:11:42.843Z - info: Site data built
+2019-03-18T09:22:04.779Z - info: [5:22:04 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:22:05.792Z - info: Rebuilding affected source files
+2019-03-18T09:22:05.793Z - info: Rebuilding 3 pages
+2019-03-18T09:22:05.885Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:22:06.289Z - info: Pages rebuilt
+2019-03-18T09:22:06.302Z - info: Site data built
+2019-03-18T09:22:28.233Z - info: [5:22:28 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:22:29.234Z - info: Rebuilding affected source files
+2019-03-18T09:22:29.236Z - info: Rebuilding 3 pages
+2019-03-18T09:22:29.288Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:22:29.687Z - info: Pages rebuilt
+2019-03-18T09:22:29.697Z - info: Site data built
+2019-03-18T09:22:40.842Z - info: [5:22:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:22:41.864Z - info: Rebuilding affected source files
+2019-03-18T09:22:41.865Z - info: Rebuilding 3 pages
+2019-03-18T09:22:41.946Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:22:42.334Z - info: Pages rebuilt
+2019-03-18T09:22:42.344Z - info: Site data built
+2019-03-18T09:22:48.106Z - info: [5:22:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:22:49.124Z - info: Rebuilding affected source files
+2019-03-18T09:22:49.125Z - info: Rebuilding 3 pages
+2019-03-18T09:22:49.160Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:22:49.392Z - info: Pages rebuilt
+2019-03-18T09:22:49.409Z - info: Site data built
+2019-03-18T09:23:20.750Z - info: [5:23:20 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:23:21.757Z - info: Rebuilding affected source files
+2019-03-18T09:23:21.758Z - info: Rebuilding 3 pages
+2019-03-18T09:23:21.800Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:322:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+2019-03-18T09:23:21.874Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:322:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+2019-03-18T09:23:22.250Z - info: Pages rebuilt
+2019-03-18T09:23:22.264Z - info: Site data built
+2019-03-18T09:24:13.604Z - info: Website generation started at 5:24:13 PM
+2019-03-18T09:24:13.874Z - info: Building assets...
+2019-03-18T09:24:14.098Z - info: Assets built
+2019-03-18T09:24:14.098Z - info: Generating pages...
+2019-03-18T09:24:14.268Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:322:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+2019-03-18T09:24:14.310Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:322:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+2019-03-18T09:24:14.767Z - info: Pages built
+2019-03-18T09:24:14.940Z - info: Website generation complete! Total build time: 1.493s
+2019-03-18T09:24:15.306Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T09:24:15.306Z - info: Press CTRL+C to stop ...
+2019-03-18T09:24:15.331Z - info: Site data built
+2019-03-18T09:24:45.329Z - info: [5:24:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:24:46.331Z - info: Rebuilding affected source files
+2019-03-18T09:24:46.333Z - info: Rebuilding 3 pages
+2019-03-18T09:24:46.416Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:24:46.842Z - info: Pages rebuilt
+2019-03-18T09:24:46.852Z - info: Site data built
+2019-03-18T09:25:56.769Z - info: Website generation started at 5:25:56 PM
+2019-03-18T09:25:57.026Z - info: Building assets...
+2019-03-18T09:25:57.253Z - info: Assets built
+2019-03-18T09:25:57.253Z - info: Generating pages...
+2019-03-18T09:25:57.416Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:25:57.940Z - info: Pages built
+2019-03-18T09:25:58.115Z - info: Website generation complete! Total build time: 1.506s
+2019-03-18T09:25:58.472Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T09:25:58.472Z - info: Press CTRL+C to stop ...
+2019-03-18T09:25:58.494Z - info: Site data built
+2019-03-18T09:27:47.483Z - info: [5:27:47 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:27:48.505Z - info: Rebuilding affected source files
+2019-03-18T09:27:48.548Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:27:48.549Z - info: Rebuilding 7 pages
+2019-03-18T09:27:48.607Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:27:49.161Z - info: Pages rebuilt
+2019-03-18T09:27:49.170Z - info: Site data built
+2019-03-18T09:28:27.762Z - info: [5:28:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:28:28.763Z - info: Rebuilding affected source files
+2019-03-18T09:28:28.763Z - info: Rebuilding 3 pages
+2019-03-18T09:28:28.862Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:28:29.286Z - info: Pages rebuilt
+2019-03-18T09:28:29.296Z - info: Site data built
+2019-03-18T09:29:45.211Z - info: [5:29:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:29:45.220Z - info: [5:29:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T09:29:46.212Z - info: Rebuilding affected source files
+2019-03-18T09:29:46.252Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:29:46.254Z - info: Rebuilding 7 pages
+2019-03-18T09:29:46.335Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:29:46.798Z - info: Pages rebuilt
+2019-03-18T09:29:46.807Z - info: Site data built
+2019-03-18T09:30:20.081Z - info: Website generation started at 5:30:19 PM
+2019-03-18T09:30:20.334Z - info: Building assets...
+2019-03-18T09:30:20.555Z - info: Assets built
+2019-03-18T09:30:20.555Z - info: Generating pages...
+2019-03-18T09:30:20.740Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:30:21.206Z - info: Pages built
+2019-03-18T09:30:21.373Z - info: Website generation complete! Total build time: 1.443s
+2019-03-18T09:30:21.734Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-03-18T09:30:21.735Z - info: Press CTRL+C to stop ...
+2019-03-18T09:30:21.759Z - info: Site data built
+2019-03-18T09:32:55.461Z - info: [5:32:55 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:32:56.481Z - info: Rebuilding affected source files
+2019-03-18T09:32:56.483Z - info: Rebuilding 3 pages
+2019-03-18T09:32:56.543Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:32:56.951Z - info: Pages rebuilt
+2019-03-18T09:32:56.959Z - info: Site data built
+2019-03-18T09:33:17.338Z - info: [5:33:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:33:18.350Z - info: Rebuilding affected source files
+2019-03-18T09:33:18.351Z - info: Rebuilding 3 pages
+2019-03-18T09:33:18.391Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:33:18.778Z - info: Pages rebuilt
+2019-03-18T09:33:18.787Z - info: Site data built
+2019-03-18T09:33:25.837Z - info: [5:33:25 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:33:26.850Z - info: Rebuilding affected source files
+2019-03-18T09:33:26.851Z - info: Rebuilding 3 pages
+2019-03-18T09:33:26.900Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:33:27.350Z - info: Pages rebuilt
+2019-03-18T09:33:27.367Z - info: Site data built
+2019-03-18T09:33:34.474Z - info: [5:33:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:33:35.476Z - info: Rebuilding affected source files
+2019-03-18T09:33:35.478Z - info: Rebuilding 3 pages
+2019-03-18T09:33:35.507Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:33:35.762Z - info: Pages rebuilt
+2019-03-18T09:33:35.771Z - info: Site data built
+2019-03-18T09:33:43.338Z - info: [5:33:43 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:33:44.357Z - info: Rebuilding affected source files
+2019-03-18T09:33:44.358Z - info: Rebuilding 3 pages
+2019-03-18T09:33:44.384Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:33:44.827Z - info: Pages rebuilt
+2019-03-18T09:33:44.840Z - info: Site data built
+2019-03-18T09:33:50.170Z - info: [5:33:50 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:33:51.177Z - info: Rebuilding affected source files
+2019-03-18T09:33:51.178Z - info: Rebuilding 3 pages
+2019-03-18T09:33:51.225Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:33:51.525Z - info: Pages rebuilt
+2019-03-18T09:33:51.534Z - info: Site data built
+2019-03-18T09:34:05.627Z - info: [5:34:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:34:06.636Z - info: Rebuilding affected source files
+2019-03-18T09:34:06.637Z - info: Rebuilding 3 pages
+2019-03-18T09:34:06.649Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:34:07.182Z - info: Pages rebuilt
+2019-03-18T09:34:07.193Z - info: Site data built
+2019-03-18T09:34:26.210Z - info: [5:34:26 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:34:27.218Z - info: Rebuilding affected source files
+2019-03-18T09:34:27.219Z - info: Rebuilding 3 pages
+2019-03-18T09:34:27.228Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:34:27.610Z - info: Pages rebuilt
+2019-03-18T09:34:27.621Z - info: Site data built
+2019-03-18T09:34:45.586Z - info: [5:34:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:34:46.598Z - info: Rebuilding affected source files
+2019-03-18T09:34:46.599Z - info: Rebuilding 3 pages
+2019-03-18T09:34:46.980Z - info: Pages rebuilt
+2019-03-18T09:34:46.991Z - info: Site data built
+2019-03-18T09:35:08.274Z - info: [5:35:08 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:35:09.287Z - info: Rebuilding affected source files
+2019-03-18T09:35:09.289Z - info: Rebuilding 3 pages
+2019-03-18T09:35:09.317Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:35:09.671Z - info: Pages rebuilt
+2019-03-18T09:35:09.686Z - info: Site data built
+2019-03-18T09:35:27.921Z - info: [5:35:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:35:28.927Z - info: Rebuilding affected source files
+2019-03-18T09:35:28.928Z - info: Rebuilding 3 pages
+2019-03-18T09:35:29.285Z - info: Pages rebuilt
+2019-03-18T09:35:29.293Z - info: Site data built
+2019-03-18T09:35:49.324Z - info: [5:35:49 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:35:50.325Z - info: Rebuilding affected source files
+2019-03-18T09:35:50.326Z - info: Rebuilding 3 pages
+2019-03-18T09:35:50.366Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:35:50.692Z - info: Pages rebuilt
+2019-03-18T09:35:50.701Z - info: Site data built
+2019-03-18T09:36:02.403Z - info: [5:36:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:36:03.405Z - info: Rebuilding affected source files
+2019-03-18T09:36:03.406Z - info: Rebuilding 3 pages
+2019-03-18T09:36:03.867Z - info: Pages rebuilt
+2019-03-18T09:36:03.878Z - info: Site data built
+2019-03-18T09:36:11.108Z - info: [5:36:11 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:36:12.109Z - info: Rebuilding affected source files
+2019-03-18T09:36:12.111Z - info: Rebuilding 3 pages
+2019-03-18T09:36:12.156Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:36:12.488Z - info: Pages rebuilt
+2019-03-18T09:36:12.496Z - info: Site data built
+2019-03-18T09:37:17.219Z - info: [5:37:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:37:18.220Z - info: Rebuilding affected source files
+2019-03-18T09:37:18.220Z - info: Rebuilding 3 pages
+2019-03-18T09:37:18.254Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:37:18.522Z - info: Pages rebuilt
+2019-03-18T09:37:18.530Z - info: Site data built
+2019-03-18T09:37:30.010Z - info: [5:37:30 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:37:31.011Z - info: Rebuilding affected source files
+2019-03-18T09:37:31.017Z - info: Rebuilding 3 pages
+2019-03-18T09:37:31.410Z - info: Pages rebuilt
+2019-03-18T09:37:31.418Z - info: Site data built
+2019-03-18T09:37:59.562Z - info: [5:37:59 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:38:00.564Z - info: Rebuilding affected source files
+2019-03-18T09:38:00.566Z - info: Rebuilding 3 pages
+2019-03-18T09:38:00.577Z - error:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+Error while preprocessing 'C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd'
+    at assertPath (path.js:39:11)
+    at Object.relative (path.js:498:5)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:393:62)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:398:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:499:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:496:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+2019-03-18T09:38:00.985Z - info: Pages rebuilt
+2019-03-18T09:38:00.994Z - info: Site data built
+2019-03-18T09:46:27.333Z - info: [5:46:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-03-18T09:46:28.335Z - info: Rebuilding affected source files
+2019-03-18T09:46:28.336Z - info: Rebuilding 3 pages
+2019-03-18T09:46:28.884Z - info: Pages rebuilt
+2019-03-18T09:46:28.895Z - info: Site data built
+2019-03-18T09:48:16.903Z - info: [5:48:16 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2019-03-18T09:48:16.914Z - info: [5:48:16 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T09:48:17.903Z - info: Rebuilding affected source files
+2019-03-18T09:48:17.949Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-03-18T09:48:17.951Z - info: Rebuilding 7 pages
+2019-03-18T09:48:18.527Z - info: Pages rebuilt
+2019-03-18T09:48:18.534Z - info: Site data built
+2019-03-18T10:34:32.689Z - info: [6:34:32 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:34:33.690Z - info: Rebuilding affected source files
+2019-03-18T10:34:33.690Z - info: Rebuilding 2 pages
+2019-03-18T10:34:33.745Z - info: [6:34:33 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+2019-03-18T10:34:33.745Z - info: [6:34:33 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\footers\footer.mbdf
+2019-03-18T10:34:33.783Z - info: [6:34:33 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.mbd
+2019-03-18T10:34:33.956Z - info: [6:34:33 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\head\head.mbdf
+2019-03-18T10:34:34.025Z - info: Pages rebuilt
+2019-03-18T10:34:34.033Z - info: Site data built
+2019-03-18T10:34:34.747Z - info: Rebuilding affected source files
+2019-03-18T10:34:34.749Z - info: Rebuilding 7 pages
+2019-03-18T10:34:34.818Z - info: [6:34:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-03-18T10:34:34.861Z - info: [6:34:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-03-18T10:34:34.880Z - info: [6:34:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-03-18T10:34:34.887Z - info: [6:34:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-03-18T10:34:35.219Z - info: Pages rebuilt
+2019-03-18T10:34:35.226Z - info: Site data built
+2019-03-18T10:34:35.831Z - info: Rebuilding affected source files
+2019-03-18T10:34:35.832Z - info: Rebuilding 4 pages
+2019-03-18T10:34:35.998Z - info: Pages rebuilt
+2019-03-18T10:34:36.005Z - info: Site data built
+2019-03-18T10:37:02.772Z - info: [6:37:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:37:03.772Z - info: Rebuilding affected source files
+2019-03-18T10:37:03.774Z - info: Rebuilding 2 pages
+2019-03-18T10:37:04.226Z - info: Pages rebuilt
+2019-03-18T10:37:04.233Z - info: Site data built
+2019-03-18T10:37:25.554Z - info: [6:37:25 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:37:26.555Z - info: Rebuilding affected source files
+2019-03-18T10:37:26.556Z - info: Rebuilding 2 pages
+2019-03-18T10:37:26.976Z - info: Pages rebuilt
+2019-03-18T10:37:26.984Z - info: Site data built
+2019-03-18T10:38:17.061Z - info: [6:38:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:38:18.062Z - info: Rebuilding affected source files
+2019-03-18T10:38:18.063Z - info: Rebuilding 2 pages
+2019-03-18T10:38:18.529Z - info: Pages rebuilt
+2019-03-18T10:38:18.536Z - info: Site data built
+2019-03-18T10:38:52.780Z - info: [6:38:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:38:53.780Z - info: Rebuilding affected source files
+2019-03-18T10:38:53.781Z - info: Rebuilding 2 pages
+2019-03-18T10:38:54.322Z - info: Pages rebuilt
+2019-03-18T10:38:54.332Z - info: Site data built
+2019-03-18T10:39:29.207Z - info: [6:39:29 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-03-18T10:39:30.207Z - info: Rebuilding affected source files
+2019-03-18T10:39:30.207Z - info: Rebuilding 2 pages
+2019-03-18T10:39:30.515Z - info: Pages rebuilt
+2019-03-18T10:39:30.524Z - info: Site data built
+2019-03-18T10:40:17.470Z - info: Website generation started at 6:40:17 PM
+2019-03-18T10:40:17.763Z - info: Building assets...
