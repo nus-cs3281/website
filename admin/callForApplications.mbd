@@ -1,12 +1,11 @@
 <frontmatter>
 title: "CS3281&2 Call for Applications"
 keywords: Structure, Workload, Enrollment, Assessment, FAQ
+header: topnav.md
 pageNav: 2
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
-
-<include src="../common/header.mbdf" />
 
 <div class="website-content">
 

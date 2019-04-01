@@ -1,10 +1,9 @@
 <frontmatter>
 title: "Expert Areas Related to Internal Projects"
+header: topnav.md
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
-
-<include src="../common/header.mbdf" />
 
 <div class="website-content">
 

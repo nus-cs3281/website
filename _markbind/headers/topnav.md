@@ -1,3 +1,4 @@
+<header>
 <navbar placement="top" type="inverse">
   <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">[CS3281&2 - {{ year }}]</a>
   <li><a href="{{baseUrl}}/schedule/index.html" class="nav-link">Schedule</a></li>
@@ -20,3 +21,4 @@
     </form>
   </li>
 </navbar>
+</header>

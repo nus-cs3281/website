@@ -1,12 +1,11 @@
 <frontmatter>
 title: "CS3282 Module Info"
 keywords: Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations
+header: topnav.md
 pageNav: 2
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
-
-<include src="../common/header.mbdf" />
 
 <div class="website-content">
 
