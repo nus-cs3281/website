@@ -13,6 +13,7 @@
       },
       "title": "CS3281&2 Call for Applications",
       "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
+      "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
@@ -29,6 +30,7 @@
         "pre-module-preparations": "Pre-Module Preparations"
       },
       "title": "CS3281 Module Info",
+      "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
@@ -49,6 +51,7 @@
       },
       "title": "CS3282 Module Info",
       "keywords": "Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations",
+      "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
@@ -62,6 +65,7 @@
         "tools-tech-topics": "Tools, Tech Topics"
       },
       "title": "Expert Areas Related to Internal Projects",
+      "header": "topnav.md",
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/expertAreas.mbd",
@@ -77,6 +81,7 @@
         "teammates": "TEAMMATES"
       },
       "title": "Mentors",
+      "header": "topnav.md",
       "footer": "footer.mbdf",
       "head": "head.mbdf",
       "src": "admin/mentors.mbd",
@@ -101,6 +106,7 @@
         "reading-week-apr-22": "Reading Week [Apr 22]"
       },
       "title": "CS3281&2 Thematic Systems Project I & II",
+      "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",
@@ -126,6 +132,7 @@
         "reading-week-apr-22": "Reading Week [Apr 22]"
       },
       "title": "CS3281&2 Thematic Systems Project I & II",
+      "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
       "head": "head.mbdf",

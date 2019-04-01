@@ -1,0 +1,134 @@
+2019-04-01T08:13:48.277Z - info: Website generation started at 4:13:48 PM
+2019-04-01T08:13:48.599Z - info: Building assets...
+2019-04-01T08:13:48.919Z - info: Assets built
+2019-04-01T08:13:48.919Z - info: Generating pages...
+2019-04-01T08:13:49.672Z - info: Pages built
+2019-04-01T08:13:49.909Z - info: Website generation complete! Total build time: 1.804s
+2019-04-01T08:13:50.285Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-04-01T08:13:50.285Z - info: Press CTRL+C to stop ...
+2019-04-01T08:13:50.306Z - info: Site data built
+2019-04-01T08:15:42.630Z - info: [4:15:42 PM] Reload for file add: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T08:15:43.640Z - warn: Rebuilding all source files
+2019-04-01T08:15:44.679Z - info: Assets removed
+2019-04-01T08:15:44.679Z - info: Generating pages...
+2019-04-01T08:15:45.316Z - info: Pages built
+2019-04-01T08:16:41.245Z - info: [4:16:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T08:16:41.251Z - info: [4:16:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+2019-04-01T08:16:42.260Z - info: Rebuilding affected source files
+2019-04-01T08:16:42.262Z - info: Rebuilding 7 pages
+2019-04-01T08:16:42.995Z - info: Pages rebuilt
+2019-04-01T08:16:43.005Z - info: Site data built
+2019-04-01T08:17:20.975Z - info: [4:17:20 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-04-01T08:17:21.982Z - info: Rebuilding affected source files
+2019-04-01T08:17:21.983Z - info: Rebuilding 2 pages
+2019-04-01T08:17:22.566Z - info: Pages rebuilt
+2019-04-01T08:17:22.574Z - info: Site data built
+2019-04-01T08:22:34.051Z - info: [4:22:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-04-01T08:22:34.057Z - info: [4:22:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-04-01T08:22:34.065Z - info: [4:22:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-04-01T08:22:34.073Z - info: [4:22:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-04-01T08:22:34.079Z - info: [4:22:34 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-04-01T08:22:35.053Z - info: Rebuilding affected source files
+2019-04-01T08:22:35.057Z - info: Rebuilding 7 pages
+2019-04-01T08:22:35.752Z - info: Pages rebuilt
+2019-04-01T08:22:35.765Z - info: Site data built
+2019-04-01T08:58:15.845Z - info: [4:58:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T08:58:16.848Z - info: Rebuilding affected source files
+2019-04-01T08:58:16.849Z - info: Rebuilding 7 pages
+2019-04-01T08:58:17.529Z - info: Pages rebuilt
+2019-04-01T08:58:17.539Z - info: Site data built
+2019-04-01T08:58:45.079Z - info: [4:58:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T08:58:46.083Z - info: Rebuilding affected source files
+2019-04-01T08:58:46.086Z - info: Rebuilding 7 pages
+2019-04-01T08:58:46.731Z - info: Pages rebuilt
+2019-04-01T08:58:46.741Z - info: Site data built
+2019-04-01T08:58:59.511Z - info: [4:58:59 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T08:59:00.526Z - info: Rebuilding affected source files
+2019-04-01T08:59:00.528Z - info: Rebuilding 7 pages
+2019-04-01T08:59:01.067Z - info: Pages rebuilt
+2019-04-01T08:59:01.074Z - info: Site data built
+2019-04-01T09:00:58.596Z - info: [5:00:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:00:59.597Z - info: Rebuilding affected source files
+2019-04-01T09:00:59.598Z - info: Rebuilding 7 pages
+2019-04-01T09:01:00.324Z - info: Pages rebuilt
+2019-04-01T09:01:00.331Z - info: Site data built
+2019-04-01T09:01:19.477Z - info: [5:01:19 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:01:20.492Z - info: Rebuilding affected source files
+2019-04-01T09:01:20.493Z - info: Rebuilding 7 pages
+2019-04-01T09:01:21.091Z - info: Pages rebuilt
+2019-04-01T09:01:21.107Z - info: Site data built
+2019-04-01T09:02:01.368Z - info: [5:02:01 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:02:02.372Z - info: Rebuilding affected source files
+2019-04-01T09:02:02.374Z - info: Rebuilding 7 pages
+2019-04-01T09:02:02.958Z - info: Pages rebuilt
+2019-04-01T09:02:02.964Z - info: Site data built
+2019-04-01T09:03:27.680Z - info: [5:03:27 PM] Reload for file deletion: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+2019-04-01T09:03:28.688Z - warn: Rebuilding all source files
+2019-04-01T09:03:29.752Z - info: Assets removed
+2019-04-01T09:03:29.753Z - info: Generating pages...
+2019-04-01T09:03:29.841Z - error:  Error: No such file: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+Missing reference in C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:208:21)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:497:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:494:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:536:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-04-01T09:03:30.370Z - info: Pages built
+2019-04-01T09:03:46.325Z - info: Website generation started at 5:03:46 PM
+2019-04-01T09:03:46.561Z - info: Building assets...
+2019-04-01T09:03:46.773Z - info: Assets built
+2019-04-01T09:03:46.773Z - info: Generating pages...
+2019-04-01T09:03:46.834Z - error:  Error: No such file: C:\repos\nus-cs3281\cs3281-website\common\header.mbdf
+Missing reference in C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:208:21)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:497:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:494:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:536:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-04-01T09:03:47.496Z - info: Pages built
+2019-04-01T09:03:47.675Z - info: Website generation complete! Total build time: 1.502s
+2019-04-01T09:03:48.022Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-04-01T09:03:48.022Z - info: Press CTRL+C to stop ...
+2019-04-01T09:03:48.045Z - info: Site data built
+2019-04-01T09:04:32.671Z - info: [5:04:32 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-04-01T09:04:33.676Z - info: Rebuilding affected source files
+2019-04-01T09:04:33.677Z - info: Rebuilding 3 pages
+2019-04-01T09:04:34.269Z - info: Pages rebuilt
+2019-04-01T09:04:34.283Z - info: Site data built
+2019-04-01T09:04:40.968Z - info: Website generation started at 5:04:40 PM
+2019-04-01T09:04:41.222Z - info: Building assets...
+2019-04-01T09:04:41.451Z - info: Assets built
+2019-04-01T09:04:41.452Z - info: Generating pages...
+2019-04-01T09:04:42.151Z - info: Pages built
+2019-04-01T09:04:42.332Z - info: Website generation complete! Total build time: 1.522s
+2019-04-01T09:04:42.682Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-04-01T09:04:42.683Z - info: Press CTRL+C to stop ...
+2019-04-01T09:04:42.701Z - info: Site data built
+2019-04-01T09:07:48.066Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-04-01T09:07:48.072Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-04-01T09:07:48.077Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-04-01T09:07:48.083Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-04-01T09:07:48.087Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-04-01T09:07:48.092Z - info: [5:07:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-04-01T09:07:49.068Z - info: Rebuilding affected source files
+2019-04-01T09:07:49.071Z - info: Rebuilding 7 pages
+2019-04-01T09:07:49.676Z - info: Pages rebuilt
+2019-04-01T09:07:49.684Z - info: Site data built
+2019-04-01T09:08:09.940Z - info: Website generation started at 5:08:09 PM
+2019-04-01T09:08:10.184Z - info: Building assets...
