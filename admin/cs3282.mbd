@@ -7,8 +7,6 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-<div class="website-content">
-
 # CS3282 : Thematic Systems Projects II
 
 CS3282 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2: Contributing_, _Stage 3: Managing_.
@@ -134,6 +132,4 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 ---
 
 <sub>[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.</sub>
-
-</div>
 

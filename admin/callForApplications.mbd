@@ -7,8 +7,6 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-<div class="website-content">
-
 # CS3281&2 Call for Application - AY20{{ AY }}, Semester II
  
 CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Large Projects_**) aim to build up your ability to work with large, complex systems that you will likely encounter in future as a Software Engineer, towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry.
@@ -107,5 +105,3 @@ The outcome of all applications are expected to be **released via email around 1
 ## Have a Question?
 
 Please direct any questions to CS3281&2 module coordinator [Dr Damith Rajapakse](http://www.comp.nus.edu.sg/~damithch) `damith [at] comp.nus.edu.sg`
-
-</div>

@@ -6,8 +6,6 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-<div class="website-content">
-
 # CS3281 : Thematic Systems Project I
 
 CS3281 has two main parts: [External Project](#external-project), [Expertise Areas](#expertise-areas)
@@ -143,5 +141,4 @@ One important way you can establish credibility as an 'Expert' is by educating o
 * Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them.
   Even work done before the semester can count for module grading.
 
-</div>
 

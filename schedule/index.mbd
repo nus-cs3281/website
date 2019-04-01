@@ -6,8 +6,6 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-<div class="website-content">
-
 # CS3281&2 Schedule
 
 * [Week 1 [Jan 14]](#week-1-jan-14)
@@ -501,6 +499,4 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 * Exit interviews (Schedule TBD)
 
-
-</div>
 

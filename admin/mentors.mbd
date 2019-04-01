@@ -5,8 +5,6 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-<div class="website-content">
-
 # CS3282 Project Mentors
 
 ## MarkBind
@@ -54,5 +52,4 @@ head: head.mbdf
 
 <small>%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.%%</small>
 
-</div>
 
