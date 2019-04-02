@@ -14,5 +14,6 @@
     "*.mbdf",
     ".git/*"
   ],
-  "headingIndexingLevel": 2
+  "headingIndexingLevel": 2,
+  "theme": "bootswatch-pulse"
 }

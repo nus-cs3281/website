@@ -1,5 +1,5 @@
 <header>
-<navbar placement="top" type="inverse">
+<navbar placement="top" type="primary">
   <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">[CS3281&2 - {{ year }}]</a>
   <li><a href="{{baseUrl}}/schedule/index.html" class="nav-link">Schedule</a></li>
   
