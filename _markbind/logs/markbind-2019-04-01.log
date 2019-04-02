@@ -132,3 +132,116 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
 2019-04-01T09:07:49.684Z - info: Site data built
 2019-04-01T09:08:09.940Z - info: Website generation started at 5:08:09 PM
 2019-04-01T09:08:10.184Z - info: Building assets...
+2019-04-01T09:08:10.402Z - info: Assets built
+2019-04-01T09:08:10.402Z - info: Generating pages...
+2019-04-01T09:08:11.114Z - info: Pages built
+2019-04-01T09:08:11.284Z - info: Website generation complete! Total build time: 1.485s
+2019-04-01T09:08:11.632Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-04-01T09:08:11.632Z - info: Press CTRL+C to stop ...
+2019-04-01T09:08:11.653Z - info: Site data built
+2019-04-01T09:11:51.885Z - info: [5:11:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:11:52.887Z - info: Rebuilding affected source files
+2019-04-01T09:11:52.889Z - info: Rebuilding 7 pages
+2019-04-01T09:11:53.598Z - info: Pages rebuilt
+2019-04-01T09:11:53.613Z - info: Site data built
+2019-04-01T09:12:20.590Z - info: [5:12:20 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:12:21.604Z - info: Rebuilding affected source files
+2019-04-01T09:12:21.605Z - info: Rebuilding 7 pages
+2019-04-01T09:12:22.368Z - info: Pages rebuilt
+2019-04-01T09:12:22.380Z - info: Site data built
+2019-04-01T09:12:32.635Z - info: [5:12:32 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:12:33.637Z - info: Rebuilding affected source files
+2019-04-01T09:12:33.639Z - info: Rebuilding 7 pages
+2019-04-01T09:12:34.301Z - info: Pages rebuilt
+2019-04-01T09:12:34.315Z - info: Site data built
+2019-04-01T09:12:42.736Z - info: [5:12:42 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:12:43.746Z - info: Rebuilding affected source files
+2019-04-01T09:12:43.747Z - info: Rebuilding 7 pages
+2019-04-01T09:12:44.224Z - info: Pages rebuilt
+2019-04-01T09:12:44.233Z - info: Site data built
+2019-04-01T09:12:58.483Z - info: [5:12:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:12:59.487Z - info: Rebuilding affected source files
+2019-04-01T09:12:59.488Z - info: Rebuilding 7 pages
+2019-04-01T09:13:00.100Z - info: Pages rebuilt
+2019-04-01T09:13:00.109Z - info: Site data built
+2019-04-01T09:14:26.030Z - info: [5:14:26 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:14:27.043Z - info: Rebuilding affected source files
+2019-04-01T09:14:27.047Z - info: Rebuilding 7 pages
+2019-04-01T09:14:27.701Z - info: Pages rebuilt
+2019-04-01T09:14:27.721Z - info: Site data built
+2019-04-01T09:14:38.221Z - info: [5:14:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:14:39.233Z - info: Rebuilding affected source files
+2019-04-01T09:14:39.235Z - info: Rebuilding 7 pages
+2019-04-01T09:14:39.780Z - info: Pages rebuilt
+2019-04-01T09:14:39.788Z - info: Site data built
+2019-04-01T09:15:11.419Z - info: [5:15:11 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:15:12.420Z - info: Rebuilding affected source files
+2019-04-01T09:15:12.421Z - info: Rebuilding 7 pages
+2019-04-01T09:15:13.047Z - info: Pages rebuilt
+2019-04-01T09:15:13.061Z - info: Site data built
+2019-04-01T09:15:21.471Z - info: [5:15:21 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:15:22.473Z - info: Rebuilding affected source files
+2019-04-01T09:15:22.475Z - info: Rebuilding 7 pages
+2019-04-01T09:15:23.134Z - info: Pages rebuilt
+2019-04-01T09:15:23.147Z - info: Site data built
+2019-04-01T09:15:32.333Z - info: [5:15:32 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:15:33.348Z - info: Rebuilding affected source files
+2019-04-01T09:15:33.350Z - info: Rebuilding 7 pages
+2019-04-01T09:15:34.017Z - info: Pages rebuilt
+2019-04-01T09:15:34.033Z - info: Site data built
+2019-04-01T09:15:42.017Z - info: [5:15:42 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:15:43.030Z - info: Rebuilding affected source files
+2019-04-01T09:15:43.031Z - info: Rebuilding 7 pages
+2019-04-01T09:15:43.711Z - info: Pages rebuilt
+2019-04-01T09:15:43.720Z - info: Site data built
+2019-04-01T09:16:31.181Z - info: [5:16:31 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:16:32.183Z - info: Rebuilding affected source files
+2019-04-01T09:16:32.184Z - info: Rebuilding 7 pages
+2019-04-01T09:16:32.886Z - info: Pages rebuilt
+2019-04-01T09:16:32.898Z - info: Site data built
+2019-04-01T09:16:50.307Z - info: [5:16:50 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:16:51.321Z - info: Rebuilding affected source files
+2019-04-01T09:16:51.325Z - info: Rebuilding 7 pages
+2019-04-01T09:16:51.915Z - info: Pages rebuilt
+2019-04-01T09:16:51.928Z - info: Site data built
+2019-04-01T09:19:15.136Z - info: [5:19:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:19:16.139Z - info: Rebuilding affected source files
+2019-04-01T09:19:16.141Z - info: Rebuilding 7 pages
+2019-04-01T09:19:16.801Z - info: Pages rebuilt
+2019-04-01T09:19:16.821Z - info: Site data built
+2019-04-01T09:19:43.765Z - info: [5:19:43 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:19:44.772Z - info: Rebuilding affected source files
+2019-04-01T09:19:44.774Z - info: Rebuilding 7 pages
+2019-04-01T09:19:45.395Z - info: Pages rebuilt
+2019-04-01T09:19:45.406Z - info: Site data built
+2019-04-01T09:20:05.589Z - info: [5:20:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:20:06.601Z - info: Rebuilding affected source files
+2019-04-01T09:20:06.605Z - info: Rebuilding 7 pages
+2019-04-01T09:20:07.241Z - info: Pages rebuilt
+2019-04-01T09:20:07.252Z - info: Site data built
+2019-04-01T09:22:49.711Z - info: [5:22:49 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:22:50.712Z - info: Rebuilding affected source files
+2019-04-01T09:22:50.713Z - info: Rebuilding 7 pages
+2019-04-01T09:22:51.409Z - info: Pages rebuilt
+2019-04-01T09:22:51.417Z - info: Site data built
+2019-04-01T09:23:37.666Z - info: [5:23:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:23:38.667Z - info: Rebuilding affected source files
+2019-04-01T09:23:38.669Z - info: Rebuilding 7 pages
+2019-04-01T09:23:39.329Z - info: Pages rebuilt
+2019-04-01T09:23:39.341Z - info: Site data built
+2019-04-01T09:25:07.473Z - info: [5:25:07 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:25:08.475Z - info: Rebuilding affected source files
+2019-04-01T09:25:08.478Z - info: Rebuilding 7 pages
+2019-04-01T09:25:09.135Z - info: Pages rebuilt
+2019-04-01T09:25:09.143Z - info: Site data built
+2019-04-01T09:25:58.288Z - info: [5:25:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:25:59.302Z - info: Rebuilding affected source files
+2019-04-01T09:25:59.304Z - info: Rebuilding 7 pages
+2019-04-01T09:25:59.915Z - info: Pages rebuilt
+2019-04-01T09:25:59.922Z - info: Site data built
+2019-04-01T09:26:43.924Z - info: [5:26:43 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2019-04-01T09:26:44.937Z - info: Rebuilding affected source files
+2019-04-01T09:26:44.942Z - info: Rebuilding 7 pages
+2019-04-01T09:26:45.518Z - info: Pages rebuilt
+2019-04-01T09:26:45.528Z - info: Site data built
+2019-04-01T09:27:31.783Z - info: Deployed!
