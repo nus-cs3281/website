@@ -2,12 +2,10 @@
 
 #site-nav {
     background: white;
-    border-right: 1px solid lightgrey;
     display: block;
     flex: 0 0 auto;
     max-width: 300px;
-    padding-bottom: 20px;
-    padding-right: 20px;
+    padding: 0;
     transition: 0.4s;
     width: 300px;
     -webkit-transition: 0.4s;
@@ -23,11 +21,11 @@
 }
 
 .site-nav__a:hover {
-    color: #0076FF;
+    color: #0076ff;
 }
 
 #site-nav a.current {
-    color: #0072EC;
+    color: #0072ec;
 }
 
 #site-nav-btn {
@@ -60,7 +58,6 @@
 
 .site-nav-list {
     list-style-type: none;
-    margin-left: -1em;
 }
 
 /* Navigation dropdown menu */
@@ -78,7 +75,7 @@
 }
 
 .dropdown-btn:hover {
-    color: #0076FF;
+    color: #0076ff;
 }
 
 .dropdown-btn-icon {
@@ -90,14 +87,14 @@
 }
 
 .rotate-icon {
-    color: #0076FF;
+    color: #0076ff;
     transform: rotate(-180deg);
     -webkit-transform: rotate(-180deg);
 }
 
 .dropdown-container {
     background: transparent;
-    max-height: 0px;
+    max-height: 0;
     overflow: hidden;
     padding-left: 8px;
     transition: max-height 0.15s ease-out;
@@ -145,7 +142,6 @@
 
 /* Bootstrap medium(md) responsive breakpoint */
 @media screen and (max-width: 991.98px) {
-
     #site-nav {
         border: none;
         opacity: 0;
@@ -184,7 +180,6 @@
 
 /* Bootstrap extra small(xs) responsive breakpoint */
 @media screen and (max-width: 575.98px) {
-
     #site-nav {
         padding-right: 0;
     }
@@ -212,7 +207,6 @@
 
 /* Hide site navigation when printing */
 @media print {
-
     #site-nav {
         border: none;
         display: none;

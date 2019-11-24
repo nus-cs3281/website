@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.1.0">
+  <meta name="generator" content="MarkBind 2.5.3">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Expert Areas Related to Internal Projects</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -24,21 +24,18 @@
 <body>
   <div id="app">
     <header>
-      <navbar placement="top" type="primary">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
+      <navbar placement="top" type="primary" class="temp-navbar">
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <dropdown text="Links" class="nav-link">
+        <div class="nav-link temp-dropdown-placeholder">Links</div>
+        <dropdown text="Links" class="nav-link temp-dropdown">
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
-        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
+        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -90,7 +87,7 @@
         </div>
         <h2 id="tools-tech-topics">Tools, Tech Topics<a class="fa fa-anchor" href="#tools-tech-topics"></a></h2>
         <p>The aspects, tools, topics given below can help you to pick an aspect and a topic to study.</p>
-        <h3 id="code-quality">Code Quality</h3>
+        <h3 id="code-quality">Code Quality<a class="fa fa-anchor" href="#code-quality"></a></h3>
         <ul>
           <li>Static analysis
             <ul>
@@ -104,7 +101,7 @@
             </ul>
           </li>
         </ul>
-        <h3 id="dev-ops">Dev Ops</h3>
+        <h3 id="dev-ops">Dev Ops<a class="fa fa-anchor" href="#dev-ops"></a></h3>
         <ul>
           <li>
             <p>Build</p>
@@ -131,7 +128,7 @@
             </ul>
           </li>
         </ul>
-        <h3 id="desktop">Desktop</h3>
+        <h3 id="desktop">Desktop<a class="fa fa-anchor" href="#desktop"></a></h3>
         <ul>
           <li>
             <p>GUI</p>
@@ -147,7 +144,7 @@
             <p>Portability: <code>SE</code> (ensuring the apps can run an all major OS'es)</p>
           </li>
         </ul>
-        <h3 id="documentation">Documentation</h3>
+        <h3 id="documentation">Documentation<a class="fa fa-anchor" href="#documentation"></a></h3>
         <p>Generating and maintaining user/developer docs require good writing skills as well and various tools.</p>
         <ul>
           <li>UML: all projects</li>
@@ -159,14 +156,14 @@
             </ul>
           </li>
         </ul>
-        <h3 id="fault-tolerance">Fault Tolerance</h3>
+        <h3 id="fault-tolerance">Fault Tolerance<a class="fa fa-anchor" href="#fault-tolerance"></a></h3>
         <p>This is especially important to <code>TM</code> because Web apps are vulnerable to all sorts of intermittent faults. For example, one problem it faces is called 'eventual consistency' where new data requires some time to propagate through all nodes of the distributed database during which time the app has to deal with data in an inconsistent state.</p>
         <ul>
           <li>Logging: all projects</li>
           <li>Error reporting: all projects</li>
           <li>Backup and restore: <code>TM</code></li>
         </ul>
-        <h3 id="performance-and-scalability">Performance and Scalability</h3>
+        <h3 id="performance-and-scalability">Performance and Scalability<a class="fa fa-anchor" href="#performance-and-scalability"></a></h3>
         <p>This affects all projects:</p>
         <ul>
           <li><code>MB</code>: Build and live preview features need to be fast.</li>
@@ -181,12 +178,12 @@
           <li>Profiling (to find performance bottlenecks): all projects</li>
           <li>Scalability testing: all projects</li>
         </ul>
-        <h3 id="security">Security</h3>
+        <h3 id="security">Security<a class="fa fa-anchor" href="#security"></a></h3>
         <ul>
           <li>Vulnerabilities: <code>TM</code></li>
           <li>Access control: <code>TM</code></li>
         </ul>
-        <h3 id="testing">Testing</h3>
+        <h3 id="testing">Testing<a class="fa fa-anchor" href="#testing"></a></h3>
         <ul>
           <li>
             <p>Code coverage</p>
@@ -223,13 +220,13 @@
             </ul>
           </li>
         </ul>
-        <h3 id="uix">UIX</h3>
+        <h3 id="uix">UIX<a class="fa fa-anchor" href="#uix"></a></h3>
         <ul>
           <li>Usability: all projects</li>
           <li>Accessibility: all projects -- e.g. some users may have accessibility needs</li>
           <li>Responsiveness: <code>MB</code> <code>RS</code> <code>TM</code></li>
         </ul>
-        <h3 id="web-frontend">Web (Frontend)</h3>
+        <h3 id="web-frontend">Web (Frontend)<a class="fa fa-anchor" href="#web-frontend"></a></h3>
         <ul>
           <li>Front End frameworks:
             <ul>
@@ -239,7 +236,7 @@
             </ul>
           </li>
         </ul>
-        <h3 id="web-backend">Web (Backend)</h3>
+        <h3 id="web-backend">Web (Backend)<a class="fa fa-anchor" href="#web-backend"></a></h3>
         <ul>
           <li>Google App Engine: <code>TM</code></li>
           <li>Servlets: <code>TM</code></li>
@@ -257,7 +254,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.1.0</a> at Tue, 02 Apr 2019 05:15:24 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 15:46:46 GMT</small></div>
     </footer>
   </div>
 </body>

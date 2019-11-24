@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.1.0">
+  <meta name="generator" content="MarkBind 2.5.3">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281&amp;2 Thematic Systems Project I &amp; II</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -24,21 +24,18 @@
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
-      <navbar placement="top" type="primary">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
+      <navbar placement="top" type="primary" class="temp-navbar">
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <dropdown text="Links" class="nav-link">
+        <div class="nav-link temp-dropdown-placeholder">Links</div>
+        <dropdown text="Links" class="nav-link temp-dropdown">
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
-        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
+        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -48,7 +45,7 @@
     </header>
     <div id="flex-body">
       <div id="content-wrapper">
-        <h1 id="cs3281-and-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#cs3281-and-2-schedule"></a></h1>
+        <h1 id="cs3281-and-2-schedule-to-be-updated-for-2020">CS3281&amp;2 Schedule <mark>[To be updated for 2020]</mark><a class="fa fa-anchor" href="#cs3281-and-2-schedule-to-be-updated-for-2020"></a></h1>
         <ul>
           <li><a href="#week-1-jan-14">Week 1 [Jan 14]</a></li>
           <li><a href="#week-2-jan-21">Week 2 [Jan 21]</a></li>
@@ -67,14 +64,14 @@
         </ul>
 
         <h2 id="week-1-jan-14">Week 1 [Jan 14]<a class="fa fa-anchor" href="#week-1-jan-14"></a></h2>
-        <h4 id="todo">Todo</h4>
+        <h4 id="todo">Todo<a class="fa fa-anchor" href="#todo"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name and a suitable profile photo.</li>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Add your info and your resume to the repo <a href="https://nus-cs3281-2019.netlify.com/instructions.html">nus-cs3281/2019</a> [⏰ Deadline: Friday]. You will be given write permission to the repo by Monday.</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Add your info and your resume to the repo <a href="https://nus-cs3281-2020.netlify.com/instructions.html">nus-cs3281/2020</a> [⏰ Deadline: Friday]. You will be given write permission to the repo by Monday.</li>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Set up the dev environment of your CS3282 internal project(s) in your Computer. Follow instructions provided by the project for new contributors.</li>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Join <code>nusossprojects</code> slack channel when you receive the invitation.</li>
         </ul>
-        <h4 id="monday">Monday</h4>
+        <h4 id="monday">Monday<a class="fa fa-anchor" href="#monday"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : CS3281 Module Intro
             <ul>
@@ -90,7 +87,7 @@
             </ul>
           </li>
         </ul>
-        <h4 id="thursday">Thursday</h4>
+        <h4 id="thursday">Thursday<a class="fa fa-anchor" href="#thursday"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: CS3282 Module Intro
             <ul>
@@ -98,7 +95,7 @@
             </ul>
           </li>
         </ul>
-        <h4 id="saturday-code-sprint">Saturday (Code Sprint)</h4>
+        <h4 id="saturday-code-sprint">Saturday (Code Sprint)<a class="fa fa-anchor" href="#saturday-code-sprint"></a></h4>
         <ul>
           <li>
             <p>The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.</p>
@@ -117,16 +114,16 @@
         </ul>
 
         <h2 id="week-2-jan-21">Week 2 [Jan 21]<a class="fa fa-anchor" href="#week-2-jan-21"></a></h2>
-        <h4 id="todo-2">Todo</h4>
+        <h4 id="todo-2">Todo<a class="fa fa-anchor" href="#todo-2"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Start looking for an external project to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.</li>
         </ul>
-        <h4 id="monday-2">Monday</h4>
+        <h4 id="monday-2">Monday<a class="fa fa-anchor" href="#monday-2"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Tips for tech talks - Part 1</li>
           <li>Choosing topics for Lightning Talks:
             <ul>
-              <li>⏰ By the end of Monday, post an issue in repo <a href="https://github.com/nus-cs3281/2019">nus-cs3281/2019</a> as follows <span class="dimmed"> Reason: posting titles in advance will help us avoid topic duplications</span>:
+              <li>⏰ By the end of Monday, post an issue in repo <a href="https://github.com/nus-cs3281/2020">nus-cs3281/2020</a> as follows <span class="dimmed"> Reason: posting titles in advance will help us avoid topic duplications</span>:
                 <ul>
                   <li>Issue subject: the title of your talk</li>
                   <li>Issue body: 2-3 sentence preview of the talk</li>
@@ -139,7 +136,7 @@
           </li>
           <li>Read the schedule for <a href="#week3-monday">next Monday</a> to find more info about the upcoming lightning talks. The order of talks <span class="dimmed">(i.e., who presents in which week)</span> is given there too.</li>
         </ul>
-        <h4 id="thursday-2">Thursday</h4>
+        <h4 id="thursday-2">Thursday<a class="fa fa-anchor" href="#thursday-2"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Product demos, project-specific discussions</li>
           <li>Demo the product created by your project.
@@ -160,11 +157,11 @@
 
         <div id="week3-monday"></div>
         <h2 id="week-3-jan-28">Week 3 [Jan 28]<a class="fa fa-anchor" href="#week-3-jan-28"></a></h2>
-        <h4 id="monday-3">Monday</h4>
+        <h4 id="monday-3">Monday<a class="fa fa-anchor" href="#monday-3"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round A - Part 1
             <ul>
-              <li>See the <strong><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a></strong> (created based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week).</li>
+              <li>See the <strong><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a></strong> (created based on the alphabetical order of last three letters of the full name (as per IVLE), limited to 1-2 students from each team per week).</li>
             </ul>
           </li>
         </ul>
@@ -273,20 +270,21 @@
             </li>
           </ul>
         </panel>
-        <h4 id="thursday-3">Thursday</h4>
+        <h4 id="thursday-3">Thursday<a class="fa fa-anchor" href="#thursday-3"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
 
         <h2 id="week-4-feb-4">Week 4 [Feb 4]<a class="fa fa-anchor" href="#week-4-feb-4"></a></h2>
-        <h4 id="todo-3">Todo</h4>
+        <h4 id="todo-3">Todo<a class="fa fa-anchor" href="#todo-3"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.</li>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Get started with adding content to the <a href="https://github.com/se-edu/learningresources">learning resources repo</a> (aka 'book chapter' deliverable).</li>
         </ul>
         <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
           <div>
-            <h4 id="book-chapter">Book Chapter</h4>
+            <h4 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h4>
+            <p>This deliverable is optional. It can count up to 30%.</p>
             <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
             <ul>
               <li>You are expected to make periodic PRs to create/enhance the relevant pages as you learn the topic. Minimally, you are expected to merge one PR by week 7 and one more by week 13.</li>
@@ -301,28 +299,28 @@
             </ul>
           </div>
         </panel>
-        <h4 id="monday-4">Monday</h4>
+        <h4 id="monday-4">Monday<a class="fa fa-anchor" href="#monday-4"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round A - Part 2</li>
         </ul>
-        <h4 id="thursday-4">Thursday</h4>
+        <h4 id="thursday-4">Thursday<a class="fa fa-anchor" href="#thursday-4"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
-        <h4 id="sunday">Sunday</h4>
+        <h4 id="sunday">Sunday<a class="fa fa-anchor" href="#sunday"></a></h4>
         <ul>
-          <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2019-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2019-dashboard">dashboard</a>. More info about the file format can be found <a href="https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files">here</a>.</li>
+          <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2019-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2020-dashboard">dashboard</a>. More info about the file format can be found <a href="https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files">here</a>.</li>
         </ul>
         <box type="success">
           <p>Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, <span class="dimmed">and also a means of stress testing RepoSense</span>.
           </p>
         </box>
         <ul>
-          <li>⏰ Update the <a href="https://nus-cs3281-2019.netlify.com/instructions.html#updating-your-project-progress">progress</a> page.</li>
+          <li>⏰ Update the <a href="https://nus-cs3281-2020.netlify.com/instructions.html#updating-your-project-progress">progress</a> page.</li>
         </ul>
 
         <h2 id="week-5-feb-11">Week 5 [Feb 11]<a class="fa fa-anchor" href="#week-5-feb-11"></a></h2>
-        <h4 id="todo-4">Todo</h4>
+        <h4 id="todo-4">Todo<a class="fa fa-anchor" href="#todo-4"></a></h4>
         <ul>
           <li>If you haven't started already, this is a good time to start getting <mark>at least one peer-review from classmates</mark> before requesting reviews from a senior developer.
             <ul>
@@ -332,25 +330,25 @@
           </li>
           <li>You can also <mark>help to manage new/external contributors</mark> <span class="dimmed">e.g., answer their questions, review their PRs etc.</span> Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.</li>
         </ul>
-        <h4 id="monday-5">Monday</h4>
+        <h4 id="monday-5">Monday<a class="fa fa-anchor" href="#monday-5"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Project Specific Discussions</li>
         </ul>
-        <h4 id="thursday-5">Thursday</h4>
+        <h4 id="thursday-5">Thursday<a class="fa fa-anchor" href="#thursday-5"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round A - Part 3</li>
         </ul>
 
         <h2 id="week-6-feb-18">Week 6 [Feb 18]<a class="fa fa-anchor" href="#week-6-feb-18"></a></h2>
-        <h4 id="monday-6">Monday</h4>
+        <h4 id="monday-6">Monday<a class="fa fa-anchor" href="#monday-6"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Tips for Tech Talks - Part 2</li>
         </ul>
-        <h4 id="thursday-6">Thursday</h4>
+        <h4 id="thursday-6">Thursday<a class="fa fa-anchor" href="#thursday-6"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
-        <h4 id="todo-5">Todo</h4>
+        <h4 id="todo-5">Todo<a class="fa fa-anchor" href="#todo-5"></a></h4>
         <ul>
           <li>⏰ by Friday
             <ul>
@@ -377,7 +375,7 @@
           <p>For the internal project(s), avoid starting work that you are not confident of finishing by week 13. Not only <strong>unmerged work will not earn credit</strong> for the module, such work might affect your grade negatively because of the waste of mentor efforts it caused to the project. Of course work abandoned due to no fault of your own (e.g., senior devs decided later the direction is not worth pursuing) will still earn you credit.
           </p>
         </box>
-        <h4 id="todo-6">Todo</h4>
+        <h4 id="todo-6">Todo<a class="fa fa-anchor" href="#todo-6"></a></h4>
         <ul>
           <li>⏰ by Monday
             <ul>
@@ -385,9 +383,9 @@
             </ul>
           </li>
         </ul>
-        <h4 id="monday-7">Monday</h4>
+        <h4 id="monday-7">Monday<a class="fa fa-anchor" href="#monday-7"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round B - Part 1 (see <a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round B - Part 1 (see <a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
             <ul>
               <li><s>The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).</s></li>
               <li>In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the <em>generic slide deck</em> pptx file, do take a look at it and make sure all its elements are also present in your slide deck.</li>
@@ -513,11 +511,11 @@
             </ol>
           </div>
         </panel>
-        <h4 id="thursday-7">Thursday</h4>
+        <h4 id="thursday-7">Thursday<a class="fa fa-anchor" href="#thursday-7"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
-        <h4 id="todo-7">Todo</h4>
+        <h4 id="todo-7">Todo<a class="fa fa-anchor" href="#todo-7"></a></h4>
         <ul>
           <li>⏰ by Friday
             <ul>
@@ -539,27 +537,27 @@
             </ul>
           </li>
         </ul>
-        <h4 id="monday-8">Monday</h4>
+        <h4 id="monday-8">Monday<a class="fa fa-anchor" href="#monday-8"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round B - Part 2</li>
         </ul>
-        <h4 id="thursday-8">Thursday</h4>
+        <h4 id="thursday-8">Thursday<a class="fa fa-anchor" href="#thursday-8"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
 
         <h2 id="week-9-mar-18">Week 9 [Mar 18]<a class="fa fa-anchor" href="#week-9-mar-18"></a></h2>
-        <h4 id="monday-9">Monday</h4>
+        <h4 id="monday-9">Monday<a class="fa fa-anchor" href="#monday-9"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round B - Part 3</li>
         </ul>
-        <h4 id="thursday-9">Thursday</h4>
+        <h4 id="thursday-9">Thursday<a class="fa fa-anchor" href="#thursday-9"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
 
         <h2 id="week-10-mar-25">Week 10 [Mar 25]<a class="fa fa-anchor" href="#week-10-mar-25"></a></h2>
-        <h4 id="todo-8">Todo</h4>
+        <h4 id="todo-8">Todo<a class="fa fa-anchor" href="#todo-8"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Document your observations about the workflow of your external OSS project:
             <ul>
@@ -573,7 +571,7 @@
               </li>
               <li>Submission:
                 <ul>
-                  <li>Add your observations to the file <code>nus-cs3281/2019/students/yourName/observations.md</code>.</li>
+                  <li>Add your observations to the file <code>nus-cs3281/2020/students/yourName/observations.md</code>.</li>
                   <li>Recommended length: about 0.5 - 1 A4 page</li>
                   <li>Deadline: Before week 10 Monday session</li>
                 </ul>
@@ -583,17 +581,17 @@
             </ul>
           </li>
         </ul>
-        <h4 id="monday-10">Monday</h4>
+        <h4 id="monday-10">Monday<a class="fa fa-anchor" href="#monday-10"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Feedback for LT round B</li>
         </ul>
-        <h4 id="thursday-10">Thursday</h4>
+        <h4 id="thursday-10">Thursday<a class="fa fa-anchor" href="#thursday-10"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow</li>
         </ul>
 
         <h2 id="week-11-apr-1">Week 11 [Apr 1]<a class="fa fa-anchor" href="#week-11-apr-1"></a></h2>
-        <h4 id="todo-9">Todo</h4>
+        <h4 id="todo-9">Todo<a class="fa fa-anchor" href="#todo-9"></a></h4>
         <ul>
           <li>
             <p>Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.</p>
@@ -606,17 +604,17 @@
             </ul>
           </li>
         </ul>
-        <h4 id="monday-11">Monday</h4>
+        <h4 id="monday-11">Monday<a class="fa fa-anchor" href="#monday-11"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)</li>
         </ul>
-        <h4 id="thursday-11">Thursday</h4>
+        <h4 id="thursday-11">Thursday<a class="fa fa-anchor" href="#thursday-11"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow (remainder)</li>
         </ul>
 
         <h2 id="week-12-apr-8">Week 12 [Apr 8]<a class="fa fa-anchor" href="#week-12-apr-8"></a></h2>
-        <h4 id="monday-12">Monday</h4>
+        <h4 id="monday-12">Monday<a class="fa fa-anchor" href="#monday-12"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round C - Part 1
             <ul>
@@ -731,21 +729,21 @@
             </li>
           </ol>
         </panel>
-        <h4 id="thursday-12">Thursday</h4>
+        <h4 id="thursday-12">Thursday<a class="fa fa-anchor" href="#thursday-12"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
 
         <h2 id="week-13-apr-15">Week 13 [Apr 15]<a class="fa fa-anchor" href="#week-13-apr-15"></a></h2>
-        <h4 id="monday-13">Monday</h4>
+        <h4 id="monday-13">Monday<a class="fa fa-anchor" href="#monday-13"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round C - Part 2</li>
         </ul>
-        <h4 id="wednesday">Wednesday</h4>
+        <h4 id="wednesday">Wednesday<a class="fa fa-anchor" href="#wednesday"></a></h4>
         <ul>
           <li>STePS</li>
         </ul>
-        <h4 id="thursday-13">Thursday</h4>
+        <h4 id="thursday-13">Thursday<a class="fa fa-anchor" href="#thursday-13"></a></h4>
         <ul>
           <li><s><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture:</s></li>
         </ul>
@@ -756,10 +754,10 @@
         </ul>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
-        <div class="sticky-top spacer-top viewport-height-90 scrollable slim-scroll">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#cs3281-and-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
+            <a class="nav-link py-1" href="#cs3281-and-2-schedule-to-be-updated-for-2020">CS3281&amp;2 Schedule [To be updated for 2020]&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#week-1-jan-14">Week 1 [Jan 14]&#x200E;</a>
               <a class="nav-link py-1" href="#week-2-jan-21">Week 2 [Jan 21]&#x200E;</a>
@@ -783,7 +781,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.1.0</a> at Tue, 02 Apr 2019 05:15:24 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 15:46:46 GMT</small></div>
     </footer>
   </div>
 </body>

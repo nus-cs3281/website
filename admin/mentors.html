@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.1.0">
+  <meta name="generator" content="MarkBind 2.5.3">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mentors</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -24,21 +24,18 @@
 <body>
   <div id="app">
     <header>
-      <navbar placement="top" type="primary">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
+      <navbar placement="top" type="primary" class="temp-navbar">
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <dropdown text="Links" class="nav-link">
+        <div class="nav-link temp-dropdown-placeholder">Links</div>
+        <dropdown text="Links" class="nav-link temp-dropdown">
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
-        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
+        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -95,7 +92,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.1.0</a> at Tue, 02 Apr 2019 05:15:24 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 15:46:46 GMT</small></div>
     </footer>
   </div>
 </body>

@@ -3,7 +3,7 @@
   "pages": [
     {
       "headings": {
-        "cs3281-and-2-call-for-application-ay2018-19-semester-ii": "CS3281&amp;2 Call for Application - AY2018/19, Semester II",
+        "cs3281-and-2-call-for-application-ay2019-20-semester-ii": "CS3281&amp;2 Call for Application - AY2019/20, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
@@ -23,8 +23,10 @@
     {
       "headings": {
         "cs3281-thematic-systems-project-i": "CS3281 : Thematic Systems Project I",
+        "module-structure": "Module structure",
         "lectures": "Lectures",
         "external-project": "External Project",
+        "2nd-internal-project": "2nd Internal Project",
         "expertise-areas": "Expertise Areas",
         "team-structure": "Team structure",
         "pre-module-preparations": "Pre-Module Preparations"
@@ -89,23 +91,16 @@
     },
     {
       "headings": {
-        "cs3281-and-2-schedule": "CS3281&amp;2 Schedule",
-        "week-1-jan-14": "Week 1 [Jan 14]",
-        "week-2-jan-21": "Week 2 [Jan 21]",
-        "week-3-jan-28": "Week 3 [Jan 28]",
-        "week-4-feb-4": "Week 4 [Feb 4]",
-        "week-5-feb-11": "Week 5 [Feb 11]",
-        "week-6-feb-18": "Week 6 [Feb 18]",
-        "week-7-mar-4": "Week 7 [Mar 4]",
-        "week-8-mar-11": "Week 8 [Mar 11]",
-        "week-9-mar-18": "Week 9 [Mar 18]",
-        "week-10-mar-25": "Week 10 [Mar 25]",
-        "week-11-apr-1": "Week 11 [Apr 1]",
-        "week-12-apr-8": "Week 12 [Apr 8]",
-        "week-13-apr-15": "Week 13 [Apr 15]",
-        "reading-week-apr-22": "Reading Week [Apr 22]"
+        "cs3281-and-2-call-for-application-ay2019-20-semester-ii": "CS3281&amp;2 Call for Application - AY2019/20, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
       },
-      "title": "CS3281&2 Thematic Systems Project I & II",
+      "title": "CS3281&2 Call for Applications",
+      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
       "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
@@ -115,7 +110,7 @@
     },
     {
       "headings": {
-        "cs3281-and-2-schedule": "CS3281&amp;2 Schedule",
+        "cs3281-and-2-schedule-to-be-updated-for-2020": "CS3281&amp;2 Schedule [To be updated for 2020]",
         "week-1-jan-14": "Week 1 [Jan 14]",
         "week-2-jan-21": "Week 2 [Jan 21]",
         "week-3-jan-28": "Week 3 [Jan 28]",

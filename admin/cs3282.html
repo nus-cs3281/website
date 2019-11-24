@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.1.0">
+  <meta name="generator" content="MarkBind 2.5.3">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3282 Module Info</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -24,21 +24,18 @@
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
-      <navbar placement="top" type="primary">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
+      <navbar placement="top" type="primary" class="temp-navbar">
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <dropdown text="Links" class="nav-link">
+        <div class="nav-link temp-dropdown-placeholder">Links</div>
+        <dropdown text="Links" class="nav-link temp-dropdown">
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
-        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
+        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -60,25 +57,27 @@
           <li><a href="#pre-module-preparations">Pre-Module Preparations</a></li>
         </ul>
         <h2 id="lectures">Lectures<a class="fa fa-anchor" href="#lectures"></a></h2>
-        <p>THU 1400-1600 in COM1-0210 (SR10)</p>
+        <p>THU 1400-1600 in COM1-0210 (Venue TBD)</p>
         <h2 id="projects">Projects<a class="fa fa-anchor" href="#projects"></a></h2>
         <p>Following <a href="https://nus-oss.github.io/">NUS-OSS</a> projects will be used this semester.</p>
         <ul>
           <li>MarkBind</li>
           <li>PowerPointLabs</li>
           <li>RepoSense</li>
-          <li>SE-EDU</li>
+          <li>SE-EDU: CATcher project</li>
+          <li>SE-EDU: Java projects</li>
+          <li>SE-EDU: Python projects</li>
           <li>TEAMMATES</li>
         </ul>
         <h2 id="stage-1-learning">Stage 1: Learning<a class="fa fa-anchor" href="#stage-1-learning"></a></h2>
         <p><strong>Duration</strong>: Week 1 - 3 (3 weeks)</p>
         <p><strong>Objective</strong>: Learn the project’s codebase, workflows, tools, etc. under the guidance of the current developers.</p>
-        <h3 id="things-to-do">Things to do</h3>
+        <h3 id="things-to-do">Things to do<a class="fa fa-anchor" href="#things-to-do"></a></h3>
         <ul>
           <li>Set up the project and complete any orientation tasks specified by the project.</li>
           <li>Start submitting PRs.</li>
         </ul>
-        <h3 id="recommendations">Recommendations</h3>
+        <h3 id="recommendations">Recommendations<a class="fa fa-anchor" href="#recommendations"></a></h3>
         <ul>
           <li>When choosing issues to fix, start with simpler issues and progressively move into more complex issues.
             Choose issues strategically so that your knowledge of the codebase expands naturally and incrementally
@@ -91,14 +90,14 @@
         <h2 id="stage-2-contributing">Stage 2: Contributing<a class="fa fa-anchor" href="#stage-2-contributing"></a></h2>
         <p><strong>Duration</strong>: Week 4 - 9 (6 weeks)</p>
         <p><strong>Objective</strong>: Contribute to the project based on the project’s priorities and you role in the project.</p>
-        <h3 id="things-to-do-2">Things to do</h3>
+        <h3 id="things-to-do-2">Things to do<a class="fa fa-anchor" href="#things-to-do-2"></a></h3>
         <ul>
           <li>Decide which areas (i.e. aspects, features, tools, etc. relevant to the project) of the project you want to be responsible for.
             Ideally, there should be at least two persons for each area (one primary, one secondary).</li>
           <li>Continue to contribute PRs, particularly those related to your areas.</li>
           <li>Get your PRs reviewed by peers (based on area division mentioned in point 1 above) before submitting them to dev team’s review.</li>
         </ul>
-        <h3 id="recommendations-2">Recommendations</h3>
+        <h3 id="recommendations-2">Recommendations<a class="fa fa-anchor" href="#recommendations-2"></a></h3>
         <ul>
           <li>Pick areas that have synergy with your interests and your CS3281 deliverables. Note that your value to the project will be higher when you volunteer for ‘unpopular’ areas.</li>
           <li>The quality of your peer reviews will be as important to your grade as the quality of your code.
@@ -108,12 +107,12 @@
         <h2 id="stage-3-managing">Stage 3: Managing<a class="fa fa-anchor" href="#stage-3-managing"></a></h2>
         <p><strong>Objective</strong>: Learn how to play a more senior role in a big project</p>
         <p><strong>Duration</strong>: Week 10 - 13 (4 weeks)</p>
-        <h3 id="things-to-do-3">Things to do</h3>
+        <h3 id="things-to-do-3">Things to do<a class="fa fa-anchor" href="#things-to-do-3"></a></h3>
         <ul>
           <li>Continue to submit PRs. In some cases you will be given permission to merge PRs yourself.</li>
           <li>Get involved in other tasks done by senior developers: e.g. refining the project workflow, making toolstack choices, mentoring new developers, triaging new issues/PRs, creating releases, dealing with users, etc.</li>
         </ul>
-        <h3 id="recommendations-3">Recommendations</h3>
+        <h3 id="recommendations-3">Recommendations<a class="fa fa-anchor" href="#recommendations-3"></a></h3>
         <ul>
           <li>Take this as an opportunity to show how qualified you are for the ‘next level’. Those who perform well in this stage will be offered senior positions in the project in future.</li>
         </ul>
@@ -184,12 +183,22 @@
                     <td>Java, CSS, HTML, JavaScript, Jade, Gradle</td>
                   </tr>
                   <tr>
-                    <td>SE-EDU</td>
+                    <td>SE-EDU CATcher</td>
+                    <td>TypeScript, CSS, HTML</td>
+                    <td>Electron, Travis</td>
+                  </tr>
+                  <tr>
+                    <td>SE-EDU Java</td>
                     <td>Java, CSS</td>
                     <td>Gradle, Travis, AsciiDoc</td>
                   </tr>
                   <tr>
-                    <td>TEAMMATES<sup>1</sup></td>
+                    <td>SE-EDU Python</td>
+                    <td>Python</td>
+                    <td>PyGitHub, PyGit</td>
+                  </tr>
+                  <tr>
+                    <td>TEAMMATES</td>
                     <td>Java, HTML, SCSS, TypeScript</td>
                     <td>Gradle, Google App Engine, Node.js, Angular</td>
                   </tr>
@@ -202,10 +211,9 @@
           </li>
         </ul>
         <hr>
-        <p><sub>[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.</sub></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
-        <div class="sticky-top spacer-top viewport-height-90 scrollable slim-scroll">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
             <a class="nav-link py-1" href="#cs3282-thematic-systems-projects-ii">CS3282 : Thematic Systems Projects II&#x200E;</a>
@@ -226,7 +234,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.1.0</a> at Tue, 02 Apr 2019 05:15:24 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 15:46:46 GMT</small></div>
     </footer>
   </div>
 </body>

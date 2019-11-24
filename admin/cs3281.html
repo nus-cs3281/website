@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.1.0">
+  <meta name="generator" content="MarkBind 2.5.3">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281 Module Info</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -24,21 +24,18 @@
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
-      <navbar placement="top" type="primary">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2019]</a>
+      <navbar placement="top" type="primary" class="temp-navbar">
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <dropdown text="Links" class="nav-link">
+        <div class="nav-link temp-dropdown-placeholder">Links</div>
+        <dropdown text="Links" class="nav-link temp-dropdown">
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2019/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
-        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"><span class="fab fa-github"></span></a></li>
+        <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
           <form class="navbar-form">
             <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -49,17 +46,22 @@
     <div id="flex-body">
       <div id="content-wrapper">
         <h1 id="cs3281-thematic-systems-project-i">CS3281 : Thematic Systems Project I<a class="fa fa-anchor" href="#cs3281-thematic-systems-project-i"></a></h1>
-        <p>CS3281 has two main parts: <a href="#external-project">External Project</a>, <a href="#expertise-areas">Expertise Areas</a></p>
-        <ul>
-          <li><a href="#lectures">Lectures</a></li>
-          <li><a href="#external-project">External Project</a></li>
-          <li><a href="#expertise-areas">Expertise Areas</a></li>
-          <li><a href="#team-structure">Team Structure</a></li>
-          <li><a href="#pre-module-preparations">Pre-Module Preparations</a></li>
-        </ul>
+        <h2 id="module-structure">Module structure<a class="fa fa-anchor" href="#module-structure"></a></h2>
+        <p>The following two compulsory parts accounts for a 40% of the module:</p>
+        <ol>
+          <li><a href="#lightnight-talks">Lightning Talks</a>: 30%</li>
+          <li>Professional conduct: 10%</li>
+        </ol>
+        <p>You can choose a combination of the following optional components to make up the remaining 60%:</p>
+        <ol>
+          <li><a href="#external-project">External Project</a>: up to 30%</li>
+          <li><a href="#2nd-internal-project">2nd Internal Project</a>: up to 40%</li>
+          <li><a href="#book-chapter">Book chapter</a>: up to 30%</li>
+        </ol>
         <h2 id="lectures">Lectures<a class="fa fa-anchor" href="#lectures"></a></h2>
-        <p>MON 1200-1400 in COM1-0210 (SR10)</p>
+        <p>MON 1200-1400 in COM1-0210 (Venue TBD)</p>
         <h2 id="external-project">External Project<a class="fa fa-anchor" href="#external-project"></a></h2>
+        <p><strong>Weight</strong>: 40%</p>
         <p><strong>Objective</strong> : To learn to work with big OSS projects.</p>
         <p>You can choose any OSS project as your External project, provided it is be a big mature external project with an established community and experienced developers.</p>
         <p>Some sources of potential external projects:</p>
@@ -74,7 +76,7 @@
           <li>is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted.</li>
           <li>can be double-counted for expert area if the work is related to your expert area.</li>
         </ul>
-        <h3 id="deliverables">Deliverables:</h3>
+        <h3 id="deliverables">Deliverables:<a class="fa fa-anchor" href="#deliverables"></a></h3>
         <ul>
           <li>2 - 3 PRs merged. Only merged PRs are counted.</li>
           <li>A one-page report (due by week 10) containing,
@@ -85,11 +87,13 @@
             </ul>
           </li>
         </ul>
-        <h3 id="grading">Grading</h3>
+        <h3 id="grading">Grading<a class="fa fa-anchor" href="#grading"></a></h3>
         <ul>
-          <li>Counts for 30% of the module</li>
           <li>Based on PRs completed [20%] and the report [10%]</li>
         </ul>
+        <h2 id="2nd-internal-project">2nd Internal Project<a class="fa fa-anchor" href="#2nd-internal-project"></a></h2>
+        <p>Optionally, you can contribute to another NUS-OSS project. This component can count upto 40%.</p>
+        <p>Deliverables are similar to CS3282.</p>
         <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas"></a></h2>
         <p><strong>Objective</strong>: Gain in-depth knowledge of a few specific areas so that you are considered an expert of those areas compared to your peers.</p>
         <p>Just one semester is certainly not enough to become an ‘expert’ of something. Consider this module just the initial step in the journey of becoming an expert. Our expectations are,</p>
@@ -97,7 +101,7 @@
           <li>By the end of the semester, you know your chosen expertise areas better than your peers to the extent that you can teach those peers interesting and useful things from those areas.</li>
           <li>Based on your current trajectory, assuming you continue to improve your knowledge in that area for 1-2 years after the module (for most of you this would coincide with your graduation), your knowledge in that area is among the top 5% of your cohort .</li>
         </ul>
-        <h3 id="things-to-do">Things to do</h3>
+        <h3 id="things-to-do">Things to do<a class="fa fa-anchor" href="#things-to-do"></a></h3>
         <ol>
           <li>
             <p>Your are recommended (but not required) to pick one from each of the three below. <strong>Up to three expert areas can earn credit.</strong></p>
@@ -106,7 +110,7 @@
               <li><strong>Language</strong>: e.g. Java, C#, Go, Python, Ruby, Kotlin, Elixir, JavaScript, HTML, CSS, ...</li>
               <li><strong>Topic</strong>: Any other technical topic relevant to SE that you want to claim as your interest/expert area e.g Search Engine Optimization, Regular Expressions</li>
             </ul>
-            <p><strong>If you are not sure which ones to pick</strong>, <a href="expertAreas.html">this document</a> may be useful.</p>
+            <p><strong>If you are not sure which ones to pick</strong>, <a href="/website/admin/expertAreas.html">this document</a> may be useful.</p>
             <p><strong>How many areas to pick?</strong> Consider the three categories as recommendations only. You can pick areas outside of those categories and you can pick multiple topics from the same category. The only restriction is that you can claim credit for no more than three expert areas. <span class="dimmed"> Rationale: to prevent folks from throwing in every area they know as expert areas.</span></p>
           </li>
           <li>
@@ -119,9 +123,10 @@
             <p>Share interesting and useful bits of your knowledge with the class by giving short talks (refer <a href="#lightning-talks">Lightning Talks</a> deliverables explained below)</p>
           </li>
         </ol>
-        <h3 id="deliverables-2">Deliverables</h3>
+        <h3 id="deliverables-2">Deliverables<a class="fa fa-anchor" href="#deliverables-2"></a></h3>
         <div id="deliverable-book-chapter">
-          <h4 id="book-chapter">Book Chapter</h4>
+          <h4 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h4>
+          <p>This deliverable is optional. It can count up to 30%.</p>
           <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
           <ul>
             <li>You are expected to make periodic PRs to create/enhance the relevant pages as you learn the topic. Minimally, you are expected to merge one PR by week 7 and one more by week 13.</li>
@@ -135,7 +140,7 @@
             <li>If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication of work.</li>
           </ul>
         </div>
-        <h4 id="lightning-talks">Lightning talks</h4>
+        <h4 id="lightning-talks">Lightning talks<a class="fa fa-anchor" href="#lightning-talks"></a></h4>
         <p>One important way you can establish credibility as an 'Expert' is by educating others about your expert area and evangelizing it. <em>Lightning Talks</em> is meant to promote that aspect.</p>
         <ul>
           <li>Each student is required to give two short talks on interesting topics useful to your classmates.
@@ -145,9 +150,9 @@
           </li>
           <li>Each talk will be about 7 minutes + 3 minutes for Q&amp;A. There will be 7-8 talks per week.</li>
           <li>You may want to rehearse the talk with one or more of your team members and improve based on their feedback before delivering it to the class.</li>
-          <li>After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3281/2019 repo for future reference and further discussion.</li>
+          <li>After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3281/2020 repo for future reference and further discussion.</li>
         </ul>
-        <h3 id="grading-2">Grading</h3>
+        <h3 id="grading-2">Grading<a class="fa fa-anchor" href="#grading-2"></a></h3>
         <ul>
           <li><strong>Contributions to book chapters [20%]</strong> -- 5% at midterm (week 7), 15% at end of semester
             <ul>
@@ -177,14 +182,6 @@
               </li>
             </ul>
           </li>
-          <li><strong>Exit interview [10%]</strong> -- This is a technical interview based on your resume
-            <ul>
-              <li>Mostly based on the <em>skills/expertise</em> section of your resume given <a href="https://github.com/nus-cs3281/2019/blob/master/students/studentlist.md">here</a>. Ensure that the resume is up-to-date.</li>
-              <li>venue: prof's office COM2-02-57</li>
-              <li>dress code: n/a</li>
-              <li>other requirements: be sure to come on time</li>
-            </ul>
-          </li>
         </ul>
         <h2 id="team-structure">Team structure<a class="fa fa-anchor" href="#team-structure"></a></h2>
         <ul>
@@ -199,13 +196,15 @@
         </ul>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
-        <div class="sticky-top spacer-top viewport-height-90 scrollable slim-scroll">
+        <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
             <a class="nav-link py-1" href="#cs3281-thematic-systems-project-i">CS3281 : Thematic Systems Project I&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#module-structure">Module structure&#x200E;</a>
               <a class="nav-link py-1" href="#lectures">Lectures&#x200E;</a>
               <a class="nav-link py-1" href="#external-project">External Project&#x200E;</a>
+              <a class="nav-link py-1" href="#2nd-internal-project">2nd Internal Project&#x200E;</a>
               <a class="nav-link py-1" href="#expertise-areas">Expertise Areas&#x200E;</a>
               <a class="nav-link py-1" href="#team-structure">Team structure&#x200E;</a>
               <a class="nav-link py-1" href="#pre-module-preparations">Pre-Module Preparations&#x200E;</a>
@@ -217,7 +216,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.1.0</a> at Tue, 02 Apr 2019 05:15:24 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 15:46:46 GMT</small></div>
     </footer>
   </div>
 </body>
