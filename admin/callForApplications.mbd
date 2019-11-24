@@ -9,9 +9,7 @@ head: head.mbdf
 
 # CS3281&2 Call for Application - AY20{{ AY }}, Semester II
  
-CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Large Projects_**) aim to build up your ability to work with large, complex systems that you will likely encounter in future as a Software Engineer, towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry.
-
-Both modules involve **working within the context of large OSS projects** that are being developed and used in industry; students will not be building a new product from scratch.
+CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Live Projects_**) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry. Both modules involve **working in OSS projects** that are currently being used by others.
 
 These two modules are to be taken concurrently and are offered in Semester 2 only.
 
@@ -31,7 +29,7 @@ The two modules will run concurrently, but as two separate modules.
 
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)**
   * **[100%]: Do a major contribution to a medium size OSS project** <br>
-    Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://github.com/nus-oss/main)** (of your choice). Optionally, you are allowed to split your time between two internal projects, spending upto 40% of the time on another NUS-OSS project. Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
+    Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://github.com/nus-oss/main)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
 <box>
 
@@ -74,16 +72,15 @@ below 3.9, but the candidate must demonstrate his/her strong passion for softwar
 
 As this module depends on past students mentoring current students, ==students who can commit to become project mentors (if invited to become one) for future semesters will be given priority==.
 
-Student selection is **not based on CORS bidding**. Instead, follow these instructions to apply for the module:
+Student selection is **not based on ModReg**. Instead, follow these instructions to apply for the module:
 
-1. Go to IVLE, click on ‘Bookmarked modules’
-2. Search for and add the module with the code [_CS3281Applications_](https://ivle.nus.edu.sg/v1/module/student/default.aspx?CourseID=9c61eb91-2fdd-4e37-87be-972bd45c0bb6)
-3. Submit your application using the survey named _Application to Enroll in CS3281&2_
+1. Go to LumiNUS, and self-enroll for the module [_CS3281APPLICATIONS_](https://luminus.nus.edu.sg/modules/1fb38dda-656b-47d2-a91c-5b48639c3f85)
+3. Submit your application using the survey named _Application Submission_
 4. Upload your transcript to the Files folder _Transcripts_. ==File name should be your name==.
 
-{{ icon_deadline }} Interested students are to **complete the application process by Mon 10 December 2018**. Late applications will not be entertained.
+{{ icon_deadline }} Interested students are to **complete the application process by Mon 9 December {{ year }}**. Late applications will not be entertained.
 
-The outcome of all applications are expected to be **released via email around 17 December 2018**.
+The outcome of all applications are expected to be **released via email around 19th December {{ year }}**.
 
 ## FAQ
 

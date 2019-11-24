@@ -32,7 +32,9 @@ Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semes
 * MarkBind
 * PowerPointLabs
 * RepoSense
-* SE-EDU
+* SE-EDU: CATcher project
+* SE-EDU: Java projects
+* SE-EDU: Python projects
 * TEAMMATES
 
 ## Stage 1: Learning 
@@ -124,12 +126,11 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
   MarkBind | JavaScript, CSS | Node.js, NunJucks
   PowerPointLabs | C# | VisualStudio, Jekyll
   RepoSense | Java | Java, CSS, HTML, JavaScript, Jade, Gradle
-  SE-EDU | Java, CSS | Gradle, Travis, AsciiDoc
-  TEAMMATES<sup>1</sup> | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
+  SE-EDU CATcher | TypeScript, CSS, HTML | Electron, Travis
+  SE-EDU Java | Java, CSS | Gradle, Travis, AsciiDoc
+  SE-EDU Python | Python | PyGitHub, PyGit
+  TEAMMATES | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
 
 * All internal projects use Git. Learn advanced Git features such as rebase, squash, blame, bisect, etc. Other tools you can learn are given in the table above.
 
 ---
-
-<sub>[1] TEAMMATES is currently undergoing a front-end framework migration, so you will not find Angular-related technologies in the repository code base yet. They will, however, be live before the module starts and you will be expected to know them if you are to contribute.</sub>
-

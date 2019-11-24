@@ -1,9 +1,9 @@
-<variable name="year">2019</variable>
-<variable name="AY">18/19</variable>
+<variable name="year">2020</variable>
+<variable name="AY">19/20</variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
-<variable name="cs3281_venue">COM1-0210 (SR10)</variable>
+<variable name="cs3281_venue">COM1-0210 (Venue TBD)</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>
-<variable name="cs3282_venue">COM1-0210 (SR10)</variable>
+<variable name="cs3282_venue">COM1-0210 (Venue TBD)</variable>
 <variable name="org_site">https://nus-cs3281.github.io</variable>
 
 

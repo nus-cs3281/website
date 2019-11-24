@@ -8,19 +8,23 @@ head: head.mbdf
 
 # CS3281 : Thematic Systems Project I
 
-CS3281 has two main parts: [External Project](#external-project), [Expertise Areas](#expertise-areas)
+## Module structure
+The following two compulsory parts accounts for a 40% of the module:
+1. [Lightning Talks](#lightnight-talks): 30%
+1. Professional conduct: 10%
 
-* [Lectures](#lectures)
-* [External Project](#external-project)
-* [Expertise Areas](#expertise-areas)
-* [Team Structure](#team-structure)
-* [Pre-Module Preparations](#pre-module-preparations)
+You can choose a combination of the following optional components to make up the remaining 60%:
+1. [External Project](#external-project): up to 30%
+1. [2nd Internal Project](#2nd-internal-project): up to 40%
+1. [Book chapter](#book-chapter): up to 30%
 
-## Lectures 
+## Lectures
 
 {{ cs3281_time }} in {{ cs3281_venue }}
 
 ## External Project
+
+**Weight**: 40%
 
 **Objective** : To learn to work with big OSS projects.
 
@@ -47,9 +51,13 @@ The work under this part,
 
 ### Grading
  
-* Counts for 30% of the module
 * Based on PRs completed [20%]  and the report [10%]
 
+## 2nd Internal Project
+
+Optionally, you can contribute to another NUS-OSS project. This component can count upto 40%.
+
+Deliverables are similar to CS3282.
 
 ## Expertise Areas
 
@@ -82,6 +90,8 @@ Just one semester is certainly not enough to become an ‘expert’ of something
 <div id="deliverable-book-chapter">
 
 #### Book Chapter
+
+This deliverable is optional. It can count up to 30%.
 
 We are going to build a [collection of learning resources](https://github.com/se-edu/learningresources) (an online book of sorts) to help others learn the areas you are learning yourself.
 
@@ -123,11 +133,6 @@ One important way you can establish credibility as an 'Expert' is by educating o
     * Adherence to module deadlines
     * The quality of feedback given for lightning talks (i.e. post-talk feedback)
     * Participation in class discussions
-* **Exit interview [10%]** -- This is a technical interview based on your resume
-  * Mostly based on the _skills/expertise_ section of your resume given [here](https://github.com/nus-cs3281/{{year}}/blob/master/students/studentlist.md). Ensure that the resume is up-to-date.
-  * venue: prof's office COM2-02-57
-  * dress code: n/a
-  * other requirements: be sure to come on time
 
 
 ## Team structure
