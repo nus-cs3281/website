@@ -319,3 +319,13 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
 2019-11-25T06:45:52.354Z - info: [2:45:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
 2019-11-25T06:45:56.556Z - info: Website generation started at 2:45:56 PM
 2019-11-25T06:45:56.798Z - info: Building assets...
+2019-11-25T06:45:57.051Z - info: Assets built
+2019-11-25T06:45:57.052Z - info: Generating pages...
+2019-11-25T06:45:57.685Z - info: Pages built
+2019-11-25T06:45:57.834Z - info: Website generation complete! Total build time: 1.446s
+2019-11-25T06:45:58.185Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-11-25T06:45:58.185Z - info: Press CTRL+C to stop ...
+2019-11-25T06:45:58.204Z - info: Site data built
+2019-11-25T06:47:20.400Z - info: Deployed!
+2019-11-25T07:34:47.241Z - info: Website generation started at 3:34:47 PM
+2019-11-25T07:34:47.583Z - info: Building assets...
