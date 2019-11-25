@@ -179,7 +179,7 @@ Try to follow these steps in this sequence:
 * {{ icon_todo }} Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) (aka 'book chapter' deliverable).
 
 <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
-  <include src="../admin/cs3281.mbd#deliverable-book-chapter" />
+  <include src="../admin/cs3282.mbd#deliverable-book-chapter" />
 </panel>
         
 
