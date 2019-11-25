@@ -32,7 +32,7 @@
         "grading": "Grading",
         "pre-module-preparations": "Pre-Module Preparations"
       },
-      "title": "CS3282 Module Info",
+      "title": "CS3281 Module Info",
       "keywords": "Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations",
       "header": "topnav.md",
       "pageNav": 2,
@@ -55,7 +55,7 @@
         "team-structure": "Team structure",
         "pre-module-preparations": "Pre-Module Preparations"
       },
-      "title": "CS3281 Module Info",
+      "title": "CS3282 Module Info",
       "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
@@ -113,6 +113,7 @@
     },
     {
       "headings": {
+        "book-chapter": "Book Chapter",
         "cs3281-and-2-schedule-to-be-updated-for-2020": "CS3281&amp;2 Schedule [To be updated for 2020]",
         "week-1-jan-14": "Week 1 [Jan 14]",
         "week-2-jan-21": "Week 2 [Jan 21]",
