@@ -4,7 +4,12 @@
 <variable name="cs3281_venue">COM1-0210</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>
 <variable name="cs3282_venue">COM1-0210</variable>
-<variable name="org_site">https://nus-cs3281.github.io</variable>
+<variable name="module_org">https://github.com/nus-cs3281</variable>
+<variable name="module_site">https://nus-cs3281.github.io</variable>
+<variable name="students_repo">{{ module_org }}/{{ year }}</variable>
+<variable name="students_site">{{ module_site }}/{{ year }}</variable>
+<variable name="dashboard_repo">{{ module_org }}/{{ year }}-dashboard</variable>
+<variable name="dashboard_site">{{ module_site }}/{{ year }}-dashboard</variable>
 
 
 <variable name="icon_deadline">:alarm_clock:</variable>

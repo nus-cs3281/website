@@ -9,11 +9,10 @@
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
     <li><a href="{{baseUrl}}/admin/expertAreas.html"class="dropdown-item">Project Expert Areas</a></li>
-    <!--
-    <li><a href="{{ org_site }}/{{ year }}" target="_blank"class="dropdown-item">Students</a></li>
-    <li><a href="{{ org_site }}/{{ year }}-dashboard/" target="_blank"class="dropdown-item">Dashboard</a></li>
-    <li><a href="{{ org_site }}/{{ year }}/students/talksSchedule.html" target="_blank"class="dropdown-item">Lightning Talks Schedule</a></li>
-    <li><a href="https://se-education.org/learningresources/" target="_blank"class="dropdown-item">se-edu/learningresources</a></li> -->
+    <li><a href="{{ students_site }}" target="_blank"class="dropdown-item">Students</a></li>
+    <li><a href="{{ dashboard_site }}/" target="_blank"class="dropdown-item">Dashboard</a></li>
+    <li><a href="{{ students_site }}/students/talksSchedule.html" target="_blank"class="dropdown-item">Lightning Talks Schedule</a></li>
+    <li><a href="https://se-education.org/learningresources/" target="_blank"class="dropdown-item">se-edu/learningresources</a></li>
   </dropdown>
   <li><a href="https://github.com/nus-cs3281/website" class="nav-link">{{ fab_github }}</a></li>
   <li slot="right" class="nav-link">
