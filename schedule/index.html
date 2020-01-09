@@ -18,6 +18,15 @@
 
   <link rel="stylesheet" href="../markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
+  <style>
+    h2 {
+      width: 97.5%;
+      background-color: rgba(0, 0, 0, 0.67);
+      margin-bottom: 10px;
+      padding: 5px;
+      color: white;
+    }
+  </style>
   <link rel="icon" href="/website/favicon.ico">
 </head>
 
@@ -34,6 +43,10 @@
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="/website/admin/expertAreas.html" class="dropdown-item">Project Expert Areas</a></li>
+          <li><a href="https://nus-cs3281.github.io/2020" target="_blank" class="dropdown-item">Students</a></li>
+          <li><a href="https://nus-cs3281.github.io/2020-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
+          <li><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
+          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
         <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
@@ -59,7 +72,7 @@
         </ul>
         <h4 id="monday">Monday<a class="fa fa-anchor" href="#monday"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: CS3282 Module Intro
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: CS3281 Module Intro
             <ul>
               <li>Sit as project teams</li>
             </ul>
@@ -67,7 +80,7 @@
         </ul>
         <h4 id="thursday">Thursday<a class="fa fa-anchor" href="#thursday"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : CS3281 Module Intro
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : CS3282 Module Intro, Tips for product demos
             <ul>
               <li>Sit as teams. Team allocation:
                 <ul>
@@ -101,67 +114,99 @@
         </ul>
 
         <hr>
-        <h2 id="items-below-this-line-are-yet-to-be-updated"><mark>Items below this line are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-line-are-yet-to-be-updated"></a></h2>
+        <h1 id="items-below-this-are-yet-to-be-updated"><mark>Items below this are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-are-yet-to-be-updated"></a></h1>
         <hr>
-        <h2 id="week-2-jan-21">Week 2 [Jan 21]<a class="fa fa-anchor" href="#week-2-jan-21"></a></h2>
+        <h2 id="week-2-jan-20">Week 2 [Jan 20]<a class="fa fa-anchor" href="#week-2-jan-20"></a></h2>
         <h4 id="todo-2">Todo<a class="fa fa-anchor" href="#todo-2"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Start looking for an external project to contribute to. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even
-            try multiple projects if you are not sure the chosen project will work out.</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> If you plan to contribute to an external project, start looking for one. Once you have found a potential project, you can follow their instructions to get started on contributing.
+            You can even try multiple projects if you are not sure the chosen project will work out.</li>
         </ul>
         <h4 id="monday-2">Monday<a class="fa fa-anchor" href="#monday-2"></a></h4>
+        <ul>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Product demos, project-specific discussions</li>
+          <li>Demo the product created by your project.
+            <ul>
+              <li>Try not to exceed 15 minutes</li>
+              <li>The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive
+                demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.</li>
+            </ul>
+          </li>
+        </ul>
+        <h4 id="thursday-2">Thursday<a class="fa fa-anchor" href="#thursday-2"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Tips for tech talks - Part 1</li>
           <li>Choosing topics for Lightning Talks:
             <ul>
-              <li>⏰ By the end of Monday, post an issue in repo <a href="https://github.com/nus-cs3281/2020">nus-cs3281/2020</a> as follows <span class="dimmed"> Reason: posting titles in advance will help us avoid topic duplications</span>:
+              <li>⏰ By the end of today, post an issue in repo <a href="https://github.com/nus-cs3281/2020">nus-cs3281/2020</a> as follows <span class="dimmed"> Reason: posting titles in advance will help us avoid topic duplications</span>:
                 <ul>
                   <li>Issue subject: the title of your talk</li>
                   <li>Issue body: 2-3 sentence preview of the talk</li>
                 </ul>
               </li>
               <li>Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.</li>
-              <li>It is in your interest to choose a topic related to one of your expert areas. It is not a strict requirement though.</li>
+              <li>It is in your interest to choose a topic related to one of your
+                <trigger trigger="click" for="modal:week3-expertArea">expert areas</trigger>. It is not a strict requirement though.</li>
               <li>Note that you will be peer-evaluated for the <mark>quality of delivery as well as the usefulness of the talk</mark>.</li>
             </ul>
           </li>
-          <li>Read the schedule for <a href="#week3-monday">next Monday</a> to find more info about the upcoming lightning talks. The order of talks <span class="dimmed">(i.e., who presents in which week)</span> is given there too.</li>
+          <li>Read the schedule for <a href="#week3-monday">next Thursday</a> to find more info about the upcoming lightning talks. The order of talks <span class="dimmed">(i.e., who presents in which week)</span> is given there too.</li>
         </ul>
-        <h4 id="thursday-2">Thursday<a class="fa fa-anchor" href="#thursday-2"></a></h4>
-        <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Product demos, project-specific discussions</li>
-          <li>Demo the product created by your project.
+        <modal large title="%%CS3282 →%%" id="modal:week3-expertArea">
+          <div>
+            <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas"></a></h2>
+            <p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
+            <p><strong>Objective</strong>: Gain in-depth knowledge of a few specific areas so that you are considered an expert of those areas compared to your peers.</p>
+            <p>Just one semester is certainly not enough to become an ‘expert’ of something. Consider this module just the initial step in the journey of becoming an expert. Our expectations are,</p>
             <ul>
-              <li>Suggested timing (try not to exceed the max time limit, OK to take less time than allocated):
+              <li>By the end of the semester, you know your chosen expertise areas better than your peers to the extent that you can teach those peers interesting and useful things from those areas.</li>
+              <li>Based on your current trajectory, assuming you continue to improve your knowledge in that area for 1-2 years after the module (for most of you this would coincide with your graduation), your knowledge in that area is among the top 5% of
+                your cohort.</li>
+              <li>The area must be strongly related to SE.</li>
+            </ul>
+            <h4 id="things-you-can-do">Things you can do<a class="fa fa-anchor" href="#things-you-can-do"></a></h4>
+            <ol>
+              <li>
+                <p>Consider picking one from each of the three below.</p>
                 <ul>
-                  <li>MarkBind: 10-15 minutes</li>
-                  <li>PowerPointLabs: 20-30 minutes</li>
-                  <li>RepoSense: 10-15 minutes</li>
-                  <li>TEAMMATES: 10-15 minutes</li>
+                  <li>An <strong>Aspect</strong>: Various aspects of an SE project e.g. Testing, CI, Scalability, Requirements, Security, Performance, ...</li>
+                  <li>A <strong>Language</strong>: e.g. Java, C#, Go, Python, Ruby, Kotlin, Elixir, JavaScript, HTML, CSS, ...</li>
+                  <li>A <strong>Domain</strong>: Any other technical topic relevant to SE that you want to claim as your interest/expert area e.g Search Engine Optimization, Regular Expressions</li>
                 </ul>
               </li>
-              <li>The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive
-                demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.</li>
-            </ul>
-          </li>
-          <li>If you are presenting next Monday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.</li>
-        </ul>
+              <li>
+                <p>Learn more about them yourself. While you do that, produce evidence of your knowledge. <span class="dimmed">E.g. blog posts, stackoverflow questions/answers</span></p>
+              </li>
+              <li>
+                <p>Create learning resources for others trying to learn the same area (see <a href="#book-chapter">Book Chapter</a> deliverables explained below)</p>
+              </li>
+              <li>
+                <p>Share interesting and useful bits of your knowledge with the class by giving short talks (refer <a href="#lightning-talks">Lightning Talks</a> deliverables explained below)</p>
+              </li>
+            </ol>
+          </div>
+        </modal>
 
         <div id="week3-monday"></div>
-        <h2 id="week-3-jan-28">Week 3 [Jan 28]<a class="fa fa-anchor" href="#week-3-jan-28"></a></h2>
+        <h2 id="week-3-jan-27">Week 3 [Jan 27]<a class="fa fa-anchor" href="#week-3-jan-27"></a></h2>
         <h4 id="monday-3">Monday<a class="fa fa-anchor" href="#monday-3"></a></h4>
+        <ul>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          <li>If you are presenting this Thursday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.</li>
+        </ul>
+        <h4 id="thursday-3">Thursday<a class="fa fa-anchor" href="#thursday-3"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round A - Part 1
             <ul>
-              <li>See the <strong><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a></strong> (created based on the alphabetical order of last three letters of the full name (as per IVLE),
+              <li>See the <strong><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a></strong> (created based on the alphabetical order of last three letters of the full name (as per LumiNUS),
                 limited to 1-2 students from each team per week).</li>
             </ul>
           </li>
         </ul>
-        <panel header="Some things to consider when preparing for the talk" expanded no-close>
+        <panel type="secondary" header="##### Steps to follow when preparing<a class='fa fa-anchor' href='#steps-to-follow-when-preparing'></a>" expanded no-close>
           <span id="tips-roundA">
 <box type="warning">
-<p>Give priority to applying the techniques covered in week 2 Monday lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
+<p>Give priority to applying the techniques covered in week 2 lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
 </p></box>
 <p>Try to follow these steps in this sequence:</p>
 <ol>
@@ -171,11 +216,11 @@
 <li>Try to choose an impact that has a <em>do</em> component (e.g., <code>get audience to switch to technology X</code>), not just <em>know</em> and <em>believe</em> components (e.g., <code>tell audience about X</code>). The <em>do</em> component will make the talk motivational and higher-impact; without it, the talk will be simply informational.</li>
 <li>Frame the intended impact as a <em>call-to-action</em> (CtA).</li></ul></li>
 <li>
-<p><strong>Find a WIIFY</strong> i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this <em>specific</em> audience at a <em>concrete</em> level.
+<p><strong>Find a <em>WIIFY</em></strong> i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this <em>specific</em> audience at a <em>concrete</em> level.
 For example, explaining <code>how Foo technology can benefit SoC students right now</code> is better than making a general claim that <code>Foo is a useful technology</code>. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
 If you cannot find a convincing WIIFY, reconsider the topic as there is a risk that the audience may not find the talk useful.</p></li>
 <li>
-<p>Choose some key points that help you achieve that impact. Be clear about your key points.</p>
+<p><strong>Choose <em>key points</em></strong> that help you achieve that impact. Be clear about your key points.</p>
 <ul>
 <li>We look for <strong>points, not topics</strong> <span class="dimmed">e.g., <code>how to use X</code> is a topic while <code>X is easy to use</code> is a point</span>. In the past years, I found that some students still confused <em>points</em>          with <em>topics</em>. A point forms a sentence e.g., <code>The tool X is easy to use.</code> whereas a topic may not e.g., <code>Tool X usage</code>.</li>
           <li>Make sure your key points are aligned with the intended impact. If you key points are <code>a</code>, <code>b</code>, <code>c</code>, you should be able to say &quot;<code>a</code>; <code>b</code>; <code>c</code>; <em>therefore</em>, <code>CtA</code>&quot;
@@ -183,7 +228,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           </ul>
           </li>
           <li>
-            <p>Decide the talk roadmap (aka the agenda, or the <em>promise</em>). The may be similar to key points but not necessarily the same. Roadmap can be topics (rather than points) and can be questions (rather than answers).</p>
+            <p><strong>Decide the talk <em>roadmap</em></strong> (aka the <em>agenda</em>, or the <em>promise</em>). They may be similar to key points but not necessarily the same. The roadmap can be topics (rather than points) and can be questions (rather
+              than answers).
+            </p>
             <div class="table-responsive">
               <table class="markbind-table table table-bordered table-striped">
                 <thead>
@@ -194,7 +241,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                 </thead>
                 <tbody>
                   <tr>
-                    <td><code>What is X</code><br> <code>Demo of X</code><br> <code>Benefits of X</code></td>
+                    <td><code>What is X?</code><br> <code>Demo of X</code><br> <code>Benefits of X</code></td>
                     <td><code>X is fast</code><br> <code>X is free</code><br> <code>X is getting popular</code></td>
                   </tr>
                 </tbody>
@@ -205,10 +252,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             <p><strong>Find a PUNCH.</strong> This is hard, but give it your best shot. One good tactic is to find an extreme example of a pain point that can be solved by your topic <span class="dimmed">e.g, if your CtA is <code>switch to X</code>, you can start with an example that shows how bad something can be without X</span>.</p>
           </li>
           <li>
-            <p>Design the slide content.</p>
+            <p><strong>Design the slides</strong>.</p>
             <ul>
-              <li>One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br> Peers reviewing
-                a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can spot those holes.</li>
+              <li>One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. Critically review your talk from the target audience point of view.<br></li>
               <li>Also mention how the topic fits into the big picture.<br>
                 <span class="dimmed">e.g., if your talk is about X, the big picture can be like this:</span>
                 <blockquote>
@@ -231,16 +277,16 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           </ol>
           </span>
         </panel>
-        <panel header="During the session" expanded no-close>
+        <panel type="secondary" header="##### During the session<a class='fa fa-anchor' href='#during-the-session'></a>" expanded no-close>
           <ul>
-            <li>No laptops allowed during talks (except the speaker).</li>
+            <li><mark>Audience members are not allowed to use laptops allowed during the talks</mark>.</li>
             <li>Note down comments about the talk on paper (provided).</li>
           </ul>
         </panel>
-        <panel header="After the session" expanded no-close>
+        <panel type="secondary" header="##### After the session<a class='fa fa-anchor' href='#after-the-session'></a>" expanded no-close>
           <ul>
             <li>
-              <p>⏰ by Monday midnight:</p>
+              <p>⏰ by Thursday midnight:</p>
               <ul>
                 <li>Speakers should update the issue description (rather than add as a new comment) as follows:
                   <ul>
@@ -251,7 +297,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               </ul>
             </li>
             <li>
-              <p>⏰ by Tuesday midnight:</p>
+              <p>⏰ by Saturday midnight:</p>
               <ul>
                 <li>All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.</li>
               </ul>
@@ -261,49 +307,50 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             </li>
           </ul>
         </panel>
-        <h4 id="thursday-3">Thursday<a class="fa fa-anchor" href="#thursday-3"></a></h4>
-        <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
-        </ul>
+        <p></p>
 
-        <h2 id="week-4-feb-4">Week 4 [Feb 4]<a class="fa fa-anchor" href="#week-4-feb-4"></a></h2>
+        <h2 id="week-4-feb-3">Week 4 [Feb 3]<a class="fa fa-anchor" href="#week-4-feb-3"></a></h2>
         <h4 id="todo-3">Todo<a class="fa fa-anchor" href="#todo-3"></a></h4>
+        <p>If you haven't already,</p>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> If you haven't already, get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.</li>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Get started with adding content to the <a href="https://github.com/se-edu/learningresources">learning resources repo</a> (aka 'book chapter' deliverable).</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> [If applicable] get started on the 'book chapter'.</li>
         </ul>
-        <panel header="%%CS3281 » Deliverables →%%" expanded no-close>
-          <div>
-            <h2 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h2>
-            <p>This deliverable is optional. It can count up to 30%.</p>
-            <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
-            <ul>
-              <li>You are expected to make periodic PRs to create/enhance the relevant pages as you learn the topic. Minimally, you are expected to merge one PR by week 7 and one more by week 13.</li>
-              <li>Do <mark>read the <a href="https://se-edu.github.io/learningresources/contributing.html">instructions on how to contribute to se-edu/learningresources</a></mark>.</li>
-              <li>Improving existing content is as valuable as adding new content.</li>
-              <li>While you have write access to the repo, use your own fork to submit PRs.</li>
-              <li>You can create PRs without corresponding issues.</li>
-              <li>Please get the PRs reviewed and approved by a peer before requesting prof's review. You can also request reviews from past contributors of the repo (especially if you are improving an existing topic) but there is no guarantee that they will
-                be available to review.</li>
-              <li>When getting reviews, it is useful to get a review from somebody how knows the topic (to help with the accuracy of the content) but also from somebody who is new to the topic (i.e., your target reader).</li>
-              <li>Aim to get some content merged before mid-semester break.</li>
-              <li>If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication of work.</li>
-            </ul>
-            <h4 id="grading">Grading<a class="fa fa-anchor" href="#grading"></a></h4>
-            <p>Based on the value added to se-edu/learningresources. Other forms of writing (e.g. blog posts etc.) can be counted too.</p>
-          </div>
-        </panel>
+        <div class="indented-level2">
+          <panel header="%%**CS3281 » Deliverables → Book Chapter**%%" no-close minimized>
+            <div>
+              <h2 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h2>
+              <p>This deliverable is optional. It can count up to 30%.</p>
+              <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
+              <ul>
+                <li>You are expected to make periodic PRs to create/enhance the relevant pages as you learn the topic. Minimally, you are expected to merge one PR by week 7 and one more by week 13.</li>
+                <li>Do <mark>read the <a href="https://se-edu.github.io/learningresources/contributing.html">instructions on how to contribute to se-edu/learningresources</a></mark>.</li>
+                <li>Improving existing content is as valuable as adding new content.</li>
+                <li>While you have write access to the repo, use your own fork to submit PRs.</li>
+                <li>You can create PRs without corresponding issues.</li>
+                <li>Please get the PRs reviewed and approved by a peer before requesting prof's review. You can also request reviews from past contributors of the repo (especially if you are improving an existing topic) but there is no guarantee that they
+                  will be available to review.</li>
+                <li>When getting reviews, it is useful to get a review from somebody how knows the topic (to help with the accuracy of the content) but also from somebody who is new to the topic (i.e., your target reader).</li>
+                <li>Aim to get some content merged before mid-semester break.</li>
+                <li>If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication of work.</li>
+              </ul>
+              <h4 id="grading">Grading<a class="fa fa-anchor" href="#grading"></a></h4>
+              <p>Based on the value added to se-edu/learningresources. Other forms of writing (e.g. blog posts etc.) can be counted too.</p>
+            </div>
+          </panel>
+        </div>
+        <p></p>
         <h4 id="monday-4">Monday<a class="fa fa-anchor" href="#monday-4"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round A - Part 2</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
         <h4 id="thursday-4">Thursday<a class="fa fa-anchor" href="#thursday-4"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round A - Part 2</li>
         </ul>
         <h4 id="sunday">Sunday<a class="fa fa-anchor" href="#sunday"></a></h4>
         <ul>
-          <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2019-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2020-dashboard">dashboard</a>.
+          <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2020-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2020-dashboard">dashboard</a>.
             More info about the file format can be found <a href="https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files">here</a>.</li>
         </ul>
         <box type="success">
@@ -312,10 +359,10 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           </p>
         </box>
         <ul>
-          <li>⏰ Update the <a href="https://nus-cs3281-2020.netlify.com/instructions.html#updating-your-project-progress">progress</a> page.</li>
+          <li>⏰ Update the <a href="https://nus-cs3281.github.io/2020/instructions.html#updating-your-project-progress">progress</a> page.</li>
         </ul>
 
-        <h2 id="week-5-feb-11">Week 5 [Feb 11]<a class="fa fa-anchor" href="#week-5-feb-11"></a></h2>
+        <h2 id="week-5-feb-10">Week 5 [Feb 10]<a class="fa fa-anchor" href="#week-5-feb-10"></a></h2>
         <h4 id="todo-4">Todo<a class="fa fa-anchor" href="#todo-4"></a></h4>
         <ul>
           <li>If you haven't started already, this is a good time to start getting <mark>at least one peer-review from classmates</mark> before requesting reviews from a senior developer.
@@ -336,14 +383,14 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round A - Part 3</li>
         </ul>
 
-        <h2 id="week-6-feb-18">Week 6 [Feb 18]<a class="fa fa-anchor" href="#week-6-feb-18"></a></h2>
+        <h2 id="week-6-feb-17">Week 6 [Feb 17]<a class="fa fa-anchor" href="#week-6-feb-17"></a></h2>
         <h4 id="monday-6">Monday<a class="fa fa-anchor" href="#monday-6"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Tips for Tech Talks - Part 2</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
         <h4 id="thursday-6">Thursday<a class="fa fa-anchor" href="#thursday-6"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Tips for Tech Talks - Part 2</li>
         </ul>
         <h4 id="todo-5">Todo<a class="fa fa-anchor" href="#todo-5"></a></h4>
         <ul>
@@ -359,15 +406,15 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
 
         <panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
           <ul>
-            <li><strong>Team 1</strong>: Chelsey, Jacob, Marvin, Rahul</li>
-            <li><strong>Team 2</strong>: Si Jie, Bryan, Gilbert, Junming</li>
-            <li><strong>Team 3</strong>: Henry, Ronak, Amrut, Kenneth, Monika</li>
-            <li><strong>Team 4</strong>: Ayush, Shu Peng, Chunhui, Zhen Yong</li>
-            <li><strong>Team 5</strong>: Heng Yeow, Aadya, Jeremy, Chester, Wang Chao</li>
+            <li><strong>Team 1</strong>:</li>
+            <li><strong>Team 2</strong>:</li>
+            <li><strong>Team 3</strong>:</li>
+            <li><strong>Team 4</strong>:</li>
+            <li><strong>Team 5</strong>:</li>
           </ul>
         </panel>
         <br>
-        <h2 id="week-7-mar-4">Week 7 [Mar 4]<a class="fa fa-anchor" href="#week-7-mar-4"></a></h2>
+        <h2 id="week-7-mar-2">Week 7 [Mar 2]<a class="fa fa-anchor" href="#week-7-mar-2"></a></h2>
         <box type="warning">
           <p>For the internal project(s), avoid starting work that you are not confident of finishing by week 13. Not only <strong>unmerged work will not earn credit</strong> for the module, such work might affect your grade negatively because of the waste
             of mentor efforts it caused to the project. Of course work abandoned due to no fault of your own (e.g., senior devs decided later the direction is not worth pursuing) will still earn you credit.
@@ -377,15 +424,23 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         <ul>
           <li>⏰ by Monday
             <ul>
-              <li>Some progress expected on the external project</li>
+              <li>[If applicable] Some progress expected on the external project</li>
+            </ul>
+          </li>
+          <li>⏰ by Friday
+            <ul>
+              <li>[If applicable] Some progress expected on book chapter</li>
             </ul>
           </li>
         </ul>
         <h4 id="monday-7">Monday<a class="fa fa-anchor" href="#monday-7"></a></h4>
         <ul>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+        </ul>
+        <h4 id="thursday-7">Thursday<a class="fa fa-anchor" href="#thursday-7"></a></h4>
+        <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round B - Part 1 (see <a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
             <ul>
-              <li><s>The break-down of rounds B1-3 will be similar to rounds A1-3 i.e., if you presented in round A1 (week 3), you will present in round B1 (week 7).</s></li>
               <li>In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you
                 not required to use the <em>generic slide deck</em> pptx file, do take a look at it and make sure all its elements are also present in your slide deck.</li>
               <li>In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)</li>
@@ -437,8 +492,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         <panel header="%%For reference: Tips from round A%%" no-close>
           <div>
             <box type="warning">
-              <p>Give priority to applying the techniques covered in week 2 Monday lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come
-                later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
+              <p>Give priority to applying the techniques covered in week 2 lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later.
+                In particular,
+                <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
               </p>
             </box>
             <p>Try to follow these steps in this sequence:</p>
@@ -451,10 +507,10 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                 </ul>
               </li>
               <li>
-                <p><strong>Find a WIIFY</strong> i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this <em>specific</em> audience at a <em>concrete</em> level. For example, explaining <code>how Foo technology can benefit SoC students right now</code>                  is better than making a general claim that <code>Foo is a useful technology</code>. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>                  If you cannot find a convincing WIIFY, reconsider the topic as there is a risk that the audience may not find the talk useful.</p>
+                <p><strong>Find a <em>WIIFY</em></strong> i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this <em>specific</em> audience at a <em>concrete</em> level. For example, explaining <code>how Foo technology can benefit SoC students right now</code>                  is better than making a general claim that <code>Foo is a useful technology</code>. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>                  If you cannot find a convincing WIIFY, reconsider the topic as there is a risk that the audience may not find the talk useful.</p>
               </li>
               <li>
-                <p>Choose some key points that help you achieve that impact. Be clear about your key points.</p>
+                <p><strong>Choose <em>key points</em></strong> that help you achieve that impact. Be clear about your key points.</p>
                 <ul>
                   <li>We look for <strong>points, not topics</strong> <span class="dimmed">e.g., <code>how to use X</code> is a topic while <code>X is easy to use</code> is a point</span>. In the past years, I found that some students still confused <em>points</em>                    with <em>topics</em>. A point forms a sentence e.g., <code>The tool X is easy to use.</code> whereas a topic may not e.g., <code>Tool X usage</code>.</li>
                   <li>Make sure your key points are aligned with the intended impact. If you key points are <code>a</code>, <code>b</code>, <code>c</code>, you should be able to say &quot;<code>a</code>; <code>b</code>; <code>c</code>; <em>therefore</em>,
@@ -463,7 +519,8 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                 </ul>
               </li>
               <li>
-                <p>Decide the talk roadmap (aka the agenda, or the <em>promise</em>). The may be similar to key points but not necessarily the same. Roadmap can be topics (rather than points) and can be questions (rather than answers).</p>
+                <p><strong>Decide the talk <em>roadmap</em></strong> (aka the <em>agenda</em>, or the <em>promise</em>). They may be similar to key points but not necessarily the same. The roadmap can be topics (rather than points) and can be questions (rather
+                  than answers).</p>
                 <div class="table-responsive">
                   <table class="markbind-table table table-bordered table-striped">
                     <thead>
@@ -474,7 +531,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                     </thead>
                     <tbody>
                       <tr>
-                        <td><code>What is X</code><br> <code>Demo of X</code><br> <code>Benefits of X</code></td>
+                        <td><code>What is X?</code><br> <code>Demo of X</code><br> <code>Benefits of X</code></td>
                         <td><code>X is fast</code><br> <code>X is free</code><br> <code>X is getting popular</code></td>
                       </tr>
                     </tbody>
@@ -485,10 +542,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                 <p><strong>Find a PUNCH.</strong> This is hard, but give it your best shot. One good tactic is to find an extreme example of a pain point that can be solved by your topic <span class="dimmed">e.g, if your CtA is <code>switch to X</code>, you can start with an example that shows how bad something can be without X</span>.</p>
               </li>
               <li>
-                <p>Design the slide content.</p>
+                <p><strong>Design the slides</strong>.</p>
                 <ul>
-                  <li>One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br> Peers
-                    reviewing a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can spot those holes.</li>
+                  <li>One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. Critically review your talk from the target audience point of view.<br></li>
                   <li>Also mention how the topic fits into the big picture.<br>
                     <span class="dimmed">e.g., if your talk is about X, the big picture can be like this:</span>
                     <blockquote>
@@ -511,20 +567,8 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             </ol>
           </div>
         </panel>
-        <h4 id="thursday-7">Thursday<a class="fa fa-anchor" href="#thursday-7"></a></h4>
-        <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
-        </ul>
-        <h4 id="todo-7">Todo<a class="fa fa-anchor" href="#todo-7"></a></h4>
-        <ul>
-          <li>⏰ by Friday
-            <ul>
-              <li>Some progress expected on book chapter</li>
-            </ul>
-          </li>
-        </ul>
 
-        <h2 id="week-8-mar-11">Week 8 [Mar 11]<a class="fa fa-anchor" href="#week-8-mar-11"></a></h2>
+        <h2 id="week-8-mar-9">Week 8 [Mar 9]<a class="fa fa-anchor" href="#week-8-mar-9"></a></h2>
         <ul>
           <li>⏰ by Friday
             <ul>
@@ -539,27 +583,27 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         </ul>
         <h4 id="monday-8">Monday<a class="fa fa-anchor" href="#monday-8"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round B - Part 2</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
         <h4 id="thursday-8">Thursday<a class="fa fa-anchor" href="#thursday-8"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round B - Part 2</li>
         </ul>
 
-        <h2 id="week-9-mar-18">Week 9 [Mar 18]<a class="fa fa-anchor" href="#week-9-mar-18"></a></h2>
+        <h2 id="week-9-mar-16">Week 9 [Mar 16]<a class="fa fa-anchor" href="#week-9-mar-16"></a></h2>
         <h4 id="monday-9">Monday<a class="fa fa-anchor" href="#monday-9"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round B - Part 3</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
         </ul>
         <h4 id="thursday-9">Thursday<a class="fa fa-anchor" href="#thursday-9"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round B - Part 3</li>
         </ul>
 
-        <h2 id="week-10-mar-25">Week 10 [Mar 25]<a class="fa fa-anchor" href="#week-10-mar-25"></a></h2>
-        <h4 id="todo-8">Todo<a class="fa fa-anchor" href="#todo-8"></a></h4>
+        <h2 id="week-10-mar-23">Week 10 [Mar 23]<a class="fa fa-anchor" href="#week-10-mar-23"></a></h2>
+        <h4 id="todo-7">Todo<a class="fa fa-anchor" href="#todo-7"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Document your observations about the workflow of your external OSS project:
+          <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> [If applicable] Document your observations about the workflow of your external OSS project:
             <ul>
               <li>Info to include:
                 <ol>
@@ -571,7 +615,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               </li>
               <li>Submission:
                 <ul>
-                  <li>Add your observations to the file <code>nus-cs3281/2020/students/yourName/observations.md</code>.</li>
+                  <li>Add your observations to the file <code>https://github.com/nus-cs3281/2020/students/yourName/observations.md</code>.</li>
                   <li>Recommended length: about 0.5 - 1 A4 page</li>
                   <li>Deadline: Before week 10 Monday session</li>
                 </ul>
@@ -583,15 +627,15 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         </ul>
         <h4 id="monday-10">Monday<a class="fa fa-anchor" href="#monday-10"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Feedback for LT round B</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow</li>
         </ul>
         <h4 id="thursday-10">Thursday<a class="fa fa-anchor" href="#thursday-10"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Feedback for LT round B</li>
         </ul>
 
-        <h2 id="week-11-apr-1">Week 11 [Apr 1]<a class="fa fa-anchor" href="#week-11-apr-1"></a></h2>
-        <h4 id="todo-9">Todo<a class="fa fa-anchor" href="#todo-9"></a></h4>
+        <h2 id="week-11-mar-30">Week 11 [Mar 30]<a class="fa fa-anchor" href="#week-11-mar-30"></a></h2>
+        <h4 id="todo-8">Todo<a class="fa fa-anchor" href="#todo-8"></a></h4>
         <ul>
           <li>
             <p>Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.</p>
@@ -608,19 +652,23 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         </ul>
         <h4 id="monday-11">Monday<a class="fa fa-anchor" href="#monday-11"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow (remainder)</li>
         </ul>
         <h4 id="thursday-11">Thursday<a class="fa fa-anchor" href="#thursday-11"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions, Discussion on external project workflow (remainder)</li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Tips for Tech Talks - Recap. Feedback for LT round B (remainder)</li>
         </ul>
 
-        <h2 id="week-12-apr-8">Week 12 [Apr 8]<a class="fa fa-anchor" href="#week-12-apr-8"></a></h2>
+        <h2 id="week-12-apr-6">Week 12 [Apr 6]<a class="fa fa-anchor" href="#week-12-apr-6"></a></h2>
         <h4 id="monday-12">Monday<a class="fa fa-anchor" href="#monday-12"></a></h4>
+        <ul>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+        </ul>
+        <h4 id="thursday-12">Thursday<a class="fa fa-anchor" href="#thursday-12"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round C - Part 1
             <ul>
-              <li>Venue SR1</li>
+              <li>Venue TBD</li>
               <li>No Q&amp;A</li>
             </ul>
           </li>
@@ -732,12 +780,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             </li>
           </ol>
         </panel>
-        <h4 id="thursday-12">Thursday<a class="fa fa-anchor" href="#thursday-12"></a></h4>
-        <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
-        </ul>
+        <p></p>
 
-        <h2 id="week-13-apr-15">Week 13 [Apr 15]<a class="fa fa-anchor" href="#week-13-apr-15"></a></h2>
+        <h2 id="week-13-apr-13">Week 13 [Apr 13]<a class="fa fa-anchor" href="#week-13-apr-13"></a></h2>
         <h4 id="monday-13">Monday<a class="fa fa-anchor" href="#monday-13"></a></h4>
         <ul>
           <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Lightning Talks Round C - Part 2</li>
@@ -750,11 +795,6 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         <ul>
           <li><s><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture:</s></li>
         </ul>
-
-        <h2 id="reading-week-apr-22">Reading Week [Apr 22]<a class="fa fa-anchor" href="#reading-week-apr-22"></a></h2>
-        <ul>
-          <li>Exit interviews (Schedule TBD)</li>
-        </ul>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
@@ -763,21 +803,21 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             <a class="nav-link py-1" href="#cs3281-and-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#week-1-jan-13">Week 1 [Jan 13]&#x200E;</a>
-              <a class="nav-link py-1" href="#items-below-this-line-are-yet-to-be-updated">Items below this line are yet to be updated&#x200E;</a>
-              <a class="nav-link py-1" href="#week-2-jan-21">Week 2 [Jan 21]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-3-jan-28">Week 3 [Jan 28]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-4-feb-4">Week 4 [Feb 4]&#x200E;</a>
-              <a class="nav-link py-1" href="#book-chapter">Book Chapter&#x200E;</a>
-              <a class="nav-link py-1" href="#week-5-feb-11">Week 5 [Feb 11]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-6-feb-18">Week 6 [Feb 18]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-7-mar-4">Week 7 [Mar 4]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-8-mar-11">Week 8 [Mar 11]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-9-mar-18">Week 9 [Mar 18]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-10-mar-25">Week 10 [Mar 25]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-11-apr-1">Week 11 [Apr 1]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-12-apr-8">Week 12 [Apr 8]&#x200E;</a>
-              <a class="nav-link py-1" href="#week-13-apr-15">Week 13 [Apr 15]&#x200E;</a>
-              <a class="nav-link py-1" href="#reading-week-apr-22">Reading Week [Apr 22]&#x200E;</a>
+            </nav>
+            <a class="nav-link py-1" href="#items-below-this-are-yet-to-be-updated">Items below this are yet to be updated&#x200E;</a>
+            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#week-2-jan-20">Week 2 [Jan 20]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-3-jan-27">Week 3 [Jan 27]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-4-feb-3">Week 4 [Feb 3]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-5-feb-10">Week 5 [Feb 10]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-6-feb-17">Week 6 [Feb 17]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-7-mar-2">Week 7 [Mar 2]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-8-mar-9">Week 8 [Mar 9]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-9-mar-16">Week 9 [Mar 16]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-10-mar-23">Week 10 [Mar 23]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-11-mar-30">Week 11 [Mar 30]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-12-apr-6">Week 12 [Apr 6]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-13-apr-13">Week 13 [Apr 13]&#x200E;</a>
             </nav>
 
           </nav>
@@ -786,7 +826,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.9.0</a> at Tue, 07 Jan 2020 14:54:09 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.9.0</a> at Thu, 09 Jan 2020 12:07:34 GMT</small></div>
     </footer>
   </div>
 </body>

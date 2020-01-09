@@ -1,0 +1,338 @@
+2019-11-25T04:38:51.755Z - info: Website generation started at 12:38:51 PM
+2019-11-25T04:38:52.060Z - info: Building assets...
+2019-11-25T04:38:52.328Z - info: Assets built
+2019-11-25T04:38:52.328Z - info: Generating pages...
+2019-11-25T04:38:53.008Z - info: Pages built
+2019-11-25T04:38:53.250Z - info: Website generation complete! Total build time: 1.695s
+2019-11-25T04:38:53.636Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-11-25T04:38:53.636Z - info: Press CTRL+C to stop ...
+2019-11-25T04:38:53.661Z - info: Site data built
+2019-11-25T05:36:26.840Z - info: [1:36:26 PM] Reload for file add: C:\repos\nus-cs3281\cs3281-website\favicon.png
+2019-11-25T05:36:27.850Z - info: Assets built
+2019-11-25T05:37:38.414Z - info: [1:37:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T05:37:39.417Z - info: Rebuilding affected source files
+2019-11-25T05:37:39.419Z - info: Rebuilding 2 pages
+2019-11-25T05:37:39.655Z - info: Pages rebuilt
+2019-11-25T05:37:39.665Z - info: Site data built
+2019-11-25T05:41:06.932Z - info: [1:41:06 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T05:41:07.934Z - info: Rebuilding affected source files
+2019-11-25T05:41:07.934Z - info: Rebuilding 2 pages
+2019-11-25T05:41:08.086Z - info: Pages rebuilt
+2019-11-25T05:41:08.094Z - info: Site data built
+2019-11-25T05:42:07.696Z - info: [1:42:07 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T05:42:08.697Z - info: Rebuilding affected source files
+2019-11-25T05:42:08.697Z - info: Rebuilding 2 pages
+2019-11-25T05:42:08.830Z - info: Pages rebuilt
+2019-11-25T05:42:08.838Z - info: Site data built
+2019-11-25T05:45:35.592Z - info: [1:45:35 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T05:45:36.594Z - info: Rebuilding affected source files
+2019-11-25T05:45:36.597Z - info: Rebuilding 2 pages
+2019-11-25T05:45:36.794Z - info: Pages rebuilt
+2019-11-25T05:45:36.805Z - info: Site data built
+2019-11-25T05:46:52.064Z - info: [1:46:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T05:46:53.065Z - info: Rebuilding affected source files
+2019-11-25T05:46:53.065Z - info: Rebuilding 2 pages
+2019-11-25T05:46:53.212Z - info: Pages rebuilt
+2019-11-25T05:46:53.219Z - info: Site data built
+2019-11-25T05:47:41.277Z - info: [1:47:41 PM] Reload for file add: C:\repos\nus-cs3281\cs3281-website\admin\cs3283.mbd
+2019-11-25T05:47:41.374Z - info: [1:47:41 PM] Reload for file deletion: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T05:47:42.278Z - warn: Rebuilding all source files
+2019-11-25T05:47:43.298Z - info: Assets removed
+2019-11-25T05:47:43.298Z - info: Generating pages...
+2019-11-25T05:47:43.720Z - info: Pages built
+2019-11-25T05:48:13.770Z - info: Website generation started at 1:48:13 PM
+2019-11-25T05:48:14.074Z - info: Building assets...
+2019-11-25T05:48:14.421Z - info: Assets built
+2019-11-25T05:48:14.421Z - info: Generating pages...
+2019-11-25T05:48:14.541Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T05:48:15.082Z - info: Pages built
+2019-11-25T05:48:15.304Z - info: Website generation complete! Total build time: 1.712s
+2019-11-25T05:48:15.689Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-11-25T05:48:15.689Z - info: Press CTRL+C to stop ...
+2019-11-25T05:48:15.712Z - info: Site data built
+2019-11-25T05:55:54.287Z - info: [1:55:54 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-11-25T05:55:55.290Z - info: Rebuilding affected source files
+2019-11-25T05:55:55.291Z - info: Rebuilding 2 pages
+2019-11-25T05:55:55.327Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T05:55:55.666Z - info: Pages rebuilt
+2019-11-25T05:55:55.675Z - info: Site data built
+2019-11-25T05:56:11.195Z - info: [1:56:11 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-11-25T05:56:12.196Z - info: Rebuilding affected source files
+2019-11-25T05:56:12.197Z - info: Rebuilding 2 pages
+2019-11-25T05:56:12.234Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T05:56:12.574Z - info: Pages rebuilt
+2019-11-25T05:56:12.583Z - info: Site data built
+2019-11-25T05:57:24.611Z - info: [1:57:24 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-11-25T05:57:25.613Z - info: Rebuilding affected source files
+2019-11-25T05:57:25.614Z - info: Rebuilding 2 pages
+2019-11-25T05:57:25.643Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T05:57:25.970Z - info: Pages rebuilt
+2019-11-25T05:57:25.977Z - info: Site data built
+2019-11-25T05:58:45.478Z - info: [1:58:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2019-11-25T05:58:46.480Z - info: Rebuilding affected source files
+2019-11-25T05:58:46.482Z - info: Rebuilding 2 pages
+2019-11-25T05:58:46.509Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T05:58:46.828Z - info: Pages rebuilt
+2019-11-25T05:58:46.836Z - info: Site data built
+2019-11-25T05:59:13.848Z - info: [1:59:13 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T05:59:14.850Z - info: Rebuilding affected source files
+2019-11-25T05:59:14.850Z - info: Rebuilding 1 pages
+2019-11-25T05:59:14.968Z - info: Pages rebuilt
+2019-11-25T05:59:14.976Z - info: Site data built
+2019-11-25T06:00:37.150Z - info: [2:00:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:00:38.151Z - info: Rebuilding affected source files
+2019-11-25T06:00:38.152Z - info: Rebuilding 1 pages
+2019-11-25T06:00:38.284Z - info: Pages rebuilt
+2019-11-25T06:00:38.293Z - info: Site data built
+2019-11-25T06:01:02.041Z - info: [2:01:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:01:03.041Z - info: Rebuilding affected source files
+2019-11-25T06:01:03.042Z - info: Rebuilding 1 pages
+2019-11-25T06:01:03.139Z - info: Pages rebuilt
+2019-11-25T06:01:03.146Z - info: Site data built
+2019-11-25T06:02:16.175Z - info: [2:02:16 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:02:17.177Z - info: Rebuilding affected source files
+2019-11-25T06:02:17.177Z - info: Rebuilding 1 pages
+2019-11-25T06:02:17.275Z - info: Pages rebuilt
+2019-11-25T06:02:17.284Z - info: Site data built
+2019-11-25T06:02:39.473Z - info: [2:02:39 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:02:40.473Z - info: Rebuilding affected source files
+2019-11-25T06:02:40.474Z - info: Rebuilding 1 pages
+2019-11-25T06:02:40.543Z - info: Pages rebuilt
+2019-11-25T06:02:40.550Z - info: Site data built
+2019-11-25T06:03:01.281Z - info: [2:03:01 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:03:02.284Z - info: Rebuilding affected source files
+2019-11-25T06:03:02.284Z - info: Rebuilding 1 pages
+2019-11-25T06:03:02.379Z - info: Pages rebuilt
+2019-11-25T06:03:02.387Z - info: Site data built
+2019-11-25T06:03:51.705Z - info: [2:03:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:03:52.706Z - info: Rebuilding affected source files
+2019-11-25T06:03:52.706Z - info: Rebuilding 1 pages
+2019-11-25T06:03:52.788Z - info: Pages rebuilt
+2019-11-25T06:03:52.795Z - info: Site data built
+2019-11-25T06:04:06.306Z - info: [2:04:06 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:04:07.308Z - info: Rebuilding affected source files
+2019-11-25T06:04:07.308Z - info: Rebuilding 1 pages
+2019-11-25T06:04:07.423Z - info: Pages rebuilt
+2019-11-25T06:04:07.430Z - info: Site data built
+2019-11-25T06:04:14.952Z - info: [2:04:14 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:04:15.953Z - info: Rebuilding affected source files
+2019-11-25T06:04:15.954Z - info: Rebuilding 1 pages
+2019-11-25T06:04:16.035Z - info: Pages rebuilt
+2019-11-25T06:04:16.042Z - info: Site data built
+2019-11-25T06:04:24.781Z - info: [2:04:24 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:04:25.782Z - info: Rebuilding affected source files
+2019-11-25T06:04:25.783Z - info: Rebuilding 1 pages
+2019-11-25T06:04:25.910Z - info: Pages rebuilt
+2019-11-25T06:04:25.917Z - info: Site data built
+2019-11-25T06:06:09.862Z - info: [2:06:09 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:06:10.864Z - info: Rebuilding affected source files
+2019-11-25T06:06:10.864Z - info: Rebuilding 1 pages
+2019-11-25T06:06:10.948Z - info: Pages rebuilt
+2019-11-25T06:06:10.956Z - info: Site data built
+2019-11-25T06:07:31.655Z - info: [2:07:31 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:07:32.658Z - info: Rebuilding affected source files
+2019-11-25T06:07:32.659Z - info: Rebuilding 1 pages
+2019-11-25T06:07:32.785Z - info: Pages rebuilt
+2019-11-25T06:07:32.793Z - info: Site data built
+2019-11-25T06:07:45.421Z - info: [2:07:45 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:07:46.421Z - info: Rebuilding affected source files
+2019-11-25T06:07:46.421Z - info: Rebuilding 1 pages
+2019-11-25T06:07:46.507Z - info: Pages rebuilt
+2019-11-25T06:07:46.514Z - info: Site data built
+2019-11-25T06:09:09.207Z - info: [2:09:09 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:09:10.208Z - info: Rebuilding affected source files
+2019-11-25T06:09:10.208Z - info: Rebuilding 1 pages
+2019-11-25T06:09:10.288Z - info: Pages rebuilt
+2019-11-25T06:09:10.295Z - info: Site data built
+2019-11-25T06:09:52.409Z - info: [2:09:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:09:53.409Z - info: Rebuilding affected source files
+2019-11-25T06:09:53.410Z - info: Rebuilding 1 pages
+2019-11-25T06:09:53.534Z - info: Pages rebuilt
+2019-11-25T06:09:53.541Z - info: Site data built
+2019-11-25T06:11:40.743Z - info: [2:11:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:11:41.744Z - info: Rebuilding affected source files
+2019-11-25T06:11:41.745Z - info: Rebuilding 1 pages
+2019-11-25T06:11:41.843Z - info: Pages rebuilt
+2019-11-25T06:11:41.851Z - info: Site data built
+2019-11-25T06:12:14.905Z - info: [2:12:14 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:12:15.906Z - info: Rebuilding affected source files
+2019-11-25T06:12:15.906Z - info: Rebuilding 1 pages
+2019-11-25T06:12:15.989Z - info: Pages rebuilt
+2019-11-25T06:12:15.997Z - info: Site data built
+2019-11-25T06:12:32.867Z - info: [2:12:32 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2019-11-25T06:12:33.869Z - info: Rebuilding affected source files
+2019-11-25T06:12:33.869Z - info: Rebuilding 1 pages
+2019-11-25T06:12:33.963Z - info: Pages rebuilt
+2019-11-25T06:12:33.970Z - info: Site data built
+2019-11-25T06:14:15.360Z - info: [2:14:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-11-25T06:14:15.365Z - info: [2:14:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-11-25T06:14:16.363Z - info: Rebuilding affected source files
+2019-11-25T06:14:16.363Z - info: Rebuilding 2 pages
+2019-11-25T06:14:16.523Z - info: Pages rebuilt
+2019-11-25T06:14:16.534Z - info: Site data built
+2019-11-25T06:15:05.696Z - info: [2:15:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2019-11-25T06:15:05.701Z - info: [2:15:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\expertAreas.mbd
+2019-11-25T06:15:06.698Z - info: Rebuilding affected source files
+2019-11-25T06:15:06.699Z - info: Rebuilding 2 pages
+2019-11-25T06:15:06.838Z - info: Pages rebuilt
+2019-11-25T06:15:06.845Z - info: Site data built
+2019-11-25T06:17:00.433Z - info: [2:17:00 PM] Reload for file add: C:\repos\nus-cs3281\cs3281-website\images\STePS-2019.png
+2019-11-25T06:17:00.869Z - info: [2:17:00 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\images\STePS-2019.png
+2019-11-25T06:17:01.450Z - info: Assets built
+2019-11-25T06:17:30.454Z - info: [2:17:30 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T06:17:31.455Z - info: Rebuilding affected source files
+2019-11-25T06:17:31.455Z - info: Rebuilding 2 pages
+2019-11-25T06:17:31.562Z - info: Pages rebuilt
+2019-11-25T06:17:31.569Z - info: Site data built
+2019-11-25T06:17:50.085Z - info: [2:17:50 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T06:17:51.086Z - info: Rebuilding affected source files
+2019-11-25T06:17:51.087Z - info: Rebuilding 2 pages
+2019-11-25T06:17:51.242Z - info: Pages rebuilt
+2019-11-25T06:17:51.250Z - info: Site data built
+2019-11-25T06:20:26.199Z - info: [2:20:26 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\images\STePS-2019.png
+2019-11-25T06:20:26.298Z - info: [2:20:26 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\images\STePS-2019.png
+2019-11-25T06:20:27.231Z - info: Assets built
+2019-11-25T06:20:41.790Z - info: [2:20:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T06:20:42.791Z - info: Rebuilding affected source files
+2019-11-25T06:20:42.792Z - info: Rebuilding 2 pages
+2019-11-25T06:20:42.964Z - info: Pages rebuilt
+2019-11-25T06:20:42.974Z - info: Site data built
+2019-11-25T06:23:39.817Z - info: [2:23:39 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2019-11-25T06:23:40.817Z - info: Rebuilding affected source files
+2019-11-25T06:23:40.817Z - info: Rebuilding 2 pages
+2019-11-25T06:23:40.919Z - info: Pages rebuilt
+2019-11-25T06:23:40.926Z - info: Site data built
+2019-11-25T06:26:34.764Z - info: Deployed!
+2019-11-25T06:43:07.588Z - info: Deployed!
+2019-11-25T06:44:38.773Z - info: Website generation started at 2:44:38 PM
+2019-11-25T06:44:39.031Z - info: Building assets...
+2019-11-25T06:44:39.279Z - info: Assets built
+2019-11-25T06:44:39.279Z - info: Generating pages...
+2019-11-25T06:44:39.387Z - error:  Error: No such segment 'deliverable-book-chapter' in file: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+    at Parser.end (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:338:18)
+    at Parser.parseComplete (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:330:7)
+    at fs.readFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:606:16)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-11-25T06:44:39.936Z - info: Pages built
+2019-11-25T06:44:40.146Z - info: Website generation complete! Total build time: 1.567s
+2019-11-25T06:44:40.489Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-11-25T06:44:40.489Z - info: Press CTRL+C to stop ...
+2019-11-25T06:44:40.512Z - info: Site data built
+2019-11-25T06:45:52.354Z - info: [2:45:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2019-11-25T06:45:56.556Z - info: Website generation started at 2:45:56 PM
+2019-11-25T06:45:56.798Z - info: Building assets...
+2019-11-25T06:45:57.051Z - info: Assets built
+2019-11-25T06:45:57.052Z - info: Generating pages...
+2019-11-25T06:45:57.685Z - info: Pages built
+2019-11-25T06:45:57.834Z - info: Website generation complete! Total build time: 1.446s
+2019-11-25T06:45:58.185Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2019-11-25T06:45:58.185Z - info: Press CTRL+C to stop ...
+2019-11-25T06:45:58.204Z - info: Site data built
+2019-11-25T06:47:20.400Z - info: Deployed!
+2019-11-25T07:34:47.241Z - info: Website generation started at 3:34:47 PM
+2019-11-25T07:34:47.583Z - info: Building assets...
+2019-11-25T07:34:47.912Z - info: Assets built
+2019-11-25T07:34:47.913Z - info: Generating pages...
+2019-11-25T07:34:48.604Z - info: Pages built
+2019-11-25T07:34:48.826Z - info: Website generation complete! Total build time: 1.768s
+2019-11-25T07:34:48.827Z - info: Build success!
+2019-11-25T07:34:48.839Z - info: Site data built
+2019-11-25T07:35:06.926Z - info: Deployed!
