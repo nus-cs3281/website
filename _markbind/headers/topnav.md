@@ -8,7 +8,6 @@
   <dropdown text="Links" class="nav-link">
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
-    <li><a href="{{baseUrl}}/admin/expertAreas.html"class="dropdown-item">Project Expert Areas</a></li>
     <li><a href="{{ students_site }}" target="_blank"class="dropdown-item">Students</a></li>
     <li><a href="{{ dashboard_site }}/" target="_blank"class="dropdown-item">Dashboard</a></li>
     <li><a href="{{ students_site }}/students/talksSchedule.html" target="_blank"class="dropdown-item">Lightning Talks Schedule</a></li>
