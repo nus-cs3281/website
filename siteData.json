@@ -65,24 +65,12 @@
     },
     {
       "headings": {
-        "expert-areas-related-to-internal-projects-to-be-updated": "Expert Areas Related to Internal Projects [to be updated]",
-        "languages": "Languages",
-        "tools-tech-topics": "Tools, Tech Topics"
-      },
-      "title": "Expert Areas Related to Internal Projects",
-      "header": "topnav.md",
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
-      "src": "admin/expertAreas.mbd",
-      "layout": "default"
-    },
-    {
-      "headings": {
-        "cs3281-project-mentors-to-be-updated": "CS3281 Project Mentors [to be updated]",
+        "cs3281-project-mentors": "CS3281 Project Mentors",
         "markbind": "MarkBind",
         "powerpointlabs": "PowerPointLabs",
         "reposense": "RepoSense",
-        "se-edu": "SE-EDU",
+        "se-edu-ab1-4": "SE-EDU (AB1-4)",
+        "se-edu-catcher": "SE-EDU (CATcher)",
         "teammates": "TEAMMATES"
       },
       "title": "Mentors",

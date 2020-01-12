@@ -531,3 +531,10 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
 2020-01-09T11:36:20.015Z - info: Site data built
 2020-01-09T12:07:33.387Z - info: Website generation started at 8:07:33 PM
 2020-01-09T12:07:33.725Z - info: Building assets...
+2020-01-09T12:07:34.210Z - info: Assets built
+2020-01-09T12:07:34.210Z - info: Generating pages...
+2020-01-09T12:07:34.912Z - info: Pages built
+2020-01-09T12:07:35.100Z - info: Website generation complete! Total build time: 1.781s
+2020-01-09T12:07:35.101Z - info: Build success!
+2020-01-09T12:07:35.107Z - info: Site data built
+2020-01-09T12:07:55.837Z - info: Deployed!
