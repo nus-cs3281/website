@@ -65,11 +65,6 @@ head: head.mbdf
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
-
 ## Week 2 [{{ weeks[2].day }}]
 
 #### Todo
@@ -79,7 +74,9 @@ head: head.mbdf
 #### Monday
 * {{ icon_lecture }} Lecture: Product demos, project-specific discussions
 * Demo the product created by your project.
-  * Try not to exceed 15 minutes
+  * MarkBind, PowerPointLabs, RepoSense, TEAMMATES: ~15 minutes each<br>
+    CATcher: ~5 minutes<br>
+    SE-EDU, SEEker: n/a
   * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.
 
 #### Thursday
@@ -92,13 +89,17 @@ head: head.mbdf
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
   * It is in your interest to choose a topic related to one of your <trigger trigger="click" for="modal:week3-expertArea">expert areas</trigger>. It is not a strict requirement though.
   * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==.
-* Read the schedule for [next Thursday](#week3-monday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
+* Read the schedule for [next Thursday](#week3-thursday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
 
  <modal large title="%%CS3282 →%%" id="modal:week3-expertArea">
   <include src="../admin/cs3282.mbd#expertiseAreas"/>
 </modal>
 
 <!-- ----------------------------------------------------------------------------------- -->
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
 
 <div id="week3-monday"/>
 
@@ -112,7 +113,7 @@ head: head.mbdf
 #### Thursday
 
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
-  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on the alphabetical order of last three letters of the full name (as per LumiNUS), limited to 1-2 students from each team per week).
+  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on the alphabetical order of last three letters of the full name (as per LumiNUS).
 
 
 <panel type="secondary" header="##### Steps to follow when preparing" expanded no-close>
