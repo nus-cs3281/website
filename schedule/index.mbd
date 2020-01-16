@@ -45,12 +45,7 @@ head: head.mbdf
 #### Thursday
 
 * {{ icon_lecture }} Lecture : CS3282 Module Intro, Tips for product demos
-  * Sit as teams. Team allocation:
-    * Team 1:
-    * Team 2:
-    * Team 3:
-    * Team 4:
-    * Team 5:
+  * Sit as project teams (same as Monday).
 
 
 #### Saturday (Code Sprint)
@@ -82,6 +77,12 @@ head: head.mbdf
 #### Thursday
 
 * {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
+*  Sit as teams. Team allocation:
+    * Team 1:
+    * Team 2:
+    * Team 3:
+    * Team 4:
+    * Team 5:
 * Choosing topics for Lightning Talks:
   * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
