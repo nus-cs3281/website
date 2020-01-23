@@ -78,11 +78,11 @@ head: head.mbdf
 
 * {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
 *  Sit as teams. Team allocation:
-    * Team 1:
-    * Team 2:
-    * Team 3:
-    * Team 4:
-    * Team 5:
+    * Team 1: Ze Yu, Alfred, James, Jeffrey, Tianzhen
+    * Team 2: Daryl Tan, Iskandar, Yiwen, Daryl Chan 
+    * Team 3: Brian, Irham, Tejas, Joshua, Wee Han
+    * Team 4: Yuanhong, Anubhav, Shuming, Daekoon
+    * Team 5: Yash, Chee Yuan, Jeremy, Ahmed
 * Choosing topics for Lightning Talks:
   * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
@@ -97,10 +97,6 @@ head: head.mbdf
 </modal>
 
 <!-- ----------------------------------------------------------------------------------- -->
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
 
 <div id="week3-monday"/>
 
@@ -108,8 +104,12 @@ head: head.mbdf
 
 #### Monday
 
+<!--
 * {{ icon_lecture }} Lecture: Project-specific discussions
 * If you are presenting this Thursday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.
+-->
+
+* No lecture (public hoiday)
 
 #### Thursday
 
@@ -126,7 +126,7 @@ head: head.mbdf
 Give priority to applying the techniques covered in week 2 lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, *WIIFY*, *Key Points*, and *Impact* should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
 </box>
 
-Try to follow these steps in this sequence:
+Try to follow these steps in the given order:
 
   1. **Define the _intended impact_ of the talk.** 
      * Try to choose an impact that has a _do_ component (e.g., `get audience to switch to technology X`), not just _know_ and _believe_ components (e.g., `tell audience about X`). The _do_ component will make the talk motivational and higher-impact; without it, the talk will be simply informational.
@@ -178,7 +178,10 @@ Try to follow these steps in this sequence:
 <p/>
 
 <!-- ----------------------------------------------------------------------------------- -->
+<hr>
 
+# ==Items below this are yet to be updated==
+<hr>
 
 ## Week 4 [{{ weeks[4].day }}]
 
