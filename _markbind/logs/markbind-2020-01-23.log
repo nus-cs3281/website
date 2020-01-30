@@ -54,3 +54,10 @@
 2020-01-23T04:42:13.032Z - info: Site data built
 2020-01-23T04:47:21.792Z - info: Website generation started at 12:47:21 PM
 2020-01-23T04:47:22.155Z - info: Building assets...
+2020-01-23T04:47:22.624Z - info: Assets built
+2020-01-23T04:47:22.625Z - info: Generating pages...
+2020-01-23T04:47:23.559Z - info: Pages built
+2020-01-23T04:47:23.824Z - info: Website generation complete! Total build time: 2.084s
+2020-01-23T04:47:23.824Z - info: Build success!
+2020-01-23T04:47:23.831Z - info: Site data built
+2020-01-23T04:47:35.497Z - info: Deployed!
