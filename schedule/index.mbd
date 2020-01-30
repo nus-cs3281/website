@@ -178,10 +178,6 @@ Try to follow these steps in the given order:
 <p/>
 
 <!-- ----------------------------------------------------------------------------------- -->
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
 
 ## Week 4 [{{ weeks[4].day }}]
 
@@ -206,6 +202,11 @@ If you haven't already,
 
 * {{ icon_lecture }} Lightning Talks Round A - Part 2
 
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
+
 #### Sunday
 
 * :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
@@ -217,6 +218,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 * :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page.
 
 <!-- ----------------------------------------------------------------------------------- -->
+
 
 ## Week 5 [{{ weeks[5].day }}]
 
