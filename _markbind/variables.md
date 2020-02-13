@@ -9,7 +9,7 @@
 <variable name="students_repo">{{ module_org }}/{{ year }}</variable>
 <variable name="students_site">{{ module_site }}/{{ year }}</variable>
 <variable name="dashboard_repo">{{ module_org }}/{{ year }}-dashboard</variable>
-<variable name="dashboard_site">{{ module_site }}/{{ year }}-dashboard</variable>
+<variable name="dashboard_site">{{ module_site }}/{{ year }}-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false</variable>
 
 
 <variable name="icon_deadline">:alarm_clock:</variable>

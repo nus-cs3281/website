@@ -205,14 +205,6 @@ If you haven't already,
 
 #### Sunday
 
-<!--
-* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
-
-<box type="success">
-
-Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, %%and also a means of stress testing RepoSense%%.
-</box>
--->
 * :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page.
 
 <!-- ----------------------------------------------------------------------------------- -->
@@ -235,12 +227,14 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
 
-<!-- ----------------------------------------------------------------------------------- -->
+#### Sunday
 
-<hr>
+* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
 
-# ==Items below this are yet to be updated==
-<hr>
+<box type="success">
+
+Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, %%and also a means of stress testing RepoSense%%.
+</box>
 
 ## Week 6 [{{ weeks[6].day }}]
 
@@ -265,7 +259,12 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-<panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
+
+<!--panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
 
   * **Team 1**: 
   * **Team 2**: 
@@ -273,7 +272,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
   * **Team 4**: 
   * **Team 5**: 
 
-</panel>
+</panel -->
 <br>
 
 ## Week 7 [{{ weeks[7].day }}]
