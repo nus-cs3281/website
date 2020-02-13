@@ -5,9 +5,9 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.9.1">
+  <meta name="generator" content="MarkBind 2.10.0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CS3281&amp;2 Thematic Systems Project I &amp; II</title>
+  <title>CS3281&2 Thematic Systems Project I & II</title>
   <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
   <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
   <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
@@ -15,7 +15,6 @@
   <link rel="stylesheet" href="markbind/css/github.min.css">
   <link rel="stylesheet" href="markbind/css/markbind.css">
   <link rel="stylesheet" href="markbind/layouts/default/styles.css">
-
   <link rel="stylesheet" href="markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
   <style>
@@ -43,7 +42,7 @@
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="https://nus-cs3281.github.io/2020" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2020-dashboard/" target="_blank" class="dropdown-item">Dashboard</a></li>
+          <li><a href="https://nus-cs3281.github.io/2020-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false/" target="_blank" class="dropdown-item">Dashboard</a></li>
           <li><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
           <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
@@ -56,9 +55,10 @@
       </navbar>
     </header>
     <div id="flex-body">
+
       <div id="content-wrapper">
         <div>
-          <h1 id="cs3281-and-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#cs3281-and-2-schedule"></a></h1>
+          <h1 id="cs3281-and-amp-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#cs3281-and-amp-2-schedule"></a></h1>
 
           <h2 id="week-1-jan-13">Week 1 [Jan 13]<a class="fa fa-anchor" href="#week-1-jan-13"></a></h2>
           <h4 id="todo">Todo<a class="fa fa-anchor" href="#todo"></a></h4>
@@ -149,7 +149,7 @@
             </li>
             <li>Read the schedule for <a href="#week3-thursday">next Thursday</a> to find more info about the upcoming lightning talks. The order of talks <span class="dimmed">(i.e., who presents in which week)</span> is given there too.</li>
           </ul>
-          <modal large title="%%CS3282 →%%" id="modal:week3-expertArea">
+          <modal large id="modal:week3-expertArea"><template slot="_header"><span class="dimmed">CS3282 →</span></template>
             <div>
               <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas"></a></h2>
               <p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
@@ -200,7 +200,7 @@
               </ul>
             </li>
           </ul>
-          <panel type="secondary" header="##### Steps to follow when preparing<a class='fa fa-anchor' href='#steps-to-follow-when-preparing'></a>" expanded no-close>
+          <panel type="secondary" expanded no-close id="steps-to-follow-when-preparing"><template slot="_header"><h5 id="steps-to-follow-when-preparing">Steps to follow when preparing<a class="fa fa-anchor" href="#steps-to-follow-when-preparing"></a></h5></template>
             <span id="tips-roundA">
 <box type="warning">
 <p>Give priority to applying the techniques covered in week 2 lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later. In particular, <em>WIIFY</em>, <em>Key Points</em>, and <em>Impact</em> should be the driving forces of your presentation. Figure them out at the start of your preparations, not as an afterthought.
@@ -274,13 +274,13 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             </ol>
             </span>
           </panel>
-          <panel type="secondary" header="##### During the session<a class='fa fa-anchor' href='#during-the-session'></a>" expanded no-close>
+          <panel type="secondary" expanded no-close id="during-the-session"><template slot="_header"><h5 id="during-the-session">During the session<a class="fa fa-anchor" href="#during-the-session"></a></h5></template>
             <ul>
               <li><mark>Audience members are not allowed to use laptops allowed during the talks</mark>.</li>
               <li>Note down comments about the talk on paper (provided).</li>
             </ul>
           </panel>
-          <panel type="secondary" header="##### After the session<a class='fa fa-anchor' href='#after-the-session'></a>" expanded no-close>
+          <panel type="secondary" expanded no-close id="after-the-session"><template slot="_header"><h5 id="after-the-session">After the session<a class="fa fa-anchor" href="#after-the-session"></a></h5></template>
             <ul>
               <li>
                 <p>⏰ by Thursday midnight:</p>
@@ -314,7 +314,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> [If applicable] get started on the 'book chapter'.</li>
           </ul>
           <div class="indented-level2">
-            <panel header="%%**CS3281 » Deliverables → Book Chapter**%%" no-close minimized>
+            <panel no-close minimized><template slot="_header"><p><span class="dimmed"><strong>CS3281 » Deliverables → Book Chapter</strong></span></p></template>
               <div>
                 <h2 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h2>
                 <p>This deliverable is optional. It can count up to 30%.</p>
@@ -346,7 +346,6 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lightning Talks Round A - Part 2</li>
           </ul>
           <h4 id="sunday">Sunday<a class="fa fa-anchor" href="#sunday"></a></h4>
-
           <ul>
             <li>⏰ Update the <a href="https://nus-cs3281.github.io/2020/instructions.html#updating-your-project-progress">progress</a> page.</li>
           </ul>
@@ -371,10 +370,16 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           <ul>
             <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round A - Part 3</li>
           </ul>
-
-          <hr>
-          <h1 id="items-below-this-are-yet-to-be-updated"><mark>Items below this are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-are-yet-to-be-updated"></a></h1>
-          <hr>
+          <h4 id="sunday-2">Sunday<a class="fa fa-anchor" href="#sunday-2"></a></h4>
+          <ul>
+            <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2020-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2020-dashboard/#search=&amp;sort=groupTitle&amp;sortWithin=title&amp;timeframe=commit&amp;mergegroup=false&amp;groupSelect=groupByAuthors&amp;breakdown=false">dashboard</a>.
+              More info about the file format can be found <a href="https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files">here</a>.</li>
+          </ul>
+          <box type="success">
+            <p>Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature
+              of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, <span class="dimmed">and also a means of stress testing RepoSense</span>.
+            </p>
+          </box>
           <h2 id="week-6-feb-17">Week 6 [Feb 17]<a class="fa fa-anchor" href="#week-6-feb-17"></a></h2>
           <h4 id="monday-6">Monday<a class="fa fa-anchor" href="#monday-6"></a></h4>
           <ul>
@@ -396,15 +401,10 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
           <p><strong>Recess</strong></p>
           <hr>
 
-          <panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
-            <ul>
-              <li><strong>Team 1</strong>:</li>
-              <li><strong>Team 2</strong>:</li>
-              <li><strong>Team 3</strong>:</li>
-              <li><strong>Team 4</strong>:</li>
-              <li><strong>Team 5</strong>:</li>
-            </ul>
-          </panel>
+          <hr>
+          <h1 id="items-below-this-are-yet-to-be-updated"><mark>Items below this are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-are-yet-to-be-updated"></a></h1>
+          <hr>
+
           <br>
           <h2 id="week-7-mar-2">Week 7 [Mar 2]<a class="fa fa-anchor" href="#week-7-mar-2"></a></h2>
           <box type="warning">
@@ -439,7 +439,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               </ul>
             </li>
           </ul>
-          <panel header="Tips for round B" expanded no-close>
+          <panel expanded no-close><template slot="_header"><p>Tips for round B</p></template>
             <ul>
               <li>
                 <p><strong>Make slides more visual</strong>:</p>
@@ -481,7 +481,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               </li>
             </ul>
           </panel>
-          <panel header="%%For reference: Tips from round A%%" no-close>
+          <panel no-close><template slot="_header"><p><span class="dimmed">For reference: Tips from round A</span></p></template>
             <div>
               <box type="warning">
                 <p>Give priority to applying the techniques covered in week 2 lecture even if you feel like they are cramping your natural presentation style or you can do better without them. Harmonizing your style with the new techniques can come later.
@@ -665,7 +665,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               </ul>
             </li>
           </ul>
-          <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
+          <panel type="danger" expanded no-close><template slot="_header"><p><strong>Targets for LT Round C</strong></p></template>
             <p>In this round you are <mark>expected to hit almost all targets(🎯)</mark> given below. You are recommended to follow tips (💡) given under each target closely.</p>
             <p><strong>Talk structure</strong></p>
             <ol>
@@ -696,7 +696,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
                 <ol>
                   <li>💡 Remove any conspicuous background graphics that do not add value</li>
                   <li>💡 Avoid using
-                    <tooltip content="done without good reason; uncalled for">gratuitous</tooltip> images that don't really add value</li>
+                    <tooltip><template slot="_content">done without good reason; uncalled for</template>gratuitous</tooltip> images that don't really add value</li>
                 </ol>
               </li>
               <li>🎯 Visual slides
@@ -793,17 +793,17 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#cs3281-and-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
+            <a class="nav-link py-1" href="#cs3281-and-amp-2-schedule">CS3281&amp;2 Schedule&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#week-1-jan-13">Week 1 [Jan 13]&#x200E;</a>
               <a class="nav-link py-1" href="#week-2-jan-20">Week 2 [Jan 20]&#x200E;</a>
               <a class="nav-link py-1" href="#week-3-jan-27">Week 3 [Jan 27]&#x200E;</a>
               <a class="nav-link py-1" href="#week-4-feb-3">Week 4 [Feb 3]&#x200E;</a>
               <a class="nav-link py-1" href="#week-5-feb-10">Week 5 [Feb 10]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-6-feb-17">Week 6 [Feb 17]&#x200E;</a>
             </nav>
             <a class="nav-link py-1" href="#items-below-this-are-yet-to-be-updated">Items below this are yet to be updated&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
-              <a class="nav-link py-1" href="#week-6-feb-17">Week 6 [Feb 17]&#x200E;</a>
               <a class="nav-link py-1" href="#week-7-mar-2">Week 7 [Mar 2]&#x200E;</a>
               <a class="nav-link py-1" href="#week-8-mar-9">Week 8 [Mar 9]&#x200E;</a>
               <a class="nav-link py-1" href="#week-9-mar-16">Week 9 [Mar 16]&#x200E;</a>
@@ -819,7 +819,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.9.1</a> at Thu, 06 Feb 2020 04:55:04 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.10.0</a> at Thu, 13 Feb 2020 04:30:20 GMT</small></div>
     </footer>
   </div>
 </body>
@@ -833,6 +833,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
   const enableSearch = true
 </script>
 <script src="markbind/js/setup.js"></script>
+
 <script src="markbind/layouts/default/scripts.js"></script>
 
 </html>

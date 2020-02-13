@@ -14,3 +14,73 @@
 2020-02-06T04:53:41.614Z - info: Site data built
 2020-02-06T04:55:03.841Z - info: Website generation started at 12:55:03 PM
 2020-02-06T04:55:04.217Z - info: Building assets...
+2020-02-06T04:55:04.674Z - info: Assets built
+2020-02-06T04:55:04.674Z - info: Generating pages...
+2020-02-06T04:55:05.539Z - info: Pages built
+2020-02-06T04:55:05.809Z - info: Website generation complete! Total build time: 2.019s
+2020-02-06T04:55:05.809Z - info: Build success!
+2020-02-06T04:55:05.816Z - info: Site data built
+2020-02-06T04:55:16.851Z - info: Deployed!
+2020-02-06T10:32:59.435Z - info: Website generation started at 6:32:59 PM
+2020-02-06T10:32:59.820Z - info: Building assets...
+2020-02-06T10:33:00.306Z - info: Assets built
+2020-02-06T10:33:00.307Z - info: Generating pages...
+2020-02-06T10:33:01.298Z - info: Pages built
+2020-02-06T10:33:01.558Z - info: Website generation complete! Total build time: 2.169s
+2020-02-06T10:33:01.900Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-02-06T10:33:01.900Z - info: Press CTRL+C to stop ...
+2020-02-06T10:33:01.990Z - info: Site data built
+2020-02-06T10:34:25.994Z - info: [6:34:25 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:34:26.996Z - info: Rebuilding affected source files
+2020-02-06T10:34:26.997Z - info: Rebuilding 2 pages
+2020-02-06T10:34:27.595Z - info: Pages rebuilt
+2020-02-06T10:34:27.606Z - info: Site data built
+2020-02-06T10:34:49.577Z - info: [6:34:49 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:34:50.579Z - info: Rebuilding affected source files
+2020-02-06T10:34:50.579Z - info: Rebuilding 2 pages
+2020-02-06T10:34:51.207Z - info: Pages rebuilt
+2020-02-06T10:34:51.215Z - info: Site data built
+2020-02-06T10:35:09.748Z - info: [6:35:09 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:35:10.748Z - info: Rebuilding affected source files
+2020-02-06T10:35:10.749Z - info: Rebuilding 2 pages
+2020-02-06T10:35:11.212Z - info: Pages rebuilt
+2020-02-06T10:35:11.219Z - info: Site data built
+2020-02-06T10:35:42.839Z - info: [6:35:42 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\main.css
+2020-02-06T10:35:43.847Z - info: Assets built
+2020-02-06T10:37:01.159Z - info: [6:37:01 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:37:02.161Z - info: Rebuilding affected source files
+2020-02-06T10:37:02.161Z - info: Rebuilding 2 pages
+2020-02-06T10:37:02.816Z - info: Pages rebuilt
+2020-02-06T10:37:02.825Z - info: Site data built
+2020-02-06T10:37:35.424Z - info: [6:37:35 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:37:36.424Z - info: Rebuilding affected source files
+2020-02-06T10:37:36.425Z - info: Rebuilding 2 pages
+2020-02-06T10:37:37.063Z - info: Pages rebuilt
+2020-02-06T10:37:37.071Z - info: Site data built
+2020-02-06T10:37:48.773Z - info: [6:37:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:37:49.784Z - info: Rebuilding affected source files
+2020-02-06T10:37:49.785Z - info: Rebuilding 2 pages
+2020-02-06T10:37:50.326Z - info: Pages rebuilt
+2020-02-06T10:37:50.336Z - info: Site data built
+2020-02-06T10:37:58.433Z - info: [6:37:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:37:59.436Z - info: Rebuilding affected source files
+2020-02-06T10:37:59.437Z - info: Rebuilding 2 pages
+2020-02-06T10:37:59.963Z - info: Pages rebuilt
+2020-02-06T10:37:59.974Z - info: Site data built
+2020-02-06T10:38:11.522Z - info: [6:38:11 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:38:12.541Z - info: Rebuilding affected source files
+2020-02-06T10:38:12.542Z - info: Rebuilding 2 pages
+2020-02-06T10:38:13.053Z - info: Pages rebuilt
+2020-02-06T10:38:13.061Z - info: Site data built
+2020-02-06T10:38:17.625Z - info: [6:38:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:38:18.641Z - info: Rebuilding affected source files
+2020-02-06T10:38:18.642Z - info: Rebuilding 2 pages
+2020-02-06T10:38:19.144Z - info: Pages rebuilt
+2020-02-06T10:38:19.164Z - info: Site data built
+2020-02-06T10:39:20.703Z - info: [6:39:20 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-02-06T10:39:21.719Z - info: Rebuilding affected source files
+2020-02-06T10:39:21.721Z - info: Rebuilding 2 pages
+2020-02-06T10:39:22.255Z - info: Pages rebuilt
+2020-02-06T10:39:22.264Z - info: Site data built
+2020-02-06T10:39:30.309Z - info: [6:39:30 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\main.css
+2020-02-06T10:39:31.318Z - info: Assets built
