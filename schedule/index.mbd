@@ -259,10 +259,6 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
 
 <!--panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
 
@@ -300,7 +296,7 @@ For the internal project(s), avoid starting work that you are not confident of f
   * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
 
 
-<panel header="Tips for round B" expanded no-close>
+<panel type="secondary" header="Tips for round B" expanded no-close>
 
 * **Make slides more visual**:
   * Instead of bullet points, use other suitable visual structures %%e.g., a flow chart%%
@@ -326,7 +322,7 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 </panel>
 
-<panel header="%%For reference: Tips from round A%%" no-close>
+<panel type="secondary" header="For reference: Tips from round A" no-close>
 
 <include src="./index.mbd#tips-roundA" />
 
@@ -334,6 +330,11 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 
 <!-- ------------------------------------------------------------------------------------ -->
+
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
 
 ## Week 8 [{{ weeks[8].day }}]
 
