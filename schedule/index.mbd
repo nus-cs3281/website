@@ -331,11 +331,6 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
-
 ## Week 8 [{{ weeks[8].day }}]
 
 * :alarm_clock: by Friday
@@ -352,6 +347,11 @@ For the internal project(s), avoid starting work that you are not confident of f
 * {{ icon_lecture }} Lecture : Lightning Talks Round B - Part 2
 
 <!-- ------------------------------------------------------------------------------------ -->
+
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
 
 ## Week 9 [{{ weeks[9].day }}]
 
