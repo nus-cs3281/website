@@ -5,13 +5,14 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.10.0">
+  <meta name="generator" content="MarkBind 2.11.0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281&2 Thematic Systems Project I & II</title>
   <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
   <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
   <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
   <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/octicons.css">
   <link rel="stylesheet" href="markbind/css/github.min.css">
   <link rel="stylesheet" href="markbind/css/markbind.css">
   <link rel="stylesheet" href="markbind/layouts/default/styles.css">
@@ -38,7 +39,7 @@
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
         <div class="nav-link temp-dropdown-placeholder">Links</div>
-        <dropdown text="Links" class="nav-link temp-dropdown">
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">Links</template>
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="https://nus-cs3281.github.io/2020" target="_blank" class="dropdown-item">Students</a></li>
@@ -55,7 +56,6 @@
       </navbar>
     </header>
     <div id="flex-body">
-
       <div id="content-wrapper">
         <div>
           <h1 id="cs3281-and-amp-2-schedule">CS3281&amp;2 Schedule<a class="fa fa-anchor" href="#cs3281-and-amp-2-schedule"></a></h1>
@@ -557,9 +557,6 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             </div>
           </panel>
 
-          <hr>
-          <h1 id="items-below-this-are-yet-to-be-updated"><mark>Items below this are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-are-yet-to-be-updated"></a></h1>
-          <hr>
           <h2 id="week-8-mar-9">Week 8 [Mar 9]<a class="fa fa-anchor" href="#week-8-mar-9"></a></h2>
           <ul>
             <li>⏰ by Friday
@@ -582,6 +579,9 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
             <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round B - Part 2</li>
           </ul>
 
+          <hr>
+          <h1 id="items-below-this-are-yet-to-be-updated"><mark>Items below this are yet to be updated</mark><a class="fa fa-anchor" href="#items-below-this-are-yet-to-be-updated"></a></h1>
+          <hr>
           <h2 id="week-9-mar-16">Week 9 [Mar 16]<a class="fa fa-anchor" href="#week-9-mar-16"></a></h2>
           <h4 id="monday-9">Monday<a class="fa fa-anchor" href="#monday-9"></a></h4>
           <ul>
@@ -802,10 +802,10 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
               <a class="nav-link py-1" href="#week-5-feb-10">Week 5 [Feb 10]&#x200E;</a>
               <a class="nav-link py-1" href="#week-6-feb-17">Week 6 [Feb 17]&#x200E;</a>
               <a class="nav-link py-1" href="#week-7-mar-2">Week 7 [Mar 2]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-8-mar-9">Week 8 [Mar 9]&#x200E;</a>
             </nav>
             <a class="nav-link py-1" href="#items-below-this-are-yet-to-be-updated">Items below this are yet to be updated&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
-              <a class="nav-link py-1" href="#week-8-mar-9">Week 8 [Mar 9]&#x200E;</a>
               <a class="nav-link py-1" href="#week-9-mar-16">Week 9 [Mar 16]&#x200E;</a>
               <a class="nav-link py-1" href="#week-10-mar-23">Week 10 [Mar 23]&#x200E;</a>
               <a class="nav-link py-1" href="#week-11-mar-30">Week 11 [Mar 30]&#x200E;</a>
@@ -819,7 +819,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.10.0</a> at Thu, 20 Feb 2020 05:31:32 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.11.0</a> at Wed, 04 Mar 2020 14:37:52 GMT</small></div>
     </footer>
   </div>
 </body>
@@ -833,7 +833,6 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
   const enableSearch = true
 </script>
 <script src="markbind/js/setup.js"></script>
-
 <script src="markbind/layouts/default/scripts.js"></script>
 
 </html>
