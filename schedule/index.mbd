@@ -348,11 +348,6 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
-
 ## Week 9 [{{ weeks[9].day }}]
 
 #### Monday
@@ -366,6 +361,11 @@ For the internal project(s), avoid starting work that you are not confident of f
 <!-- ------------------------------------------------------------------------------------ -->
 
 ## Week 10 [{{ weeks[10].day }}]
+
+<box>
+
+**As you are now entering the [_managing_ phase](../admin/cs3281.html#stage-3-managing)**, get more involved in management activities of the project.
+</box>
 
 #### Todo
 
@@ -391,6 +391,11 @@ For the internal project(s), avoid starting work that you are not confident of f
 * {{ icon_lecture }} Lecture : Feedback for LT round B
 
 <!-- ----------------------------------------------------------------------------------- -->
+
+<hr>
+
+# ==Items below this are yet to be updated==
+<hr>
 
 ## Week 11 [{{ weeks[11].day }}]
 
