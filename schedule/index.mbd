@@ -376,7 +376,8 @@ For the internal project(s), avoid starting work that you are not confident of f
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
     1. [Optional] Suggested areas of improvement for the external project 
   * Submission:
-    * Add your observations to the file `{{ students_repo }}/students/yourName/observations.md`.
+    * Add your observations to the file `{{ students_repo }}/students/yourName/observations.md`.<br>
+      Afterwards, your additions will appear in the [Observations page](https://nus-cs3281.github.io/{{ year }}/students/observations.html).
     * Recommended length: about 0.5 - 1 A4 page
     * Deadline: Before week ~~10~~ 11 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
@@ -384,11 +385,11 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 #### Monday
 
-* {{ icon_lecture }} Lecture: Project-specific discussions, Discussion on external project workflow
+* {{ icon_lecture }} Lecture: ~~Project-specific discussions, Discussion on external project workflow~~ No in-class discussion due to COVID-19; instead, there'll be 1-on-1 feedback for LT round B speakers who haven't received feedback from the prof yet.
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Feedback for LT round B
+* {{ icon_lecture }} Lecture : Feedback for LT round B (for those you haven't received feedback yet)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
