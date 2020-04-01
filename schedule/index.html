@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.12.0">
+  <meta name="generator" content="MarkBind 2.13.1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281&2 Thematic Systems Project I & II</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -143,13 +143,13 @@
               </li>
               <li>Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.</li>
               <li>It is in your interest to choose a topic related to one of your <span trigger="click" for="modal:week3-expertArea" v-b-popover.click.top.html="popoverGenerator" v-b-tooltip.click.top.html="tooltipContentGetter" v-on:click="$refs['modal:week3-expertArea'].show()"
-                  class="trigger">expert areas</span>. It is not a strict requirement though.</li>
+                  class="trigger-click">expert areas</span>. It is not a strict requirement though.</li>
               <li>Note that you will be peer-evaluated for the <mark>quality of delivery as well as the usefulness of the talk</mark>.</li>
             </ul>
           </li>
           <li>Read the schedule for <a href="#week3-thursday">next Thursday</a> to find more info about the upcoming lightning talks. The order of talks <span class="dimmed">(i.e., who presents in which week)</span> is given there too.</li>
         </ul>
-        <b-modal id="modal:week3-expertArea" ok-only size="lg" modal-class="mb-zoom" ref="modal:week3-expertArea"><template slot="modal-title"><span class="dimmed">CS3282 →</span></template>
+        <b-modal id="modal:week3-expertArea" hide-footer size="lg" modal-class="mb-zoom" ref="modal:week3-expertArea"><template slot="modal-title"><span class="dimmed">CS3282 →</span></template>
           <div>
             <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas"></a></h2>
             <p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
@@ -641,20 +641,23 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         </ul>
         <h4 id="thursday-11">Thursday<a class="fa fa-anchor" href="#thursday-11"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round C - Part 1
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round C - Part 1, 2
             <ul>
-              <li><mark>[Venue SR1]</mark></li>
-              <li>No Q&amp;A</li>
-              <li>Time will be limited to 7 minutes per talk. To minimize set up time,
+              <li>Record your talk (screen + audio) and upload to LumiNUS. Name the file to match your name e.g., <code>Jonh-Doe.mp4</code></li>
+              <li>Duration: 7 minutes</li>
+              <li>Tips for PowerPoint users:
                 <ul>
-                  <li>try to <mark>use the LT PC instead of your own laptop</mark> as much as possible.</li>
-                  <li>embed demos as videos or animated gifs in the slide itself.</li>
-                  <li>come a few minutes early and copy the slides to the LT PC before the session starts.</li>
+                  <li>You can use the <code>Slide Show -&gt; Record Slide Show</code> feature to record audio and on-screen inking/highlighting <em>per slide</em>. At the end, you can export the whole presentation as a video (use standard resolution, not
+                    HD).</li>
+                  <li>While presenting, you can use <kbd>Ctrl</kbd> + <kbd>I</kbd> to go to highlighting mode, <kbd>Ctrl</kbd> + <kbd>P</kbd> to go to pen mode, and <kbd>Ctrl</kbd> + <kbd>L</kbd> to go to laser pointer mode.</li>
                 </ul>
               </li>
+              <li><mark>Deadline: next Thursday</mark></li>
+              <li>Each student will be peer reviewing 7 other talks later.</li>
             </ul>
           </li>
         </ul>
+
         <panel type="danger" expanded no-close><template slot="_header"><p><strong>Targets for LT Round C</strong></p></template>
           <p>In this round you are <mark>expected to hit almost all targets(🎯)</mark> given below. You are recommended to follow tips (💡) given under each target closely.</p>
           <p><strong>Talk structure</strong></p>
@@ -767,11 +770,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
         </ul>
         <h4 id="thursday-12">Thursday<a class="fa fa-anchor" href="#thursday-12"></a></h4>
         <ul>
-          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : Lightning Talks Round C - Part 2
-            <ul>
-              <li>Venue: SR1</li>
-            </ul>
-          </li>
+          <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture : <s>Lightning Talks Round C - Part 2</s></li>
         </ul>
 
         <hr>
@@ -822,7 +821,7 @@ If you cannot find a convincing WIIFY, reconsider the topic as there is a risk t
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.12.0</a> at Thu, Mar 26, 2020, 4:22:07 AM UTC</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.13.1</a> at Wed, Apr 1, 2020, 11:47:17 AM UTC</small></div>
     </footer>
   </div>
 </body>
