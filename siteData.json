@@ -16,6 +16,7 @@
         "workload": "Workload",
         "assessment": "Assessment",
         "enrollment": "Enrollment",
+        "selection": "Selection",
         "faq": "FAQ",
         "have-a-question": "Have a Question?"
       },
@@ -100,6 +101,7 @@
         "workload": "Workload",
         "assessment": "Assessment",
         "enrollment": "Enrollment",
+        "selection": "Selection",
         "faq": "FAQ",
         "have-a-question": "Have a Question?"
       },
