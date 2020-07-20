@@ -25,6 +25,8 @@ These two modules are offered in Semester 2 only. ==**A notable difference from 
 
 **Prerequisites** : CS2103/T or CS2113/T (with approval)
 
+<!-- ==================================================================================================== -->
+
 ## Structure 
 
 * **[CS3281]({{baseUrl}}/admin/cs3281.html)**
@@ -63,23 +65,28 @@ These two modules are offered in Semester 2 only. ==**A notable difference from 
 
 </box>
 
+<!-- ==================================================================================================== -->
 
 ## Workload
 
-* Each module will have the 4MC workload, i.e. 10 hours of workload per week** in total.
+* **Each module will have the 4MC workload, i.e. 10 hours of workload per week** in total.
 * Lectures are compulsory to attend.
   * CS3281 lecture -- ~~{{ cs3281_time }} in {{ cs3281_venue }}~~ TBD
   * CS3282 lecture -- ~~{{ cs3282_time }} in {{ cs3282_venue }}~~ TBD
 * In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester ~~(Jan 18th)~~==.
 * No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.
 
+<!-- ==================================================================================================== -->
+
 ## Assessment
 
 Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam. 
 
+<!-- ==================================================================================================== -->
+
 ## Enrollment
 
-The class enrollment is **capped at 20 students** due to resource constraints. 
+**The class enrollment is capped at 20-25 students** due to resource constraints.
 
 There is a soft lower bound for students’ **CAP of 3.9**; students may still apply for CS3281&2 if they have a CAP 
 below 3.9, but the candidate must demonstrate his/her strong passion for software engineering.
@@ -99,6 +106,22 @@ Student selection is **not based on ModReg**. Instead, follow these instructions
 {{ icon_deadline }} Interested students are to **complete the application process by Mon ~~9 December 2019~~ (TBA)**. Late applications will not be entertained.
 
 The outcome of all applications are expected to be **released via email around ~~19th December {{ year }}~~ (TBA)**.
+
+<!-- ==================================================================================================== -->
+
+## Selection
+
+* **Entry is competitive**. We typically receive about 2-3 applications for each available vacancies. The selection is based on,
+  1. Interest and ability shown in programming, especially, in contributing to OSS projects.
+  1. Performance in SE/programming modules.
+  1. Compatibility between your interests and the availability of vacancies in the NUS-OSS project you want to join.
+
+<box type="tip" seamless>
+
+**A good way to increase your chances of getting selected** is to start contributing to an [NUS-OSS project](https://nus-oss.github.io/) _before_ you apply for the module. The more you have contributed, the more you will score in criterion 1 above.
+</box>
+
+<!-- ==================================================================================================== -->
 
 ## FAQ
 

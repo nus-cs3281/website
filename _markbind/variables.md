@@ -41,6 +41,7 @@
 <variable name="icon_text">:far-file-alt:</variable>
 <variable name="icon_tick">:fas-check:</variable>
 <variable name="icon_tick_green"><span style="color:green">{{ icon_tick | safe }}</span></variable>
+<variable name="icon_tip"><span class="badge badge-pill badge-warning">:fas-lightbulb:</span></variable>
 <variable name="icon_todo">:glyphicon-check:</variable>
 <variable name="icon_tutorial">:fas-chalkboard-teacher:</variable>
 <variable name="icon_slides">:far-images:</variable>
