@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.13.1">
+  <meta name="generator" content="MarkBind 2.14.1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3282 Module Info</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="../markbind/css/octicons.css">
   <link rel="stylesheet" href="../markbind/css/github.min.css">
   <link rel="stylesheet" href="../markbind/css/markbind.css">
+  <link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
   <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
   <link rel="stylesheet" href="../markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
@@ -34,7 +35,7 @@
   <div id="app">
     <header>
       <navbar placement="top" type="primary" class="temp-navbar">
-        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2020]</a>
+        <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2021]</a>
         <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
         <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
         <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
@@ -42,9 +43,9 @@
         <dropdown class="nav-link temp-dropdown"><template slot="_header">Links</template>
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
-          <li><a href="https://nus-cs3281.github.io/2020" target="_blank" class="dropdown-item">Students</a></li>
-          <li><a href="https://nus-cs3281.github.io/2020-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false/" target="_blank" class="dropdown-item">Dashboard</a></li>
-          <li><a href="https://nus-cs3281.github.io/2020/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
+          <li><a href="https://nus-cs3281.github.io/2021" target="_blank" class="dropdown-item">Students</a></li>
+          <li><a href="https://nus-cs3281.github.io/2021-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false/" target="_blank" class="dropdown-item">Dashboard</a></li>
+          <li><a href="https://nus-cs3281.github.io/2021/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
           <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
         <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
@@ -56,55 +57,65 @@
       </navbar>
     </header>
     <div id="flex-body">
+
       <div id="content-wrapper">
-        <h1 id="cs3282-thematic-systems-project-i">CS3282 : Thematic Systems Project I<a class="fa fa-anchor" href="#cs3282-thematic-systems-project-i"></a></h1>
-        <h2 id="module-structure">Module structure<a class="fa fa-anchor" href="#module-structure"></a></h2>
+        <h1 id="cs3282-thematic-systems-project-ii-to-be-updated-for-ay2020-21">CS3282 : Thematic Systems Project II <mark>(to be updated for AY2020/21)</mark><a class="fa fa-anchor" href="#cs3282-thematic-systems-project-ii-to-be-updated-for-ay2020-21" onclick="event.stopPropagation()"></a></h1>
+        <h2 id="module-structure">Module structure<a class="fa fa-anchor" href="#module-structure" onclick="event.stopPropagation()"></a></h2>
         <p>The following two compulsory parts account for 40% of the module:</p>
         <ol>
-          <li><a href="#lightnight-talks">Lightning Talks</a>: 30%</li>
-          <li>Professional Conduct: 10%</li>
+          <li><a href="#lightning-talks">Lightning Talks</a>: 20%</li>
+          <li><a href="#project-management">Project Management</a>: 40%</li>
+          <li>Professional Conduct: 5%</li>
         </ol>
-        <p>You can choose a combination of the following optional components to make up the remaining 60%:</p>
+        <p>You can choose a combination of the following optional components to make up the remaining 35%:</p>
         <ol>
-          <li><a href="#external-project">External Project</a>: up to 30%</li>
-          <li><a href="#2nd-internal-project">2nd Internal Project</a>: up to 40%</li>
-          <li><a href="#book-chapter">Book chapter</a>: up to 30%</li>
+          <li><a href="#external-project">External Project</a>: up to 20%</li>
+          <li><a href="#2nd-internal-project">2nd Internal Project</a>: up to 35%</li>
+          <li><a href="#book-chapter">Book chapter</a>: up to 20%</li>
         </ol>
-        <h2 id="lectures">Lectures<a class="fa fa-anchor" href="#lectures"></a></h2>
+        <h2 id="lectures">Lectures<a class="fa fa-anchor" href="#lectures" onclick="event.stopPropagation()"></a></h2>
         <p>THU 1400-1600 in COM1-0210</p>
         <span id="expertiseAreas">
-<h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas"></a></h2>
-<p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
-        <p><strong>Objective</strong>: Gain in-depth knowledge of a few specific areas so that you are considered an expert of those areas compared to your peers.</p>
-        <p>Just one semester is certainly not enough to become an ‘expert’ of something. Consider this module just the initial step in the journey of becoming an expert. Our expectations are,</p>
-        <ul>
-          <li>By the end of the semester, you know your chosen expertise areas better than your peers to the extent that you can teach those peers interesting and useful things from those areas.</li>
-          <li>Based on your current trajectory, assuming you continue to improve your knowledge in that area for 1-2 years after the module (for most of you this would coincide with your graduation), your knowledge in that area is among the top 5% of your
-            cohort.</li>
-          <li>The area must be strongly related to SE.</li>
-        </ul>
-        <h4 id="things-you-can-do">Things you can do<a class="fa fa-anchor" href="#things-you-can-do"></a></h4>
-        <ol>
-          <li>
-            <p>Consider picking one from each of the three below.</p>
-            <ul>
-              <li>An <strong>Aspect</strong>: Various aspects of an SE project e.g. Testing, CI, Scalability, Requirements, Security, Performance, ...</li>
-              <li>A <strong>Language</strong>: e.g. Java, C#, Go, Python, Ruby, Kotlin, Elixir, JavaScript, HTML, CSS, ...</li>
-              <li>A <strong>Domain</strong>: Any other technical topic relevant to SE that you want to claim as your interest/expert area e.g Search Engine Optimization, Regular Expressions</li>
-            </ul>
-          </li>
-          <li>
-            <p>Learn more about them yourself. While you do that, produce evidence of your knowledge. <span class="dimmed">E.g. blog posts, stackoverflow questions/answers</span></p>
-          </li>
-          <li>
-            <p>Create learning resources for others trying to learn the same area (see <a href="#book-chapter">Book Chapter</a> deliverables explained below)</p>
-          </li>
-          <li>
-            <p>Share interesting and useful bits of your knowledge with the class by giving short talks (refer <a href="#lightning-talks">Lightning Talks</a> deliverables explained below)</p>
-          </li>
-        </ol>
+          <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas" onclick="event.stopPropagation()"></a></h2>
+          <p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
+          <p><strong>Objective</strong>: Gain in-depth knowledge of a few specific areas so that you are considered an expert of those areas compared to your peers.</p>
+          <p>Just one semester is certainly not enough to become an ‘expert’ of something. Consider this module just the initial step in the journey of becoming an expert. Our expectations are,</p>
+          <ul>
+            <li>By the end of the semester, you know your chosen expertise areas better than your peers to the extent that you can teach those peers interesting and useful things from those areas.</li>
+            <li>Based on your current trajectory, assuming you continue to improve your knowledge in that area for 1-2 years after the module (for most of you this would coincide with your graduation), your knowledge in that area is among the top 5% of your cohort.</li>
+            <li>The area must be strongly related to SE.</li>
+          </ul>
+          <h4 id="things-you-can-do">Things you can do<a class="fa fa-anchor" href="#things-you-can-do" onclick="event.stopPropagation()"></a></h4>
+          <ol>
+            <li>
+              <p>Consider picking one from each of the three below.</p>
+              <ul>
+                <li>An <strong>Aspect</strong>: Various aspects of an SE project e.g. Testing, CI, Scalability, Requirements, Security, Performance, ...</li>
+                <li>A <strong>Language</strong>: e.g. Java, C#, Go, Python, Ruby, Kotlin, Elixir, JavaScript, HTML, CSS, ...</li>
+                <li>A <strong>Domain</strong>: Any other technical topic relevant to SE that you want to claim as your interest/expert area e.g Search Engine Optimization, Regular Expressions</li>
+              </ul>
+            </li>
+            <li>
+              <p>Learn more about them yourself. While you do that, produce evidence of your knowledge. <span class="dimmed">E.g. blog posts, stackoverflow questions/answers</span></p>
+            </li>
+            <li>
+              <p>Create learning resources for others trying to learn the same area (see <a href="#book-chapter">Book Chapter</a> deliverables explained below)</p>
+            </li>
+            <li>
+              <p>Share interesting and useful bits of your knowledge with the class by giving short talks (refer <a href="#lightning-talks">Lightning Talks</a> deliverables explained below)</p>
+            </li>
+          </ol>
         </span>
-        <h2 id="external-project">External Project<a class="fa fa-anchor" href="#external-project"></a></h2>
+        <h2 id="project-management">Project Management<a class="fa fa-anchor" href="#project-management" onclick="event.stopPropagation()"></a></h2>
+        <p><strong>Objective</strong> : To learn to manage a project.</p>
+        <p>Contribute as a <em>senior developer</em> to the NUS-OSS project you joined in CS3281. Typical work includes reviewing and managing PRs, guiding new contributors, process improvements, other administrative tasks. You can also tackle development tasks that are too difficult for newer developers.</p>
+        <p><strong>Deliverables</strong>:</p>
+        <p>Contributions to the project as a senior developer.</p>
+        <p><strong>Grading</strong>:</p>
+        <ul>
+          <li>Based on quality and quantity of the contributions.</li>
+        </ul>
+        <h2 id="external-project">External Project<a class="fa fa-anchor" href="#external-project" onclick="event.stopPropagation()"></a></h2>
         <p><strong>Objective</strong> : To learn to work with big OSS projects.</p>
         <p>You can choose any OSS project as your External project, provided it is be a big mature external project with an established community and experienced developers.</p>
         <p>Some sources of potential external projects:</p>
@@ -112,8 +123,9 @@
           <li><a href="https://summerofcode.withgoogle.com/archive/2019/organizations/">GSoC projects</a> are a good place to start your search but note that not all GSoC projects qualify.</li>
           <li>Other lists of beginner-friendly OSS projects: <a href="http://up-for-grabs.net">up-for-grabs</a>, <a href="https://github.com/MunGell/awesome-for-beginners">awesome-for-beginners</a></li>
         </ul>
-        <p>If you are not making good progress with the chosen project by week 5, you should switch to a different project. Or you can try multiple projects at the same time. &quot;The project was too slow to respond&quot; is not a valid excuse. The work
-          under this part,</p>
+        <p>If you are not making good progress with the chosen project by week 5, you should switch to a different project.
+          Or you can try multiple projects at the same time. &quot;The project was too slow to respond&quot; is not a valid excuse.
+          The work under this part,</p>
         <ul>
           <li>is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted.</li>
           <li>can be double-counted for expert area if the work is related to your expert area.</li>
@@ -123,10 +135,7 @@
           <li>2 - 3 PRs merged. Only merged PRs are counted.</li>
           <li>A one-page report (due by week 10) containing,
             <ul>
-              <li>a comparison between the process of the external project to the <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">the project you worked in CS3281</span>internal
-                project
-                </span>
-              </li>
+              <li>a comparison between the process of the external project to the <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">the project you worked in CS3281</span>internal project</span></li>
               <li>suggestions for the internal project based on what you observed in the external project</li>
             </ul>
           </li>
@@ -135,11 +144,11 @@
         <ul>
           <li>Based on PRs completed [20%] and the report [10%]</li>
         </ul>
-        <h2 id="2nd-internal-project">2nd Internal Project<a class="fa fa-anchor" href="#2nd-internal-project"></a></h2>
+        <h2 id="2nd-internal-project">2nd Internal Project<a class="fa fa-anchor" href="#2nd-internal-project" onclick="event.stopPropagation()"></a></h2>
         <p>Optionally, you can contribute to another NUS-OSS project. This component can count upto 40%.</p>
         <p>Deliverables are similar to CS3281.</p>
         <div id="deliverable-book-chapter">
-          <h2 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter"></a></h2>
+          <h2 id="book-chapter">Book Chapter<a class="fa fa-anchor" href="#book-chapter" onclick="event.stopPropagation()"></a></h2>
           <p>This deliverable is optional. It can count up to 30%.</p>
           <p>We are going to build a <a href="https://github.com/se-edu/learningresources">collection of learning resources</a> (an online book of sorts) to help others learn the areas you are learning yourself.</p>
           <ul>
@@ -148,16 +157,15 @@
             <li>Improving existing content is as valuable as adding new content.</li>
             <li>While you have write access to the repo, use your own fork to submit PRs.</li>
             <li>You can create PRs without corresponding issues.</li>
-            <li>Please get the PRs reviewed and approved by a peer before requesting prof's review. You can also request reviews from past contributors of the repo (especially if you are improving an existing topic) but there is no guarantee that they will
-              be available to review.</li>
+            <li>Please get the PRs reviewed and approved by a peer before requesting prof's review. You can also request reviews from past contributors of the repo (especially if you are improving an existing topic) but there is no guarantee that they will be available to review.</li>
             <li>When getting reviews, it is useful to get a review from somebody how knows the topic (to help with the accuracy of the content) but also from somebody who is new to the topic (i.e., your target reader).</li>
             <li>Aim to get some content merged before mid-semester break.</li>
             <li>If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication of work.</li>
           </ul>
-          <h4 id="grading">Grading<a class="fa fa-anchor" href="#grading"></a></h4>
+          <h4 id="grading">Grading<a class="fa fa-anchor" href="#grading" onclick="event.stopPropagation()"></a></h4>
           <p>Based on the value added to se-edu/learningresources. Other forms of writing (e.g. blog posts etc.) can be counted too.</p>
         </div>
-        <h2 id="lightning-talks">Lightning talks<a class="fa fa-anchor" href="#lightning-talks"></a></h2>
+        <h2 id="lightning-talks">Lightning talks<a class="fa fa-anchor" href="#lightning-talks" onclick="event.stopPropagation()"></a></h2>
         <p>One important way you can establish credibility as an 'Expert' is by educating others about your expert area and evangelizing it. <em>Lightning Talks</em> is meant to promote that aspect.</p>
         <ul>
           <li>Each student is required to give two short talks on interesting topics useful to your classmates.
@@ -167,9 +175,9 @@
           </li>
           <li>Each talk will be about 7 minutes + 3 minutes for Q&amp;A. There will be 7-8 talks per week.</li>
           <li>You may want to rehearse the talk with one or more of your team members and improve based on their feedback before delivering it to the class.</li>
-          <li>After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3282/2020 repo for future reference and further discussion.</li>
+          <li>After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3282/2021 repo for future reference and further discussion.</li>
         </ul>
-        <h4 id="grading-2">Grading<a class="fa fa-anchor" href="#grading-2"></a></h4>
+        <h4 id="grading-2">Grading<a class="fa fa-anchor" href="#grading-2" onclick="event.stopPropagation()"></a></h4>
         <ul>
           <li><strong>Lightning talks [10+20 = 30%]</strong> -- based on peer evaluations and instructor observations
             <ul>
@@ -177,7 +185,7 @@
             </ul>
           </li>
         </ul>
-        <h2 id="professional-conduct">Professional Conduct<a class="fa fa-anchor" href="#professional-conduct"></a></h2>
+        <h2 id="professional-conduct">Professional Conduct<a class="fa fa-anchor" href="#professional-conduct" onclick="event.stopPropagation()"></a></h2>
         <p>This component is measured based on peer evaluations and instructor observations</p>
         <ul>
           <li>Peer evaluations will measure:
@@ -195,26 +203,29 @@
             </ul>
           </li>
         </ul>
-        <h2 id="team-structure">Team structure<a class="fa fa-anchor" href="#team-structure"></a></h2>
+        <h2 id="team-structure">Team structure<a class="fa fa-anchor" href="#team-structure" onclick="event.stopPropagation()"></a></h2>
         <ul>
           <li>You’ll work in small team (4-5 members). Team members are expected to peer-review work of each other.</li>
           <li>Teams will be formed by the instructor. The teams may be changed at the middle of the semester.</li>
         </ul>
-        <h2 id="pre-module-preparations">Pre-Module Preparations<a class="fa fa-anchor" href="#pre-module-preparations"></a></h2>
+        <h2 id="pre-module-preparations">Pre-Module Preparations<a class="fa fa-anchor" href="#pre-module-preparations" onclick="event.stopPropagation()"></a></h2>
         <ul>
           <li>Pick expert areas to study.</li>
-          <li>Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them. Even work done before the semester can count for module grading.</li>
+          <li>Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them.
+            Even work done before the semester can count for module grading.</li>
         </ul>
       </div>
+
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#cs3282-thematic-systems-project-i">CS3282 : Thematic Systems Project I&#x200E;</a>
+            <a class="nav-link py-1" href="#cs3282-thematic-systems-project-ii-to-be-updated-for-ay2020-21">CS3282 : Thematic Systems Project II (to be updated for AY2020/21)&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#module-structure">Module structure&#x200E;</a>
               <a class="nav-link py-1" href="#lectures">Lectures&#x200E;</a>
               <a class="nav-link py-1" href="#expertise-areas">Expertise Areas&#x200E;</a>
+              <a class="nav-link py-1" href="#project-management">Project Management&#x200E;</a>
               <a class="nav-link py-1" href="#external-project">External Project&#x200E;</a>
               <a class="nav-link py-1" href="#2nd-internal-project">2nd Internal Project&#x200E;</a>
               <a class="nav-link py-1" href="#book-chapter">Book Chapter&#x200E;</a>
@@ -230,12 +241,12 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.13.1</a> at Wed, Apr 1, 2020, 11:47:17 AM UTC</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.14.1</a> at Mon, 20 Jul 2020, 8:58:46 UTC</small></div>
     </footer>
   </div>
 </body>
 <script src="../markbind/js/vue.min.js"></script>
-<script src="../markbind/js/vue-strap.min.js"></script>
+<script src="../markbind/js/components.min.js"></script>
 <script src="../markbind/js/bootstrap-utility.min.js"></script>
 <script src="../markbind/js/polyfill.min.js"></script>
 <script src="../markbind/js/bootstrap-vue.min.js"></script>

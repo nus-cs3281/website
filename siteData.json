@@ -11,7 +11,7 @@
       "src": "admin/callForApplications.mbd",
       "layout": "default",
       "headings": {
-        "cs3281-and-amp-2-call-for-application-ay2019-20-semester-ii": "CS3281&amp;2 Call for Application - AY2019/20, Semester II",
+        "cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii": "CS3281&amp;2 Call for Application - AY2020/21, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
@@ -31,7 +31,7 @@
       "src": "admin/cs3281.mbd",
       "layout": "default",
       "headings": {
-        "cs3281-thematic-systems-projects-i": "CS3281 : Thematic Systems Projects I",
+        "cs3281-thematic-systems-projects-i-to-be-updated-for-ay2020-21": "CS3281 : Thematic Systems Projects I (to be updated for AY2020/21)",
         "lectures": "Lectures",
         "projects": "Projects",
         "stage-1-learning": "Stage 1: Learning",
@@ -52,10 +52,11 @@
       "src": "admin/cs3282.mbd",
       "layout": "default",
       "headings": {
-        "cs3282-thematic-systems-project-i": "CS3282 : Thematic Systems Project I",
+        "cs3282-thematic-systems-project-ii-to-be-updated-for-ay2020-21": "CS3282 : Thematic Systems Project II (to be updated for AY2020/21)",
         "module-structure": "Module structure",
         "lectures": "Lectures",
         "expertise-areas": "Expertise Areas",
+        "project-management": "Project Management",
         "external-project": "External Project",
         "2nd-internal-project": "2nd Internal Project",
         "book-chapter": "Book Chapter",
@@ -85,7 +86,8 @@
       "headingKeywords": {}
     },
     {
-      "title": "CS3281&2 Thematic Systems Project I & II",
+      "title": "CS3281&2 Call for Applications",
+      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
       "header": "topnav.md",
       "pageNav": 2,
       "footer": "footer.mbdf",
@@ -93,22 +95,13 @@
       "src": "index.mbd",
       "layout": "default",
       "headings": {
-        "cs3281-and-amp-2-schedule": "CS3281&amp;2 Schedule",
-        "week-1-jan-13": "Week 1 [Jan 13]",
-        "week-2-jan-20": "Week 2 [Jan 20]",
-        "expertise-areas": "Expertise Areas",
-        "week-3-jan-27": "Week 3 [Jan 27]",
-        "week-4-feb-3": "Week 4 [Feb 3]",
-        "week-5-feb-10": "Week 5 [Feb 10]",
-        "week-6-feb-17": "Week 6 [Feb 17]",
-        "week-7-mar-2": "Week 7 [Mar 2]",
-        "week-8-mar-9": "Week 8 [Mar 9]",
-        "week-9-mar-16": "Week 9 [Mar 16]",
-        "week-10-mar-23": "Week 10 [Mar 23]",
-        "week-11-mar-30": "Week 11 [Mar 30]",
-        "week-12-apr-6": "Week 12 [Apr 6]",
-        "items-below-this-are-yet-to-be-updated": "Items below this are yet to be updated",
-        "week-13-apr-13": "Week 13 [Apr 13]"
+        "cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii": "CS3281&amp;2 Call for Application - AY2020/21, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
       },
       "headingKeywords": {}
     },
@@ -121,10 +114,9 @@
       "src": "schedule/index.mbd",
       "layout": "default",
       "headings": {
-        "cs3281-and-amp-2-schedule": "CS3281&amp;2 Schedule",
+        "cs3281-and-amp-2-schedule-to-be-updated-for-ay2020-21": "CS3281&amp;2 Schedule (to be updated for AY2020/21)",
         "week-1-jan-13": "Week 1 [Jan 13]",
         "week-2-jan-20": "Week 2 [Jan 20]",
-        "expertise-areas": "Expertise Areas",
         "week-3-jan-27": "Week 3 [Jan 27]",
         "week-4-feb-3": "Week 4 [Feb 3]",
         "week-5-feb-10": "Week 5 [Feb 10]",

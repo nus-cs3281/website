@@ -1,0 +1,47 @@
+2020-01-07T14:41:40.321Z - info: Website generation started at 22:41:39
+2020-01-07T14:41:41.264Z - info: Building assets...
+2020-01-07T14:41:41.767Z - info: Assets built
+2020-01-07T14:41:41.768Z - info: Generating pages...
+2020-01-07T14:41:42.871Z - info: Pages built
+2020-01-07T14:41:43.172Z - info: Website generation complete! Total build time: 3.331s
+2020-01-07T14:41:43.509Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-01-07T14:41:43.509Z - info: Press CTRL+C to stop ...
+2020-01-07T14:41:43.574Z - info: Site data built
+2020-01-07T14:43:33.191Z - info: [22:43:33] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2020-01-07T14:43:34.204Z - info: Rebuilding affected source files
+2020-01-07T14:43:34.212Z - info: Rebuilding 2 pages
+2020-01-07T14:43:35.033Z - info: Pages rebuilt
+2020-01-07T14:43:35.038Z - info: Site data built
+2020-01-07T14:44:06.104Z - info: [22:44:06] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2020-01-07T14:44:07.104Z - info: Rebuilding affected source files
+2020-01-07T14:44:07.136Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-01-07T14:44:07.146Z - info: Rebuilding 7 pages
+2020-01-07T14:44:08.168Z - info: Pages rebuilt
+2020-01-07T14:44:08.177Z - info: Site data built
+2020-01-07T14:44:34.301Z - info: [22:44:34] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2020-01-07T14:44:35.303Z - info: Rebuilding affected source files
+2020-01-07T14:44:35.328Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-01-07T14:44:35.329Z - info: Rebuilding 7 pages
+2020-01-07T14:44:36.280Z - info: Pages rebuilt
+2020-01-07T14:44:36.289Z - info: Site data built
+2020-01-07T14:46:18.383Z - info: [22:46:18] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-01-07T14:46:19.384Z - info: Rebuilding affected source files
+2020-01-07T14:46:19.385Z - info: Rebuilding 1 pages
+2020-01-07T14:46:19.913Z - info: Pages rebuilt
+2020-01-07T14:46:19.919Z - info: Site data built
+2020-01-07T14:48:33.704Z - info: [22:48:33] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-01-07T14:48:34.704Z - info: Rebuilding affected source files
+2020-01-07T14:48:34.707Z - info: Rebuilding 1 pages
+2020-01-07T14:48:35.419Z - info: Pages rebuilt
+2020-01-07T14:48:35.424Z - info: Site data built
+2020-01-07T14:53:37.086Z - info: [22:53:37] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-01-07T14:53:38.086Z - info: Rebuilding affected source files
+2020-01-07T14:53:38.088Z - info: Rebuilding 1 pages
+2020-01-07T14:53:38.810Z - info: Pages rebuilt
+2020-01-07T14:53:38.822Z - info: Site data built
+2020-01-07T14:54:08.277Z - info: [22:54:08] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-01-07T14:54:09.280Z - info: Rebuilding affected source files
+2020-01-07T14:54:09.281Z - info: Rebuilding 1 pages
+2020-01-07T14:54:09.852Z - info: Pages rebuilt
+2020-01-07T14:54:09.854Z - info: Site data built
+2020-01-07T15:02:27.446Z - info: Deployed!

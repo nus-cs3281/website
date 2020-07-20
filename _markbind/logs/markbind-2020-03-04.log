@@ -1,0 +1,15 @@
+2020-03-04T14:36:28.058Z - info: Website generation started at 22:36:27
+2020-03-04T14:36:29.180Z - info: Building assets...
+2020-03-04T14:36:30.754Z - info: Assets built
+2020-03-04T14:36:30.758Z - info: Generating pages...
+2020-03-04T14:36:32.200Z - info: Pages built
+2020-03-04T14:36:32.444Z - info: Website generation complete! Total build time: 4.703s
+2020-03-04T14:36:32.829Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-03-04T14:36:32.829Z - info: Press CTRL+C to stop ...
+2020-03-04T14:36:32.889Z - info: Site data built
+2020-03-04T14:37:51.238Z - info: [22:37:51] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-03-04T14:37:52.244Z - info: Rebuilding affected source files
+2020-03-04T14:37:52.248Z - info: Rebuilding 2 pages
+2020-03-04T14:37:53.591Z - info: Pages rebuilt
+2020-03-04T14:37:53.599Z - info: Site data built
+2020-03-04T14:44:59.815Z - info: Deployed!
