@@ -18,7 +18,7 @@ Given below is the tentative _call for application_ for the next round, details 
 CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Live Projects_**) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry. Both modules involve **working in OSS projects** that are currently being used by others.
 
 These two modules are offered in Semester 2 only. ==**A notable difference from the next round will be that you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
- * Reason: Our past experience shows that one semester is not enough for students to perform at _project mentor_ level (one of the main learning outcomes of this module pair).
+ * Reason: Our past experience shows that one semester is not enough for students to perform at _project mentor/manager_ level (one of the main learning outcomes of this module pair).
  * An exception can be made in the next round for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module.
  * If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
  * Qualifying project work done in between the two modules can be counted for CS3282.
@@ -32,7 +32,7 @@ These two modules are offered in Semester 2 only. ==**A notable difference from 
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://nus-oss.github.io/)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)** 
-  * **Manager a project**<br>
+  * **Manage a project**<br>
     Take part in managing an OSS project, and mentoring other programmers. This requirement is fulfilled by serving as a senior developer in the NUS-OSS project(s) that you joined in CS3281.
   * **Do a small contributions to one or more big OSS projects**<br>
     Pick an established external OSS project of your choice and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run. Optionally, you can contribute to another NUS-OSS project.
