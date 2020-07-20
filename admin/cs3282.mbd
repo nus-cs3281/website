@@ -6,17 +6,18 @@ footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-# CS3282 : Thematic Systems Project I
+# CS3282 : Thematic Systems Project II ==(to be updated for AY2020/21)==
 
 ## Module structure
 The following two compulsory parts account for 40% of the module:
-1. [Lightning Talks](#lightning-talks): 30%
-1. Professional Conduct: 10%
+1. [Lightning Talks](#lightning-talks): 20%
+1. [Project Management](#project-management): 40%
+1. Professional Conduct: 5%
 
-You can choose a combination of the following optional components to make up the remaining 60%:
-1. [External Project](#external-project): up to 30%
-1. [2nd Internal Project](#2nd-internal-project): up to 40%
-1. [Book chapter](#book-chapter): up to 30%
+You can choose a combination of the following optional components to make up the remaining 35%:
+1. [External Project](#external-project): up to 20%
+1. [2nd Internal Project](#2nd-internal-project): up to 35%
+1. [Book chapter](#book-chapter): up to 20%
 
 ## Lectures
 
@@ -50,21 +51,37 @@ Just one semester is certainly not enough to become an ‘expert’ of something
 
 </span>
 
+## Project Management
+
+**Objective** : To learn to manage a project.
+
+Contribute as a _senior developer_ to the NUS-OSS project you joined in CS3281. Typical work includes reviewing and managing PRs, guiding new contributors, process improvements, other administrative tasks. You can also tackle development tasks that are too difficult for newer developers.
+
+
+**Deliverables**:
+
+Contributions to the project as a senior developer.
+
+**Grading**:
+ 
+* Based on quality and quantity of the contributions.
+
+
 ## External Project
 
 **Objective** : To learn to work with big OSS projects.
 
-You can choose any OSS project as your External project, provided it is be a big mature external project with an established community and experienced developers. 
+You can choose any OSS project as your External project, provided it is be a big mature external project with an established community and experienced developers.
 
 Some sources of potential external projects:
 * [GSoC projects](https://summerofcode.withgoogle.com/archive/2019/organizations/) are a good place to start your search but note that not all GSoC projects qualify.
-* Other lists of beginner-friendly OSS projects: [up-for-grabs](http://up-for-grabs.net), [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) 
+* Other lists of beginner-friendly OSS projects: [up-for-grabs](http://up-for-grabs.net), [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
-If you are not making good progress with the chosen project by week 5, you should switch to a different project. 
+If you are not making good progress with the chosen project by week 5, you should switch to a different project.
 Or you can try multiple projects at the same time. "The project was too slow to respond" is not a valid excuse.
-The work under this part, 
+The work under this part,
 
-* is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted. 
+* is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted.
 * can be double-counted for expert area if the work is related to your expert area.
 
 
@@ -72,11 +89,11 @@ The work under this part,
 
 * 2 - 3 PRs merged. Only merged PRs are counted.
 * A one-page report (due by week 10) containing,
-  * a comparison between the process of the external project to the <tooltip content="the project you worked in CS3281">internal project</tooltip> 
+  * a comparison between the process of the external project to the <tooltip content="the project you worked in CS3281">internal project</tooltip>
   * suggestions for the internal project based on what you observed in the external project
 
 **Grading**:
- 
+
 * Based on PRs completed [20%]  and the report [10%]
 
 ## 2nd Internal Project

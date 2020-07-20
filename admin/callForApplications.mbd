@@ -8,22 +8,32 @@ head: head.mbdf
 </frontmatter>
 
 # CS3281&2 Call for Application - AY20{{ AY }}, Semester II
+
+<box type="important" light>
+
+Given below is the tentative _call for application_ for the next round, details to be confirmed around November 2020.
+
+</box>
  
 CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Live Projects_**) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry. Both modules involve **working in OSS projects** that are currently being used by others.
 
-These two modules are to be taken concurrently and are offered in Semester 2 only.
+These two modules are offered in Semester 2 only. ==**A notable difference from the next round will be that you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
+ * Reason: Our past experience shows that one semester is not enough for students to perform at _project mentor_ level (one of the main learning outcomes of this module pair).
+ * An exception can be made in the next round for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module.
+ * If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
+ * Qualifying project work done in between the two modules can be counted for CS3282.
 
 **Prerequisites** : CS2103/T or CS2113/T (with approval)
 
 ## Structure 
-
-The two modules will run concurrently, but as two separate modules.
 
 * **[CS3281]({{baseUrl}}/admin/cs3281.html)**
   * **Do a major contribution to a medium size OSS project** <br>
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://nus-oss.github.io/)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)** 
+  * **Manager a project**<br>
+    Take part in managing an OSS project, and mentoring other programmers. This requirement is fulfilled by serving as a senior developer in the NUS-OSS project(s) that you joined in CS3281.
   * **Do a small contributions to one or more big OSS projects**<br>
     Pick an established external OSS project of your choice and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run. Optionally, you can contribute to another NUS-OSS project.
   * **Build up an SE expertise area**<br>
@@ -56,11 +66,11 @@ The two modules will run concurrently, but as two separate modules.
 
 ## Workload
 
-* As CS3281&2 will be run and graded as two separate modules each generating a 4MC workload, i.e. 10+10= **20 hours of workload per week** in total. 
+* Each module will have the 4MC workload, i.e. 10 hours of workload per week** in total.
 * Lectures are compulsory to attend.
-  * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
-  * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Jan 18th)==.
+  * CS3281 lecture -- ~~{{ cs3281_time }} in {{ cs3281_venue }}~~ TBD
+  * CS3282 lecture -- ~~{{ cs3282_time }} in {{ cs3282_venue }}~~ TBD
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester ~~(Jan 18th)~~==.
 * No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.
 
 ## Assessment
@@ -74,9 +84,9 @@ The class enrollment is **capped at 20 students** due to resource constraints.
 There is a soft lower bound for students’ **CAP of 3.9**; students may still apply for CS3281&2 if they have a CAP 
 below 3.9, but the candidate must demonstrate his/her strong passion for software engineering.
 
-<box type="important">
+<box type="important" seamless>
 
-Although this module is currently limited to one semester, to get the full value of the module, you need to stay involved with the projects longer to experience leading/managing live projects. Furthermore, this module depends on past students mentoring current students.<br>
+To get the full value of these module pair, you are encouraged to stay involved with the projects beyond the semester time to experience leading/managing live projects. Furthermore, this module depends on past students mentoring current students. Such work can count for CS3282 and possibly be paid.<br>
 ==**Please do not apply if you are not sincerely interested in staying with the projects beyond the semester to  become project mentors**==.
 </box>
 
@@ -86,9 +96,9 @@ Student selection is **not based on ModReg**. Instead, follow these instructions
 3. Submit your application using the survey named _Application Submission_
 4. Upload your transcript to the Files folder _Transcripts_. ==File name should be your name==.
 
-{{ icon_deadline }} Interested students are to **complete the application process by Mon 9 December 2019**. Late applications will not be entertained.
+{{ icon_deadline }} Interested students are to **complete the application process by Mon ~~9 December 2019~~ (TBA)**. Late applications will not be entertained.
 
-The outcome of all applications are expected to be **released via email around 19th December {{ year }}**.
+The outcome of all applications are expected to be **released via email around ~~19th December {{ year }}~~ (TBA)**.
 
 ## FAQ
 

@@ -5,7 +5,7 @@
   
   <li><a href="{{baseUrl}}/admin/cs3281.html" class="nav-link">CS3281</a></li>
   <li><a href="{{baseUrl}}/admin/cs3282.html" class="nav-link">CS3282</a></li>
-  <dropdown text="Links" class="nav-link">
+  <dropdown header="Links" class="nav-link">
     <li><a href="{{baseUrl}}/admin/callForApplications.html"class="dropdown-item">Call for Applications</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Mentors</a></li>
     <li><a href="{{ students_site }}" target="_blank"class="dropdown-item">Students</a></li>

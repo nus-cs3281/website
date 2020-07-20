@@ -23,8 +23,8 @@ head: head.mbdf
     {num: "13", day: "Apr 13" }
 ] %}
 
-# CS3281&2 Schedule
-
+# CS3281&2 Schedule ==(to be updated for AY2020/21)==
+<p/>
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 1 [{{ weeks[1].day }}]
@@ -92,7 +92,7 @@ head: head.mbdf
   * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==.
 * Read the schedule for [next Thursday](#week3-thursday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
 
- <modal large title="%%CS3282 →%%" id="modal:week3-expertArea">
+ <modal large header="%%CS3282 →%%" id="modal:week3-expertArea">
   <include src="../admin/cs3282.mbd#expertiseAreas"/>
 </modal>
 
