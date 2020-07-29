@@ -1,0 +1,99 @@
+2020-07-29T16:36:26.067Z - info: Website generation (lazy) started at 12:36:25 AM
+2020-07-29T16:36:26.816Z - info: Building assets...
+2020-07-29T16:36:27.456Z - info: Assets built
+2020-07-29T16:36:27.457Z - info: Generating landing page...
+2020-07-29T16:36:27.463Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:36:27.500Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:36:27.501Z - error: index.md is not specified in the site configuration.
+2020-07-29T16:38:02.491Z - info: Website generation (lazy) started at 12:38:02 AM
+2020-07-29T16:38:03.259Z - info: Building assets...
+2020-07-29T16:38:03.971Z - info: Assets built
+2020-07-29T16:38:03.972Z - info: Generating landing page...
+2020-07-29T16:38:03.976Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:38:04.010Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:38:04.010Z - error: index.md is not specified in the site configuration.
+2020-07-29T16:39:19.569Z - info: Website generation (lazy) started at 12:39:19 AM
+2020-07-29T16:39:20.366Z - info: Building assets...
+2020-07-29T16:39:21.157Z - info: Assets built
+2020-07-29T16:39:21.158Z - info: Generating landing page...
+2020-07-29T16:39:21.164Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:39:21.199Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\repos\markbind\markbind\src\Site.js:1055:29)
+    at C:\repos\markbind\markbind\src\Site.js:674:12
+    at Promise._execute (C:\repos\markbind\markbind\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\repos\markbind\markbind\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\repos\markbind\markbind\src\Site.js:672:12)
+    at C:\repos\markbind\markbind\src\Site.js:612:46
+2020-07-29T16:39:21.200Z - error: index.md is not specified in the site configuration.
+2020-07-29T16:39:28.243Z - info: Website generation started at 12:39:28 AM
+2020-07-29T16:39:28.954Z - info: Building assets...
+2020-07-29T16:39:29.579Z - info: Assets built
+2020-07-29T16:39:29.579Z - info: Generating pages...
+2020-07-29T16:39:30.415Z - info: Pages built
+2020-07-29T16:39:30.667Z - info: Website generation complete! Total build time: 2.448s
+2020-07-29T16:39:31.483Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-07-29T16:39:31.484Z - info: Press CTRL+C to stop ...
+2020-07-29T16:39:31.550Z - info: Site data built
+2020-07-29T16:42:59.516Z - info: [12:42:59 AM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-07-29T16:43:00.519Z - info: Rebuilding 2 pages
+2020-07-29T16:43:00.981Z - info: Pages rebuilt
+2020-07-29T16:43:00.981Z - info: Website regeneration complete! Total build time: 0.462s
+2020-07-29T16:43:00.986Z - info: Site data built
+2020-07-29T16:43:36.750Z - info: [12:43:36 AM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-07-29T16:43:37.753Z - info: Rebuilding 2 pages
+2020-07-29T16:43:38.060Z - info: Pages rebuilt
+2020-07-29T16:43:38.060Z - info: Website regeneration complete! Total build time: 0.309s
+2020-07-29T16:43:38.065Z - info: Site data built
+2020-07-29T16:47:17.266Z - info: [12:47:17 AM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-07-29T16:47:18.269Z - info: Rebuilding 2 pages
+2020-07-29T16:47:18.653Z - info: Pages rebuilt
+2020-07-29T16:47:18.653Z - info: Website regeneration complete! Total build time: 0.386s
+2020-07-29T16:47:18.667Z - info: Site data built
+2020-07-29T16:47:54.190Z - info: [12:47:54 AM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-07-29T16:47:55.193Z - info: Rebuilding 2 pages
+2020-07-29T16:47:55.456Z - info: Pages rebuilt
+2020-07-29T16:47:55.456Z - info: Website regeneration complete! Total build time: 0.265s
+2020-07-29T16:47:55.474Z - info: Site data built
+2020-07-29T16:49:01.913Z - info: [12:49:01 AM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-07-29T16:49:02.914Z - info: Rebuilding 2 pages
+2020-07-29T16:49:03.212Z - info: Pages rebuilt
+2020-07-29T16:49:03.213Z - info: Website regeneration complete! Total build time: 0.3s
+2020-07-29T16:49:03.226Z - info: Site data built
+2020-07-29T16:51:17.041Z - info: Website generation started at 12:51:16 AM
+2020-07-29T16:51:17.812Z - info: Building assets...
