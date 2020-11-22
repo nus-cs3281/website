@@ -1,0 +1,166 @@
+2020-11-22T15:02:26.186Z - info: Website generation (lazy) started at 11:02:24 PM
+2020-11-22T15:02:27.656Z - info: Building assets...
+2020-11-22T15:02:28.427Z - info: Assets built
+2020-11-22T15:02:28.427Z - info: Generating landing page...
+2020-11-22T15:02:28.447Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1057:29)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:677:12
+    at Promise._execute (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:675:12)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:615:46
+2020-11-22T15:02:28.519Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1057:29)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:677:12
+    at Promise._execute (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:675:12)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:615:46
+2020-11-22T15:02:28.520Z - error: index.md is not specified in the site configuration.
+2020-11-22T15:03:44.747Z - info: Website generation (lazy) started at 11:03:44 PM
+2020-11-22T15:03:46.150Z - info: Building assets...
+2020-11-22T15:03:46.856Z - info: Assets built
+2020-11-22T15:03:46.856Z - info: Generating landing page...
+2020-11-22T15:03:46.863Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1057:29)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:677:12
+    at Promise._execute (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:675:12)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:615:46
+2020-11-22T15:03:46.900Z - warn:  Error: index.md is not specified in the site configuration.
+    at Site.generateLandingPage (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1057:29)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:677:12
+    at Promise._execute (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.lazyBuildSourceFiles (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:675:12)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:615:46
+2020-11-22T15:03:46.901Z - error: index.md is not specified in the site configuration.
+2020-11-22T15:04:35.320Z - info: Website generation (lazy) started at 11:04:35 PM
+2020-11-22T15:04:36.703Z - info: Building assets...
+2020-11-22T15:04:37.959Z - info: Assets built
+2020-11-22T15:04:37.960Z - info: Generating landing page...
+2020-11-22T15:04:38.222Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-22T15:04:38.284Z - warn:  Error: ENOENT: no such file or directory, lstat 'C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\node_modules\bootswatch\dist\pulse\bootstrap.min.css'
+2020-11-22T15:04:38.368Z - error: ENOENT: no such file or directory, lstat 'C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\node_modules\bootswatch\dist\pulse\bootstrap.min.css'
+2020-11-22T15:06:58.625Z - info: Website generation (lazy) started at 11:06:58 PM
+2020-11-22T15:06:59.500Z - info: Building assets...
+2020-11-22T15:07:00.572Z - info: Assets built
+2020-11-22T15:07:00.572Z - info: Generating landing page...
+2020-11-22T15:07:00.798Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-22T15:07:00.900Z - info: Website generation (lazy) complete! Total build time: 2.297s
+2020-11-22T15:07:01.836Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-11-22T15:07:01.836Z - info: Press CTRL+C to stop ...
+2020-11-22T15:07:01.893Z - info: Site data built
+2020-11-22T15:23:33.663Z - info: [11:23:33 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:23:34.682Z - info: Rebuilding 1 pages
+2020-11-22T15:23:35.016Z - info: Pages rebuilt
+2020-11-22T15:23:35.016Z - info: Website regeneration complete! Total build time: 0.339s
+2020-11-22T15:23:35.023Z - info: Site data built
+2020-11-22T15:24:52.144Z - info: [11:24:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:24:53.147Z - info: Rebuilding 1 pages
+2020-11-22T15:24:53.329Z - info: Pages rebuilt
+2020-11-22T15:24:53.330Z - info: Website regeneration complete! Total build time: 0.185s
+2020-11-22T15:24:53.333Z - info: Site data built
+2020-11-22T15:25:17.577Z - info: [11:25:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:25:18.580Z - info: Rebuilding 1 pages
+2020-11-22T15:25:18.846Z - info: Pages rebuilt
+2020-11-22T15:25:18.846Z - info: Website regeneration complete! Total build time: 0.267s
+2020-11-22T15:25:18.850Z - info: Site data built
+2020-11-22T15:27:41.116Z - info: [11:27:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:27:42.117Z - info: Rebuilding 1 pages
+2020-11-22T15:27:42.349Z - info: Pages rebuilt
+2020-11-22T15:27:42.350Z - info: Website regeneration complete! Total build time: 0.234s
+2020-11-22T15:27:42.354Z - info: Site data built
+2020-11-22T15:28:10.513Z - info: [11:28:10 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:28:11.518Z - info: Rebuilding 1 pages
+2020-11-22T15:28:11.697Z - info: Pages rebuilt
+2020-11-22T15:28:11.697Z - info: Website regeneration complete! Total build time: 0.181s
+2020-11-22T15:28:11.700Z - info: Site data built
+2020-11-22T15:32:06.755Z - info: [11:32:06 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:32:07.761Z - info: Rebuilding 1 pages
+2020-11-22T15:32:07.926Z - info: Pages rebuilt
+2020-11-22T15:32:07.926Z - info: Website regeneration complete! Total build time: 0.17s
+2020-11-22T15:32:07.956Z - info: Site data built
+2020-11-22T15:32:30.858Z - info: [11:32:30 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2020-11-22T15:32:31.956Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2020-11-22T15:32:31.958Z - info: Rebuilding 1 pages
+2020-11-22T15:32:32.083Z - info: Pages rebuilt
+2020-11-22T15:32:32.083Z - info: Website regeneration complete! Total build time: 0.223s
+2020-11-22T15:32:32.086Z - info: Site data built
+2020-11-22T15:34:15.781Z - info: [11:34:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:34:16.785Z - info: Rebuilding 1 pages
+2020-11-22T15:34:17.013Z - info: Pages rebuilt
+2020-11-22T15:34:17.014Z - info: Website regeneration complete! Total build time: 0.23s
+2020-11-22T15:34:17.018Z - info: Site data built
+2020-11-22T15:34:27.655Z - info: [11:34:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:34:28.658Z - info: Rebuilding 1 pages
+2020-11-22T15:34:28.821Z - info: Pages rebuilt
+2020-11-22T15:34:28.822Z - info: Website regeneration complete! Total build time: 0.164s
+2020-11-22T15:34:28.827Z - info: Site data built
+2020-11-22T15:38:05.893Z - info: [11:38:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:38:06.897Z - info: Rebuilding 1 pages
+2020-11-22T15:38:06.997Z - info: Pages rebuilt
+2020-11-22T15:38:06.997Z - info: Website regeneration complete! Total build time: 0.101s
+2020-11-22T15:38:07.002Z - info: Site data built
+2020-11-22T15:38:22.463Z - info: [11:38:22 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:38:23.464Z - info: Rebuilding 1 pages
+2020-11-22T15:38:23.549Z - info: Pages rebuilt
+2020-11-22T15:38:23.550Z - info: Website regeneration complete! Total build time: 0.085s
+2020-11-22T15:38:23.553Z - info: Site data built
+2020-11-22T15:40:05.312Z - info: [11:40:05 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2020-11-22T15:40:06.314Z - info: Rebuilding 1 pages
+2020-11-22T15:40:06.491Z - info: Pages rebuilt
+2020-11-22T15:40:06.491Z - info: Website regeneration complete! Total build time: 0.178s
+2020-11-22T15:40:06.495Z - info: Site data built
+2020-11-22T15:41:41.971Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2020-11-22T15:41:42.144Z - info: Site data built
+2020-11-22T15:41:42.145Z - info: Lazy website regeneration complete! Total build time: 0.174s
+2020-11-22T15:42:51.899Z - info: [11:42:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2020-11-22T15:42:51.904Z - info: [11:42:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbd
+2020-11-22T15:42:52.902Z - info: Rebuilding 1 pages
+2020-11-22T15:42:52.978Z - info: Pages rebuilt
+2020-11-22T15:42:52.979Z - info: Website regeneration complete! Total build time: 0.078s
+2020-11-22T15:42:52.981Z - info: Site data built
+2020-11-22T15:43:09.338Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2020-11-22T15:43:09.530Z - info: Site data built
+2020-11-22T15:43:09.531Z - info: Lazy website regeneration complete! Total build time: 0.194s
+2020-11-22T15:46:36.347Z - info: Website generation (lazy) started at 11:46:36 PM
+2020-11-22T15:46:37.982Z - info: Building assets...
+2020-11-22T15:46:38.732Z - info: Assets built
+2020-11-22T15:46:38.733Z - info: Generating landing page...
+2020-11-22T15:46:38.967Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-22T15:46:39.170Z - info: Website generation (lazy) complete! Total build time: 3.059s
+2020-11-22T15:46:40.045Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-11-22T15:46:40.045Z - info: Press CTRL+C to stop ...
+2020-11-22T15:46:40.119Z - info: Site data built
+2020-11-22T15:46:48.953Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2020-11-22T15:46:49.195Z - info: Site data built
+2020-11-22T15:46:49.196Z - info: Lazy website regeneration complete! Total build time: 0.244s
+2020-11-22T15:47:04.847Z - info: [11:47:04 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\site.json
+2020-11-22T15:47:05.867Z - info: Assets built
+2020-11-22T15:47:17.672Z - info: Website generation (lazy) started at 11:47:17 PM
+2020-11-22T15:47:19.103Z - info: Building assets...
+2020-11-22T15:47:19.852Z - info: Assets built
+2020-11-22T15:47:19.852Z - info: Generating landing page...
+2020-11-22T15:47:20.168Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-22T15:47:20.381Z - warn:  Error: ENOENT: no such file or directory, lstat 'C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\node_modules\bootswatch\dist\pulse\bootstrap.min.css'
+2020-11-22T15:47:20.505Z - error: ENOENT: no such file or directory, lstat 'C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\node_modules\bootswatch\dist\pulse\bootstrap.min.css'
+2020-11-22T15:48:11.367Z - info: Website generation (lazy) started at 11:48:11 PM
+2020-11-22T15:48:12.297Z - info: Building assets...
+2020-11-22T15:48:13.046Z - info: Assets built
+2020-11-22T15:48:13.046Z - info: Generating landing page...
+2020-11-22T15:48:13.277Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-22T15:48:13.506Z - info: Website generation (lazy) complete! Total build time: 2.17s
+2020-11-22T15:48:14.435Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2020-11-22T15:48:14.435Z - info: Press CTRL+C to stop ...
+2020-11-22T15:48:14.493Z - info: Site data built
+2020-11-22T15:48:21.122Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2020-11-22T15:48:21.414Z - info: Site data built
+2020-11-22T15:48:21.415Z - info: Lazy website regeneration complete! Total build time: 0.293s
+2020-11-22T15:50:23.127Z - info: Website generation started at 11:50:22 PM
+2020-11-22T15:50:24.681Z - info: Building assets...

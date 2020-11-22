@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.14.1">
+  <meta name="generator" content="MarkBind 2.16.0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3282 Module Info</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -14,10 +14,13 @@
   <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
   <link rel="stylesheet" href="../markbind/css/octicons.css">
   <link rel="stylesheet" href="../markbind/css/github.min.css">
-  <link rel="stylesheet" href="../markbind/css/markbind.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
   <link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
   <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
-  <link rel="stylesheet" href="../markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
   <style>
     h2 {
@@ -74,7 +77,7 @@
           <li><a href="#book-chapter">Book chapter</a>: up to 20%</li>
         </ol>
         <h2 id="lectures">Lectures<a class="fa fa-anchor" href="#lectures" onclick="event.stopPropagation()"></a></h2>
-        <p>THU 1400-1600 in COM1-0210</p>
+        <p>THU 1200-1400 in COM1-0210</p>
         <span id="expertiseAreas">
           <h2 id="expertise-areas">Expertise Areas<a class="fa fa-anchor" href="#expertise-areas" onclick="event.stopPropagation()"></a></h2>
           <p>While this is not a <em>graded</em> deliverable <span class="dimmed">(it used to be; we made it non-graded from this semester)</span>, you are encouraged to choose your CS3281&amp;2 work in a way that gives you an 'expertise' in a few areas.</p>
@@ -135,7 +138,7 @@
           <li>2 - 3 PRs merged. Only merged PRs are counted.</li>
           <li>A one-page report (due by week 10) containing,
             <ul>
-              <li>a comparison between the process of the external project to the <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">the project you worked in CS3281</span>internal project</span></li>
+              <li>a comparison between the process of the external project to the <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-slot-name="_content">the project you worked in CS3281</span>internal project</span></li>
               <li>suggestions for the internal project based on what you observed in the external project</li>
             </ul>
           </li>
@@ -214,6 +217,7 @@
           <li>Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them.
             Even work done before the semester can count for module grading.</li>
         </ul>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
 
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
@@ -241,20 +245,19 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.14.1</a> at Wed, 29 Jul 2020, 16:51:18 UTC</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.16.0</a> at Sun, 22 Nov 2020, 15:50:25 UTC</small>
+      </div>
     </footer>
   </div>
 </body>
-<script src="../markbind/js/vue.min.js"></script>
-<script src="../markbind/js/components.min.js"></script>
 <script src="../markbind/js/bootstrap-utility.min.js"></script>
-<script src="../markbind/js/polyfill.min.js"></script>
-<script src="../markbind/js/bootstrap-vue.min.js"></script>
 <script>
   const baseUrl = '/website'
-  const enableSearch = true
+  MarkBind.setupWithSearch()
 </script>
-<script src="../markbind/js/setup.js"></script>
 <script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
 
 </html>

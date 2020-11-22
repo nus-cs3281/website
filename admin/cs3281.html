@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.14.1">
+  <meta name="generator" content="MarkBind 2.16.0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281 Module Info</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -14,10 +14,13 @@
   <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
   <link rel="stylesheet" href="../markbind/css/octicons.css">
   <link rel="stylesheet" href="../markbind/css/github.min.css">
-  <link rel="stylesheet" href="../markbind/css/markbind.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
   <link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
   <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
-  <link rel="stylesheet" href="../markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
   <style>
     h2 {
@@ -79,7 +82,6 @@
           <li>PowerPointLabs</li>
           <li>RepoSense</li>
           <li>CATcher</li>
-          <li>SEEker</li>
           <li>SE-EDU</li>
           <li>TEAMMATES</li>
         </ul>
@@ -95,7 +97,8 @@
         <ul>
           <li>When choosing issues to fix, start with simpler issues and progressively move into more complex issues.
             Choose issues strategically so that your knowledge of the codebase expands naturally and incrementally
-            <span class="dimmed">(instead of picking unrelated issues at random)</span>.</li>
+            <span class="dimmed">(instead of picking unrelated issues at random)</span>.
+          </li>
           <li>Pay attention to instructions provided e.g. Developer guides, troubleshooting guides, etc.
             Following those instructions will reduce the chances of encountering problems. When you encounter problems, try to solve yourself before asking for help.</li>
           <li>Your PRs will be reviewed by the project's dev team. You are expected to learn from the review comments and improve the quality of your work as you go. You will not score high if you keep repeating the same mistake even after being corrected by the reviewer multiple times.</li>
@@ -202,11 +205,6 @@
                     <td>Electron, Travis</td>
                   </tr>
                   <tr>
-                    <td>SEEker</td>
-                    <td>Python</td>
-                    <td>PyGitHub, PyGit</td>
-                  </tr>
-                  <tr>
                     <td>SE-EDU</td>
                     <td>Java, CSS</td>
                     <td>Gradle, Travis, AsciiDoc</td>
@@ -225,6 +223,7 @@
           </li>
         </ul>
         <hr>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
 
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
@@ -249,20 +248,19 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.14.1</a> at Wed, 29 Jul 2020, 16:51:18 UTC</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.16.0</a> at Sun, 22 Nov 2020, 15:50:25 UTC</small>
+      </div>
     </footer>
   </div>
 </body>
-<script src="../markbind/js/vue.min.js"></script>
-<script src="../markbind/js/components.min.js"></script>
 <script src="../markbind/js/bootstrap-utility.min.js"></script>
-<script src="../markbind/js/polyfill.min.js"></script>
-<script src="../markbind/js/bootstrap-vue.min.js"></script>
 <script>
   const baseUrl = '/website'
-  const enableSearch = true
+  MarkBind.setupWithSearch()
 </script>
-<script src="../markbind/js/setup.js"></script>
 <script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
 
 </html>

@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.14.1">
+  <meta name="generator" content="MarkBind 2.16.0">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281&2 Thematic Systems Project I & II</title>
   <link rel="stylesheet" href="../markbind/css/bootstrap.min.css">
@@ -14,10 +14,13 @@
   <link rel="stylesheet" href="../markbind/glyphicons/css/bootstrap-glyphicons.min.css">
   <link rel="stylesheet" href="../markbind/css/octicons.css">
   <link rel="stylesheet" href="../markbind/css/github.min.css">
-  <link rel="stylesheet" href="../markbind/css/markbind.css">
+  <link rel="stylesheet" href="../markbind/css/markbind.min.css">
+  <script src="../markbind/js/polyfill.min.js"></script>
+  <script src="../markbind/js/vue.min.js"></script>
+  <script src="../markbind/js/markbind.min.js"></script>
+  <script src="../markbind/js/jquery.min.js"></script>
   <link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
   <link rel="stylesheet" href="../markbind/layouts/default/styles.css">
-  <link rel="stylesheet" href="../markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
   <style>
     h2 {
@@ -116,7 +119,7 @@
             <ul>
               <li>MarkBind, PowerPointLabs, RepoSense, TEAMMATES: ~15 minutes each<br>
                 CATcher: ~5 minutes<br>
-                SE-EDU, SEEker: n/a</li>
+                SE-EDU: n/a</li>
               <li>The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.</li>
             </ul>
           </li>
@@ -142,7 +145,7 @@
                 </ul>
               </li>
               <li>Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.</li>
-              <li>It is in your interest to choose a topic related to one of your <span trigger="click" for="modal:week3-expertArea" v-b-popover.click.top.html="popoverGenerator" v-b-tooltip.click.top.html="tooltipContentGetter" v-on:click="$refs['modal:week3-expertArea'].show()" class="trigger-click">expert areas</span>. It is not a strict requirement though.</li>
+              <li>It is in your interest to choose a topic related to one of your <trigger trigger="click" for="modal:week3-expertArea">expert areas</trigger>. It is not a strict requirement though.</li>
               <li>Note that you will be peer-evaluated for the <mark>quality of delivery as well as the usefulness of the talk</mark>.</li>
             </ul>
           </li>
@@ -273,7 +276,8 @@
                 <p><strong>Test your laptop connection to the projector in advance</strong>.</p>
               </li>
             </ol>
-          </span></panel>
+          </span>
+        </panel>
         <panel type="secondary" expanded no-close id="during-the-session"><template slot="_header">
             <h5 id="during-the-session">During the session<a class="fa fa-anchor" href="#during-the-session" onclick="event.stopPropagation()"></a></h5>
           </template>
@@ -694,7 +698,7 @@
             <li>🎯 No visual clutter
               <ol>
                 <li>💡 Remove any conspicuous background graphics that do not add value</li>
-                <li>💡 Avoid using <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-html-for="_content">done without good reason; uncalled for</span>gratuitous</span> images that don't really add value</li>
+                <li>💡 Avoid using <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-slot-name="_content">done without good reason; uncalled for</span>gratuitous</span> images that don't really add value</li>
               </ol>
             </li>
             <li>🎯 Visual slides
@@ -707,9 +711,11 @@
               <ol>
                 <li>💡 Ensure WIIFY, Roadmap, start/end of sections of the Roadmap, and each keypoint are captured as separate slides or as noticeable visual elements</li>
                 <li>💡 Use words <code v-pre>Key point</code> in text so that they are hard to miss<br>
-                  <span class="dimmed">e.g., <code v-pre>KEY POINT: Java is verbose!</code></span></li>
+                  <span class="dimmed">e.g., <code v-pre>KEY POINT: Java is verbose!</code></span>
+                </li>
                 <li>💡 use a different (and more prominent) design for important slides and key elements<br>
-                  <span class="dimmed">e.g., use a brighter background, bigger font size</span></li>
+                  <span class="dimmed">e.g., use a brighter background, bigger font size</span>
+                </li>
               </ol>
             </li>
             <li>🎯 Last slide is used to good effect
@@ -722,12 +728,18 @@
             <li>🎯 Slides optimized to convey the point, and help your delivery
               <ol>
                 <li>💡 Write down in slide notes the point(s) a slide is supposed to convey. Each slide should have at least a main point, and possibly some sub points. e.g.,
-                  <pre><code class="no-line-numbers hljs" v-pre><span>Java is still the most popular language today.<br></span><span>* Java positions lead job vacancies.<br></span><span>* Highest percentage of devices support JVM.<br></span><span>* All fortune 500 companies use Java for their enterprise systems.<br></span></code></pre>
+                  <pre><code class="no-line-numbers hljs" v-pre><span>Java is still the most popular language today.
+</span><span>* Java positions lead job vacancies.
+</span><span>* Highest percentage of devices support JVM.
+</span><span>* All fortune 500 companies use Java for their enterprise systems.
+</span></code></pre>
                 </li>
                 <li>💡 If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
-                  <span class="dimmed">e.g., the slide title can be <code v-pre>Java is still the most popular language today.</code> (i.e., the main point) instead of <code v-pre>Java popularity</code> (i.e., a phrase/topic)</span></li>
+                  <span class="dimmed">e.g., the slide title can be <code v-pre>Java is still the most popular language today.</code> (i.e., the main point) instead of <code v-pre>Java popularity</code> (i.e., a phrase/topic)</span>
+                </li>
                 <li>💡 For each sub point, ensure there is a corresponding click.<br>
-                  <span class="dimmed">e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.</span></li>
+                  <span class="dimmed">e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.</span>
+                </li>
               </ol>
             </li>
             <li>🎯 Minimum use of jargon
@@ -798,6 +810,7 @@
         <ul>
           <li><s><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture:</s></li>
         </ul>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
 
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
@@ -830,20 +843,19 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.14.1</a> at Wed, 29 Jul 2020, 16:51:18 UTC</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.16.0</a> at Sun, 22 Nov 2020, 15:50:25 UTC</small>
+      </div>
     </footer>
   </div>
 </body>
-<script src="../markbind/js/vue.min.js"></script>
-<script src="../markbind/js/components.min.js"></script>
 <script src="../markbind/js/bootstrap-utility.min.js"></script>
-<script src="../markbind/js/polyfill.min.js"></script>
-<script src="../markbind/js/bootstrap-vue.min.js"></script>
 <script>
   const baseUrl = '/website'
-  const enableSearch = true
+  MarkBind.setupWithSearch()
 </script>
-<script src="../markbind/js/setup.js"></script>
 <script src="../markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
 
 </html>

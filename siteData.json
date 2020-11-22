@@ -2,14 +2,16 @@
   "enableSearch": true,
   "pages": [
     {
+      "src": "README.md",
+      "title": "",
+      "headings": {
+        "ay1718s2": "AY1718S2"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
       "title": "CS3281&2 Call for Applications",
-      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
-      "header": "topnav.md",
-      "pageNav": 2,
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
-      "src": "admin/callForApplications.mbd",
-      "layout": "default",
       "headings": {
         "cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii": "CS3281&amp;2 Call for Application - AY2020/21, Semester II",
         "structure": "Structure",
@@ -23,14 +25,23 @@
       "headingKeywords": {}
     },
     {
-      "title": "CS3281 Module Info",
-      "keywords": "Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations",
-      "header": "topnav.md",
-      "pageNav": 2,
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
+      "src": "admin/callForApplications.mbd",
+      "title": "CS3281&2 Call for Applications",
+      "headings": {
+        "cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii": "CS3281&amp;2 Call for Application - AY2020/21, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "selection": "Selection",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "admin/cs3281.mbd",
-      "layout": "default",
+      "title": "CS3281 Module Info",
       "headings": {
         "cs3281-thematic-systems-projects-i-to-be-updated-for-ay2020-21": "CS3281 : Thematic Systems Projects I (to be updated for AY2020/21)",
         "lectures": "Lectures",
@@ -45,13 +56,8 @@
       "headingKeywords": {}
     },
     {
-      "title": "CS3282 Module Info",
-      "header": "topnav.md",
-      "pageNav": 2,
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
       "src": "admin/cs3282.mbd",
-      "layout": "default",
+      "title": "CS3282 Module Info",
       "headings": {
         "cs3282-thematic-systems-project-ii-to-be-updated-for-ay2020-21": "CS3282 : Thematic Systems Project II (to be updated for AY2020/21)",
         "module-structure": "Module structure",
@@ -69,12 +75,8 @@
       "headingKeywords": {}
     },
     {
-      "title": "Mentors",
-      "header": "topnav.md",
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
       "src": "admin/mentors.mbd",
-      "layout": "default",
+      "title": "Mentors",
       "headings": {
         "cs3281-project-mentors": "CS3281 Project Mentors",
         "markbind": "MarkBind",
@@ -87,34 +89,8 @@
       "headingKeywords": {}
     },
     {
-      "title": "CS3281&2 Call for Applications",
-      "keywords": "Structure, Workload, Enrollment, Assessment, FAQ",
-      "header": "topnav.md",
-      "pageNav": 2,
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
-      "src": "index.mbd",
-      "layout": "default",
-      "headings": {
-        "cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii": "CS3281&amp;2 Call for Application - AY2020/21, Semester II",
-        "structure": "Structure",
-        "workload": "Workload",
-        "assessment": "Assessment",
-        "enrollment": "Enrollment",
-        "selection": "Selection",
-        "faq": "FAQ",
-        "have-a-question": "Have a Question?"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "title": "CS3281&2 Thematic Systems Project I & II",
-      "header": "topnav.md",
-      "pageNav": 2,
-      "footer": "footer.mbdf",
-      "head": "head.mbdf",
       "src": "schedule/index.mbd",
-      "layout": "default",
+      "title": "CS3281&2 Thematic Systems Project I & II",
       "headings": {
         "cs3281-and-amp-2-schedule-to-be-updated-for-ay2020-21": "CS3281&amp;2 Schedule (to be updated for AY2020/21)",
         "week-1-jan-13": "Week 1 [Jan 13]",

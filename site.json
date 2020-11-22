@@ -1,6 +1,7 @@
 {
   "baseUrl": "/website",
   "pages": [
+    {"glob": "**/*.md"},
     {"glob": "**/*.mbd"}
   ],
   "ignore": [
@@ -14,6 +15,5 @@
     "*.mbdf",
     ".git/*"
   ],
-  "headingIndexingLevel": 2,
-  "theme": "bootswatch-pulse"
+  "headingIndexingLevel": 2
 }
