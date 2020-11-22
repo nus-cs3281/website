@@ -9,17 +9,11 @@ head: head.mbdf
 
 # CS3281&2 Call for Application - AY20{{ AY }}, Semester II
 
-<box type="important" light>
-
-Given below is the tentative _call for application_ for the next round, details to be confirmed around November 2020.
-
-</box>
- 
 CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Live Projects_**) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry. Both modules involve **working in OSS projects** that are currently being used by others.
 
-These two modules are offered in Semester 2 only. ==**A notable difference from the next round will be that you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
- * Reason: Our past experience shows that one semester is not enough for students to perform at _project mentor/manager_ level (one of the main learning outcomes of this module pair).
- * An exception can be made in the next round for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module. %%To take this route, you should be in your graduating year, you should have been contributing regularly to an NUS-OSS project for at least one semester by the time you apply (contributions to NUS-OSS projects under [_independent project_ modules](https://nus-oss.github.io/#earning-modular-credit) count too), and you should be among the best 20-25 among the applicants.%%
+These two modules are offered in Semester 2 only. ==**A notable difference from AY2021: you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
+ * Reason: Our past experience shows that one semester is not enough for students to reach a level where they can do project mentoring and take part in project management (which are important learning outcomes of this module pair).
+ * An exception can be made in the next round (i.e., AY2021) for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module. %%To take this route, you should be in your graduating year, you should have been contributing regularly to an NUS-OSS project for at least one semester by the time you apply (contributions to NUS-OSS projects under [_independent project_ modules](https://nus-oss.github.io/#earning-modular-credit) count too), and you should be among the best 20-25 among the applicants.%%
  * If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
  * Qualifying project work done in between the two modules can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project ABC (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%
 
@@ -71,9 +65,9 @@ These two modules are offered in Semester 2 only. ==**A notable difference from 
 
 * **Each module will have the 4MC workload, i.e. 10 hours of workload per week** in total.
 * Lectures are compulsory to attend.
-  * CS3281 lecture -- ~~{{ cs3281_time }} in {{ cs3281_venue }}~~ TBD
-  * CS3282 lecture -- ~~{{ cs3282_time }} in {{ cs3282_venue }}~~ TBD
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester ~~(Jan 18th)~~==.
+  * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
+  * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Jan 16th)==.
 * No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.
 
 <!-- ==================================================================================================== -->
@@ -103,15 +97,15 @@ Student selection is **not based on ModReg**. Instead, follow these instructions
 3. Submit your application using the survey named _Application Submission_
 4. Upload your transcript to the Files folder _Transcripts_. ==File name should be your name==.
 
-{{ icon_deadline }} Interested students are to **complete the application process by Mon ~~9 December 2019~~ (TBA)**. Late applications will not be entertained.
+{{ icon_deadline }} Interested students are to **complete the application process by Mon 7 December 2020**. Late applications will not be entertained.
 
-The outcome of all applications are expected to be **released via email around ~~19th December {{ year }}~~ (TBA)**.
+The outcome of all applications are expected to be **released via email around 21 December {{ year }}**.
 
 <!-- ==================================================================================================== -->
 
 ## Selection
 
-* **Entry is competitive**. We typically receive about 2-3 applications for each available vacancies. The selection is based on,
+* **Entry is competitive**. We typically receive about 2-3 applications for each available vacancy. The selection is based on,
   1. Interest and ability shown in programming, especially, in contributing to OSS projects.
   1. Performance in SE/programming modules.
   1. Compatibility between your interests and the availability of vacancies in the NUS-OSS project you want to join.
@@ -129,7 +123,7 @@ The outcome of all applications are expected to be **released via email around ~
   A: Yes. If you get places in both, you will be given time to decide which one to take.
   
 * Q: Can I take this module while doing ATAP/SIP?<br>
-  A: No. %%Reason: You need to be on-campus for lectures and project meetings.%%
+  A: No. %%Reason: You need to be available during working hours for lectures and project meetings.%%
 
 * Q: For CS3282, can I choose a project that is not one of the NUS-OSS projects?<br>
   A: No. %%Reason: As 100% of your CS3282 module grade depends on your project work, you need to work in a project that is fully under our control.%%

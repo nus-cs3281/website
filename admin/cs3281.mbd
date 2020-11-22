@@ -33,7 +33,6 @@ Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semes
 * PowerPointLabs
 * RepoSense
 * CATcher
-* SEEker
 * SE-EDU
 * TEAMMATES
 
@@ -127,7 +126,6 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
   PowerPointLabs | C# | VisualStudio, Jekyll
   RepoSense | Java | Java, CSS, HTML, JavaScript, Jade, Gradle
   CATcher | TypeScript, CSS, HTML, Python | Electron, Travis
-  SEEker | Python | PyGitHub, PyGit
   SE-EDU | Java, CSS | Gradle, Travis, AsciiDoc
   TEAMMATES | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
 

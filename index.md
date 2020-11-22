@@ -1,2 +1,2 @@
-<!-- include src="schedule/index.mbd" /-->
+<!-- include src="schedule/index.md" /-->
 <include src="admin/callForApplications.mbd"/>
