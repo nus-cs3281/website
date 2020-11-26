@@ -34,3 +34,21 @@
 2020-11-26T04:42:30.074Z - info: Site data built
 2020-11-26T04:44:39.803Z - info: Website generation started at 12:44:39 PM
 2020-11-26T04:44:40.766Z - info: Building assets...
+2020-11-26T04:44:41.632Z - info: Assets built
+2020-11-26T04:44:41.632Z - info: Generating pages...
+2020-11-26T04:44:42.641Z - info: Pages built
+2020-11-26T04:44:42.900Z - info: Website generation complete! Total build time: 3.374s
+2020-11-26T04:44:42.902Z - info: Build success!
+2020-11-26T04:44:42.906Z - info: Site data built
+2020-11-26T04:45:04.515Z - info: Deployed!
+2020-11-26T12:28:39.265Z - info: Website generation (lazy) started at 8:28:39 PM
+2020-11-26T12:28:40.554Z - info: Building assets...
+2020-11-26T12:28:41.369Z - info: Assets built
+2020-11-26T12:28:41.370Z - info: Generating landing page...
+2020-11-26T12:28:41.651Z - info: Landing page built, other pages will be built as you navigate to them!
+2020-11-26T12:28:41.771Z - info: Website generation (lazy) complete! Total build time: 2.761s
+2020-11-26T12:28:41.848Z - info: Site data built
+2020-11-26T12:28:43.817Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:54130
+2020-11-26T12:28:43.817Z - info: Press CTRL+C to stop ...
+2020-11-26T12:29:16.006Z - info: Website generation started at 8:29:15 PM
+2020-11-26T12:29:16.923Z - info: Building assets...
