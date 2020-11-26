@@ -11,11 +11,15 @@ head: head.mbdf
 
 CS3281 and CS3282 (Officially known as _Thematic Systems Project I & II_ for legacy reasons, a more apt name would be **_Software Engineering in Live Projects_**) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers **working at high-end software companies such as Facebook, Google, and Microsoft**. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of [mentors]({{ baseUrl }}/admin/mentors.html) some of whom are currently working in the industry. Both modules involve **working in OSS projects** that are currently being used by others.
 
-These two modules are offered in Semester 2 only. ==**A notable difference from AY2021: you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
- * Reason: Our past experience shows that one semester is not enough for students to reach a level where they can do project mentoring and take part in project management (which are important learning outcomes of this module pair).
- * An exception can be made in the next round (i.e., AY2021) for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module. %%To take this route, you should be in your graduating year, you should have been contributing regularly to an NUS-OSS project for at least one semester by the time you apply (contributions to NUS-OSS projects under [_independent project_ modules](https://nus-oss.github.io/#earning-modular-credit) count too), and you should be among the best 20-25 among the applicants.%%
- * If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
- * Qualifying project work done in between the two modules can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project ABC (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%
+These two modules are **offered in Semester 2 only**.
+
+==**A notable difference from AY2021: you will not be allowed to take both modules concurrently.**== Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.
+
+* Reason: Our past experience shows that one semester is not enough for students to reach a level where they can do project mentoring and take part in project management (which are important learning outcomes of this module pair).
+* An exception can be made in the next round (i.e., AY2021) for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module. %%To take this route, you should be in your graduating year, you should have been contributing regularly to an NUS-OSS project for at least one semester by the time you apply (contributions to NUS-OSS projects under [_independent project_ modules](https://nus-oss.github.io/#earning-modular-credit) count too), and you should be among the best 20-25 among the applicants.%%
+* If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
+* Qualifying project work done in between the two modules can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project ABC (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%
+* Typically, you are expected to take CS3281 in your 2nd or 3rd year and CS3282 in your 3rd or 4th year. It is also possible to take CS3281 in the 2nd year and CS3282 in the 4th year (i.e., a gap of 3-semesters in between).
 
 **Prerequisites** : CS2103/T or CS2113/T (with approval)
 
@@ -28,7 +32,7 @@ These two modules are offered in Semester 2 only. ==**A notable difference from 
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://nus-oss.github.io/)** (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
 * **[CS3282]({{baseUrl}}/admin/cs3282.html)** 
-  * **Manage a project**<br>
+  * **Manage a project** (take part in project administration, mentor junior developers)<br>
     Take part in managing an OSS project, and mentoring other programmers. This requirement is fulfilled by serving as a senior developer in the NUS-OSS project(s) that you joined in CS3281.
   * **Do a small contributions to one or more big OSS projects**<br>
     Pick an established external OSS project of your choice and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run. Optionally, you can contribute to another NUS-OSS project.
