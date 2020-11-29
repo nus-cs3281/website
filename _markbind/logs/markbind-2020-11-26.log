@@ -52,3 +52,10 @@
 2020-11-26T12:28:43.817Z - info: Press CTRL+C to stop ...
 2020-11-26T12:29:16.006Z - info: Website generation started at 8:29:15 PM
 2020-11-26T12:29:16.923Z - info: Building assets...
+2020-11-26T12:29:17.720Z - info: Assets built
+2020-11-26T12:29:17.721Z - info: Generating pages...
+2020-11-26T12:29:18.751Z - info: Pages built
+2020-11-26T12:29:19.025Z - info: Website generation complete! Total build time: 3.239s
+2020-11-26T12:29:19.027Z - info: Build success!
+2020-11-26T12:29:19.035Z - info: Site data built
+2020-11-26T12:29:39.191Z - info: Deployed!
