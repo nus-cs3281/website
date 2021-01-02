@@ -1,0 +1,220 @@
+<frontmatter>
+title: "CS3281 Schedule"
+header: topnav.md
+pageNav: 2
+footer: footer.mbdf
+head: head.mbdf
+</frontmatter>
+
+{% set weeks = [
+    {num: "0", day:"Jan 4"},
+    {num: "1", day:"Jan 11"},
+    {num: "2", day:"Jan 18"},
+    {num: "3", day:"Jan 25"},
+    {num: "4", day:"Feb 1"},
+    {num: "5", day: "Feb 8" },
+    {num: "6", day: "Feb 15" },
+    {num: "7", day: "Mar 1" },
+    {num: "8", day: "Mar 8" },
+    {num: "9", day: "Mar 15" },
+    {num: "10", day: "Mar 22" },
+    {num: "11", day: "Mar 29" },
+    {num: "12", day: "Apr 5" },
+    {num: "13", day: "Apr 12" }
+] %}
+
+# CS3281 Schedule
+<p/>
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 1 [{{ weeks[1].day }}]
+
+#### Todo
+
+* {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name.
+* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281-{{ year }}.netlify.com/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} Set up the dev environment of your project in your Computer. Follow instructions provided by the project for new contributors.
+* {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation.
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: CS3281 Module Intro
+  * This is a f2f lecture, in LT19
+  * Sit as project teams
+
+
+#### Saturday (Code Sprint)
+
+* The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
+
+<!--
+* Venue: SR10
+* Schedule:
+  * 0930 - 1200 : Project work
+  * 1200 - 1300 : Lunch break (lunch  provided :stew:)
+  * 1300 - 1530 : Project work
+ -->
+
+* Agenda (tentative)
+  * 10-11am: A common Zoom session for students and  mentors to introduce themselves (and see each other without masks).
+  * 11am onwards:  Separate briefings for each project, on Zoom, led by mentors. e.g., technical overview, on-boarding, etc. Will be recorded in case some students are interested to learn a 2nd project.
+  * Afternoon: Students do tasks indicated by mentors earlier and consult mentors if needed.
+  * 4-5.30pm: Prof to meet with each team separately for a short debriefing. Optional for mentors to join.
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 2 [{{ weeks[2].day }}]
+
+#### Monday
+* {{ icon_lecture }} Lecture: Product demos, project-specific discussions
+* Demo the product created by your project.
+  * MarkBind, RepoSense, TEAMMATES: ~20 minutes each<br>
+    CATcher: n/a
+  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+<div id="week3-monday"/>
+
+## Week 3 [{{ weeks[3].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 4 [{{ weeks[4].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+
+#### Sunday
+
+* :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page.
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+
+## Week 5 [{{ weeks[5].day }}]
+
+#### Todo
+
+* If you haven't started already, this is a good time to start getting ==at least one peer-review from classmates== before requesting reviews from a senior developer. 
+  * You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels. 
+  * You can get early inputs from senior devs if necessary, %%e.g., you are not sure about the overall direction of the PR, you want to know the rationale for the current code, etc.%%
+* You can also ==help to manage new/external contributors== %%e.g., answer their questions, review their PRs etc.%% Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.
+
+#### Monday
+
+* {{ icon_lecture }} Project-specific discussions
+
+
+#### Sunday
+
+* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
+
+<box type="tip" seamless>
+
+Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, %%and also a means of stress testing RepoSense%%.
+</box>
+
+## Week 6 [{{ weeks[6].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+---
+
+**Recess** 
+
+---
+
+## Week 7 [{{ weeks[7].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+## Week 8 [{{ weeks[8].day }}]
+
+* :alarm_clock: by Friday
+  * Peer evaluations
+* :alarm_clock: by Sunday
+  * Update the progress page
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+## Week 9 [{{ weeks[9].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+<!-- ------------------------------------------------------------------------------------ -->
+
+## Week 10 [{{ weeks[10].day }}]
+
+<box type="info">
+
+**As you are now entering the [_managing_ phase](../admin/cs3281.html#stage-3-managing)**, get more involved in management activities of the project.
+</box>
+
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 11 [{{ weeks[11].day }}]
+
+#### Todo
+
+* Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.
+
+<!--
+* STePS preparations:
+  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale. 
+  * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
+  -->
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 12 [{{ weeks[12].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: Project-specific discussions
+
+
+<!-- ----------------------------------------------------------------------------------- -->
+<hr>
+
+<hr>
+
+## Week 13 [{{ weeks[13].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture
+  * Project specific discussions
+
+#### Wednesday
+
+* ~~STePS~~

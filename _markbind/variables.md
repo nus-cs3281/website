@@ -1,7 +1,7 @@
 <variable name="year">2021</variable>
 <variable name="AY">20/21</variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
-<variable name="cs3281_venue">COM1-0210</variable>
+<variable name="cs3281_venue">LT19</variable>
 <variable name="cs3282_time">THU 1200-1400</variable>
 <variable name="cs3282_venue">COM1-0210</variable>
 <variable name="module_org">https://github.com/nus-cs3281</variable>
