@@ -1,0 +1,169 @@
+2021-01-02T15:15:22.841Z - info: Website generation (lazy) started at 11:15:22 PM
+2021-01-02T15:15:25.795Z - info: Building assets...
+2021-01-02T15:15:26.791Z - info: Assets built
+2021-01-02T15:15:26.791Z - info: Generating landing page...
+2021-01-02T15:15:27.223Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-02T15:15:27.778Z - info: Site data built
+2021-01-02T15:15:27.778Z - info: Website generation (lazy) complete! Total build time: 5.579s
+2021-01-02T15:15:28.648Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-01-02T15:15:28.649Z - info: Press CTRL+C to stop ...
+2021-01-02T15:26:06.672Z - info: [11:26:06 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-02T15:26:07.695Z - info: Rebuilding 1 pages
+2021-01-02T15:26:07.831Z - info: Site data built
+2021-01-02T15:26:07.832Z - info: Pages rebuilt
+2021-01-02T15:26:07.833Z - info: Website regeneration complete! Total build time: 0.142s
+2021-01-02T15:26:14.106Z - info: [11:26:14 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-02T15:26:15.108Z - info: Rebuilding 1 pages
+2021-01-02T15:26:15.120Z - error:  Error: No such file: C:\repos\nus-cs3281\cs3281-website\schedule\index.md
+Missing reference in C:\repos\nus-cs3281\cs3281-website\index.md
+    at NodePreprocessor._getFileExistsNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:73:21)
+    at NodePreprocessor._preProcessInclude (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:234:33)
+    at NodePreprocessor.preProcessNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:350:19)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:377:30
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:374:27)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:340:36)
+    at Tokenizer._finish (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:890:15)
+    at Tokenizer.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:881:29)
+    at Parser.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:367:21)
+    at Parser.parseComplete (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:359:10)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:392:16
+    at new Promise (<anonymous>)
+    at NodePreprocessor.includeFile (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:368:12)
+2021-01-02T15:26:15.150Z - info: Site data built
+2021-01-02T15:26:15.150Z - info: Pages rebuilt
+2021-01-02T15:26:15.150Z - info: Website regeneration complete! Total build time: 0.043s
+2021-01-02T15:26:25.322Z - info: [11:26:25 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-02T15:26:26.324Z - info: Rebuilding 1 pages
+2021-01-02T15:26:26.328Z - error:  Error: No such file: C:\repos\nus-cs3281\cs3281-website\schedule\index.mbdf
+Missing reference in C:\repos\nus-cs3281\cs3281-website\index.md
+    at NodePreprocessor._getFileExistsNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:73:21)
+    at NodePreprocessor._preProcessInclude (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:234:33)
+    at NodePreprocessor.preProcessNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:350:19)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:377:30
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:374:27)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:340:36)
+    at Tokenizer._finish (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:890:15)
+    at Tokenizer.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:881:29)
+    at Parser.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:367:21)
+    at Parser.parseComplete (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:359:10)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:392:16
+    at new Promise (<anonymous>)
+    at NodePreprocessor.includeFile (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:368:12)
+2021-01-02T15:26:26.349Z - info: Site data built
+2021-01-02T15:26:26.349Z - info: Pages rebuilt
+2021-01-02T15:26:26.349Z - info: Website regeneration complete! Total build time: 0.025s
+2021-01-02T15:26:36.446Z - info: [11:26:36 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-02T15:26:37.460Z - info: Rebuilding 1 pages
+2021-01-02T15:26:38.056Z - info: Site data built
+2021-01-02T15:26:38.057Z - info: Pages rebuilt
+2021-01-02T15:26:38.057Z - info: Website regeneration complete! Total build time: 0.599s
+2021-01-02T15:26:55.462Z - info: [11:26:55 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:26:56.465Z - info: Assets built
+2021-01-02T15:27:08.526Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2021-01-02T15:27:08.673Z - info: Site data built
+2021-01-02T15:27:08.674Z - info: Lazy website regeneration complete! Total build time: 0.149s
+2021-01-02T15:32:52.806Z - info: [11:32:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2021-01-02T15:32:53.822Z - info: Assets built
+2021-01-02T15:33:31.600Z - info: [11:33:31 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:33:32.611Z - info: Rebuilding 1 pages
+2021-01-02T15:33:32.755Z - info: Site data built
+2021-01-02T15:33:32.755Z - info: Pages rebuilt
+2021-01-02T15:33:32.756Z - info: Website regeneration complete! Total build time: 0.149s
+2021-01-02T15:35:27.671Z - info: [11:35:27 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:35:28.678Z - info: Rebuilding 1 pages
+2021-01-02T15:35:28.787Z - info: Site data built
+2021-01-02T15:35:28.790Z - info: Pages rebuilt
+2021-01-02T15:35:28.790Z - info: Website regeneration complete! Total build time: 0.116s
+2021-01-02T15:38:57.197Z - info: [11:38:57 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:38:58.211Z - info: Rebuilding 1 pages
+2021-01-02T15:38:58.473Z - info: Site data built
+2021-01-02T15:38:58.473Z - info: Pages rebuilt
+2021-01-02T15:38:58.473Z - info: Website regeneration complete! Total build time: 0.265s
+2021-01-02T15:40:02.869Z - info: [11:40:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:40:03.874Z - info: Rebuilding 1 pages
+2021-01-02T15:40:04.041Z - info: Site data built
+2021-01-02T15:40:04.041Z - info: Pages rebuilt
+2021-01-02T15:40:04.041Z - info: Website regeneration complete! Total build time: 0.169s
+2021-01-02T15:40:31.216Z - info: [11:40:31 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:40:32.217Z - info: Rebuilding 1 pages
+2021-01-02T15:40:32.363Z - info: Site data built
+2021-01-02T15:40:32.363Z - info: Pages rebuilt
+2021-01-02T15:40:32.363Z - info: Website regeneration complete! Total build time: 0.147s
+2021-01-02T15:40:52.143Z - info: [11:40:52 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:40:53.155Z - info: Rebuilding 1 pages
+2021-01-02T15:40:53.291Z - info: Site data built
+2021-01-02T15:40:53.291Z - info: Pages rebuilt
+2021-01-02T15:40:53.291Z - info: Website regeneration complete! Total build time: 0.138s
+2021-01-02T15:44:04.796Z - info: [11:44:04 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:44:05.803Z - info: Rebuilding 1 pages
+2021-01-02T15:44:05.900Z - info: Site data built
+2021-01-02T15:44:05.901Z - info: Pages rebuilt
+2021-01-02T15:44:05.901Z - info: Website regeneration complete! Total build time: 0.099s
+2021-01-02T15:46:40.372Z - info: [11:46:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:46:41.380Z - info: Rebuilding 1 pages
+2021-01-02T15:46:41.515Z - info: Site data built
+2021-01-02T15:46:41.515Z - info: Pages rebuilt
+2021-01-02T15:46:41.515Z - info: Website regeneration complete! Total build time: 0.138s
+2021-01-02T15:46:56.126Z - info: [11:46:56 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:46:57.139Z - info: Rebuilding 1 pages
+2021-01-02T15:46:57.254Z - info: Site data built
+2021-01-02T15:46:57.254Z - info: Pages rebuilt
+2021-01-02T15:46:57.254Z - info: Website regeneration complete! Total build time: 0.117s
+2021-01-02T15:47:29.592Z - info: [11:47:29 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:47:30.600Z - info: Rebuilding 1 pages
+2021-01-02T15:47:30.713Z - info: Site data built
+2021-01-02T15:47:30.713Z - info: Pages rebuilt
+2021-01-02T15:47:30.713Z - info: Website regeneration complete! Total build time: 0.115s
+2021-01-02T15:48:08.962Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2021-01-02T15:48:09.088Z - info: Site data built
+2021-01-02T15:48:09.088Z - info: Lazy website regeneration complete! Total build time: 0.126s
+2021-01-02T15:52:24.789Z - info: [11:52:24 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2021-01-02T15:52:25.809Z - info: Rebuilding 1 pages
+2021-01-02T15:52:25.970Z - info: Site data built
+2021-01-02T15:52:25.971Z - info: Pages rebuilt
+2021-01-02T15:52:25.971Z - info: Website regeneration complete! Total build time: 0.165s
+2021-01-02T15:53:25.240Z - info: [11:53:25 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2021-01-02T15:53:26.258Z - info: Rebuilding 1 pages
+2021-01-02T15:53:26.378Z - info: Site data built
+2021-01-02T15:53:26.378Z - info: Pages rebuilt
+2021-01-02T15:53:26.379Z - info: Website regeneration complete! Total build time: 0.124s
+2021-01-02T15:54:40.197Z - info: [11:54:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2021-01-02T15:54:40.199Z - info: [11:54:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:54:41.205Z - info: Rebuilding 1 pages
+2021-01-02T15:54:41.299Z - info: Site data built
+2021-01-02T15:54:41.300Z - info: Pages rebuilt
+2021-01-02T15:54:41.300Z - info: Website regeneration complete! Total build time: 0.1s
+2021-01-02T15:54:51.238Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2021-01-02T15:54:51.483Z - info: Site data built
+2021-01-02T15:54:51.483Z - info: Lazy website regeneration complete! Total build time: 0.246s
+2021-01-02T15:56:01.495Z - info: [11:56:01 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:56:02.512Z - info: Rebuilding 1 pages
+2021-01-02T15:56:02.690Z - info: Site data built
+2021-01-02T15:56:02.690Z - info: Pages rebuilt
+2021-01-02T15:56:02.690Z - info: Website regeneration complete! Total build time: 0.18s
+2021-01-02T15:56:23.816Z - info: [11:56:23 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:56:24.831Z - info: Rebuilding 1 pages
+2021-01-02T15:56:25.002Z - info: Site data built
+2021-01-02T15:56:25.003Z - info: Pages rebuilt
+2021-01-02T15:56:25.003Z - info: Website regeneration complete! Total build time: 0.174s
+2021-01-02T15:57:07.169Z - info: [11:57:07 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2021-01-02T15:57:08.184Z - info: Rebuilding 1 pages
+2021-01-02T15:57:08.324Z - info: Site data built
+2021-01-02T15:57:08.324Z - info: Pages rebuilt
+2021-01-02T15:57:08.324Z - info: Website regeneration complete! Total build time: 0.142s
+2021-01-02T15:58:24.148Z - info: [11:58:24 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2021-01-02T15:58:25.164Z - info: Rebuilding 1 pages
+2021-01-02T15:58:25.326Z - info: Site data built
+2021-01-02T15:58:25.326Z - info: Pages rebuilt
+2021-01-02T15:58:25.327Z - info: Website regeneration complete! Total build time: 0.166s
+2021-01-02T15:59:40.948Z - info: [11:59:40 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.mbd
+2021-01-02T15:59:41.959Z - info: Rebuilding 1 pages
+2021-01-02T15:59:42.104Z - info: Site data built
+2021-01-02T15:59:42.104Z - info: Pages rebuilt
+2021-01-02T15:59:42.104Z - info: Website regeneration complete! Total build time: 0.15s

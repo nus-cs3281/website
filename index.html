@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="MarkBind 2.15.2">
+  <meta name="generator" content="MarkBind 2.17.2">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS3281&2 Call for Applications</title>
   <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
@@ -13,11 +13,14 @@
   <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
   <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
   <link rel="stylesheet" href="markbind/css/octicons.css">
-  <link rel="stylesheet" href="markbind/css/github.min.css">
-  <link rel="stylesheet" href="markbind/css/markbind.css">
+  <link rel="stylesheet" href="markbind/css/codeblock-dark.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.min.css">
+  <script src="markbind/js/polyfill.min.js"></script>
+  <script src="markbind/js/vue.min.js"></script>
+  <script src="markbind/js/markbind.min.js"></script>
+  <script src="markbind/js/jquery.min.js"></script>
   <link rel="stylesheet" href="/website/plugins/markbind-plugin-anchors/markbind-plugin-anchors.css">
   <link rel="stylesheet" href="markbind/layouts/default/styles.css">
-  <link rel="stylesheet" href="markbind/css/page-nav.css">
   <link rel="stylesheet" href="/website/css/main.css">
   <style>
     h2 {
@@ -36,17 +39,20 @@
     <header>
       <navbar placement="top" type="primary" class="temp-navbar">
         <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">[CS3281&2 - 2021]</a>
-        <li><a href="/website/schedule/index.html" class="nav-link">Schedule</a></li>
-        <li><a href="/website/admin/cs3281.html" class="nav-link">CS3281</a></li>
-        <li><a href="/website/admin/cs3282.html" class="nav-link">CS3282</a></li>
-        <div class="nav-link temp-dropdown-placeholder">Links</div>
-        <dropdown class="nav-link temp-dropdown"><template slot="_header">Links</template>
-          <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
+        <div class="nav-link temp-dropdown-placeholder">CS3281</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">CS3281</template>
+          <li><a href="/website/admin/cs3281.html" class="dropdown-item">Module Info</a></li>
+          <li><a href="/website/schedule/index-cs3281.html" class="dropdown-item">Schedule</a></li>
           <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
           <li><a href="https://nus-cs3281.github.io/2021" target="_blank" class="dropdown-item">Students</a></li>
           <li><a href="https://nus-cs3281.github.io/2021-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false/" target="_blank" class="dropdown-item">Dashboard</a></li>
+          <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
+        </dropdown>
+        <div class="nav-link temp-dropdown-placeholder">CS3282</div>
+        <dropdown class="nav-link temp-dropdown"><template slot="_header">CS3282</template>
+          <li><a href="/website/admin/cs3282.html" class="dropdown-item">Module Info</a></li>
+          <li><a href="/website/schedule/index-cs3282.html" class="dropdown-item">Schedule</a></li>
           <li><a href="https://nus-cs3281.github.io/2021/students/talksSchedule.html" target="_blank" class="dropdown-item">Lightning Talks Schedule</a></li>
-          <li><a href="https://se-education.org/learningresources/" target="_blank" class="dropdown-item">se-edu/learningresources</a></li>
         </dropdown>
         <li><a href="https://github.com/nus-cs3281/website" class="nav-link"></a></li>
         <li slot="right" class="nav-link">
@@ -58,10 +64,11 @@
     </header>
     <div id="flex-body">
 
+
       <div id="content-wrapper">
 
         <div>
-          <h1 id="cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii">CS3281&amp;2 Call for Application - AY2020/21, Semester II<a class="fa fa-anchor" href="#cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii" onclick="event.stopPropagation()"></a></h1>
+          <h1 id="cs3281-and-amp-2-ay2020-21-semester-ii"><span id="cs3281-and-amp-2-ay2020-21-semester-ii" class="anchor"></span>CS3281&amp;2 - AY2020/21, Semester II<a class="fa fa-anchor" href="#cs3281-and-amp-2-ay2020-21-semester-ii" onclick="event.stopPropagation()"></a></h1>
           <p>CS3281 and CS3282 (Officially known as <em>Thematic Systems Project I &amp; II</em> for legacy reasons, a more apt name would be <strong><em>Software Engineering in Live Projects</em></strong>) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers <strong>working at high-end software companies such as Facebook, Google, and Microsoft</strong>. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of <a href="/website/admin/mentors.html">mentors</a> some of whom are currently working in the industry. Both modules involve <strong>working in OSS projects</strong> that are currently being used by others.</p>
           <p>These two modules are <strong>offered in Semester 2 only</strong>.</p>
           <p><mark><strong>A notable difference from AY2021: you will not be allowed to take both modules concurrently.</strong></mark> Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.</p>
@@ -74,7 +81,7 @@
           </ul>
           <p><strong>Prerequisites</strong> : CS2103/T or CS2113/T (with approval)</p>
 
-          <h2 id="structure">Structure<a class="fa fa-anchor" href="#structure" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="structure"><span id="structure" class="anchor"></span>Structure<a class="fa fa-anchor" href="#structure" onclick="event.stopPropagation()"></a></h2>
           <ul>
             <li>
               <p><strong><a href="/website/admin/cs3281.html">CS3281</a></strong></p>
@@ -116,12 +123,12 @@
             <p></p>
           </box>
 
-          <h2 id="workload">Workload<a class="fa fa-anchor" href="#workload" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="workload"><span id="workload" class="anchor"></span>Workload<a class="fa fa-anchor" href="#workload" onclick="event.stopPropagation()"></a></h2>
           <ul>
             <li><strong>Each module will have the 4MC workload, i.e. 10 hours of workload per week</strong> in total.</li>
             <li>Lectures are compulsory to attend.
               <ul>
-                <li>CS3281 lecture -- MON 1200-1400 in COM1-0210</li>
+                <li>CS3281 lecture -- MON 1200-1400 in LT19</li>
                 <li>CS3282 lecture -- THU 1200-1400 in COM1-0210</li>
               </ul>
             </li>
@@ -129,10 +136,10 @@
             <li>No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.</li>
           </ul>
 
-          <h2 id="assessment">Assessment<a class="fa fa-anchor" href="#assessment" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="assessment"><span id="assessment" class="anchor"></span>Assessment<a class="fa fa-anchor" href="#assessment" onclick="event.stopPropagation()"></a></h2>
           <p>Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam.</p>
 
-          <h2 id="enrollment">Enrollment<a class="fa fa-anchor" href="#enrollment" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="enrollment"><span id="enrollment" class="anchor"></span>Enrollment<a class="fa fa-anchor" href="#enrollment" onclick="event.stopPropagation()"></a></h2>
           <p><strong>The class enrollment is capped at 20-25 students</strong> due to resource constraints.</p>
           <p>There is a soft lower bound for students’ <strong>CAP of 3.9</strong>; students may still apply for CS3281&amp;2 if they have a CAP
             below 3.9, but the candidate must demonstrate his/her strong passion for software engineering.</p>
@@ -144,14 +151,14 @@
           <p></p>
           <p>Student selection is <strong>not based on ModReg</strong>. Instead, follow these instructions to apply for the module:</p>
           <ol>
-            <li>Go to LumiNUS, and self-enroll for the module <code v-pre>CS3281APPLICATIONS</code> (<a href="https://luminus.nus.edu.sg/module-search/e88ee11c-fd1d-4903-a238-a7ee1ccedf69">link</a>)</li>
+            <li>Go to LumiNUS, and self-enroll for the module <code class="hljs inline no-lang" v-pre>CS3281APPLICATIONS</code> (<a href="https://luminus.nus.edu.sg/module-search/e88ee11c-fd1d-4903-a238-a7ee1ccedf69">link</a>)</li>
             <li>Submit your application using the survey named <em>Application Submission</em></li>
             <li>Upload your transcript to the Files folder <em>Transcripts</em>. <mark>File name should be your name</mark>.</li>
           </ol>
           <p>⏰ Interested students are to <strong>complete the application process by Mon 7 December 2020</strong>. Late applications will not be entertained.</p>
           <p>The outcome of all applications are expected to be <strong>released via email around 21 December 2021</strong>.</p>
 
-          <h2 id="selection">Selection<a class="fa fa-anchor" href="#selection" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="selection"><span id="selection" class="anchor"></span>Selection<a class="fa fa-anchor" href="#selection" onclick="event.stopPropagation()"></a></h2>
           <ul>
             <li><strong>Entry is competitive</strong>. We typically receive about 2-3 applications for each available vacancy. The selection is based on,
               <ol>
@@ -167,7 +174,7 @@
           </box>
           <p></p>
 
-          <h2 id="faq">FAQ<a class="fa fa-anchor" href="#faq" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="faq"><span id="faq" class="anchor"></span>FAQ<a class="fa fa-anchor" href="#faq" onclick="event.stopPropagation()"></a></h2>
           <ul>
             <li>
               <p>Q: Can I apply to both CS3217 and CS3281&amp;2?<br>
@@ -190,16 +197,16 @@
                 A: Discouraged (but allowed). <span class="dimmed">Reason: all three modules have high workload.</span></p>
             </li>
           </ul>
-          <h2 id="have-a-question">Have a Question?<a class="fa fa-anchor" href="#have-a-question" onclick="event.stopPropagation()"></a></h2>
-          <p>Please direct any questions to CS3281&amp;2 module coordinator <a href="http://www.comp.nus.edu.sg/~damithch">Dr Damith Rajapakse</a> <code v-pre>damith [at] comp.nus.edu.sg</code></p>
+          <h2 id="have-a-question"><span id="have-a-question" class="anchor"></span>Have a Question?<a class="fa fa-anchor" href="#have-a-question" onclick="event.stopPropagation()"></a></h2>
+          <p>Please direct any questions to CS3281&amp;2 module coordinator <a href="http://www.comp.nus.edu.sg/~damithch">Dr Damith Rajapakse</a> <code class="hljs inline no-lang" v-pre>damith [at] comp.nus.edu.sg</code></p>
         </div>
+        <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
-
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#cs3281-and-amp-2-call-for-application-ay2020-21-semester-ii">CS3281&amp;2 Call for Application - AY2020/21, Semester II&#x200E;</a>
+            <a class="nav-link py-1" href="#cs3281-and-amp-2-ay2020-21-semester-ii">CS3281&amp;2 - AY2020/21, Semester II&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
               <a class="nav-link py-1" href="#structure">Structure&#x200E;</a>
               <a class="nav-link py-1" href="#workload">Workload&#x200E;</a>
@@ -216,21 +223,19 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.15.2</a> at Wed, 2 Dec 2020, 5:14:52 UTC</small>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.17.2</a> at Sat, 2 Jan 2021, 17:00:46 UTC</small>
       </div>
     </footer>
   </div>
 </body>
-<script src="markbind/js/vue.min.js"></script>
-<script src="markbind/js/components.min.js"></script>
 <script src="markbind/js/bootstrap-utility.min.js"></script>
-<script src="markbind/js/polyfill.min.js"></script>
-<script src="markbind/js/bootstrap-vue.min.js"></script>
 <script>
   const baseUrl = '/website'
-  const enableSearch = true
+  MarkBind.setupWithSearch()
 </script>
-<script src="markbind/js/setup.js"></script>
 <script src="markbind/layouts/default/scripts.js"></script>
+<script>
+  if (MarkBind.AfterSetup) MarkBind.AfterSetup()
+</script>
 
 </html>
