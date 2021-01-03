@@ -326,7 +326,7 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 <panel type="secondary" header="For reference: Tips from round A" no-close>
 
-<include src="./index.mbd#tips-roundA" />
+<include src="./index-cs3282.mbd#tips-roundA" />
 
 </panel>
 <p/>

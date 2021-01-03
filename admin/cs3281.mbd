@@ -19,6 +19,7 @@ CS3281 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2:
 * [Stage4: After the semester is over](#stage-4-after-the-semester-is-over)
 * [Team Structure](#team-structure)
 * [Grading](#grading)
+* [Expertise Areas](#expertise-areas)
 * [Pre-Module Preparations](#pre-module-preparations)
 
 
@@ -146,6 +147,16 @@ Just one or two semesters is certainly not enough to become an ‘expert’ of s
 * By the end of the two modules, you know your chosen expertise areas better than your peers to the extent that you can teach those peers interesting and useful things from those areas.
 * Based on your current trajectory, assuming you continue to improve your knowledge in that area, your knowledge in that area is among the top 5% of your cohort by the time you graduate.
 * Recommended: select an area strongly related to SE.
+
+#### Things you can do
+
+1. Consider picking one from each of the three below.
+   * An **Aspect**: Various aspects of an SE project e.g. Testing, CI, Scalability, Requirements, Security, Performance, ...
+   * A **Language**: e.g. Java, C#, Go, Python, Ruby, Kotlin, Elixir, JavaScript, HTML, CSS, ...
+   * A **Domain**: Any other technical topic relevant to SE that you want to claim as your interest/expert area e.g Search Engine Optimization, Regular Expressions
+
+2. Learn more about them yourself. While you do that, produce evidence of your knowledge. %%E.g. blog posts, stackoverflow questions/answers%%
+3. Share interesting and useful bits of your knowledge with the class by giving short talks, to be done in CS3282 later (refer [Lightning Talks](cs3282.html#lightning-talks) deliverables explained below)
 
 ## Pre-Module Preparations 
 
