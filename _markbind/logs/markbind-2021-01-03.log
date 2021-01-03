@@ -419,3 +419,87 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.mb
 2021-01-03T09:37:43.982Z - info: Website regeneration complete! Total build time: 0.152s
 2021-01-03T09:38:27.625Z - info: Website generation started at 5:38:27 PM
 2021-01-03T09:38:28.448Z - info: Building assets...
+2021-01-03T09:38:29.176Z - info: Assets built
+2021-01-03T09:38:29.176Z - info: Generating pages...
+2021-01-03T09:38:30.323Z - info: Pages built
+2021-01-03T09:38:30.875Z - info: Site data built
+2021-01-03T09:38:30.875Z - info: Website generation complete! Total build time: 3.658s
+2021-01-03T09:38:30.875Z - info: Build success!
+2021-01-03T09:38:38.185Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-01-03T15:22:14.608Z - info: Website generation (lazy) started at 11:22:14 PM
+2021-01-03T15:22:16.570Z - info: Building assets...
+2021-01-03T15:22:17.331Z - info: Assets built
+2021-01-03T15:22:17.331Z - info: Generating landing page...
+2021-01-03T15:22:17.618Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-03T15:22:18.205Z - info: Site data built
+2021-01-03T15:22:18.205Z - info: Website generation (lazy) complete! Total build time: 4.053s
+2021-01-03T15:22:19.477Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-01-03T15:22:19.478Z - info: Press CTRL+C to stop ...
+2021-01-03T15:22:33.543Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\mentors as some of its dependencies were changed since the last visit
+2021-01-03T15:22:33.750Z - info: Site data built
+2021-01-03T15:22:33.750Z - info: Lazy website regeneration complete! Total build time: 0.21s
+2021-01-03T15:24:37.681Z - info: [11:24:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:24:38.689Z - info: Rebuilding 1 pages
+2021-01-03T15:24:38.833Z - info: Site data built
+2021-01-03T15:24:38.833Z - info: Pages rebuilt
+2021-01-03T15:24:38.833Z - info: Website regeneration complete! Total build time: 0.148s
+2021-01-03T15:25:18.228Z - info: [11:25:18 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:25:19.235Z - info: Rebuilding 1 pages
+2021-01-03T15:25:19.378Z - info: Site data built
+2021-01-03T15:25:19.378Z - info: Pages rebuilt
+2021-01-03T15:25:19.378Z - info: Website regeneration complete! Total build time: 0.146s
+2021-01-03T15:25:47.786Z - info: [11:25:47 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\headers\topnav.md
+2021-01-03T15:25:48.792Z - info: Rebuilding 1 pages
+2021-01-03T15:25:48.911Z - info: Site data built
+2021-01-03T15:25:48.911Z - info: Pages rebuilt
+2021-01-03T15:25:48.911Z - info: Website regeneration complete! Total build time: 0.123s
+2021-01-03T15:27:48.478Z - info: [11:27:48 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:27:49.485Z - info: Rebuilding 1 pages
+2021-01-03T15:27:49.635Z - info: Site data built
+2021-01-03T15:27:49.636Z - info: Pages rebuilt
+2021-01-03T15:27:49.636Z - info: Website regeneration complete! Total build time: 0.152s
+2021-01-03T15:30:03.618Z - info: [11:30:03 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:30:04.624Z - info: Rebuilding 1 pages
+2021-01-03T15:30:04.738Z - info: Site data built
+2021-01-03T15:30:04.739Z - info: Pages rebuilt
+2021-01-03T15:30:04.739Z - info: Website regeneration complete! Total build time: 0.116s
+2021-01-03T15:34:47.404Z - info: [11:34:47 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:34:48.412Z - info: Rebuilding 1 pages
+2021-01-03T15:34:48.533Z - info: Site data built
+2021-01-03T15:34:48.534Z - info: Pages rebuilt
+2021-01-03T15:34:48.534Z - info: Website regeneration complete! Total build time: 0.126s
+2021-01-03T15:36:39.861Z - info: [11:36:39 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:36:40.871Z - info: Rebuilding 1 pages
+2021-01-03T15:36:41.021Z - info: Site data built
+2021-01-03T15:36:41.021Z - info: Pages rebuilt
+2021-01-03T15:36:41.021Z - info: Website regeneration complete! Total build time: 0.153s
+2021-01-03T15:37:58.914Z - info: [11:37:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:37:59.917Z - info: Rebuilding 1 pages
+2021-01-03T15:38:00.056Z - info: Site data built
+2021-01-03T15:38:00.056Z - info: Pages rebuilt
+2021-01-03T15:38:00.056Z - info: Website regeneration complete! Total build time: 0.141s
+2021-01-03T15:49:28.460Z - info: [11:49:28 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:49:29.468Z - info: Rebuilding 1 pages
+2021-01-03T15:49:29.545Z - info: Site data built
+2021-01-03T15:49:29.545Z - info: Pages rebuilt
+2021-01-03T15:49:29.545Z - info: Website regeneration complete! Total build time: 0.08s
+2021-01-03T15:49:41.146Z - info: [11:49:41 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:49:42.148Z - info: Rebuilding 1 pages
+2021-01-03T15:49:42.243Z - info: Site data built
+2021-01-03T15:49:42.243Z - info: Pages rebuilt
+2021-01-03T15:49:42.243Z - info: Website regeneration complete! Total build time: 0.097s
+2021-01-03T15:49:57.307Z - info: [11:49:57 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:49:58.310Z - info: Rebuilding 1 pages
+2021-01-03T15:49:58.412Z - info: Site data built
+2021-01-03T15:49:58.412Z - info: Pages rebuilt
+2021-01-03T15:49:58.412Z - info: Website regeneration complete! Total build time: 0.104s
+2021-01-03T15:54:19.558Z - info: [11:54:19 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:54:20.572Z - info: Rebuilding 1 pages
+2021-01-03T15:54:20.642Z - info: Site data built
+2021-01-03T15:54:20.642Z - info: Pages rebuilt
+2021-01-03T15:54:20.642Z - info: Website regeneration complete! Total build time: 0.082s
+2021-01-03T15:59:22.080Z - info: [11:59:22 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2021-01-03T15:59:23.095Z - info: Rebuilding 1 pages
+2021-01-03T15:59:23.221Z - info: Site data built
+2021-01-03T15:59:23.221Z - info: Pages rebuilt
+2021-01-03T15:59:23.222Z - info: Website regeneration complete! Total build time: 0.137s

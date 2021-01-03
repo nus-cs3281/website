@@ -43,7 +43,7 @@
         <dropdown class="nav-link temp-dropdown"><template slot="_header">CS3281</template>
           <li><a href="/website/admin/cs3281.html" class="dropdown-item">Module Info</a></li>
           <li><a href="/website/schedule/index-cs3281.html" class="dropdown-item">Schedule</a></li>
-          <li><a href="/website/admin/mentors.html" class="dropdown-item">Mentors</a></li>
+          <li><a href="/website/admin/mentors.html" class="dropdown-item">Projects/Mentors</a></li>
           <li><a href="https://nus-cs3281.github.io/2021" target="_blank" class="dropdown-item">Students</a></li>
           <li><a href="https://nus-cs3281.github.io/2021-dashboard/#search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=false&groupSelect=groupByAuthors&breakdown=false/" target="_blank" class="dropdown-item">Dashboard</a></li>
           <li><a href="/website/admin/callForApplications.html" class="dropdown-item">Call for Applications</a></li>
@@ -66,36 +66,113 @@
 
 
       <div id="content-wrapper">
-        <h1 id="cs3281-project-mentors"><span id="cs3281-project-mentors" class="anchor"></span>CS3281 Project Mentors<a class="fa fa-anchor" href="#cs3281-project-mentors" onclick="event.stopPropagation()"></a></h1>
+        <h1 id="cs3281-projects-and-mentors"><span id="cs3281-projects-and-mentors" class="anchor"></span>CS3281 Projects and Mentors<a class="fa fa-anchor" href="#cs3281-projects-and-mentors" onclick="event.stopPropagation()"></a></h1>
         <h2 id="markbind"><span id="markbind" class="anchor"></span>MarkBind<a class="fa fa-anchor" href="#markbind" onclick="event.stopPropagation()"></a></h2>
+        <p><strong>Current focus</strong>:</p>
         <ul>
-          <li>Ang Ze Yu</li>
-          <li>Aaron Chong (Industry)<sup>1</sup></li>
-          <li>Jiang Sheng (Industry)<sup>1</sup></li>
-          <li>Marvin Chin (Industry)<sup>1</sup></li>
+          <li>Make the following features <em>best-in-class</em>:
+            <ul>
+              <li>Tables</li>
+              <li>Code blocks</li>
+              <li>Diagrams</li>
+              <li>Icons</li>
+            </ul>
+          </li>
+          <li>Support deploying to more hosting platforms</li>
+          <li>Solve these hard problems:
+            <ul>
+              <li>Add support for generating multiple versions of a website <span class="dimmed">e.g., documentation for different product versions</span>.</li>
+              <li>Find a way to <mark>highlight</mark> words in a code block.</li>
+              <li>Find a way to support PR previews (the way Netlify does it).</li>
+            </ul>
+          </li>
+          <li>Internal:
+            <ul>
+              <li>Improve the robustness of the architecture.</li>
+              <li>Improve developer documentation.</li>
+            </ul>
+          </li>
         </ul>
+        <box><template slot="_header">
+            <p>Mentors</p>
+          </template>
+          <ul>
+            <li>Ang Ze Yu</li>
+            <li>Aaron Chong (Industry)<sup>1</sup></li>
+            <li>Jiang Sheng (Industry)<sup>1</sup></li>
+            <li>Marvin Chin (Industry)<sup>1</sup></li>
+          </ul>
+        </box>
+
         <h2 id="reposense"><span id="reposense" class="anchor"></span>RepoSense<a class="fa fa-anchor" href="#reposense" onclick="event.stopPropagation()"></a></h2>
+        <p><strong>Current focus:</strong></p>
         <ul>
-          <li>Wang Chao</li>
-          <li>Tejas Bhuwania</li>
-          <li>Eugene Peh (Industry)<sup>1</sup></li>
+          <li>Improve performance of the report for large data sets e.g., <a href="https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true">this report</a>.</li>
+          <li>Ensure local repo generation works for private repositories.</li>
+          <li>Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization <span class="dimmed">e.g., for a project manager/maintainer to keep an overview of the code changes to related repos</span>.</li>
+          <li>Hard problems:
+            <ul>
+              <li>distinguish between <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-slot-name="_content">code touched only by one person</span>fully-owned</span> and <span data-mb-component-type="tooltip" v-b-tooltip.hover.top.html="tooltipInnerContentGetter" class="trigger"><span data-mb-slot-name="_content">code written by someone else but taken over by this author</span>partially-owned</span> code. <span class="dimmed">An FYP student has done some work on this aspect, but that work has stalled after the FYP ended.</span></li>
+            </ul>
+          </li>
+          <li>Possible new direction: Support a way for an individual to use RepoSense to showcase their code in multiple projects written in multiple periods <span class="dimmed">e.g., a student to showcase code written to an interviewer</span>.</li>
         </ul>
+        <box><template slot="_header">
+            <p>Mentors</p>
+          </template>
+          <ul>
+            <li>Wang Chao</li>
+            <li>Tejas Bhuwania</li>
+            <li>Eugene Peh (Industry)<sup>1</sup></li>
+          </ul>
+        </box>
+
         <h2 id="se-edu-ab1-4-catcher"><span id="se-edu-ab1-4-catcher" class="anchor"></span>SE-EDU (AB1-4, CATCher)<a class="fa fa-anchor" href="#se-edu-ab1-4-catcher" onclick="event.stopPropagation()"></a></h2>
+        <p><strong>CATcher - Current focus:</strong></p>
         <ul>
-          <li>Anubhav</li>
-          <li>Koh Jun Wei (Industry)<sup>1</sup></li>
-          <li>Yong Zhi Yuan (Industry)<sup>1</sup></li>
+          <li>Make the Web version as feature-equivalent as the desktop version (as much as possible).</li>
+          <li>In the current semester, stress test the Web version while keeping the Desktop version as a backup.<br>
+            In the following semester, retire the desktop version.</li>
+          <li>Find a way to make the tester's repo private during the PE (to prevent others copying bugs).</li>
+          <li>Improve testing.</li>
+          <li>Improve dev docs.</li>
+          <li>Set up a proper user guide.</li>
+          <li>[Less important] Add support for the <em>tutor moderation</em> phase.</li>
         </ul>
+        <p><strong>AB3 - Current focus:</strong></p>
+        <ul>
+          <li>Keep the code base updated to match the new versions of the tool stack.</li>
+          <li>Tweak to make the students' life easier e.g., simplify where possible.</li>
+        </ul>
+        <box><template slot="_header">
+            <p>Mentors</p>
+          </template>
+          <ul>
+            <li>Anubhav</li>
+            <li>Koh Jun Wei (Industry)<sup>1</sup></li>
+            <li>Yong Zhi Yuan (Industry)<sup>1</sup></li>
+          </ul>
+        </box>
+
         <h2 id="teammates"><span id="teammates" class="anchor"></span>TEAMMATES<a class="fa fa-anchor" href="#teammates" onclick="event.stopPropagation()"></a></h2>
+        <p><strong>Current focus:</strong></p>
         <ul>
-          <li>Chong Chee Yuan</li>
-          <li>Jeremy Choo</li>
-          <li>Muhammad Ahmed</li>
-          <li>Rahul Rajesh</li>
-          <li>Tiu Wee Han</li>
-          <li>Wilson Kurniawan (Industry)<sup>1</sup></li>
-          <li>Xiao Pu (Industry)<sup>1</sup></li>
+          <li>Refer project ideas given in the <a href="https://github.com/TEAMMATES/teammates/wiki">TEAMMATES wiki</a></li>
         </ul>
+        <box><template slot="_header">
+            <p>Mentors</p>
+          </template>
+          <ul>
+            <li>Chong Chee Yuan</li>
+            <li>Jeremy Choo</li>
+            <li>Muhammad Ahmed</li>
+            <li>Rahul Rajesh</li>
+            <li>Tiu Wee Han</li>
+            <li>Wilson Kurniawan (Industry)<sup>1</sup></li>
+            <li>Xiao Pu (Industry)<sup>1</sup></li>
+          </ul>
+        </box>
+
         <hr>
         <p><small><span class="dimmed">[1] Those marked as <em>industry</em> are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.</span></small></p>
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
@@ -103,7 +180,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.17.2</a> at Sun, 3 Jan 2021, 9:38:29 UTC</small>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.17.2</a> at Sun, 3 Jan 2021, 16:50:17 UTC</small>
       </div>
     </footer>
   </div>
