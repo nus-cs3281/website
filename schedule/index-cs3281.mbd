@@ -2,6 +2,7 @@
 title: "CS3281 Schedule"
 header: topnav.md
 pageNav: 2
+siteNav: cs3281SiteNav.md
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>

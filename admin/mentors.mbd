@@ -1,32 +1,84 @@
 <frontmatter>
 title: "Mentors"
 header: topnav.md
+siteNav: cs3281SiteNav.md
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
-# CS3281 Project Mentors
+# CS3281 Projects and Mentors
 
 ## MarkBind
+
+**Current focus**:
+* Make the following features _best-in-class_:
+  * Tables
+  * Code blocks
+  * Diagrams
+  * Icons
+* Support deploying to more hosting platforms
+* Solve these hard problems:
+  * Add support for generating multiple versions of a website %%e.g., documentation for different product versions%%.
+  * Find a way to ==highlight== words in a code block.
+  * Find a way to support PR previews (the way Netlify does it).
+* Internal:
+  * Improve the robustness of the architecture.
+  * Improve developer documentation.
+
+<box header="Mentors">
 
 * Ang Ze Yu
 * Aaron Chong (Industry)<sup>1</sup>
 * Jiang Sheng (Industry)<sup>1</sup>
 * Marvin Chin (Industry)<sup>1</sup>
+</box>
 
 ## RepoSense
+
+**Current focus:**
+* Improve performance of the report for large data sets e.g., [this report](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true).
+* Ensure local repo generation works for private repositories.
+* Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization %%e.g., for a project manager/maintainer to keep an overview of the code changes to related repos%%.
+* Hard problems:
+  * distinguish between <tooltip content="code touched only by one person">fully-owned</tooltip> and <tooltip content="code written by someone else but taken over by this author">partially-owned</tooltip> code. %%An FYP student has done some work on this aspect, but that work has stalled after the FYP ended.%%
+* Possible new direction: Support a way for an individual to use RepoSense to showcase their code in multiple projects written in multiple periods %%e.g., a student to showcase code written to an interviewer%%.
+
+<box header="Mentors">
 
 * Wang Chao
 * Tejas Bhuwania
 * Eugene Peh (Industry)<sup>1</sup>
+</box>
 
 ## SE-EDU (AB1-4, CATCher)
+
+**CATcher - Current focus:**
+* Make the Web version as feature-equivalent as the desktop version (as much as possible).
+* In the current semester, stress test the Web version while keeping the Desktop version as a backup.<br>
+  In the following semester, retire the desktop version.
+* Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
+* Improve testing.
+* Improve dev docs.
+* Set up a proper user guide.
+* [Less important] Add support for the _tutor moderation_ phase.
+
+**AB3 - Current focus:**
+* Keep the code base updated to match the new versions of the tool stack.
+* Tweak to make the students' life easier e.g., simplify where possible.
+
+<box header="Mentors">
 
 * Anubhav
 * Koh Jun Wei (Industry)<sup>1</sup>
 * Yong Zhi Yuan (Industry)<sup>1</sup>
+</box>
 
 ## TEAMMATES
+
+**Current focus:**
+* Refer project ideas given in the [TEAMMATES wiki](https://github.com/TEAMMATES/teammates/wiki)
+
+<box header="Mentors">
 
 * Chong Chee Yuan
 * Jeremy Choo
@@ -35,6 +87,7 @@ head: head.mbdf
 * Tiu Wee Han
 * Wilson Kurniawan (Industry)<sup>1</sup>
 * Xiao Pu (Industry)<sup>1</sup>
+</box>
 
 ---
 

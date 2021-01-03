@@ -1,8 +1,8 @@
 <frontmatter>
 title: "CS3281 Module Info"
-keywords: Lectures, Stage 1 - Learning, Stage 2 - Contributing, Stage 3 - Managing, Team Structure, Grading, Pre-Module Preparations
 header: topnav.md
 pageNav: 2
+siteNav: cs3281SiteNav.md
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
@@ -36,6 +36,8 @@ Following [NUS-OSS](https://nus-oss.github.io/) projects will be used this semes
 * CATcher
 * SE-EDU (only as a secondary project)
 * TEAMMATES
+
+See the [Projects/Mentors page](mentors.md) for more info on the current focus of each project and the list of mentors.
 
 ## Stage 1: Learning 
 
