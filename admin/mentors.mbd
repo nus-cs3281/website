@@ -28,6 +28,7 @@ head: head.mbdf
 <box header="Mentors">
 
 * Ang Ze Yu
+* Tan Yuanhong
 * Aaron Chong (Industry)<sup>1</sup>
 * Jiang Sheng (Industry)<sup>1</sup>
 * Marvin Chin (Industry)<sup>1</sup>
@@ -38,7 +39,10 @@ head: head.mbdf
 **Current focus:**
 * Improve performance of the report for large data sets e.g., [this report](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true).
 * Ensure local repo generation works for private repositories.
-* Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization %%e.g., for a project manager/maintainer to keep an overview of the code changes to related repos%%.
+* Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization %%e.g., for a project manager/maintainer to keep an overview of the code changes to related repos%%.<br>
+  Idea: Provide a ready-made repo they can fork and documentation on how to set it up with minimal effort required. Even better if there is a web page they can go to enter some data, click some buttons, which would set up the report automatically.
+* Internal:
+  * Morph the Frontend Code to a standard Vue Project.
 * Hard problems:
   * distinguish between <tooltip content="code touched only by one person">fully-owned</tooltip> and <tooltip content="code written by someone else but taken over by this author">partially-owned</tooltip> code. %%An FYP student has done some work on this aspect, but that work has stalled after the FYP ended.%%
 * Possible new direction: Support a way for an individual to use RepoSense to showcase their code in multiple projects written in multiple periods %%e.g., a student to showcase code written to an interviewer%%.
@@ -48,6 +52,7 @@ head: head.mbdf
 * Wang Chao
 * Tejas Bhuwania
 * Eugene Peh (Industry)<sup>1</sup>
+* James Pang Mun Wai (Industry)<sup>1</sup>
 </box>
 
 ## SE-EDU (AB1-4, CATCher)
@@ -82,6 +87,7 @@ head: head.mbdf
 
 * Chong Chee Yuan
 * Jeremy Choo
+* Joshua Wong
 * Muhammad Ahmed
 * Rahul Rajesh
 * Tiu Wee Han
