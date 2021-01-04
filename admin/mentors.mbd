@@ -2,15 +2,35 @@
 title: "Mentors"
 header: topnav.md
 siteNav: cs3281SiteNav.md
+pageNav: 2
 footer: footer.mbdf
 head: head.mbdf
 </frontmatter>
 
 # CS3281 Projects and Mentors
 
+## CATCher
+
+**Current focus:**
+* Make the Web version as feature-equivalent as the desktop version (as much as possible).
+* In the current semester, stress test the Web version while keeping the Desktop version as a backup.<br>
+  In the following semester, retire the desktop version.
+* Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
+* Improve testing.
+* Improve dev docs.
+* Set up a proper user guide.
+* [Less important] Add support for the _tutor moderation_ phase.
+
+<box header="Mentors">
+
+* Anubhav
+* Koh Jun Wei (Industry)<sup>1</sup>
+</box>
+
 ## MarkBind
 
 **Current focus**:
+* Reach [V3](https://github.com/MarkBind/markbind/projects/4), which already contains some of the items mentioned below.
 * Make the following features _best-in-class_:
   * Tables
   * Code blocks
@@ -49,25 +69,17 @@ head: head.mbdf
 
 <box header="Mentors">
 
-* Wang Chao
+* Liu Yiwen
 * Tejas Bhuwania
+* Wang Chao
 * Eugene Peh (Industry)<sup>1</sup>
 * James Pang Mun Wai (Industry)<sup>1</sup>
 </box>
 
-## SE-EDU (AB1-4, CATCher)
+## SE-EDU
 
-**CATcher - Current focus:**
-* Make the Web version as feature-equivalent as the desktop version (as much as possible).
-* In the current semester, stress test the Web version while keeping the Desktop version as a backup.<br>
-  In the following semester, retire the desktop version.
-* Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
-* Improve testing.
-* Improve dev docs.
-* Set up a proper user guide.
-* [Less important] Add support for the _tutor moderation_ phase.
-
-**AB3 - Current focus:**
+**Current focus:**
+* Limited to maintaining and fine-tuning AB3 and Duke. AB1, AB2, AB4 are to be archived.
 * Keep the code base updated to match the new versions of the tool stack.
 * Tweak to make the students' life easier e.g., simplify where possible.
 
@@ -81,7 +93,7 @@ head: head.mbdf
 ## TEAMMATES
 
 **Current focus:**
-* Refer project ideas given in the [TEAMMATES wiki](https://github.com/TEAMMATES/teammates/wiki)
+* A list of project ideas ideas is given in the [TEAMMATES wiki](https://github.com/TEAMMATES/teammates/wiki). The project ideas that are ear-marked for CS3281 will be given to you during the code-sprint).
 
 <box header="Mentors">
 
