@@ -79,9 +79,10 @@
       "title": "Mentors",
       "headings": {
         "cs3281-projects-and-mentors": "CS3281 Projects and Mentors",
+        "catcher": "CATCher",
         "markbind": "MarkBind",
         "reposense": "RepoSense",
-        "se-edu-ab1-4-catcher": "SE-EDU (AB1-4, CATCher)",
+        "se-edu": "SE-EDU",
         "teammates": "TEAMMATES"
       },
       "headingKeywords": {}
