@@ -33,7 +33,7 @@ head: head.mbdf
 #### Todo
 
 * {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name.
-* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281-{{ year }}.netlify.com/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
 * {{ icon_todo }} Set up the dev environment of your project in your Computer. Follow instructions provided by the project for new contributors.
 * {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation.
 
