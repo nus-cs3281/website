@@ -11,16 +11,22 @@
     },
     {
       "src": "index.md",
-      "title": "CS3281&2 Call for Applications",
+      "title": "CS3281 Schedule",
       "headings": {
-        "cs3281-and-amp-2-ay2020-21-semester-ii": "CS3281&amp;2 - AY2020/21, Semester II",
-        "structure": "Structure",
-        "workload": "Workload",
-        "assessment": "Assessment",
-        "enrollment": "Enrollment",
-        "selection": "Selection",
-        "faq": "FAQ",
-        "have-a-question": "Have a Question?"
+        "cs3281-schedule": "CS3281 Schedule",
+        "week-1-jan-11": "Week 1 [Jan 11]",
+        "week-2-jan-18": "Week 2 [Jan 18]",
+        "week-3-jan-25": "Week 3 [Jan 25]",
+        "week-4-feb-1": "Week 4 [Feb 1]",
+        "week-5-feb-8": "Week 5 [Feb 8]",
+        "week-6-feb-15": "Week 6 [Feb 15]",
+        "week-7-mar-1": "Week 7 [Mar 1]",
+        "week-8-mar-8": "Week 8 [Mar 8]",
+        "week-9-mar-15": "Week 9 [Mar 15]",
+        "week-10-mar-22": "Week 10 [Mar 22]",
+        "week-11-mar-29": "Week 11 [Mar 29]",
+        "week-12-apr-5": "Week 12 [Apr 5]",
+        "week-13-apr-12": "Week 13 [Apr 12]"
       },
       "headingKeywords": {}
     },

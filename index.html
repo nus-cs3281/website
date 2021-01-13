@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="MarkBind 2.17.2">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CS3281&2 Call for Applications</title>
+  <title>CS3281 Schedule</title>
   <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
   <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
   <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
@@ -63,158 +63,228 @@
       </navbar>
     </header>
     <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="border-right-grey nav-inner position-sticky slim-scroll">
+          <ul class="site-nav-list site-nav-list-root">
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/website/admin/cs3281.html">Module Info</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/website/schedule/index-cs3281.html">Schedule</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/website/admin/mentors.html">Projects/Mentors</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="https://nus-cs3281.github.io/2021">Students</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="https://nus-cs3281.github.io/2021-dashboard/#search=&amp;sort=groupTitle&amp;sortWithin=title&amp;timeframe=commit&amp;mergegroup=false&amp;groupSelect=groupByAuthors&amp;breakdown=false">Dashboard</a></div>
+            </li>
+            <li>
+              <div class="site-nav-default-list-item site-nav-list-item-0" onclick="handleSiteNavClick(this)"><a href="/website/admin/callForApplications.html">Call for Applications</a></div>
+            </li>
+          </ul>
+        </div>
+      </nav>
 
 
       <div id="content-wrapper">
-
         <div>
-          <h1 id="cs3281-and-amp-2-ay2020-21-semester-ii"><span id="cs3281-and-amp-2-ay2020-21-semester-ii" class="anchor"></span>CS3281&amp;2 - AY2020/21, Semester II<a class="fa fa-anchor" href="#cs3281-and-amp-2-ay2020-21-semester-ii" onclick="event.stopPropagation()"></a></h1>
-          <p>CS3281 and CS3282 (Officially known as <em>Thematic Systems Project I &amp; II</em> for legacy reasons, a more apt name would be <strong><em>Software Engineering in Live Projects</em></strong>) aim to build up your ability to work with software systems currently in-use, to build up your SE capabilities towards levels expected from engineers <strong>working at high-end software companies such as Facebook, Google, and Microsoft</strong>. Special emphasis will be placed on maintainability, efficiency, scalability, and reliability. You will work under the guidance of <a href="/website/admin/mentors.html">mentors</a> some of whom are currently working in the industry. Both modules involve <strong>working in OSS projects</strong> that are currently being used by others.</p>
-          <p>These two modules are <strong>offered in Semester 2 only</strong>.</p>
-          <p><mark><strong>A notable difference from AY2021: you will not be allowed to take both modules concurrently.</strong></mark> Instead, you'll have to take CS3281 first and come back for CS3282 in a subsequent semester.</p>
-          <ul>
-            <li>Reason: Our past experience shows that one semester is not enough for students to reach a level where they can do project mentoring and take part in project management (which are important learning outcomes of this module pair).</li>
-            <li>An exception can be made in the next round (i.e., AY2021) for students who have only one year left in their program and already have at least one semester of experience in the NUS-OSS project they want to join in the module. <span class="dimmed">To take this route, you should be in your graduating year, you should have been contributing regularly to an NUS-OSS project for at least one semester by the time you apply (contributions to NUS-OSS projects under <a href="https://nus-oss.github.io/#earning-modular-credit"><em>independent project</em> modules</a> count too), and you should be among the best 20-25 among the applicants.</span></li>
-            <li>If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.</li>
-            <li>Qualifying project work done in between the two modules can be counted for CS3282. <span class="dimmed">For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project ABC (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.</span></li>
-            <li>Typically, you are expected to take CS3281 in your 2nd or 3rd year and CS3282 in your 3rd or 4th year. It is also possible to take CS3281 in the 2nd year and CS3282 in the 4th year (i.e., a gap of 3-semesters in between).</li>
-          </ul>
-          <p><strong>Prerequisites</strong> : CS2103/T or CS2113/T (with approval)</p>
-
-          <h2 id="structure"><span id="structure" class="anchor"></span>Structure<a class="fa fa-anchor" href="#structure" onclick="event.stopPropagation()"></a></h2>
-          <ul>
-            <li>
-              <p><strong><a href="/website/admin/cs3281.html">CS3281</a></strong></p>
-              <ul>
-                <li><strong>Do a major contribution to a medium size OSS project</strong> <br>
-                  Students will be working in teams to add a major feature to one of the <strong><a href="https://nus-oss.github.io/">NUS-OSS Projects</a></strong> (of your choice). Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.</li>
-              </ul>
-            </li>
-            <li>
-              <p><strong><a href="/website/admin/cs3282.html">CS3282</a></strong></p>
-              <ul>
-                <li><strong>Manage a project</strong> (take part in project administration, mentor junior developers)<br>
-                  Take part in managing an OSS project, and mentoring other programmers. This requirement is fulfilled by serving as a senior developer in the NUS-OSS project(s) that you joined in CS3281.</li>
-                <li><strong>Do a small contributions to one or more big OSS projects</strong><br>
-                  Pick an established external OSS project of your choice and contribute to it in relatively small ways (e.g. bug fixing) while interacting with its developers and learning how the project is run. Optionally, you can contribute to another NUS-OSS project.</li>
-                <li><strong>Build up an SE expertise area</strong><br>
-                  Pick a few SE-related expertise areas (of your choice) that can enhance your SE career prospects <span class="dimmed">-- a tool/technology e.g. Node.js, Cloud, an aspect e.g. Code quality, a language e.g. Kotlin, Go -- and develop a demonstrable expertise in that area.</span></li>
-              </ul>
-            </li>
-          </ul>
-          <box>
-            <tabs>
-                <tab><template slot="_header">CS3282 projects at STePS (2019 April)</template>
-                <p><img src="/website/images/STePS-2019.png" width="800"><br>
-                  [<a href="https://www.facebook.com/media/set/?set=a.10159074110948636&amp;type=1&amp;l=215e349ae5">more photos...</a>]
-                </p>
-              </tab>
-                <tab><template slot="_header">2018 Batch</template>
-                <p></p>
-                <p><img src="/website/images/STePS-2018.png" width="800"><br>
-                  [<a href="https://www.facebook.com/media/set/?set=a.10157387238478636&amp;type=1&amp;l=215e349ae5">more photos...</a>]</p>
-              </tab>
-                <tab><template slot="_header">2017 Batch</template>
-                <p><img src="/website/images/STePS-2016.png" width="800"><br>
-                  [<a href="https://www.facebook.com/media/set/?set=a.10156195088693636&amp;type=1&amp;l=f410da79f1">more photos...</a>]
-                </p>
-              </tab>
-            </tabs>
-            <p></p>
-          </box>
-
-          <h2 id="workload"><span id="workload" class="anchor"></span>Workload<a class="fa fa-anchor" href="#workload" onclick="event.stopPropagation()"></a></h2>
-          <ul>
-            <li><strong>Each module will have the 4MC workload, i.e. 10 hours of workload per week</strong> in total.</li>
-            <li>Lectures are compulsory to attend.
-              <ul>
-                <li>CS3281 lecture -- MON 1200-1400 in LT19</li>
-                <li>CS3282 lecture -- THU 1200-1400 in COM1-0210</li>
-              </ul>
-            </li>
-            <li>In addition, you are required to attend a <mark><strong>compulsory full-day <em>Code Sprint</em></strong> (under CS3281) on the first Saturday of the semester (Jan 16th)</mark>.</li>
-            <li>No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.</li>
-          </ul>
-
-          <h2 id="assessment"><span id="assessment" class="anchor"></span>Assessment<a class="fa fa-anchor" href="#assessment" onclick="event.stopPropagation()"></a></h2>
-          <p>Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam.</p>
-
-          <h2 id="enrollment"><span id="enrollment" class="anchor"></span>Enrollment<a class="fa fa-anchor" href="#enrollment" onclick="event.stopPropagation()"></a></h2>
-          <p><strong>The class enrollment is capped at 20-25 students</strong> due to resource constraints.</p>
-          <p>There is a soft lower bound for students’ <strong>CAP of 3.9</strong>; students may still apply for CS3281&amp;2 if they have a CAP
-            below 3.9, but the candidate must demonstrate his/her strong passion for software engineering.</p>
-          <box type="important" seamless>
-            <p>To get the full value of these module pair, you are encouraged to stay involved with the projects beyond the semester time to experience leading/managing live projects. Furthermore, this module depends on past students mentoring current students. Such work can count for CS3282 and possibly be paid.<br>
-              <mark><strong>Please do not apply if you are not sincerely interested in staying with the projects beyond the semester to become project mentors</strong></mark>.
-            </p>
-          </box>
+          <h1 id="cs3281-schedule"><span id="cs3281-schedule" class="anchor"></span>CS3281 Schedule<a class="fa fa-anchor" href="#cs3281-schedule" onclick="event.stopPropagation()"></a></h1>
           <p></p>
-          <p>Student selection is <strong>not based on ModReg</strong>. Instead, follow these instructions to apply for the module:</p>
-          <ol>
-            <li>Go to LumiNUS, and self-enroll for the module <code class="hljs inline no-lang" v-pre>CS3281APPLICATIONS</code> (<a href="https://luminus.nus.edu.sg/module-search/e88ee11c-fd1d-4903-a238-a7ee1ccedf69">link</a>)</li>
-            <li>Submit your application using the survey named <em>Application Submission</em></li>
-            <li>Upload your transcript to the Files folder <em>Transcripts</em>. <mark>File name should be your name</mark>.</li>
-          </ol>
-          <p>⏰ Interested students are to <strong>complete the application process by Mon 7 December 2020</strong>. Late applications will not be entertained.</p>
-          <p>The outcome of all applications are expected to be <strong>released via email around 21 December 2021</strong>.</p>
 
-          <h2 id="selection"><span id="selection" class="anchor"></span>Selection<a class="fa fa-anchor" href="#selection" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="week-1-jan-11"><span id="week-1-jan-11" class="anchor"></span>Week 1 [Jan 11]<a class="fa fa-anchor" href="#week-1-jan-11" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="todo"><span id="todo" class="anchor"></span>Todo<a class="fa fa-anchor" href="#todo" onclick="event.stopPropagation()"></a></h4>
           <ul>
-            <li><strong>Entry is competitive</strong>. We typically receive about 2-3 applications for each available vacancy. The selection is based on,
-              <ol>
-                <li>Interest and ability shown in programming, especially, in contributing to OSS projects.</li>
-                <li>Performance in SE/programming modules.</li>
-                <li>Compatibility between your interests and the availability of vacancies in the NUS-OSS project you want to join.</li>
-              </ol>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name.</li>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Add your info to the repo <a href="https://nus-cs3281.github.io/2021/instructions.html">nus-cs3281/2021</a> [⏰ Deadline: Friday]. You will be given write permission to the repo by Monday.</li>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Set up the dev environment of your project in your Computer. Follow instructions provided by the project for new contributors.</li>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-check"></span> Join <code class="hljs inline no-lang" v-pre>nusossprojects</code> slack channel when you receive the invitation.</li>
+          </ul>
+          <h4 id="monday"><span id="monday" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: CS3281 Module Intro
+              <ul>
+                <li>This is a f2f lecture, in LT19</li>
+                <li>Sit as project teams</li>
+              </ul>
             </li>
+          </ul>
+          <h4 id="saturday-code-sprint"><span id="saturday-code-sprint" class="anchor"></span>Saturday (Code Sprint)<a class="fa fa-anchor" href="#saturday-code-sprint" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li>The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.</li>
+          </ul>
+
+          <ul>
+            <li>Agenda (tentative)
+              <ul>
+                <li>10-11am: A common Zoom session for students and mentors to introduce themselves (and see each other without masks).</li>
+                <li>11am onwards: Separate briefings for each project, on Zoom, led by mentors. e.g., technical overview, on-boarding, etc. Will be recorded in case some students are interested to learn a 2nd project.</li>
+                <li>Afternoon: Students do tasks indicated by mentors earlier and consult mentors if needed.</li>
+                <li>4-5.30pm: Prof to meet with each team separately for a short debriefing. Optional for mentors to join.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <h2 id="week-2-jan-18"><span id="week-2-jan-18" class="anchor"></span>Week 2 [Jan 18]<a class="fa fa-anchor" href="#week-2-jan-18" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-2"><span id="monday-2" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-2" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Product demos, project-specific discussions</li>
+            <li>Demo the product created by your project.
+              <ul>
+                <li>MarkBind, RepoSense, TEAMMATES: ~20 minutes each<br>
+                  CATcher: n/a</li>
+                <li>The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <div id="week3-monday"></div>
+          <h2 id="week-3-jan-25"><span id="week-3-jan-25" class="anchor"></span>Week 3 [Jan 25]<a class="fa fa-anchor" href="#week-3-jan-25" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-3"><span id="monday-3" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-3" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-4-feb-1"><span id="week-4-feb-1" class="anchor"></span>Week 4 [Feb 1]<a class="fa fa-anchor" href="#week-4-feb-1" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-4"><span id="monday-4" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-4" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+          <h4 id="sunday"><span id="sunday" class="anchor"></span>Sunday<a class="fa fa-anchor" href="#sunday" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li>⏰ Update the <a href="https://nus-cs3281.github.io/2021/instructions.html#updating-your-project-progress">progress</a> page.</li>
+          </ul>
+
+          <h2 id="week-5-feb-8"><span id="week-5-feb-8" class="anchor"></span>Week 5 [Feb 8]<a class="fa fa-anchor" href="#week-5-feb-8" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="todo-2"><span id="todo-2" class="anchor"></span>Todo<a class="fa fa-anchor" href="#todo-2" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li>If you haven't started already, this is a good time to start getting <mark>at least one peer-review from classmates</mark> before requesting reviews from a senior developer.
+              <ul>
+                <li>You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels.</li>
+                <li>You can get early inputs from senior devs if necessary, <span class="dimmed">e.g., you are not sure about the overall direction of the PR, you want to know the rationale for the current code, etc.</span></li>
+              </ul>
+            </li>
+            <li>You can also <mark>help to manage new/external contributors</mark> <span class="dimmed">e.g., answer their questions, review their PRs etc.</span> Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.</li>
+          </ul>
+          <h4 id="monday-5"><span id="monday-5" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-5" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Project-specific discussions</li>
+          </ul>
+          <h4 id="sunday-2"><span id="sunday-2" class="anchor"></span>Sunday<a class="fa fa-anchor" href="#sunday-2" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li>⏰ PR to update <a href="https://github.com/nus-cs3281/2021-dashboard/tree/master/configs">these csv config files</a> if all your internal project work is not captured in the <a href="https://nus-cs3281.github.io/2021-dashboard/#search=&amp;sort=groupTitle&amp;sortWithin=title&amp;timeframe=commit&amp;mergegroup=false&amp;groupSelect=groupByAuthors&amp;breakdown=false">dashboard</a>. More info about the file format can be found <a href="https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files">here</a>.</li>
           </ul>
           <box type="tip" seamless>
-            <p><strong>A good way to increase your chances of getting selected</strong> is to start contributing to an <a href="https://nus-oss.github.io/">NUS-OSS project</a> <em>before</em> you apply for the module. The more you have contributed, the more you will score in criterion 1 above.
+            <p>Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, <span class="dimmed">and also a means of stress testing RepoSense</span>.
             </p>
           </box>
           <p></p>
-
-          <h2 id="faq"><span id="faq" class="anchor"></span>FAQ<a class="fa fa-anchor" href="#faq" onclick="event.stopPropagation()"></a></h2>
+          <h2 id="week-6-feb-15"><span id="week-6-feb-15" class="anchor"></span>Week 6 [Feb 15]<a class="fa fa-anchor" href="#week-6-feb-15" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-6"><span id="monday-6" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-6" onclick="event.stopPropagation()"></a></h4>
           <ul>
-            <li>
-              <p>Q: Can I apply to both CS3217 and CS3281&amp;2?<br>
-                A: Yes. If you get places in both, you will be given time to decide which one to take.</p>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+          <hr>
+          <p><strong>Recess</strong></p>
+          <hr>
+          <h2 id="week-7-mar-1"><span id="week-7-mar-1" class="anchor"></span>Week 7 [Mar 1]<a class="fa fa-anchor" href="#week-7-mar-1" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-7"><span id="monday-7" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-7" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-8-mar-8"><span id="week-8-mar-8" class="anchor"></span>Week 8 [Mar 8]<a class="fa fa-anchor" href="#week-8-mar-8" onclick="event.stopPropagation()"></a></h2>
+          <ul>
+            <li>⏰ by Friday
+              <ul>
+                <li>Peer evaluations</li>
+              </ul>
             </li>
-            <li>
-              <p>Q: Can I take this module while doing ATAP/SIP?<br>
-                A: No. <span class="dimmed">Reason: You need to be available during working hours for lectures and project meetings.</span></p>
-            </li>
-            <li>
-              <p>Q: For CS3281, can I choose a project that is not one of the NUS-OSS projects?<br>
-                A: No. <span class="dimmed">Reason: As 100% of your CS3281 module grade depends on your project work, you need to work in a project that is fully under our control.</span></p>
-            </li>
-            <li>
-              <p>Q: Can CEG students take this module?<br>
-                A: Yes.</p>
-            </li>
-            <li>
-              <p>Q: If selected for both CS3217 and CS3281&amp;2, can I take both? <br>
-                A: Discouraged (but allowed). <span class="dimmed">Reason: all three modules have high workload.</span></p>
+            <li>⏰ by Sunday
+              <ul>
+                <li>Update the progress page</li>
+              </ul>
             </li>
           </ul>
-          <h2 id="have-a-question"><span id="have-a-question" class="anchor"></span>Have a Question?<a class="fa fa-anchor" href="#have-a-question" onclick="event.stopPropagation()"></a></h2>
-          <p>Please direct any questions to CS3281&amp;2 module coordinator <a href="http://www.comp.nus.edu.sg/~damithch">Dr Damith Rajapakse</a> <code class="hljs inline no-lang" v-pre>damith [at] comp.nus.edu.sg</code></p>
+          <h4 id="monday-8"><span id="monday-8" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-8" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-9-mar-15"><span id="week-9-mar-15" class="anchor"></span>Week 9 [Mar 15]<a class="fa fa-anchor" href="#week-9-mar-15" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-9"><span id="monday-9" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-9" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-10-mar-22"><span id="week-10-mar-22" class="anchor"></span>Week 10 [Mar 22]<a class="fa fa-anchor" href="#week-10-mar-22" onclick="event.stopPropagation()"></a></h2>
+          <box type="info">
+            <p><strong>As you are now entering the <a href="/website/admin/cs3281.html#stage-3-managing"><em>managing</em> phase</a></strong>, get more involved in management activities of the project.
+            </p>
+          </box>
+          <p></p>
+          <h4 id="monday-10"><span id="monday-10" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-10" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-11-mar-29"><span id="week-11-mar-29" class="anchor"></span>Week 11 [Mar 29]<a class="fa fa-anchor" href="#week-11-mar-29" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="todo-3"><span id="todo-3" class="anchor"></span>Todo<a class="fa fa-anchor" href="#todo-3" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li>Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.</li>
+          </ul>
+
+          <h4 id="monday-11"><span id="monday-11" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-11" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <h2 id="week-12-apr-5"><span id="week-12-apr-5" class="anchor"></span>Week 12 [Apr 5]<a class="fa fa-anchor" href="#week-12-apr-5" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-12"><span id="monday-12" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-12" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture: Project-specific discussions</li>
+          </ul>
+
+          <hr>
+          <hr>
+          <h2 id="week-13-apr-12"><span id="week-13-apr-12" class="anchor"></span>Week 13 [Apr 12]<a class="fa fa-anchor" href="#week-13-apr-12" onclick="event.stopPropagation()"></a></h2>
+          <h4 id="monday-13"><span id="monday-13" class="anchor"></span>Monday<a class="fa fa-anchor" href="#monday-13" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span> Lecture
+              <ul>
+                <li>Project specific discussions</li>
+              </ul>
+            </li>
+          </ul>
+          <h4 id="wednesday"><span id="wednesday" class="anchor"></span>Wednesday<a class="fa fa-anchor" href="#wednesday" onclick="event.stopPropagation()"></a></h4>
+          <ul>
+            <li><s>STePS</s></li>
+          </ul>
         </div>
+
         <p><i class="fa fa-arrow-circle-up fa-lg" id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true"></i></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
-            <a class="nav-link py-1" href="#cs3281-and-amp-2-ay2020-21-semester-ii">CS3281&amp;2 - AY2020/21, Semester II&#x200E;</a>
+            <a class="nav-link py-1" href="#cs3281-schedule">CS3281 Schedule&#x200E;</a>
             <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
-              <a class="nav-link py-1" href="#structure">Structure&#x200E;</a>
-              <a class="nav-link py-1" href="#workload">Workload&#x200E;</a>
-              <a class="nav-link py-1" href="#assessment">Assessment&#x200E;</a>
-              <a class="nav-link py-1" href="#enrollment">Enrollment&#x200E;</a>
-              <a class="nav-link py-1" href="#selection">Selection&#x200E;</a>
-              <a class="nav-link py-1" href="#faq">FAQ&#x200E;</a>
-              <a class="nav-link py-1" href="#have-a-question">Have a Question?&#x200E;</a>
+              <a class="nav-link py-1" href="#week-1-jan-11">Week 1 [Jan 11]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-2-jan-18">Week 2 [Jan 18]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-3-jan-25">Week 3 [Jan 25]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-4-feb-1">Week 4 [Feb 1]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-5-feb-8">Week 5 [Feb 8]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-6-feb-15">Week 6 [Feb 15]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-7-mar-1">Week 7 [Mar 1]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-8-mar-8">Week 8 [Mar 8]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-9-mar-15">Week 9 [Mar 15]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-10-mar-22">Week 10 [Mar 22]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-11-mar-29">Week 11 [Mar 29]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-12-apr-5">Week 12 [Apr 5]&#x200E;</a>
+              <a class="nav-link py-1" href="#week-13-apr-12">Week 13 [Apr 12]&#x200E;</a>
             </nav>
 
           </nav>
@@ -223,7 +293,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.17.2</a> at Wed, 13 Jan 2021, 13:13:07 UTC</small>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.17.2</a> at Wed, 13 Jan 2021, 13:35:50 UTC</small>
       </div>
     </footer>
   </div>

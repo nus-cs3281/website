@@ -12,3 +12,49 @@
 2021-01-13T13:12:30.867Z - info: Lazy website regeneration complete! Total build time: 0.318s
 2021-01-13T13:13:05.032Z - info: Website generation started at 9:13:04 PM
 2021-01-13T13:13:06.341Z - info: Building assets...
+2021-01-13T13:13:07.174Z - info: Assets built
+2021-01-13T13:13:07.175Z - info: Generating pages...
+2021-01-13T13:13:08.275Z - info: Pages built
+2021-01-13T13:13:08.770Z - info: Site data built
+2021-01-13T13:13:08.771Z - info: Website generation complete! Total build time: 4.285s
+2021-01-13T13:13:08.771Z - info: Build success!
+2021-01-13T13:13:13.474Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-01-13T13:34:07.919Z - info: Website generation (lazy) started at 9:34:07 PM
+2021-01-13T13:34:09.494Z - info: Building assets...
+2021-01-13T13:34:10.364Z - info: Assets built
+2021-01-13T13:34:10.364Z - info: Generating landing page...
+2021-01-13T13:34:10.468Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-01-13T13:34:10.966Z - info: Site data built
+2021-01-13T13:34:10.966Z - info: Website generation (lazy) complete! Total build time: 3.557s
+2021-01-13T13:34:12.321Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-01-13T13:34:12.321Z - info: Press CTRL+C to stop ...
+2021-01-13T13:35:17.268Z - info: [9:35:17 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-13T13:35:18.278Z - info: Rebuilding 1 pages
+2021-01-13T13:35:18.303Z - error:  Error: No such file: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.md
+Missing reference in C:\repos\nus-cs3281\cs3281-website\index.md
+    at NodePreprocessor._getFileExistsNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:73:21)
+    at NodePreprocessor._preProcessInclude (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:234:33)
+    at NodePreprocessor.preProcessNode (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:350:19)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:377:30
+    at Array.map (<anonymous>)
+    at DomHandler._callback (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:374:27)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:340:36)
+    at Tokenizer._finish (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:890:15)
+    at Tokenizer.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:881:29)
+    at Parser.end (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:367:21)
+    at Parser.parseComplete (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:359:10)
+    at C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:392:16
+    at new Promise (<anonymous>)
+    at NodePreprocessor.includeFile (C:\Users\damithch\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodePreprocessor.js:368:12)
+2021-01-13T13:35:18.382Z - info: Site data built
+2021-01-13T13:35:18.383Z - info: Pages rebuilt
+2021-01-13T13:35:18.383Z - info: Website regeneration complete! Total build time: 0.108s
+2021-01-13T13:35:29.527Z - info: [9:35:29 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-01-13T13:35:30.532Z - info: Rebuilding 1 pages
+2021-01-13T13:35:30.849Z - info: Site data built
+2021-01-13T13:35:30.850Z - info: Pages rebuilt
+2021-01-13T13:35:30.850Z - info: Website regeneration complete! Total build time: 0.32s
+2021-01-13T13:35:48.624Z - info: Website generation started at 9:35:48 PM
+2021-01-13T13:35:49.969Z - info: Building assets...
