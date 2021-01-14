@@ -13,6 +13,13 @@
     color: #980000;
 }
 
+mark {
+    background-color: yellow;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 .question-wrapper .radio-list,
 .question-wrapper .task-list {
     list-style: none;

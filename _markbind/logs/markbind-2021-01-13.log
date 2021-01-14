@@ -58,3 +58,10 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\index.md
 2021-01-13T13:35:30.850Z - info: Website regeneration complete! Total build time: 0.32s
 2021-01-13T13:35:48.624Z - info: Website generation started at 9:35:48 PM
 2021-01-13T13:35:49.969Z - info: Building assets...
+2021-01-13T13:35:50.737Z - info: Assets built
+2021-01-13T13:35:50.737Z - info: Generating pages...
+2021-01-13T13:35:51.898Z - info: Pages built
+2021-01-13T13:35:52.412Z - info: Site data built
+2021-01-13T13:35:52.413Z - info: Website generation complete! Total build time: 4.169s
+2021-01-13T13:35:52.413Z - info: Build success!
+2021-01-13T13:35:59.904Z - info: Deployed at https://nus-cs3281.github.io/website!
