@@ -1,5 +1,8 @@
 {
   "baseUrl": "/website",
+  "style": {
+    "codeTheme": "light"
+  },
   "pages": [
     {"glob": "**/*.md"},
     {"glob": "**/*.mbd"}
