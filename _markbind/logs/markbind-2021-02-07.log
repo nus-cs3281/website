@@ -40,3 +40,12 @@
 2021-02-07T14:51:19.415Z - info: Website regeneration complete! Total build time: 0.262s
 2021-02-07T14:52:18.026Z - info: Website generation started at 10:52:17 PM
 2021-02-07T14:52:19.786Z - info: Building assets...
+2021-02-07T14:52:20.631Z - info: Assets built
+2021-02-07T14:52:20.631Z - info: Generating pages...
+2021-02-07T14:52:22.447Z - info: Pages built
+2021-02-07T14:52:22.954Z - info: Site data built
+2021-02-07T14:52:22.954Z - info: Website generation complete! Total build time: 5.315s
+2021-02-07T14:52:22.955Z - info: Build success!
+2021-02-07T14:52:27.218Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-02-07T14:54:35.208Z - info: Website generation started at 10:54:34 PM
+2021-02-07T14:54:36.477Z - info: Building assets...
