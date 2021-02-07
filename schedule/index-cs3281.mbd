@@ -95,7 +95,7 @@ head: head.mbdf
 
 #### Sunday
 
-* :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page.
+* :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page and the [knowledge page]({{ students_site }}/instructions.html#updating-the-knowledge-gained-page).
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -116,6 +116,7 @@ head: head.mbdf
 
 #### Sunday
 
+* Keep updating the the _progress page_ and the _knowledge page_ on a weekly basis, as was done in the previous week. These pages are used in grading.
 * :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
 
 <box type="tip" seamless>
