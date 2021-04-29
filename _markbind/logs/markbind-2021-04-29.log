@@ -1,0 +1,31 @@
+2021-04-29T04:01:57.753Z - info: Website generation (lazy) started at 12:01:56 PM
+2021-04-29T04:01:59.405Z - info: Building assets...
+2021-04-29T04:02:00.529Z - info: Assets built
+2021-04-29T04:02:00.529Z - info: Generating landing page...
+2021-04-29T04:02:00.867Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-04-29T04:02:01.473Z - info: Site data built
+2021-04-29T04:02:01.473Z - info: Website generation (lazy) complete! Total build time: 5.177s
+2021-04-29T04:02:02.603Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-04-29T04:02:02.603Z - info: Press CTRL+C to stop ...
+2021-04-29T04:05:38.077Z - info: [12:05:38 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:05:39.084Z - info: Rebuilding 1 pages
+2021-04-29T04:05:39.553Z - info: Site data built
+2021-04-29T04:05:39.554Z - info: Pages rebuilt
+2021-04-29T04:05:39.554Z - info: Website regeneration complete! Total build time: 0.472s
+2021-04-29T04:10:02.650Z - info: [12:10:02 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:10:03.656Z - info: Rebuilding 1 pages
+2021-04-29T04:10:03.968Z - info: Site data built
+2021-04-29T04:10:03.969Z - info: Pages rebuilt
+2021-04-29T04:10:03.969Z - info: Website regeneration complete! Total build time: 0.315s
+2021-04-29T04:12:28.431Z - info: [12:12:28 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:12:29.435Z - info: Rebuilding 1 pages
+2021-04-29T04:12:29.628Z - info: Site data built
+2021-04-29T04:12:29.628Z - info: Pages rebuilt
+2021-04-29T04:12:29.629Z - info: Website regeneration complete! Total build time: 0.195s
+2021-04-29T04:12:57.266Z - info: [12:12:57 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:12:58.271Z - info: Rebuilding 1 pages
+2021-04-29T04:12:58.534Z - info: Site data built
+2021-04-29T04:12:58.534Z - info: Pages rebuilt
+2021-04-29T04:12:58.534Z - info: Website regeneration complete! Total build time: 0.265s
+2021-04-29T04:16:51.358Z - info: Website generation started at 12:16:51 PM
+2021-04-29T04:16:53.030Z - info: Building assets...
