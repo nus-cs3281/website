@@ -29,3 +29,48 @@
 2021-04-29T04:12:58.534Z - info: Website regeneration complete! Total build time: 0.265s
 2021-04-29T04:16:51.358Z - info: Website generation started at 12:16:51 PM
 2021-04-29T04:16:53.030Z - info: Building assets...
+2021-04-29T04:16:53.802Z - info: Assets built
+2021-04-29T04:16:53.803Z - info: Generating pages...
+2021-04-29T04:16:55.104Z - info: Pages built
+2021-04-29T04:16:55.558Z - info: Site data built
+2021-04-29T04:16:55.558Z - info: Website generation complete! Total build time: 4.558s
+2021-04-29T04:16:55.559Z - info: Build success!
+2021-04-29T04:16:59.716Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-04-29T04:21:02.258Z - info: Website generation (lazy) started at 12:21:01 PM
+2021-04-29T04:21:03.145Z - info: Building assets...
+2021-04-29T04:21:03.908Z - info: Assets built
+2021-04-29T04:21:03.908Z - info: Generating landing page...
+2021-04-29T04:21:04.262Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-04-29T04:21:04.762Z - info: Site data built
+2021-04-29T04:21:04.762Z - info: Website generation (lazy) complete! Total build time: 2.93s
+2021-04-29T04:21:06.123Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-04-29T04:21:06.125Z - info: Press CTRL+C to stop ...
+2021-04-29T04:21:51.178Z - info: [12:21:51 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:21:52.185Z - info: Rebuilding 1 pages
+2021-04-29T04:21:52.551Z - info: Site data built
+2021-04-29T04:21:52.551Z - info: Pages rebuilt
+2021-04-29T04:21:52.551Z - info: Website regeneration complete! Total build time: 0.369s
+2021-04-29T04:21:55.984Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2021-04-29T04:21:56.116Z - info: Site data built
+2021-04-29T04:21:56.116Z - info: Lazy website regeneration complete! Total build time: 0.132s
+2021-04-29T04:22:37.992Z - info: [12:22:37 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:22:38.999Z - info: No pages needed to be rebuilt
+2021-04-29T04:22:48.566Z - info: Building C:\repos\nus-cs3281\cs3281-website\index as some of its dependencies were changed since the last visit
+2021-04-29T04:22:48.680Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/schedule/cs3282.html' found in file 'C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd'
+2021-04-29T04:22:48.852Z - info: Site data built
+2021-04-29T04:22:48.852Z - info: Lazy website regeneration complete! Total build time: 0.286s
+2021-04-29T04:22:58.142Z - info: [12:22:58 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:22:59.143Z - info: Rebuilding 1 pages
+2021-04-29T04:22:59.222Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/schedule/cs3282.html' found in file 'C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd'
+2021-04-29T04:22:59.318Z - info: Site data built
+2021-04-29T04:22:59.318Z - info: Pages rebuilt
+2021-04-29T04:22:59.318Z - info: Website regeneration complete! Total build time: 0.176s
+2021-04-29T04:23:14.005Z - info: [12:23:14 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:23:15.010Z - info: No pages needed to be rebuilt
+2021-04-29T04:23:45.879Z - info: Building C:\repos\nus-cs3281\cs3281-website\index as some of its dependencies were changed since the last visit
+2021-04-29T04:23:46.158Z - info: Site data built
+2021-04-29T04:23:46.159Z - info: Lazy website regeneration complete! Total build time: 0.28s
+2021-04-29T04:24:03.969Z - info: Website generation started at 12:24:03 PM
+2021-04-29T04:24:05.624Z - info: Building assets...
