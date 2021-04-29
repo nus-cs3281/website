@@ -74,3 +74,21 @@
 2021-04-29T04:23:46.159Z - info: Lazy website regeneration complete! Total build time: 0.28s
 2021-04-29T04:24:03.969Z - info: Website generation started at 12:24:03 PM
 2021-04-29T04:24:05.624Z - info: Building assets...
+2021-04-29T04:24:06.645Z - info: Assets built
+2021-04-29T04:24:06.646Z - info: Generating pages...
+2021-04-29T04:24:07.986Z - info: Pages built
+2021-04-29T04:24:08.492Z - info: Site data built
+2021-04-29T04:24:08.493Z - info: Website generation complete! Total build time: 4.847s
+2021-04-29T04:24:08.493Z - info: Build success!
+2021-04-29T04:24:13.442Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-04-29T04:25:47.200Z - info: Website generation (lazy) started at 12:25:46 PM
+2021-04-29T04:25:48.391Z - info: Building assets...
+2021-04-29T04:25:49.321Z - info: Assets built
+2021-04-29T04:25:49.321Z - info: Generating landing page...
+2021-04-29T04:25:49.703Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-04-29T04:25:50.219Z - info: Site data built
+2021-04-29T04:25:50.220Z - info: Website generation (lazy) complete! Total build time: 3.451s
+2021-04-29T04:25:51.384Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-04-29T04:25:51.384Z - info: Press CTRL+C to stop ...
+2021-04-29T04:29:03.387Z - info: Website generation started at 12:29:02 PM
+2021-04-29T04:29:05.412Z - info: Building assets...
