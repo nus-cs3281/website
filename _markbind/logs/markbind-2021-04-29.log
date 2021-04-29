@@ -92,3 +92,31 @@
 2021-04-29T04:25:51.384Z - info: Press CTRL+C to stop ...
 2021-04-29T04:29:03.387Z - info: Website generation started at 12:29:02 PM
 2021-04-29T04:29:05.412Z - info: Building assets...
+2021-04-29T04:29:06.987Z - info: Assets built
+2021-04-29T04:29:06.987Z - info: Generating pages...
+2021-04-29T04:29:08.170Z - info: Pages built
+2021-04-29T04:29:08.679Z - info: Site data built
+2021-04-29T04:29:08.679Z - info: Website generation complete! Total build time: 5.736s
+2021-04-29T04:29:08.679Z - info: Build success!
+2021-04-29T04:29:22.121Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-04-29T04:38:14.371Z - info: Website generation (lazy) started at 12:38:13 PM
+2021-04-29T04:38:15.530Z - info: Building assets...
+2021-04-29T04:38:17.008Z - info: Assets built
+2021-04-29T04:38:17.008Z - info: Generating landing page...
+2021-04-29T04:38:17.532Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-04-29T04:38:18.268Z - info: Site data built
+2021-04-29T04:38:18.268Z - info: Website generation (lazy) complete! Total build time: 4.296s
+2021-04-29T04:38:19.454Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-04-29T04:38:19.454Z - info: Press CTRL+C to stop ...
+2021-04-29T04:38:35.883Z - info: [12:38:35 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:38:36.889Z - info: Rebuilding 1 pages
+2021-04-29T04:38:37.177Z - info: Site data built
+2021-04-29T04:38:37.177Z - info: Pages rebuilt
+2021-04-29T04:38:37.177Z - info: Website regeneration complete! Total build time: 0.29s
+2021-04-29T04:39:15.652Z - info: [12:39:15 PM] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.mbd
+2021-04-29T04:39:16.654Z - info: Rebuilding 1 pages
+2021-04-29T04:39:16.922Z - info: Site data built
+2021-04-29T04:39:16.923Z - info: Pages rebuilt
+2021-04-29T04:39:16.923Z - info: Website regeneration complete! Total build time: 0.27s
+2021-04-29T04:39:36.772Z - info: Website generation started at 12:39:36 PM
+2021-04-29T04:39:37.876Z - info: Building assets...
