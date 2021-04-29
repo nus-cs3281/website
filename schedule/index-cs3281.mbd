@@ -95,7 +95,7 @@ head: head.mbdf
 
 #### Sunday
 
-* :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page and the [knowledge page]({{ students_site }}/instructions.html#updating-the-knowledge-gained-page).
+* :alarm_clock: Update the [progress page]({{ students_site }}/instructions.html#updating-your-project-progress) and the [knowledge page]({{ students_site }}/instructions.html#updating-the-knowledge-gained-page).
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -138,6 +138,11 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ## Week 7 [{{ weeks[7].day }}]
 
+* :alarm_clock: by Friday
+  * Peer evaluations
+* :alarm_clock: by Sunday
+  * Update the progress page
+
 #### Monday
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
@@ -146,11 +151,6 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 <!-- ------------------------------------------------------------------------------------ -->
 
 ## Week 8 [{{ weeks[8].day }}]
-
-* :alarm_clock: by Friday
-  * Peer evaluations
-* :alarm_clock: by Sunday
-  * Update the progress page
 
 #### Monday
 
@@ -207,9 +207,6 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 
 <!-- ----------------------------------------------------------------------------------- -->
-<hr>
-
-<hr>
 
 ## Week 13 [{{ weeks[13].day }}]
 
@@ -218,6 +215,39 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 * {{ icon_lecture }} Lecture
   * Project specific discussions
 
-#### Wednesday
+<box type="important">
 
-* ~~STePS~~
+As we are now reaching the end of the semester:
+* **Wrap up any ongoing PRs** soon. Only merged work can be counted for grading.
+* **Update your knowledge and progress pages**. Those will be used in grading.
+
+Soft deadline: end of week 13; hard deadline: end of reading week
+</box>
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Reading week, exam period
+
+* **Ensure the progress/knowledge pages are up-to-date** latest by the end of the first
+  week in the exam period.
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Work done after the semester
+
+* For those taking CS3282 in a future semester, the work done after the semester is over
+  can be ==paid as part-time work, or used to earn CS3282 credit==. You can do a mix too,
+  as long as the same work is not used for both.
+  * If you wish to get paid, please let prof know in advance so that the relevant paperwork
+    can be done in time.
+  * If you wish to earn CS3282 credit, keep good records of the work done so that they can
+    be included in CS3282 work later when you take the module.
+  * Any value addition towards the module (e.g., PR reviews, mentoring, development work, etc.)
+    can be used for either of the above.
+  * The work done prior to CS3282 start date can count up to 40% of the module load i.e.,
+    at least 60% of the module work needs to be done during the semester itself.
+* While keeping in touch with the project during the intervening period is not compulsory,
+  it is **strongly encouraged as it would help you to deepen your expertise in the project**.
+  The more expertise you have in the project, the better you will be able to do
+  project management and mentoring tasks included in the CS3282 workload.
+* See [here](../admin/cs3282.html) for more info on CS3282 workload.
