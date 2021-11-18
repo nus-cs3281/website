@@ -551,3 +551,50 @@
 2021-11-18T09:12:08.585Z - info: Website regeneration complete! Total build time: 0.083s
 2021-11-18T09:26:31.744Z - info: Website generation started at 5:26:31 pm
 2021-11-18T09:26:32.736Z - info: Building assets...
+2021-11-18T09:26:33.440Z - info: Assets built
+2021-11-18T09:26:33.441Z - info: Generating pages...
+2021-11-18T09:26:34.242Z - info: Pages built
+2021-11-18T09:26:35.038Z - info: Site data built
+2021-11-18T09:26:35.039Z - info: Website generation complete! Total build time: 3.502s
+2021-11-18T09:26:35.039Z - info: Build success!
+2021-11-18T09:26:38.608Z - info: Deployed at https://nus-cs3281.github.io/website!
+2021-11-18T09:39:11.459Z - info: Website generation (lazy) started at 5:39:11 pm
+2021-11-18T09:39:12.252Z - info: Building assets...
+2021-11-18T09:39:12.964Z - info: Assets built
+2021-11-18T09:39:12.964Z - info: Generating landing page...
+2021-11-18T09:39:13.247Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-11-18T09:39:13.801Z - info: Site data built
+2021-11-18T09:39:13.802Z - info: Website generation (lazy) complete! Total build time: 2.6s
+2021-11-18T09:39:14.642Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-11-18T09:39:14.642Z - info: Press CTRL+C to stop ...
+2021-11-18T09:42:44.879Z - info: [5:42:44 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2021-11-18T09:42:44.881Z - info: Synchronizing opened pages list before reload
+2021-11-18T09:42:44.882Z - info: Current opened pages, from most-to-least recent:
+2021-11-18T09:42:44.882Z - info: 1. index
+2021-11-18T09:42:45.885Z - info: Assets built
+2021-11-18T09:43:45.948Z - info: [5:43:45 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2021-11-18T09:43:45.948Z - info: Synchronizing opened pages list before reload
+2021-11-18T09:43:45.949Z - info: Current opened pages, from most-to-least recent:
+2021-11-18T09:43:45.949Z - info: 1. index
+2021-11-18T09:43:46.966Z - info: Rebuilding 1 pages
+2021-11-18T09:43:47.260Z - info: Site data built
+2021-11-18T09:43:47.260Z - info: Pages rebuilt
+2021-11-18T09:43:47.261Z - info: Website regeneration complete! Total build time: 0.295s
+2021-11-18T09:44:29.601Z - info: [5:44:29 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2021-11-18T09:44:29.602Z - info: Synchronizing opened pages list before reload
+2021-11-18T09:44:29.603Z - info: Current opened pages, from most-to-least recent:
+2021-11-18T09:44:29.603Z - info: 1. index
+2021-11-18T09:44:30.611Z - info: Rebuilding 1 pages
+2021-11-18T09:44:30.706Z - info: Site data built
+2021-11-18T09:44:30.707Z - info: Pages rebuilt
+2021-11-18T09:44:30.707Z - info: Website regeneration complete! Total build time: 0.096s
+2021-11-18T09:46:07.532Z - info: [5:46:07 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2021-11-18T09:46:07.532Z - info: Synchronizing opened pages list before reload
+2021-11-18T09:46:07.532Z - info: Current opened pages, from most-to-least recent:
+2021-11-18T09:46:07.532Z - info: 1. index
+2021-11-18T09:46:08.546Z - info: Rebuilding 1 pages
+2021-11-18T09:46:08.659Z - info: Site data built
+2021-11-18T09:46:08.659Z - info: Pages rebuilt
+2021-11-18T09:46:08.659Z - info: Website regeneration complete! Total build time: 0.115s
+2021-11-18T09:46:45.244Z - info: Website generation started at 5:46:44 pm
+2021-11-18T09:46:46.287Z - info: Building assets...
