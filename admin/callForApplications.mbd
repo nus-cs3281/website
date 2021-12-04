@@ -119,8 +119,24 @@ Even contributions around the application period (up to 2 weeks after the applic
 
 ## FAQ
 
-* Q: Can I apply to both CS3217 and CS3281&2?<br>
+* Q: Can I apply to both CS3217 and CS3281?<br>
   A: Yes. If you get places in both, you will be given time to decide which one to take.
+
+* Q: What's the difference between CS3217 and CS3281&2?<br>
+  A: Here are some similarities/differences:
+
+<div class="indented-level2">
+
+CS3217 | CS3281&2
+-------|---------
+typically, build _new_ applications (higher focus on upstream value-addition such as product design, innovation, bleeding edge technologies) | work with _existing_ application that are _currently in use_ (higher focus downstream value addition such as reliability, scalability, security, maintainability, etc.)
+typically involves iOS ecosystem + other modern frameworks/platforms | low involvement of iOS ecosystem but involves other modern application frameworks/platforms
+small intake (~40-50), via a selection process, hard to get in | small intake (~20), via a selection process, hard to get in
+done over one semester, although most students also take CS3216 | done over two semesters, with a gap in-between (i.e., takes at least 1.5 academic years to complete)
+expects you to design and deliver a good product by the end of the semester | expects you to manage and evolve an existing product over a longer period, guided by past devs, while guiding new devs (in later stages)
+high workload, intended for strong programmers only | high workload, intended for strong programmers only
+</div>
+
   
 * Q: Can I take this module while doing ATAP/SIP?<br>
   A: No. %%Reason: You need to be available during working hours for lectures and project meetings.%%
