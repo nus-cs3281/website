@@ -1,9 +1,7 @@
 <frontmatter>
 title: "CS3282 Module Info"
-header: topnav.md
 pageNav: 2
-footer: footer.mbdf
-head: head.mbdf
+layout: cs3282-layout.md
 </frontmatter>
 
 # CS3282 : Thematic Systems Project II

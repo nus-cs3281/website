@@ -1,10 +1,7 @@
 <frontmatter>
 title: "CS3281 Schedule"
-header: topnav.md
 pageNav: 2
-siteNav: cs3281SiteNav.md
-footer: footer.mbdf
-head: head.mbdf
+layout: cs3281-layout.md
 </frontmatter>
 
 {% set weeks = [

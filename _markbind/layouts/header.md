@@ -1,7 +1,6 @@
-<header>
-<navbar placement="top" type="primary">
+<header fixed>
+  <navbar type="primary">
   <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">[CS3281&2 - {{ year }}]</a>
-
   <dropdown header="CS3281" class="nav-link">
     <li><a href="{{baseUrl}}/admin/cs3281.html" class="dropdown-item">Module Info</a></li>
     <li><a href="{{baseUrl}}/schedule/index-cs3281.html" class="dropdown-item">Schedule</a></li>
@@ -21,5 +20,5 @@
       <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right ></searchbar>
     </form>
   </li>
-</navbar>
+  </navbar>
 </header>

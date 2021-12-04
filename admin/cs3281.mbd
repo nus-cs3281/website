@@ -1,16 +1,19 @@
 <frontmatter>
 title: "CS3281 Module Info"
-header: topnav.md
 pageNav: 2
-siteNav: cs3281SiteNav.md
-footer: footer.mbdf
-head: head.mbdf
+layout: cs3281-layout.md
 </frontmatter>
 
 # CS3281 : Thematic Systems Projects I
 
-CS3281 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2: Contributing_, _Stage 3: Managing_.
+{% if is_pre_sem %}
+<box type="important" icon=":fas-exclamation-triangle:" light>
 
+The info given below is from the previous round, as a reference only. **Major changes are highly unlikely**, however.
+</box>
+{% endif %}
+
+CS3281 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2: Contributing_, _Stage 3: Managing_.
 
 * [Lectures](#lectures)
 * [Stage1: Learning](#stage-1%3A-learning)

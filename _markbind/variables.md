@@ -1,9 +1,11 @@
-<variable name="year">2021</variable>
-<variable name="AY">20/21</variable>
+<variable name="year">2022</variable>
+<variable name="previous_year">2021</variable>
+<variable name="AY">21/22</variable>
+<variable name="is_pre_sem">yes</variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
-<variable name="cs3281_venue">LT19</variable>
-<variable name="cs3282_time">THU 1200-1400</variable>
-<variable name="cs3282_venue">COM1-0210</variable>
+<variable name="cs3281_venue">COM1-0206</variable>
+<variable name="cs3282_time">THU 1400-1600</variable>
+<variable name="cs3282_venue">COM1-0206</variable>
 <variable name="module_org">https://github.com/nus-cs3281</variable>
 <variable name="module_site">https://nus-cs3281.github.io</variable>
 <variable name="students_repo">{{ module_org }}/{{ year }}</variable>
@@ -23,7 +25,7 @@
 <variable name="icon_lecture">:glyphicon-blackboard:</variable>
 <variable name="icon_like">:fas-thumbs-up:</variable>
 <variable name="icon_linux">:fab-linux:</variable>
-<variable name="icon_important_red"><font color="red">:glyphicon-exclamation-sign:</font></variable>
+<variable name="icon_important_red"><span class="text-danger">:glyphicon-exclamation-sign:</span></variable>
 <variable name="icon_important">:glyphicon-exclamation-sign:</variable>
 <variable name="icon_new_window">:glyphicon-new-window:</variable>
 <variable name="icon_outcome">:fas-trophy:</variable>
