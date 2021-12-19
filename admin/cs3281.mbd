@@ -28,7 +28,7 @@ CS3281 semester can be divided into three stages: _Stage 1: Learning_, _Stage 2:
 
 ## Lectures
 
-{{ cs3281_time }} in {{ cs3281_venue }}
+{{ cs3281_time }} in {{ cs3281_venue }} (will be online in some weeks)
 
 ## Projects
 
@@ -68,7 +68,7 @@ See the [Projects/Mentors page](mentors.md) for more info on the current focus o
 
 <box type="tip" seamless>
 
-**You can spend upto 40% of your CS3281 effort on a second NUS-OSS project.** SE-EDU project can be selected as a secondary project too.
+**You can spend upto 40% of your CS3281 effort on a second NUS-OSS project.** SE-EDU projects can be selected as a secondary project too.
 </box>
 
 **Duration**: Week 4 - 9 (6 weeks) 
@@ -132,8 +132,9 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 * **Learning** [5%]: this component is an incentive for you to learn the relevant tools and technologies well.
 
 * **Achievements** [80%]:
-  * Measures the quality, depth, and quantity of your work. {{ icon_important_red }} Your goal should be to become as highly valued to the project as possible, not to do as much work as possible. i.e., quality and depth is more important than quantity or speed.
-  * At weeks 4 and 8 an indicative mark (out of 80) and feedback will be given to you so that you get some sense of how you are progressing in the module.
+  * Measures the quality, depth, and quantity of your work.<br>
+    {{ icon_important_red }} Your goal should be to become as highly valued to the project as possible, not to do as much work as possible. i.e., quality and depth is more important than quantity or speed.
+  * At weeks 4 and 8, prof will give you feedback on how you are progressing in the module.
   
 * **Professional conduct and teamwork** [5+5=10%]: 
   * Measures how good your conduct was,
@@ -171,9 +172,9 @@ Just one or two semesters is certainly not enough to become an ‘expert’ of s
   Project | Languages | Tools
   ------- | --------- | -----
   MarkBind | JavaScript, CSS | Node.js, NunJucks
-  RepoSense | Java | Java, CSS, HTML, JavaScript, Jade, Gradle
-  CATcher | TypeScript, CSS, HTML, Python | Electron, Travis
-  SE-EDU | Java, CSS | Gradle, Travis, AsciiDoc
+  RepoSense | Java, CSS, HTML, JavaScript| Jade, Gradle, Cypress
+  CATcher | TypeScript, CSS, HTML, Python | Electron
+  SE-EDU | Java, CSS | Gradle, Jekyll
   TEAMMATES | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
 
 * All internal projects use Git. Learn advanced Git features such as rebase, squash, blame, bisect, etc. Other tools you can learn are given in the table above.

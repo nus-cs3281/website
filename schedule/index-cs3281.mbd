@@ -4,21 +4,22 @@ pageNav: 2
 layout: cs3281-layout.md
 </frontmatter>
 
+{% set sem_start = "2022-01-10" %}
 {% set weeks = [
-    {num: "0", day:"Jan 4"},
-    {num: "1", day:"Jan 11"},
-    {num: "2", day:"Jan 18"},
-    {num: "3", day:"Jan 25"},
-    {num: "4", day:"Feb 1"},
-    {num: "5", day: "Feb 8" },
-    {num: "6", day: "Feb 15" },
-    {num: "7", day: "Mar 1" },
-    {num: "8", day: "Mar 8" },
-    {num: "9", day: "Mar 15" },
-    {num: "10", day: "Mar 22" },
-    {num: "11", day: "Mar 29" },
-    {num: "12", day: "Apr 5" },
-    {num: "13", day: "Apr 12" }
+    {num: "0", day: (sem_start | date("Do MMM", -7))},
+    {num: "1", day: (sem_start | date("Do MMM", 0))},
+    {num: "2", day:(sem_start | date("Do MMM", 7))},
+    {num: "3", day:(sem_start | date("Do MMM", 14))},
+    {num: "4", day:(sem_start | date("Do MMM", 21))},
+    {num: "5", day:(sem_start | date("Do MMM", 28))},
+    {num: "6", day:(sem_start | date("Do MMM", 35))},
+    {num: "7", day:(sem_start | date("Do MMM", 49))},
+    {num: "8", day:(sem_start | date("Do MMM", 56))},
+    {num: "9", day:(sem_start | date("Do MMM", 63))},
+    {num: "10", day:(sem_start | date("Do MMM", 70))},
+    {num: "11", day:(sem_start | date("Do MMM", 77))},
+    {num: "12", day:(sem_start | date("Do MMM", 84))},
+    {num: "13", day:(sem_start | date("Do MMM", 91))}
 ] %}
 
 # CS3281 Schedule
@@ -37,9 +38,7 @@ layout: cs3281-layout.md
 #### Monday
 
 * {{ icon_lecture }} Lecture: CS3281 Module Intro
-  * This is a f2f lecture, in LT19
-  * Sit as project teams
-
+  * More info to be provided later
 
 #### Saturday (Code Sprint)
 

@@ -92,9 +92,6 @@ TBD
   * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==.
 * Read the schedule for [next Thursday](#week3-thursday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
 
- <modal large header="%%CS3282 →%%" id="modal:week3-expertArea">
-  <include src="../admin/cs3282.mbd#expertiseAreas"/>
-</modal>
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -184,15 +181,7 @@ Try to follow these steps in the given order:
 #### Todo
 If you haven't already, 
 * {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
-* {{ icon_todo }} [If applicable] get started on the 'book chapter'.
 
-<div class="indented-level2">
-
-<panel header="%%**CS3281 » Deliverables → Book Chapter**%%" no-close minimized >
-  <include src="../admin/cs3282.mbd#deliverable-book-chapter" />
-</panel>
-</div>
-<p/>
 
 #### Monday
 

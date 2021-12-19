@@ -8,26 +8,21 @@ layout: cs3282-layout.md
 
 ## Module structure
 The following are the main parts of the module:
-1. [Lightning Talks](#lightning-talks): 20%
-1. [Project Management](#project-management): 50%
-1. Professional Conduct: 5%
+* **[PM]** [Project Management](#pm-project-management): 50%
+* **[LT]** [Lightning Talks](#lt-lightning-talks): 20%
+* **[PC]** [Professional Conduct](#pc-professional-conduct): 5%
 
 You can choose a combination of the following optional components to make up the remaining 25%:
-1. Do more for your primary project (can include implementation work).
-1. [Contribute to an external Project](#external-project)
-1. [Contribute to a 2nd Internal Project](#2nd-internal-project)
+* **[IP]** Do more for your primary project (can include implementation work).
+* **[EP]** [Contribute to an external Project](#ep-external-project)
+* **[IP2]** [Contribute to a 2nd Internal Project](#ip2-2nd-internal-project)
 
 ## Lectures
 
 {{ cs3282_time }} in {{ cs3282_venue }}
 
-<span id="expertiseAreas">
 
-
-
-</span>
-
-## Project Management
+## [PM] Project Management
 
 **Objective** : To learn to manage a project.
 
@@ -42,8 +37,37 @@ Contributions to the project as a senior developer, and possibly, an _area-lead_
  
 * Based on quality and quantity of the contributions.
 
+## [LT] Lightning talks
 
-## External Project
+One important way you can establish credibility as an 'Expert' is by educating others about your expert area and evangelizing it. _Lightning Talks_ is meant to promote that aspect.
+
+* Each student is required to give two short talks on interesting topics useful to your classmates.
+* There are three rounds of lightning talks: Round A, B, and C. However, Round B is a rehearsal for Round C i.e., only two talks, but the second one is given twice.
+* Each talk will be about 7 minutes + 3 minutes for Q&A. There will be 7-8 talks per week.
+* You may want to rehearse the talk with one or more of your team members and improve based on their feedback before delivering it to the class.
+* After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3282/{{ year }} repo for future reference and further discussion.
+
+#### Grading
+
+* **Lightning talks [5+15 = 20%]**  -- based on peer evaluations and instructor observations
+* Criteria: usefulness of content and quality of delivery
+
+
+## [PC] Professional Conduct
+
+This component is measured based on peer evaluations and instructor observations
+
+* Peer evaluations will measure:
+* How helpful you are to classmates in peer reviewing lightning talk rehearsals, book chapter contributions, etc.
+* Instructor observations will measure:
+* Punctuality and attentiveness for lightning talks
+* Conformance to administrative requirements of the module
+* Adherence to module deadlines
+* The quality of feedback given for lightning talks (i.e. post-talk feedback)
+* Participation in class discussions
+
+
+## [EP] External Project
 
 **Objective** : To learn to work with big OSS projects.
 
@@ -55,10 +79,8 @@ Some sources of potential external projects:
 
 If you are not making good progress with the chosen project by week 5, you should switch to a different project.
 Or you can try multiple projects at the same time. "The project was too slow to respond" is not a valid excuse.
-The work under this part,
 
-* is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted.
-* can be double-counted for expert area if the work is related to your expert area.
+The work under this part is cumulative i.e. the work can be in more than one qualifying projects. Even work done before the semester can be counted.
 
 
 **Deliverables**:
@@ -72,59 +94,15 @@ The work under this part,
 
 * Based on PRs completed [20%]  and the report [5%]
 
-## 2nd Internal Project
+
+## [IP2] 2nd Internal Project
 
 Contribute to another NUS-OSS project.
 
 Deliverables are similar to CS3281.
 
 
-<div id="deliverable-book-chapter">
-
-#### Grading
-
-Based on the value added to se-edu/learningresources. Other forms of writing (e.g. blog posts etc.) can be counted too.
-
-</div>
-
-## Lightning talks 
-
-One important way you can establish credibility as an 'Expert' is by educating others about your expert area and evangelizing it. _Lightning Talks_ is meant to promote that aspect.
-
-* Each student is required to give two short talks on interesting topics useful to your classmates.
-  * There are three rounds of lightning talks: Round A, B, and C. However, Round B is a rehearsal for Round C i.e., only two talks, but the second one is given twice.
-* Each talk will be about 7 minutes + 3 minutes for Q&A. There will be 7-8 talks per week.
-* You may want to rehearse the talk with one or more of your team members and improve based on their feedback before delivering it to the class.
-* After the talk, you are required to post the talk summary (and the slides) as an issue in the nus-cs3282/{{ year }} repo for future reference and further discussion.
-
-#### Grading
-
-* **Lightning talks [5+15 = 20%]**  -- based on peer evaluations and instructor observations
-  * Criteria: usefulness of content and quality of delivery
-
-
-## Professional Conduct
-
-This component is measured based on peer evaluations and instructor observations
-
-* Peer evaluations will measure: 
-  * How helpful you are to classmates in peer reviewing lightning talk rehearsals, book chapter contributions, etc.
-* Instructor observations will measure:
-  * Punctuality and attentiveness for lightning talks
-  * Conformance to administrative requirements of the module
-  * Adherence to module deadlines
-  * The quality of feedback given for lightning talks (i.e. post-talk feedback)
-  * Participation in class discussions
-
-
-## Team structure
-
-* You’ll work in small team (4-5 members). Team members are expected to peer-review work of each other.
-* Teams will be formed by the instructor. The teams may be changed at the middle of the semester.
-
-
 ## Pre-Module Preparations
-* Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them.
-  Even work done before the semester starts can count for module grading.
+* Start looking for an external OSS project. Once you have found a few potential projects, try to get started on contributing to them. Even work done before the semester starts can count for module grading.
 
 
