@@ -313,3 +313,14 @@ Missing reference in C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.mb
 2021-12-19T09:34:05.323Z - info: Build success!
 2021-12-19T09:34:19.291Z - info: Website generation (lazy) started at 5:34:19 pm
 2021-12-19T09:34:20.105Z - info: Building assets...
+2021-12-19T09:34:20.824Z - info: Assets built
+2021-12-19T09:34:20.825Z - info: Generating landing page...
+2021-12-19T09:34:21.048Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-12-19T09:34:21.557Z - info: Site data built
+2021-12-19T09:34:21.557Z - info: Website generation (lazy) complete! Total build time: 2.483s
+2021-12-19T09:34:22.383Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2021-12-19T09:34:22.383Z - info: Press CTRL+C to stop ...
+2021-12-19T09:34:45.173Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2021-12-19T09:34:45.632Z - info: Site data built
+2021-12-19T09:34:45.632Z - info: Lazy website regeneration complete! Total build time: 0.459s
+2021-12-19T09:35:09.442Z - info: Deployed at https://nus-cs3281.github.io/website!

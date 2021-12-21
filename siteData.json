@@ -2,6 +2,14 @@
   "enableSearch": true,
   "pages": [
     {
+      "src": "README.md",
+      "title": "",
+      "headings": {
+        "ay1718s2": "AY1718S2"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "CS3281&2 Call for Applications",
       "headings": {
@@ -13,6 +21,91 @@
         "selection": "Selection",
         "faq": "FAQ",
         "have-a-question": "Have a Question?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/callForApplications.mbd",
+      "title": "CS3281&2 Call for Applications",
+      "headings": {
+        "cs3281-and-amp-2-ay2021-22-semester-ii": "CS3281&amp;2 - AY2021/22, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "selection": "Selection",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/cs3281.mbd",
+      "title": "CS3281 Module Info",
+      "headings": {
+        "cs3281-thematic-systems-projects-i": "CS3281 : Thematic Systems Projects I",
+        "lectures": "Lectures",
+        "projects": "Projects",
+        "stage-1-learning": "Stage 1: Learning",
+        "stage-2-contributing": "Stage 2: Contributing",
+        "stage-3-managing": "Stage 3: Managing",
+        "stage-4-after-the-semester-is-over": "Stage 4: After the semester is over",
+        "team-structure": "Team structure",
+        "grading": "Grading",
+        "expertise-areas": "Expertise Areas",
+        "pre-module-preparations": "Pre-Module Preparations"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/cs3282.mbd",
+      "title": "CS3282 Module Info",
+      "headings": {
+        "cs3282-thematic-systems-project-ii": "CS3282 : Thematic Systems Project II",
+        "module-structure": "Module structure",
+        "lectures": "Lectures",
+        "pm-project-management": "[PM] Project Management",
+        "lt-lightning-talks": "[LT] Lightning talks",
+        "pc-professional-conduct": "[PC] Professional Conduct",
+        "ep-external-project": "[EP] External Project",
+        "ip2-2nd-internal-project": "[IP2] 2nd Internal Project",
+        "pre-module-preparations": "Pre-Module Preparations"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/mentors.mbd",
+      "title": "Projects and Mentors",
+      "headings": {
+        "cs3281-projects-and-mentors": "CS3281 Projects and Mentors",
+        "catcher": "CATCher",
+        "markbind": "MarkBind",
+        "reposense": "RepoSense",
+        "se-edu": "SE-EDU",
+        "teammates": "TEAMMATES"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/index-cs3281.mbd",
+      "title": "CS3281 Schedule",
+      "headings": {
+        "cs3281-schedule": "CS3281 Schedule",
+        "week-1-10th-jan": "Week 1 [10th Jan]",
+        "week-2-17th-jan": "Week 2 [17th Jan]",
+        "week-3-24th-jan": "Week 3 [24th Jan]",
+        "week-4-31st-jan": "Week 4 [31st Jan]",
+        "week-5-7th-feb": "Week 5 [7th Feb]",
+        "week-6-14th-feb": "Week 6 [14th Feb]",
+        "week-7-28th-feb": "Week 7 [28th Feb]",
+        "week-8-7th-mar": "Week 8 [7th Mar]",
+        "week-9-14th-mar": "Week 9 [14th Mar]",
+        "week-10-21st-mar": "Week 10 [21st Mar]",
+        "week-11-28th-mar": "Week 11 [28th Mar]",
+        "week-12-4th-apr": "Week 12 [4th Apr]",
+        "week-13-11th-apr": "Week 13 [11th Apr]",
+        "reading-week-exam-period": "Reading week, exam period",
+        "work-done-after-the-semester": "Work done after the semester"
       },
       "headingKeywords": {}
     },
