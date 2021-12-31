@@ -11,6 +11,7 @@
   <dropdown header="CS3282" class="nav-link">
     <li><a href="{{baseUrl}}/admin/cs3282.html" class="dropdown-item">Module Info</a></li>
     <li><a href="{{baseUrl}}/schedule/index-cs3282.html" class="dropdown-item">Schedule</a></li>
+    <li><a href="{{ students_site }}/cs3282-index.html" target="_blank"class="dropdown-item">Students</a></li>
     <li><a href="{{ students_site }}/students/talksSchedule.html" target="_blank"class="dropdown-item">Lightning Talks Schedule</a></li>
   </dropdown>
   <li><a href="{{baseUrl}}/admin/callForApplications.html"class="nav-link">Call for Applications</a></li>
