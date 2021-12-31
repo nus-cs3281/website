@@ -1,2 +1,2 @@
-<!-- include src="schedule/index-cs3281.mbd" /-->
-<include src="admin/callForApplications.mbd"/>
+<include src="schedule/index-cs3281.mbd" />
+<!-- include src="admin/callForApplications.mbd"/-->

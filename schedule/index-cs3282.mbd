@@ -21,10 +21,8 @@ layout: cs3282-layout.md
     {num: "13", day: "Apr 13" }
 ] %}
 
-# CS3281&2 Schedule
-<p/>
-TBD
-<div class="d-none">
+# CS3282 Schedule
+
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 1 [{{ weeks[1].day }}]
@@ -32,14 +30,7 @@ TBD
 #### Todo
 
 * {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name.
-* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281-{{ year }}.netlify.com/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
-* {{ icon_todo }} Set up the dev environment of your CS3282 internal project(s) in your Computer. Follow instructions provided by the project for new contributors.
-* {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation.
-
-#### Monday
-
-* {{ icon_lecture }} Lecture: CS3281 Module Intro
-  * Sit as project teams
+* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
 
 
 #### Thursday
@@ -50,13 +41,7 @@ TBD
 
 #### Saturday (Code Sprint)
 
-* The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
-
-* Venue: SR10
-* Schedule:
-  * 0930 - 1200 : Project work
-  * 1200 - 1300 : Lunch break (lunch  provided :stew:)
-  * 1300 - 1530 : Project work
+* Join the code sprint and introduce yourself to CS3281 students
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -64,33 +49,19 @@ TBD
 
 #### Todo
 
-* {{ icon_todo }} If you plan to contribute to an external project, start looking for one. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
-
-#### Monday
-* {{ icon_lecture }} Lecture: Product demos, project-specific discussions
-* Demo the product created by your project.
-  * MarkBind, PowerPointLabs, RepoSense, TEAMMATES: ~15 minutes each<br>
-    CATcher: ~5 minutes<br>
-    SE-EDU: n/a
-  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need for every team member to take part either. Decide among yourselves who will demo which feature.
+* {{ icon_todo }} If you plan to contribute to an external project, start looking for one if you haven't done so already. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
 
 #### Thursday
 
 * {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
-*  Sit as teams. Team allocation:
-    * Team 1: Ze Yu, Alfred, James, Jeffrey, Tianzhen
-    * Team 2: Daryl Tan, Iskandar, Yiwen, Daryl Chan 
-    * Team 3: Brian, Irham, Tejas, Joshua, Wee Han
-    * Team 4: Yuanhong, Anubhav, Shuming, Daekoon
-    * Team 5: Yash, Chee Yuan, Jeremy, Ahmed
 * Choosing topics for Lightning Talks:
   * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
-  * It is in your interest to choose a topic related to one of your <trigger trigger="click" for="modal:week3-expertArea">expert areas</trigger>. It is not a strict requirement though.
-  * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==.
-* Read the schedule for [next Thursday](#week3-thursday) to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
+  * It is in your interest to choose a topic related to one of your [expert areas](../admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is). It is not a strict requirement though.
+  * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==. It is recommended to pick topics that are potentially useful to the audience.
+* Read next week's schedule to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
 
 
 <!-- ----------------------------------------------------------------------------------- -->
@@ -98,15 +69,6 @@ TBD
 <div id="week3-monday"/>
 
 ## Week 3 [{{ weeks[3].day }}]
-
-#### Monday
-
-<!--
-* {{ icon_lecture }} Lecture: Project-specific discussions
-* If you are presenting this Thursday and if you plan to use your own laptop for the presentation, do test your connection to the projector during the session.
--->
-
-* No lecture (public hoiday)
 
 #### Thursday
 
@@ -154,16 +116,16 @@ Try to follow these steps in the given order:
 </span>
 
 </panel>
-<panel type="secondary" header="##### During the session" expanded no-close> 
+<!-- panel type="secondary" header="##### During the session" expanded no-close>
   
   * ==Audience members are not allowed to use laptops allowed during the talks==.
   * Note down comments about the talk on paper (provided).
 
-</panel>
+</panel -->
 <panel type="secondary" header="##### After the session" expanded no-close>
   
   * :alarm_clock: by Thursday midnight:
-    * Speakers should update the issue description (rather than add as a new comment) as follows:
+    * Speakers should _update_ the issue description (rather than add as a new comment) as follows:
       * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
       * State **WIIFY, Key Points, Impact**
   * :alarm_clock: by Saturday midnight:
@@ -183,13 +145,9 @@ If you haven't already,
 * {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
 
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
-
 #### Thursday
 
-* {{ icon_lecture }} Lightning Talks Round A - Part 2
+* {{ icon_lecture }} Project-specific discussions
 
 
 #### Sunday
@@ -203,33 +161,15 @@ If you haven't already,
 
 #### Todo
 
-* If you haven't started already, this is a good time to start getting ==at least one peer-review from classmates== before requesting reviews from a senior developer. 
-  * You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels. 
-  * You can get early inputs from senior devs if necessary, %%e.g., you are not sure about the overall direction of the PR, you want to know the rationale for the current code, etc.%%
-* You can also ==help to manage new/external contributors== %%e.g., answer their questions, review their PRs etc.%% Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.
+* As you mentor CS3281 students, try to get them to peer-review each others' PRs and to help guide other contributors.
 
-#### Monday
-
-* {{ icon_lecture }} Project Specific Discussions
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
+* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 2
 
-#### Sunday
-
-* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
-
-<box type="success">
-
-Don't worry if your RepoSense graph doesn't have as many ramps as others. Data shown on the RepoSense report are not directly comparable across projects or even within a project, as different projects have different commit rates and the nature of one dev's work may be very different from another. The RepoSense report is just a means for conveniently accessing your work in one page, %%and also a means of stress testing RepoSense%%.
-</box>
 
 ## Week 6 [{{ weeks[6].day }}]
-
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### Thursday
 
@@ -237,8 +177,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 #### Todo
 
-* :alarm_clock: by Friday
-  * Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
+* :alarm_clock: by Friday : Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
 
 ---
 
@@ -246,37 +185,14 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ---
 
-<!-- ----------------------------------------------------------------------------------- -->
-
-
-<!--panel type="info" header="Teams for the 2nd half of the semester" expanded expandable="false" no-close>
-
-  * **Team 1**: 
-  * **Team 2**: 
-  * **Team 3**: 
-  * **Team 4**: 
-  * **Team 5**: 
-
-</panel -->
 <br>
 
 ## Week 7 [{{ weeks[7].day }}]
-
-<box type="warning">
-
-For the internal project(s), avoid starting work that you are not confident of finishing by week 13. Not only **unmerged work will not earn credit** for the module, such work might affect your grade negatively because of the waste of mentor efforts it caused to the project. Of course work abandoned due to no fault of your own (e.g., senior devs decided later the direction is not worth pursuing) will still earn you credit.
-</box>
 
 #### Todo
 
 * :alarm_clock: by Monday
   * [If applicable] Some progress expected on the external project
-* :alarm_clock: by Friday
-  * [If applicable] Some progress expected on book chapter
-
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
 
 #### Thursday
 
@@ -327,10 +243,6 @@ For the internal project(s), avoid starting work that you are not confident of f
 * :alarm_clock: by Sunday
   * Update the progress page
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
-
 #### Thursday
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round B - Part 2
@@ -339,13 +251,9 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 ## Week 9 [{{ weeks[9].day }}]
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
-
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Lightning Talks Round B - Part 3
+* {{ icon_lecture }} Lecture: Lecture : Tips for Tech Talks - Part III
 
 <!-- ------------------------------------------------------------------------------------ -->
 
@@ -353,7 +261,7 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 <box type="info">
 
-**As you are now entering the [_managing_ phase](../admin/cs3281.html#stage-3-managing)**, get more involved in management activities of the project.
+**As CS3281 students are now entering the [_managing_ phase](../admin/cs3281.html#stage-3-managing)**, get them more involved in management activities of the project.
 </box>
 
 #### Todo
@@ -372,14 +280,11 @@ For the internal project(s), avoid starting work that you are not confident of f
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
   * If some of your classmates contributed to the same project, you should still write your own observations.
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: ~~Project-specific discussions, Discussion on external project workflow~~ No in-class discussion due to COVID-19; instead, there'll be 1-on-1 feedback for LT round B speakers who haven't received feedback from the prof yet.
-
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Feedback for LT round B (for those you haven't received feedback yet)
-* Lecture : Tips for Tech Talks - Part III (will be delivered as a video).
+* {{ icon_lecture }} Lecture :
+  * Discussion about observations from the external project
+  * Feedback for LT Round B
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -387,7 +292,7 @@ For the internal project(s), avoid starting work that you are not confident of f
 
 #### Todo
 
-* Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.
+* Help CS3281 students finish ongoing (and new) PRs by end of week 12, with one week to spare.
 
 <!--
 * STePS preparations:
@@ -395,21 +300,17 @@ For the internal project(s), avoid starting work that you are not confident of f
   * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
   -->
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: ~~Project-specific discussions, Discussion on external project workflow (remainder)~~<br>
-  Feedback for LT round B (for those you haven't received feedback yet)
-
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1 
+* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
+<!--
   * ==[Venue SR1]==
   * No Q&A
   * Time will be limited to 7 minutes per talk. To minimize set up time,
     * try to ==use the LT PC instead of your own laptop== as much as possible.
     * embed demos as videos or animated gifs in the slide itself.
     * come a few minutes early and copy the slides to the LT PC before the session starts.
-
+-->
 <panel type="danger" header="**Targets for LT Round C**" expanded no-close>
 
 In this round you are ==expected to hit almost all targets(:dart:)== given below. You are recommended to follow tips (:bulb:) given under each target closely.
@@ -481,32 +382,15 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 ## Week 12 [{{ weeks[12].day }}]
 
-#### Monday
-
-* {{ icon_lecture }} Lecture: ~~Project-specific discussions~~
-
 #### Thursday
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 2
   * Venue: SR1
 
 <!-- ----------------------------------------------------------------------------------- -->
-<hr>
-
-# ==Items below this are yet to be updated==
-<hr>
 
 ## Week 13 [{{ weeks[13].day }}]
 
-#### Monday
-
-* ~~{{ icon_lecture }} Lecture~~
-
-#### Wednesday
-
-* ~~STePS~~
-
 #### Thursday
 
-* ~~{{ icon_lecture }} Lecture:~~
-</div>
+* {{ icon_lecture }} Lecture: Project specific discussions and wrap up

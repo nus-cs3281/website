@@ -1,7 +1,7 @@
 <variable name="year">2022</variable>
 <variable name="previous_year">2021</variable>
 <variable name="AY">21/22</variable>
-<variable name="is_pre_sem">yes</variable>
+<variable name="is_pre_sem"></variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
 <variable name="cs3281_venue">COM1-0206</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>

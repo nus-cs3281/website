@@ -10,8 +10,7 @@ layout: cs3281-layout.md
 
 **Current focus:**
 * Make the Web version as feature-equivalent as the desktop version (as much as possible).
-* In the current semester, stress test the Web version while keeping the Desktop version as a backup.<br>
-  In the following semester, retire the desktop version.
+* Retire the desktop version.
 * Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
 * Improve testing.
 * Improve dev docs.
@@ -20,23 +19,26 @@ layout: cs3281-layout.md
 
 <box header="Mentors">
 
-* Anubhav
+* Ding Yuchen
+* Kang Su Min
+* Low Jun Kai, Sean
+* Anubhav (Industry)<sup>1</sup>
 * Koh Jun Wei (Industry)<sup>1</sup>
 </box>
 
 ## MarkBind
 
 **Current focus**:
-* Reach [V3](https://github.com/MarkBind/markbind/projects/4), which already contains some of the items mentioned below.
 * Make the following features _best-in-class_:
   * Tables
   * Code blocks
   * Diagrams
   * Icons
 * Support deploying to more hosting platforms
+* Improve built-in search (e.g., include full-text search) so that we don't have to rely on external services.
 * Solve these hard problems:
   * Add support for generating multiple versions of a website %%e.g., documentation for different product versions%%.
-  * Find a way to ==highlight== words in a code block.
+  * Find a way to add pop-over explanations for statements in a code block.
   * Find a way to support PR previews (the way Netlify does it).
 * Internal:
   * Improve the robustness of the architecture.
@@ -45,7 +47,10 @@ layout: cs3281-layout.md
 <box header="Mentors">
 
 * Ang Ze Yu
-* Tan Yuanhong
+* Jonah Tan Jun Zi
+* Ong Wei Xing
+* Ryo Chandra Putra Armanda
+* Rayson Koh
 * Aaron Chong (Industry)<sup>1</sup>
 * Jiang Sheng (Industry)<sup>1</sup>
 * Marvin Chin (Industry)<sup>1</sup>
@@ -55,20 +60,20 @@ layout: cs3281-layout.md
 
 **Current focus:**
 * Improve performance of the report for large data sets e.g., [this report](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true).
-* Ensure local repo generation works for private repositories.
+* Ensure local report generation works for private repositories.
 * Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization %%e.g., for a project manager/maintainer to keep an overview of the code changes to related repos%%.<br>
   Idea: Provide a ready-made repo they can fork and documentation on how to set it up with minimal effort required. Even better if there is a web page they can go to enter some data, click some buttons, which would set up the report automatically.
 * Internal:
   * Morph the Frontend Code to a standard Vue Project.
 * Hard problems:
   * distinguish between <tooltip content="code touched only by one person">fully-owned</tooltip> and <tooltip content="code written by someone else but taken over by this author">partially-owned</tooltip> code. %%An FYP student has done some work on this aspect, but that work has stalled after the FYP ended.%%
-* Possible new direction: Support a way for an individual to use RepoSense to showcase their code in multiple projects written in multiple periods %%e.g., a student to showcase code written to an interviewer%%.
 
 <box header="Mentors">
 
-* Liu Yiwen
-* Tejas Bhuwania
-* Wang Chao
+* Chan Ger Hean
+* Hsu Zhong Jun
+* Huang Chengyu
+* Wang Chao (Industry)<sup>1</sup>
 * Eugene Peh (Industry)<sup>1</sup>
 * James Pang Mun Wai (Industry)<sup>1</sup>
 </box>
@@ -79,12 +84,11 @@ layout: cs3281-layout.md
 * Limited to maintaining and fine-tuning AB3 and Duke. AB1, AB2, AB4 are to be archived.
 * Keep the code base updated to match the new versions of the tool stack.
 * Tweak to make the students' life easier e.g., simplify where possible.
-
+* Migrate Duke, AB3 to Java 17
+* Migrate Duke, AB3 to JavaFX 16
 <box header="Mentors">
 
-* Anubhav
-* Koh Jun Wei (Industry)<sup>1</sup>
-* Yong Zhi Yuan (Industry)<sup>1</sup>
+Current [SE-EDU team](https://se-education.org/docs/team.html)
 </box>
 
 ## TEAMMATES
@@ -94,18 +98,22 @@ layout: cs3281-layout.md
 
 <box header="Mentors">
 
+* Adithya Narayan
 * Chong Chee Yuan
-* Jeremy Choo
-* Joshua Wong
+* Dao Ngoc Hieu
+* Li Jianhan
+* Lim Zhi Wei
+* Mo Zhongran
 * Muhammad Ahmed
 * Rahul Rajesh
-* Tiu Wee Han
+* Tan Chee Peng
+* Jeremy Choo (Industry)<sup>1</sup>
 * Wilson Kurniawan (Industry)<sup>1</sup>
 * Xiao Pu (Industry)<sup>1</sup>
 </box>
 
 ---
 
-<small>%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to help out in an advisory role when their input is required.%%</small>
+<small>%%[1] Those marked as _industry_ are not official mentors. They are past developers who are still willing to provide moral support and help out in an advisory role when their input is required.%%</small>
 
 

@@ -19,7 +19,7 @@ You can choose a combination of the following optional components to make up the
 
 ## Lectures
 
-{{ cs3282_time }} in {{ cs3282_venue }}
+{{ cs3282_time }} in {{ cs3282_venue }} (or online)
 
 
 ## [PM] Project Management
@@ -28,10 +28,14 @@ You can choose a combination of the following optional components to make up the
 
 Contribute as a _senior developer_ to the NUS-OSS project you joined in CS3281. Typical work includes reviewing and managing PRs, guiding new contributors, process improvements, other administrative tasks. You can also tackle development tasks that are too difficult for newer developers.
 
-
 **Deliverables**:
 
 Contributions to the project as a senior developer, and possibly, an _area-lead_-in-training.
+
+<box type="tip" seamless>
+
+Ideally, at the end of the semester, you should **reach a level in which you can at least should some of the project-lead level responsibilities**, technical and managerial.
+</box>
 
 **Grading**:
  

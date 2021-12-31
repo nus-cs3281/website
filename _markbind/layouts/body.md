@@ -5,7 +5,9 @@
 * [Module Info]({{baseUrl}}/admin/{{ module_code }}.html)
 * [Schedule]({{baseUrl}}/schedule/index-{{ module_code }}.html)
 * [Projects/Mentors]({{baseUrl}}/admin/mentors.html)
-* [Students]({{ students_site }})
+* Students
+  * [CS3281]({{ students_site }}/index.html)
+  * [CS3282]({{ students_site }}/cs3282-index.html)
 * [Dashboard]({{ dashboard_site }})
 * [Call for Applications]({{baseUrl}}/admin/callForApplications.html)
       </site-nav>

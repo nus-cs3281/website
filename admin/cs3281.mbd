@@ -68,7 +68,7 @@ See the [Projects/Mentors page](mentors.md) for more info on the current focus o
 
 <box type="tip" seamless>
 
-**You can spend upto 40% of your CS3281 effort on a second NUS-OSS project.** SE-EDU projects can be selected as a secondary project too.
+**You can spend upto 40% of your CS3281 effort on one or more _secondary_ NUS-OSS projects.** SE-EDU projects can be selected as a secondary project too.
 </box>
 
 **Duration**: Week 4 - 9 (6 weeks) 
@@ -123,7 +123,7 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 
 ## Grading
 
-{{ icon_important_red }} As a general principle, try to do good work and become better software engineers as you do module work, and good grades will follow. Given the small class size, it will be easy to detect attempts to 'game the system' or 'optimize for grades over learning' and such behavior will not earn you high grades. In other words, follow the spirit of the grading scheme (rather than the letter).
+{{ icon_important_red }} As a general principle, try to do good work and become better software engineers as you do module work, and good grades will follow. Given the small class size, it will be easy to detect attempts to 'game the system' or 'optimize for grades over learning' and such behavior will not earn you high grades. In other words, follow the _spirit_ (rather than the _letter_) of the grading scheme.
 
 * **Consistency** [5%]: this component is an incentive for you to spread the work across the semester. To earn full marks, you should meet both these criteria.
   * Committed code (in your PRs) in at least 10 weeks
@@ -134,17 +134,17 @@ Will be based on the project chosen. Could be subdivided into smaller teams with
 * **Achievements** [80%]:
   * Measures the quality, depth, and quantity of your work.<br>
     {{ icon_important_red }} Your goal should be to become as highly valued to the project as possible, not to do as much work as possible. i.e., quality and depth is more important than quantity or speed.
-  * At weeks 4 and 8, prof will give you feedback on how you are progressing in the module.
+  * At around weeks 4 and 8, prof will give you some feedback on how you are progressing in the module.
   
 * **Professional conduct and teamwork** [5+5=10%]: 
   * Measures how good your conduct was,
-    * as a colleague [5%]: e.g., _punctuality_, _reliability_, _participation_, etc. 
-    * as a team member [5%]: e.g., willing to contribute to common tasks, work as a team rather than work in isolation, give due considerations to the needs of the project rather than consider what is good for own grades only 
-  * Graded based on peer evaluations and instructor observations
+    * as a professional [5%]: e.g., _punctuality_, _reliability_, _participation_, etc.
+    * as a team member [5%]: e.g., willing to contribute to common tasks, work as a team rather than work in isolation, give due considerations to the needs of the project rather than consider what is good for own grades only.
+  * Graded based on peer evaluations and instructor observations.
 
 ## Expertise Areas
 
-While this is not a _graded_ deliverable %%(it used to be; we made it non-graded from this semester)%%, you are encouraged to choose your CS3281&2 work in a way that gives you an 'expertise' in a few areas.
+While this is not a _graded_ deliverable %%(it used to be; we made it non-graded recently to reduce the workload)%%, you are encouraged to choose your CS3281&2 work in a way that gives you an 'expertise' in a few areas.
 
 **Objective**: Gain in-depth knowledge of a few specific areas so that you are considered an expert of those areas compared to your peers.
 

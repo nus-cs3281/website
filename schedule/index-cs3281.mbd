@@ -26,6 +26,11 @@ layout: cs3281-layout.md
 <p/>
 <!-- ----------------------------------------------------------------------------------- -->
 
+<box type="important" icon=":fas-exclamation-triangle:" light>
+
+The schedule for future weeks is tentative, given as a reference only. The prof will finalize the details of a week near to the start of the week, although **major changes are highly unlikely**.
+</box>
+
 ## Week 1 [{{ weeks[1].day }}]
 
 #### Todo
