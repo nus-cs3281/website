@@ -9,7 +9,6 @@ layout: cs3281-layout.md
 ## CATCher
 
 **Current focus:**
-* Make the Web version as feature-equivalent as the desktop version (as much as possible).
 * Retire the desktop version.
 * Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
 * Improve testing.
@@ -63,8 +62,6 @@ layout: cs3281-layout.md
 * Ensure local report generation works for private repositories.
 * Make it easy for someone to set up a 'moving window' report (e.g., show last 3 months) or a repo or multiple repos in an organization %%e.g., for a project manager/maintainer to keep an overview of the code changes to related repos%%.<br>
   Idea: Provide a ready-made repo they can fork and documentation on how to set it up with minimal effort required. Even better if there is a web page they can go to enter some data, click some buttons, which would set up the report automatically.
-* Internal:
-  * Morph the Frontend Code to a standard Vue Project.
 * Hard problems:
   * distinguish between <tooltip content="code touched only by one person">fully-owned</tooltip> and <tooltip content="code written by someone else but taken over by this author">partially-owned</tooltip> code. %%An FYP student has done some work on this aspect, but that work has stalled after the FYP ended.%%
 
@@ -105,9 +102,9 @@ Current [SE-EDU team](https://se-education.org/docs/team.html)
 * Lim Zhi Wei
 * Mo Zhongran
 * Muhammad Ahmed
-* Rahul Rajesh
 * Tan Chee Peng
 * Jeremy Choo (Industry)<sup>1</sup>
+* Rahul Rajesh<sup>1</sup>
 * Wilson Kurniawan (Industry)<sup>1</sup>
 * Xiao Pu (Industry)<sup>1</sup>
 </box>

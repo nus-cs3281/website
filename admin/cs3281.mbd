@@ -175,7 +175,7 @@ Just one or two semesters is certainly not enough to become an ‘expert’ of s
   RepoSense | Java, CSS, HTML, JavaScript| Jade, Gradle, Cypress
   CATcher | TypeScript, CSS, HTML, Python | Electron
   SE-EDU | Java, CSS | Gradle, Jekyll
-  TEAMMATES | Java, HTML, SCSS, TypeScript | Gradle, Google App Engine, Node.js, Angular
+  TEAMMATES | (backend) Java<br>(frontend) HTML, SCSS, TypeScript | (backend) Gradle<br>(frontend) Node.js, Angular<br>(others) Selenium, Docker
 
 * All internal projects use Git. Learn advanced Git features such as rebase, squash, blame, bisect, etc. Other tools you can learn are given in the table above.
 
