@@ -1,0 +1,55 @@
+2022-01-04T16:27:29.566Z - info: Website generation (lazy) started at 12:27:29 am
+2022-01-04T16:27:30.628Z - info: Building assets...
+2022-01-04T16:27:31.452Z - info: Assets built
+2022-01-04T16:27:31.452Z - info: Generating landing page...
+2022-01-04T16:27:31.750Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-04T16:27:32.698Z - info: Site data built
+2022-01-04T16:27:32.698Z - info: Website generation (lazy) complete! Total build time: 3.503s
+2022-01-04T16:27:33.590Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-01-04T16:27:33.591Z - info: Press CTRL+C to stop ...
+2022-01-04T16:27:34.780Z - info: [12:27:34 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2022-01-04T16:27:34.781Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:27:34.782Z - info: No pages are currently opened
+2022-01-04T16:27:35.799Z - info: Assets built
+2022-01-04T16:28:02.056Z - info: [12:28:02 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.mbd
+2022-01-04T16:28:02.057Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:28:02.057Z - info: Current opened pages, from most-to-least recent:
+2022-01-04T16:28:02.057Z - info: 1. index
+2022-01-04T16:28:03.060Z - info: Assets built
+2022-01-04T16:28:03.921Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2022-01-04T16:28:04.115Z - info: Site data built
+2022-01-04T16:28:04.115Z - info: Lazy website regeneration complete! Total build time: 0.194s
+2022-01-04T16:30:14.334Z - info: [12:30:14 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2022-01-04T16:30:14.334Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:30:14.335Z - info: Current opened pages, from most-to-least recent:
+2022-01-04T16:30:14.335Z - info: 1. admin/cs3281
+2022-01-04T16:30:15.347Z - info: Rebuilding 1 pages
+2022-01-04T16:30:15.469Z - info: Site data built
+2022-01-04T16:30:15.470Z - info: Pages rebuilt
+2022-01-04T16:30:15.470Z - info: Website regeneration complete! Total build time: 0.124s
+2022-01-04T16:30:42.519Z - info: [12:30:42 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2022-01-04T16:30:42.519Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:30:42.519Z - info: Current opened pages, from most-to-least recent:
+2022-01-04T16:30:42.520Z - info: 1. admin/cs3281
+2022-01-04T16:30:43.534Z - info: Rebuilding 1 pages
+2022-01-04T16:30:43.621Z - info: Site data built
+2022-01-04T16:30:43.622Z - info: Pages rebuilt
+2022-01-04T16:30:43.622Z - info: Website regeneration complete! Total build time: 0.089s
+2022-01-04T16:31:05.337Z - info: [12:31:05 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2022-01-04T16:31:05.337Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:31:05.338Z - info: Current opened pages, from most-to-least recent:
+2022-01-04T16:31:05.338Z - info: 1. admin/cs3281
+2022-01-04T16:31:06.348Z - info: Rebuilding 1 pages
+2022-01-04T16:31:06.446Z - info: Site data built
+2022-01-04T16:31:06.446Z - info: Pages rebuilt
+2022-01-04T16:31:06.447Z - info: Website regeneration complete! Total build time: 0.099s
+2022-01-04T16:31:15.513Z - info: [12:31:15 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.mbd
+2022-01-04T16:31:15.514Z - info: Synchronizing opened pages list before reload
+2022-01-04T16:31:15.514Z - info: Current opened pages, from most-to-least recent:
+2022-01-04T16:31:15.514Z - info: 1. admin/cs3281
+2022-01-04T16:31:16.523Z - info: Rebuilding 1 pages
+2022-01-04T16:31:16.631Z - info: Site data built
+2022-01-04T16:31:16.631Z - info: Pages rebuilt
+2022-01-04T16:31:16.631Z - info: Website regeneration complete! Total build time: 0.109s
+2022-01-04T16:33:04.856Z - info: Website generation started at 12:33:04 am
+2022-01-04T16:33:05.720Z - info: Building assets...
