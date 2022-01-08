@@ -354,3 +354,31 @@
 2022-01-08T14:18:31.549Z - info: Lazy website regeneration complete! Total build time: 0.477s
 2022-01-08T14:20:05.099Z - info: Website generation started at 10:20:04 pm
 2022-01-08T14:20:05.913Z - info: Building assets...
+2022-01-08T14:20:06.756Z - info: Assets built
+2022-01-08T14:20:06.756Z - info: Generating pages...
+2022-01-08T14:20:06.943Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/css/.css' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-01-08T14:20:07.562Z - info: Pages built
+2022-01-08T14:20:08.081Z - info: Site data built
+2022-01-08T14:20:08.081Z - info: Website generation complete! Total build time: 3.193s
+2022-01-08T14:20:08.081Z - info: Build success!
+2022-01-08T14:20:11.807Z - info: Deployed at https://nus-cs3281.github.io/website!
+2022-01-08T14:22:01.482Z - info: Website generation started at 10:22:01 pm
+2022-01-08T14:22:02.264Z - info: Building assets...
+2022-01-08T14:22:02.972Z - info: Assets built
+2022-01-08T14:22:02.972Z - info: Generating pages...
+2022-01-08T14:22:03.740Z - info: Pages built
+2022-01-08T14:22:04.263Z - info: Site data built
+2022-01-08T14:22:04.263Z - info: Website generation complete! Total build time: 2.982s
+2022-01-08T14:22:04.263Z - info: Build success!
+2022-01-08T14:22:12.453Z - info: Website generation started at 10:22:12 pm
+2022-01-08T14:22:13.209Z - info: Building assets...
+2022-01-08T14:22:13.971Z - info: Assets built
+2022-01-08T14:22:13.971Z - info: Generating pages...
+2022-01-08T14:22:14.832Z - info: Pages built
+2022-01-08T14:22:15.459Z - info: Site data built
+2022-01-08T14:22:15.459Z - info: Website generation complete! Total build time: 3.236s
+2022-01-08T14:22:16.212Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-01-08T14:22:16.212Z - info: Press CTRL+C to stop ...
+2022-01-08T14:22:54.711Z - info: Website generation started at 10:22:54 pm
+2022-01-08T14:22:55.741Z - info: Building assets...
