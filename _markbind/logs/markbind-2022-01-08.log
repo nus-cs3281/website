@@ -223,3 +223,106 @@
 2022-01-08T07:19:18.464Z - info: Website regeneration complete! Total build time: 0.22s
 2022-01-08T08:03:24.846Z - info: Website generation started at 4:03:24 pm
 2022-01-08T08:03:26.027Z - info: Building assets...
+2022-01-08T08:03:26.783Z - info: Assets built
+2022-01-08T08:03:26.784Z - info: Generating pages...
+2022-01-08T08:03:27.601Z - info: Pages built
+2022-01-08T08:03:28.439Z - info: Site data built
+2022-01-08T08:03:28.439Z - info: Website generation complete! Total build time: 3.783s
+2022-01-08T08:03:28.439Z - info: Build success!
+2022-01-08T08:03:56.759Z - info: Deployed at https://nus-cs3281.github.io/website!
+2022-01-08T09:00:24.248Z - info: Website generation (lazy) started at 5:00:24 pm
+2022-01-08T09:00:25.313Z - info: Building assets...
+2022-01-08T09:00:26.070Z - info: Assets built
+2022-01-08T09:00:26.070Z - info: Generating landing page...
+2022-01-08T09:00:26.350Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-08T09:00:27.122Z - info: Site data built
+2022-01-08T09:00:27.122Z - info: Website generation (lazy) complete! Total build time: 3.073s
+2022-01-08T09:00:27.953Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-01-08T09:00:27.954Z - info: Press CTRL+C to stop ...
+2022-01-08T09:00:33.881Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2022-01-08T09:00:34.012Z - info: Site data built
+2022-01-08T09:00:34.012Z - info: Lazy website regeneration complete! Total build time: 0.131s
+2022-01-08T09:00:39.180Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2022-01-08T09:00:39.589Z - info: Site data built
+2022-01-08T09:00:39.589Z - info: Lazy website regeneration complete! Total build time: 0.409s
+2022-01-08T09:00:49.091Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-01-08T09:00:49.235Z - info: Site data built
+2022-01-08T09:00:49.235Z - info: Lazy website regeneration complete! Total build time: 0.144s
+2022-01-08T09:03:10.946Z - info: [5:03:10 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\main.css
+2022-01-08T09:03:10.947Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:03:10.947Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:03:10.948Z - info: 1. schedule/index-cs3281
+2022-01-08T09:03:11.975Z - info: Assets built
+2022-01-08T09:04:01.906Z - info: [5:04:01 pm] Reload for file add: C:\repos\nus-cs3281\cs3281-website\css\cs3281.css
+2022-01-08T09:04:01.906Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:04:01.906Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:04:01.906Z - info: 1. schedule/index-cs3281
+2022-01-08T09:04:02.955Z - info: Assets built
+2022-01-08T09:04:12.274Z - info: [5:04:12 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\main.css
+2022-01-08T09:04:12.274Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:04:12.274Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:04:12.274Z - info: 1. schedule/index-cs3281
+2022-01-08T09:04:13.288Z - info: Assets built
+2022-01-08T09:04:26.999Z - info: [5:04:26 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\css.md
+2022-01-08T09:04:26.999Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:04:27.000Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:04:27.000Z - info: 1. schedule/index-cs3281
+2022-01-08T09:04:27.012Z - info: [5:04:27 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\cs3281.css
+2022-01-08T09:04:27.012Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:04:27.012Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:04:27.012Z - info: 1. schedule/index-cs3281
+2022-01-08T09:04:28.041Z - info: Rebuilding 1 pages
+2022-01-08T09:04:28.125Z - info: Assets built
+2022-01-08T09:04:28.144Z - info: Site data built
+2022-01-08T09:04:28.144Z - info: Pages rebuilt
+2022-01-08T09:04:28.144Z - info: Website regeneration complete! Total build time: 0.104s
+2022-01-08T09:04:42.499Z - info: [5:04:42 pm] Reload for file add: C:\repos\nus-cs3281\cs3281-website\css\cs3282.css
+2022-01-08T09:04:42.499Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:04:42.499Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:04:42.499Z - info: 1. schedule/index-cs3281
+2022-01-08T09:04:43.557Z - info: Assets built
+2022-01-08T09:06:45.186Z - info: [5:06:45 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\css\cs3281.css
+2022-01-08T09:06:45.186Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:06:45.187Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:06:45.187Z - info: 1. schedule/index-cs3281
+2022-01-08T09:06:46.205Z - info: Assets built
+2022-01-08T09:06:53.902Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2022-01-08T09:06:54.172Z - info: Site data built
+2022-01-08T09:06:54.172Z - info: Lazy website regeneration complete! Total build time: 0.271s
+2022-01-08T09:07:43.224Z - info: [5:07:43 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\cs3282-layout.md
+2022-01-08T09:07:43.225Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:07:43.225Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:07:43.225Z - info: 1. schedule/index-cs3282
+2022-01-08T09:07:43.244Z - info: [5:07:43 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\css.md
+2022-01-08T09:07:43.244Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:07:43.244Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:07:43.244Z - info: 1. schedule/index-cs3282
+2022-01-08T09:07:43.263Z - info: [5:07:43 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\cs3281-layout.md
+2022-01-08T09:07:43.263Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:07:43.263Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:07:43.263Z - info: 1. schedule/index-cs3282
+2022-01-08T09:07:44.280Z - info: Rebuilding 1 pages
+2022-01-08T09:07:44.613Z - info: Site data built
+2022-01-08T09:07:44.614Z - info: Pages rebuilt
+2022-01-08T09:07:44.614Z - info: Website regeneration complete! Total build time: 0.335s
+2022-01-08T09:08:03.288Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-01-08T09:08:03.420Z - info: Site data built
+2022-01-08T09:08:03.420Z - info: Lazy website regeneration complete! Total build time: 0.133s
+2022-01-08T09:08:34.030Z - info: [5:08:34 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.mbd
+2022-01-08T09:08:34.030Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:08:34.031Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:08:34.031Z - info: 1. schedule/index-cs3282
+2022-01-08T09:08:35.037Z - info: Rebuilding 1 pages
+2022-01-08T09:08:35.239Z - info: Site data built
+2022-01-08T09:08:35.239Z - info: Pages rebuilt
+2022-01-08T09:08:35.240Z - info: Website regeneration complete! Total build time: 0.204s
+2022-01-08T09:08:48.267Z - info: [5:08:48 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.mbd
+2022-01-08T09:08:48.267Z - info: Synchronizing opened pages list before reload
+2022-01-08T09:08:48.267Z - info: Current opened pages, from most-to-least recent:
+2022-01-08T09:08:48.267Z - info: 1. schedule/index-cs3282
+2022-01-08T09:08:49.293Z - info: Rebuilding 1 pages
+2022-01-08T09:08:49.481Z - info: Site data built
+2022-01-08T09:08:49.481Z - info: Pages rebuilt
+2022-01-08T09:08:49.481Z - info: Website regeneration complete! Total build time: 0.188s
+2022-01-08T09:18:43.099Z - info: Website generation started at 5:18:42 pm
+2022-01-08T09:18:44.096Z - info: Building assets...
