@@ -4,22 +4,7 @@ pageNav: 2
 layout: cs3282-layout.md
 </frontmatter>
 
-{% set weeks = [
-    {num: "0", day:"Jan 6"},
-    {num: "1", day:"Jan 13"},
-    {num: "2", day:"Jan 20"},
-    {num: "3", day:"Jan 27"},
-    {num: "4", day:"Feb 3"},
-    {num: "5", day: "Feb 10" },
-    {num: "6", day: "Feb 17" },
-    {num: "7", day: "Mar 2" },
-    {num: "8", day: "Mar 9" },
-    {num: "9", day: "Mar 16" },
-    {num: "10", day: "Mar 23" },
-    {num: "11", day: "Mar 30" },
-    {num: "12", day: "Apr 6" },
-    {num: "13", day: "Apr 13" }
-] %}
+{% from "schedule/index-cs3281.mbd" import weeks with context %}
 
 # CS3282 Schedule
 
@@ -30,7 +15,7 @@ layout: cs3282-layout.md
 #### Todo
 
 * {{ icon_todo }} **Check your details in [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html)** [:alarm_clock: Deadline: Friday] and update if necessary. You will be given write permission to the repo by Monday.
-* {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for the code sprint.** Minimally, plan to have a chat with the CS3281 students. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 started on the project work.
+* {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for the code sprint.** Minimally, plan to have a chat with the CS3281 students. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 students started on the project work.
 
 
 #### Thursday
