@@ -29,19 +29,37 @@ layout: cs3282-layout.md
 
 #### Todo
 
-* {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are strongly recommended to update your GitHub profile with your full name.
-* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} **Check your details in [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html)** [:alarm_clock: Deadline: Friday] and update if necessary. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for the code sprint.** Minimally, plan to have a chat with the CS3281 students. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 started on the project work.
 
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : CS3282 Module Intro, Tips for product demos
-  * Sit as project teams (same as Monday).
+* {{ icon_lecture }} Lecture : CS3282 Module Intro
+  * Online lecture (Zoom link is in LumiNUS/WebLinks)
 
 
 #### Saturday (Code Sprint)
 
 * Join the code sprint and introduce yourself to CS3281 students
+
+<panel type="info" header="#### Activity: Book Chapter Report" expanded>
+
+The purpose of this activity is to encourage you to read SE books.
+
+Steps:
+
+1. Have a quick look at the default recommended book [**Software Engineering at Google**](https://abseil.io/resources/swe-book) (PDF available for free). You may also pick a different SE book that you have read before or want to read this semester. Pick a chapter that you want to read/use for this activity.
+1. Post an issue in [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}/issues) indicating which book and which chapter you plan to read. Assign the issue to yourself.<br>
+  Doing this early will help you avoid clashing with chapters chosen by others. We prefer not to have multiple book reports on the same chapter.
+1. Read the book chapter.
+1. Post a short summary of the chapter in the same issue. Just a few bullet points is enough. Optionally, you can also comment on the relevance of the chapter to your NUS-OSS project.
+
+Try to finish the above by the end of the recess week.
+
+You are welcome to do more than one book/chapter too.
+</panel>
+<p/>
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -55,7 +73,7 @@ layout: cs3282-layout.md
 
 * {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
-  * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
+  * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}/issues) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
     * Issue subject: the title of your talk
     * Issue body: 2-3 sentence preview of the talk
   * Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.
@@ -178,6 +196,7 @@ If you haven't already,
 #### Todo
 
 * :alarm_clock: by Friday : Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
+* :alarm_clock: by end of recess week : Aim to finish the ['Book Chapter Report' activity](#activity-book-chapter-report)
 
 ---
 
@@ -201,7 +220,7 @@ If you haven't already,
   * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
 
 
-<panel type="secondary" header="Tips for round B" expanded no-close>
+<panel type="info" header="Tips for round B" expanded no-close>
 
 * **Make slides more visual**:
   * Instead of bullet points, use other suitable visual structures %%e.g., a flow chart%%
@@ -311,7 +330,7 @@ If you haven't already,
     * embed demos as videos or animated gifs in the slide itself.
     * come a few minutes early and copy the slides to the LT PC before the session starts.
 -->
-<panel type="danger" header="**Targets for LT Round C**" expanded no-close>
+<panel type="info" header="**Targets for LT Round C**" expanded no-close>
 
 In this round you are ==expected to hit almost all targets(:dart:)== given below. You are recommended to follow tips (:bulb:) given under each target closely.
 
