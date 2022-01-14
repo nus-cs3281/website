@@ -10,6 +10,18 @@
       "headingKeywords": {}
     },
     {
+      "src": "admin/code-sprint.md",
+      "title": "CS3281 Code Sprint",
+      "headings": {
+        "nus-oss-code-sprint-2022": "NUS-OSS Code Sprint 2022",
+        "catcher": "CATcher",
+        "markbind": "MarkBind",
+        "reposense": "RepoSense",
+        "teammates": "TEAMMATES"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "CS3281 Schedule",
       "headings": {
