@@ -131,7 +131,7 @@ Try to follow these steps in the given order:
     * Speakers should _update_ the issue description (rather than add as a new comment) as follows:
       * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
       * State **WIIFY, Key Points, Impact**
-  * :alarm_clock: by Saturday midnight:
+  * :alarm_clock: by Friday midnight:
     * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
      
   * Feel free to continue the discussion about each talk in the issue tracker.
