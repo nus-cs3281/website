@@ -1,0 +1,45 @@
+2022-02-09T09:38:11.130Z - info: Website generation (lazy) started at 5:38:10 pm
+2022-02-09T09:38:12.172Z - info: Building assets...
+2022-02-09T09:38:12.985Z - info: Assets built
+2022-02-09T09:38:12.986Z - info: Generating landing page...
+2022-02-09T09:38:13.372Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-02-09T09:38:14.357Z - info: Site data built
+2022-02-09T09:38:14.357Z - info: Website generation (lazy) complete! Total build time: 3.48s
+2022-02-09T09:38:15.170Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-02-09T09:38:15.170Z - info: Press CTRL+C to stop ...
+2022-02-09T09:38:21.048Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\callForApplications as some of its dependencies were changed since the last visit
+2022-02-09T09:38:21.451Z - info: Site data built
+2022-02-09T09:38:21.451Z - info: Lazy website regeneration complete! Total build time: 0.403s
+2022-02-09T09:38:22.366Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\callForApplications as some of its dependencies were changed since the last visit
+2022-02-09T09:38:22.438Z - info: Site data built
+2022-02-09T09:38:22.439Z - info: Lazy website regeneration complete! Total build time: 0.073s
+2022-02-09T09:38:35.377Z - info: [5:38:35 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2022-02-09T09:38:35.378Z - info: Synchronizing opened pages list before reload
+2022-02-09T09:38:35.378Z - info: Current opened pages, from most-to-least recent:
+2022-02-09T09:38:35.379Z - info: 1. admin/callForApplications
+2022-02-09T09:38:36.395Z - info: Rebuilding 1 pages
+2022-02-09T09:38:36.523Z - info: Site data built
+2022-02-09T09:38:36.523Z - info: Pages rebuilt
+2022-02-09T09:38:36.523Z - info: Website regeneration complete! Total build time: 0.129s
+2022-02-09T09:38:52.301Z - info: [5:38:52 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2022-02-09T09:38:52.301Z - info: Synchronizing opened pages list before reload
+2022-02-09T09:38:52.301Z - info: Current opened pages, from most-to-least recent:
+2022-02-09T09:38:52.301Z - info: 1. admin/callForApplications
+2022-02-09T09:38:53.309Z - info: Rebuilding 1 pages
+2022-02-09T09:38:53.378Z - info: Site data built
+2022-02-09T09:38:53.378Z - info: Pages rebuilt
+2022-02-09T09:38:53.378Z - info: Website regeneration complete! Total build time: 0.07s
+2022-02-09T09:40:43.121Z - info: [5:40:43 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+2022-02-09T09:40:43.121Z - info: Synchronizing opened pages list before reload
+2022-02-09T09:40:43.121Z - info: Current opened pages, from most-to-least recent:
+2022-02-09T09:40:43.121Z - info: 1. admin/callForApplications
+2022-02-09T09:40:44.124Z - info: Rebuilding 1 pages
+2022-02-09T09:40:44.181Z - info: Site data built
+2022-02-09T09:40:44.181Z - info: Pages rebuilt
+2022-02-09T09:40:44.181Z - info: Website regeneration complete! Total build time: 0.057s
+2022-02-09T09:41:08.619Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-02-09T09:41:08.995Z - info: Site data built
+2022-02-09T09:41:08.995Z - info: Lazy website regeneration complete! Total build time: 0.377s
+2022-02-09T09:41:09.847Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-02-09T09:41:09.935Z - info: Site data built
+2022-02-09T09:41:09.935Z - info: Lazy website regeneration complete! Total build time: 0.088s
