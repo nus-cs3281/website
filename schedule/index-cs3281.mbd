@@ -85,6 +85,20 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
+<box type="tip" seamless>
+
+**Keep records of your work**{.text-success}
+
+As you learn the codebase, investigate issues, learn related tools etc., try to get them recorded somewhere. Some options:
+
+* record in your 'knowledge' page e.g., a tool you learned
+* post it an issue in the issue tracker e.g., investigating the applicability of a tool to the project
+* an update to project documentation e.g., a solution you found to a problem that happens in the dev environment
+
+Reasons: It increases the visibility of your work. Those records can be useful references to you and others.
+
+</box>
+
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 4 [{{ weeks[4].day }}]
@@ -118,7 +132,7 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 #### Sunday
 
 * Keep updating the the _progress page_ and the _knowledge page_ on a weekly basis, as was done in the previous week. These pages are used in grading.
-* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://github.com/reposense/RepoSense/blob/release/docs/UserGuide.md#customize-using-csv-config-files).
+* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://reposense.org/ug/customizingReports.html#customize-using-csv-config-files).
 
 <box type="tip" seamless>
 
