@@ -5,14 +5,17 @@
     <li><a href="{{baseUrl}}/admin/cs3281.html" class="dropdown-item">Module Info</a></li>
     <li><a href="{{baseUrl}}/schedule/index-cs3281.html" class="dropdown-item">Schedule</a></li>
     <li><a href="{{baseUrl}}/admin/mentors.html"class="dropdown-item">Projects/Mentors</a></li>
-    <li><a href="{{ students_site }}" target="_blank"class="dropdown-item">Students</a></li>
+    <li><a href="{{ students_site }}/index.html" target="_blank"class="dropdown-item">Students</a></li>
+    <li><a href="https://github.com/nus-cs3281/{{ year }}" target="_blank"class="dropdown-item">Students Repo</a></li>
     <li><a href="{{ dashboard_site }}/" target="_blank"class="dropdown-item">Dashboard</a></li>
   </dropdown>
   <dropdown header="CS3282" class="nav-link">
     <li><a href="{{baseUrl}}/admin/cs3282.html" class="dropdown-item">Module Info</a></li>
     <li><a href="{{baseUrl}}/schedule/index-cs3282.html" class="dropdown-item">Schedule</a></li>
     <li><a href="{{ students_site }}/cs3282-index.html" target="_blank"class="dropdown-item">Students</a></li>
+    <li><a href="https://github.com/nus-cs3281/{{ year }}" target="_blank"class="dropdown-item">Students Repo</a></li>
     <li><a href="{{ students_site }}/students/talksSchedule.html" target="_blank"class="dropdown-item">Lightning Talks Schedule</a></li>
+    <li><a href="https://github.com/nus-cs3281/{{ year }}/issues" target="_blank"class="dropdown-item">Lightning Talks Issue Tracker</a></li>
   </dropdown>
   <li><a href="{{baseUrl}}/admin/callForApplications.html"class="nav-link">Call for Applications</a></li>
   <li><a href="https://github.com/nus-cs3281/website" class="nav-link">{{ fab_github }}</a></li>
