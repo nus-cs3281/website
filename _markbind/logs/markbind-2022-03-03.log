@@ -1,0 +1,27 @@
+2022-03-03T13:16:14.617Z - info: Website generation (lazy) started at 9:16:14 pm
+2022-03-03T13:16:15.537Z - info: Building assets...
+2022-03-03T13:16:16.384Z - info: Assets built
+2022-03-03T13:16:16.385Z - info: Generating landing page...
+2022-03-03T13:16:16.623Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-03T13:16:17.729Z - info: Site data built
+2022-03-03T13:16:17.729Z - info: Website generation (lazy) complete! Total build time: 3.345s
+2022-03-03T13:16:18.522Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-03-03T13:16:18.522Z - info: Press CTRL+C to stop ...
+2022-03-03T13:17:55.359Z - info: [9:17:55 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\header.md
+2022-03-03T13:17:55.359Z - info: Synchronizing opened pages list before reload
+2022-03-03T13:17:55.360Z - info: Current opened pages, from most-to-least recent:
+2022-03-03T13:17:55.360Z - info: 1. index
+2022-03-03T13:17:56.407Z - info: Rebuilding 1 pages
+2022-03-03T13:17:56.765Z - info: Site data built
+2022-03-03T13:17:56.766Z - info: Pages rebuilt
+2022-03-03T13:17:56.766Z - info: Website regeneration complete! Total build time: 0.36s
+2022-03-03T13:18:16.202Z - info: [9:18:16 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\header.md
+2022-03-03T13:18:16.202Z - info: Synchronizing opened pages list before reload
+2022-03-03T13:18:16.202Z - info: Current opened pages, from most-to-least recent:
+2022-03-03T13:18:16.203Z - info: 1. index
+2022-03-03T13:18:17.235Z - info: Rebuilding 1 pages
+2022-03-03T13:18:17.352Z - info: Site data built
+2022-03-03T13:18:17.353Z - info: Pages rebuilt
+2022-03-03T13:18:17.353Z - info: Website regeneration complete! Total build time: 0.119s
+2022-03-03T13:19:42.005Z - info: Website generation started at 9:19:41 pm
+2022-03-03T13:19:42.810Z - info: Building assets...
