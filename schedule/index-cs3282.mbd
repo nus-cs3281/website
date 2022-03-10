@@ -203,6 +203,7 @@ If you haven't already,
 * {{ icon_lecture }} Lightning Talks Round B - Part 1 (see <a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
   * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the _generic slide deck_ pptx file, do take a look at it and make sure all its elements are also present in your slide deck.
   * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
+* {{ icon_lecture }} Team-specific discussions (if there's time left)
 
 
 <panel type="info" header="Tips for round B" expanded no-close>
@@ -249,15 +250,22 @@ If you haven't already,
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round B - Part 2
+* {{ icon_lecture }} Lecture :
+  * Lightning Talks Round B - Part 2
+  * Team-specific discussions
 
 <!-- ------------------------------------------------------------------------------------ -->
 
 ## Week 9 [{{ weeks[9].day }}]
 
+* :alarm_clock: by Thursday
+* Have a sync-up meeting with CS3281 mentees, together with non-CS3282 mentors (if they are available).
+
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Lecture : Tips for Tech Talks - Part III
+* {{ icon_lecture }} Lecture: Lecture:
+  * Tips for Tech Talks - Part III
+  * Team-specific discussions
 
 <!-- ------------------------------------------------------------------------------------ -->
 
@@ -270,7 +278,7 @@ If you haven't already,
 
 #### Todo
 
-* {{ icon_todo }} [If applicable] Document your observations about the workflow of your external OSS project:
+* :alarm_clock: by Thursday [If applicable] Document your observations about the workflow of your external OSS project:
   * Info to include:
     1. Links to any online documents about the workflow of external project
     1. Important things you learned from contributing to that project, if any
@@ -280,15 +288,14 @@ If you haven't already,
     * Add your observations to the file `{{ students_repo }}/students/yourName/observations.md`.<br>
       Afterwards, your additions will appear in the [Observations page](https://nus-cs3281.github.io/{{ year }}/students/observations.html).
     * Recommended length: about 0.5 - 1 A4 page
-    * Deadline: Before week ~~10~~ 11 Monday session
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
   * If some of your classmates contributed to the same project, you should still write your own observations.
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture :
+* {{ icon_lecture }} Lecture:
   * Discussion about observations from the external project
-  * Feedback for LT Round B
+  * Team-specific discussions (if needed)
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -389,7 +396,6 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 #### Thursday
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 2
-  * Venue: SR1
 
 <!-- ----------------------------------------------------------------------------------- -->
 
