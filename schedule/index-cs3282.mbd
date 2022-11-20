@@ -90,50 +90,50 @@ Give priority to applying the techniques covered in week 2 lecture even if you f
 
 Try to follow these steps in the given order:
 
-  1. **Define the _intended impact_ of the talk.** 
+  1. **Define the _intended impact_ of the talk.**
      * Try to choose an impact that has a _do_ component (e.g., `get audience to switch to technology X`), not just _know_ and _believe_ components (e.g., `tell audience about X`). The _do_ component will make the talk motivational and higher-impact; without it, the talk will be simply informational.
      * Frame the intended impact as a _call-to-action_ (CtA).
-  1. **Find a _WIIFY_** i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this _specific_ audience at a _concrete_ level. 
+  1. **Find a _WIIFY_** i.e., a good reason for the audience to follow your CtA. The WIIFY can work better if it relates to this _specific_ audience at a _concrete_ level.
      For example, explaining `how Foo technology can benefit SoC students right now` is better than making a general claim that `Foo is a useful technology`. Sometimes realizing that ‘there is a cool technology out there benefiting many others, but it is not accessible to me right now’ can be a turn off.<br>
      If you cannot find a convincing WIIFY, reconsider the topic as there is a risk that the audience may not find the talk useful.
-  1. **Choose _key points_** that help you achieve that impact. Be clear about your key points. 
+  1. **Choose _key points_** that help you achieve that impact. Be clear about your key points.
      * We look for **points, not topics** %%e.g., `how to use X` is a topic while `X is easy to use` is a point%%. In the past years, I found that some students still confused _points_ with _topics_. A point forms a sentence e.g., `The tool X is easy to use.` whereas a topic may not e.g., `Tool X usage`.
      * Make sure your key points are aligned with the intended impact. If you key points are `a`, `b`, `c`, you should be able to say "`a`; `b`; `c`; _therefore_, `CtA`" %%e.g., "`X is fast`; `X is free`; `X is getting popular`; _therefore_, `switch to X!`"%%
   1. **Decide the talk _roadmap_** (aka the _agenda_, or the _promise_). They may be similar to key points but not necessarily the same. The roadmap can be topics (rather than points) and can be questions (rather than answers).
      Roadmap | Key points
      --- | ----
      `What is X?`<br> `Demo of X`<br> `Benefits of X` | `X is fast`<br> `X is free`<br> `X is getting popular`
-  1. **Find a PUNCH.** This is hard, but give it your best shot. One good tactic is to find an extreme example of a pain point that can be solved by your topic %%e.g, if your CtA is `switch to X`, you can start with an example that shows how bad something can be without X%%. 
+  1. **Find a PUNCH.** This is hard, but give it your best shot. One good tactic is to find an extreme example of a pain point that can be solved by your topic %%e.g, if your CtA is `switch to X`, you can start with an example that shows how bad something can be without X%%.
   1. **Design the slides**.
      * One common mistake is inadvertently including big holes in the talk, for example, forgetting to explain some concept that is vital to understanding the topic. Critically review your talk from the target audience point of view.<br>
      * Also mention how the topic fits into the big picture.<br>
-       %%e.g., if your talk is about X, the big picture can be like this:%% 
+       %%e.g., if your talk is about X, the big picture can be like this:%%
        >%%There are two categories of tools for doing Bar which is an essential part in building apps. Category 1 tools work inside-out and Category 2 tools work outside-in. Tool X is the currently a hot tool in category 2 because it is faster and more secure than other popular tools in that category, namely Y and Z.%%
      * Ensure the last slide has the key points (not a big `Thank You` or `Q&A`)
      * Limit the content to what you can deliver in **7 minutes** (in rehearsals, aim to finish in 6 minutes; the actual talk is likely to take longer than the rehearsal). The remaining 3 minutes is for Q&A.
   1. **Start the talk with a _PUNCH_, _WIIFY_, and the _Roadmap_**. ==Avoid the traditional `My name is A, my topic is B` type start.==
-  1. **End the talk with key points and CtA.** It is also good to reiterate WIIFY together with key points. 
+  1. **End the talk with key points and CtA.** It is also good to reiterate WIIFY together with key points.
 
-  1. **Test your laptop connection to the projector in advance**. 
+  1. **Test your laptop connection to the projector in advance**.
 
 </span>
 
 </panel>
 <!-- panel type="secondary" header="##### During the session" expanded no-close>
-  
+
   * ==Audience members are not allowed to use laptops allowed during the talks==.
   * Note down comments about the talk on paper (provided).
 
 </panel -->
 <panel type="secondary" header="##### After the session" expanded no-close>
-  
+
   * :alarm_clock: by Thursday midnight:
     * Speakers should _update_ the issue description (rather than add as a new comment) as follows:
       * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
       * State **WIIFY, Key Points, Impact**
   * :alarm_clock: by Friday midnight:
     * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
-     
+
   * Feel free to continue the discussion about each talk in the issue tracker.
 
 </panel>
@@ -144,7 +144,7 @@ Try to follow these steps in the given order:
 ## Week 4 [{{ weeks[4].day }}]
 
 #### Todo
-If you haven't already, 
+If you haven't already,
 * {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
 
 
@@ -185,7 +185,7 @@ If you haven't already,
 
 ---
 
-**Recess** 
+**Recess**
 
 ---
 
@@ -212,9 +212,9 @@ If you haven't already,
   * Instead of bullet points, use other suitable visual structures %%e.g., a flow chart%%
   * Instead of text, use graphical forms
   * But avoid visual clutter such as background graphics that do not add value
-  
+
   * {{ icon_video }} Given below is a video containing some slide design tips:
-  
+
     @[youtube](9yXZTylf32k)
 
 * **Make the point clear**:
@@ -225,10 +225,10 @@ If you haven't already,
 
 * **Animate meaningfully**: Use animations/transitions to enhance the meaning of your slide content.
 
-* **Use the Click-Look-Recall technique** instead of using cue cards: 
+* **Use the Click-Look-Recall technique** instead of using cue cards:
   * Ensure that you know the sequence of your talking points in advance.
   * Map each point to a click on your slide, which should add a visual cue onto the slide that reminds you of the point you are supposed to talk about.
-  * During delivery, _look_ at the screen as you _click_, and use the visual cue to _recall_ the point. 
+  * During delivery, _look_ at the screen as you _click_, and use the visual cue to _recall_ the point.
 
 </panel>
 
@@ -283,7 +283,7 @@ If you haven't already,
     1. Links to any online documents about the workflow of external project
     1. Important things you learned from contributing to that project, if any
     1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
-    1. [Optional] Suggested areas of improvement for the external project 
+    1. [Optional] Suggested areas of improvement for the external project
   * Submission:
     * Add your observations to the file `{{ students_repo }}/students/yourName/observations.md`.<br>
       Afterwards, your additions will appear in the [Observations page](https://nus-cs3281.github.io/{{ year }}/students/observations.html).
@@ -301,13 +301,18 @@ If you haven't already,
 
 ## Week 11 [{{ weeks[11].day }}]
 
+<box type="tip">
+
+<include src="index-cs3281.mbd#create-beginner-issues" />
+</box>
+
 #### Todo
 
 * Help CS3281 students finish ongoing (and new) PRs by end of week 12, with one week to spare.
 
 <!--
 * STePS preparations:
-  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale. 
+  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale.
   * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
   -->
 
@@ -335,7 +340,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
          * Believe
          * Do
       * WIIFY
-      * Key points 
+      * Key points
       * Call-to-action
       * Roadmap
       * PUNCH
@@ -353,7 +358,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
    1. :bulb: Use words `Key point` in text so that they are hard to miss<br>
     %%e.g., `KEY POINT: Java is verbose!`%%
    1. :bulb: use a different (and more prominent) design for important slides and key elements<br>
-    %%e.g., use a brighter background, bigger font size%%  
+    %%e.g., use a brighter background, bigger font size%%
 1. :dart: Last slide is used to good effect
    1. :bulb: at least it should contain key points and the call-to-action
    1. :bulb: as the last slide should contain the essence of the talk, it is ok to be 'crowded'
@@ -367,22 +372,22 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
       * All fortune 500 companies use Java for their enterprise systems.
       ```
    1. :bulb: If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
-    %%e.g., the slide title can be `Java is still the most popular language today.` (i.e., the main point) instead of `Java popularity` (i.e., a phrase/topic)%% 
-   1. :bulb: For each sub point, ensure there is a corresponding click.<br> 
-    %%e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.%% 
+    %%e.g., the slide title can be `Java is still the most popular language today.` (i.e., the main point) instead of `Java popularity` (i.e., a phrase/topic)%%
+   1. :bulb: For each sub point, ensure there is a corresponding click.<br>
+    %%e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.%%
 1. :dart: Minimum use of jargon
    1. :bulb: Format jargon in a different way e.g., use a different font so that you remember to define them. Alternatively, put the definition on the slide.
 1. :dart: Meaningful animations
    1. :bulb: Use meaningful slide transitions e.g., use a more drastic transition when moving from one major section to another.
-   1. :bulb: When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery. 
+   1. :bulb: When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery.
 
 **Delivery**
 
 1. :dart: Start with a PUNCH (instead of traditional self-intro)
    1. :bulb: Open with a brief greeting, and jump starlight into your PUNCH
-1. :dart: WIIFY and Roadmap clearly communicated. 
+1. :dart: WIIFY and Roadmap clearly communicated.
    1. :bulb: Use clear 'marker' phrases to draw attention to these important elements of the talk. e.g., `"I think this is a very important topic to you because ..."` `"In the next few minutes, I'm going to talk about (a)... (b)... and (c)"`
-1. :dart: Each key point is clearly made 
+1. :dart: Each key point is clearly made
    1. :bulb: When the key slide comes up, use the marker phrase `"So, the key point here is ..."` to draw attention to it.
 1. :dart: Finish by reiterating key points, and call-to-action.
    1. :bulb: Follow the call-to-action with a clear `"Thank you!"` and if applicable, `"I'm ready for your questions"` to indicate the end of your talk.

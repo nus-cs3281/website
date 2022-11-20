@@ -119,8 +119,8 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 
 #### Todo
 
-* If you haven't started already, this is a good time to start getting ==at least one peer-review from classmates== before requesting reviews from a senior developer. 
-  * You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels. 
+* If you haven't started already, this is a good time to start getting ==at least one peer-review from classmates== before requesting reviews from a senior developer.
+  * You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels.
   * You can get early inputs from senior devs if necessary, %%e.g., you are not sure about the overall direction of the PR, you want to know the rationale for the current code, etc.%%
 * You can also ==help to manage new/external contributors== %%e.g., answer their questions, review their PRs etc.%% Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.
 
@@ -147,7 +147,7 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ---
 
-**Recess** 
+**Recess**
 
 ---
 
@@ -197,13 +197,20 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ## Week 11 [{{ weeks[11].day }}]
 
+<box type="tip" id="create-beginner-issues">
+
+**Help to maintain a healthy supply of beginner-friendly issues**: If you encounter small non-urgent issues (so called 'low hanging fruits'), it is best to leave them for future new contributors, because we expect several new contributors to join the project during the upcoming summer.
+
+In fact, go the extra mile to create such issues when you can, as a good supply of such beginner-friendly issues is an essential asset for an OSS project.
+</box>
+
 #### Todo
 
 * Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.
 
 <!--
 * STePS preparations:
-  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale. 
+  * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale.
   * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
   -->
 
