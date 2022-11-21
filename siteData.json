@@ -10,6 +10,32 @@
       "headingKeywords": {}
     },
     {
+      "src": "admin/attendees.md",
+      "title": "",
+      "headings": {
+        "catcher": "CATcher",
+        "markbind": "MarkBind",
+        "reposense": "RepoSense",
+        "teammates": "TEAMMATES"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "admin/callForApplications.md",
+      "title": "CS3281&2 Call for Applications",
+      "headings": {
+        "cs3281-and-amp-2-ay2022-23-semester-ii": "CS3281&amp;2 - AY2022/23, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "selection": "Selection",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "admin/code-sprint.md",
       "title": "CS3281 Code Sprint",
       "headings": {
@@ -22,45 +48,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "index.md",
-      "title": "CS3281 Schedule",
-      "headings": {
-        "cs3281-schedule": "CS3281 Schedule",
-        "week-1-10th-jan": "Week 1 [10th Jan]",
-        "week-2-17th-jan": "Week 2 [17th Jan]",
-        "week-3-24th-jan": "Week 3 [24th Jan]",
-        "week-4-31st-jan": "Week 4 [31st Jan]",
-        "week-5-7th-feb": "Week 5 [7th Feb]",
-        "week-6-14th-feb": "Week 6 [14th Feb]",
-        "week-7-28th-feb": "Week 7 [28th Feb]",
-        "week-8-7th-mar": "Week 8 [7th Mar]",
-        "week-9-14th-mar": "Week 9 [14th Mar]",
-        "week-10-21st-mar": "Week 10 [21st Mar]",
-        "week-11-28th-mar": "Week 11 [28th Mar]",
-        "week-12-4th-apr": "Week 12 [4th Apr]",
-        "week-13-11th-apr": "Week 13 [11th Apr]",
-        "reading-week-exam-period": "Reading week, exam period",
-        "work-done-after-the-semester": "Work done after the semester"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "admin/callForApplications.mbd",
-      "title": "CS3281&2 Call for Applications",
-      "headings": {
-        "cs3281-and-amp-2-ay2021-22-semester-ii": "CS3281&amp;2 - AY2021/22, Semester II",
-        "structure": "Structure",
-        "workload": "Workload",
-        "assessment": "Assessment",
-        "enrollment": "Enrollment",
-        "selection": "Selection",
-        "faq": "FAQ",
-        "have-a-question": "Have a Question?"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "admin/cs3281.mbd",
+      "src": "admin/cs3281.md",
       "title": "CS3281 Module Info",
       "headings": {
         "cs3281-thematic-systems-projects-i": "CS3281 : Thematic Systems Projects I",
@@ -78,7 +66,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "admin/cs3282.mbd",
+      "src": "admin/cs3282.md",
       "title": "CS3282 Module Info",
       "headings": {
         "cs3282-thematic-systems-project-ii": "CS3282 : Thematic Systems Project II",
@@ -94,7 +82,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "admin/mentors.mbd",
+      "src": "admin/mentors.md",
       "title": "Projects and Mentors",
       "headings": {
         "cs3281-projects-and-mentors": "CS3281 Projects and Mentors",
@@ -107,46 +95,61 @@
       "headingKeywords": {}
     },
     {
-      "src": "schedule/index-cs3281.mbd",
+      "src": "index.md",
+      "title": "CS3281&2 Call for Applications",
+      "headings": {
+        "cs3281-and-amp-2-ay2022-23-semester-ii": "CS3281&amp;2 - AY2022/23, Semester II",
+        "structure": "Structure",
+        "workload": "Workload",
+        "assessment": "Assessment",
+        "enrollment": "Enrollment",
+        "selection": "Selection",
+        "faq": "FAQ",
+        "have-a-question": "Have a Question?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "schedule/index-cs3281.md",
       "title": "CS3281 Schedule",
       "headings": {
         "cs3281-schedule": "CS3281 Schedule",
-        "week-1-10th-jan": "Week 1 [10th Jan]",
-        "week-2-17th-jan": "Week 2 [17th Jan]",
-        "week-3-24th-jan": "Week 3 [24th Jan]",
-        "week-4-31st-jan": "Week 4 [31st Jan]",
-        "week-5-7th-feb": "Week 5 [7th Feb]",
-        "week-6-14th-feb": "Week 6 [14th Feb]",
-        "week-7-28th-feb": "Week 7 [28th Feb]",
-        "week-8-7th-mar": "Week 8 [7th Mar]",
-        "week-9-14th-mar": "Week 9 [14th Mar]",
-        "week-10-21st-mar": "Week 10 [21st Mar]",
-        "week-11-28th-mar": "Week 11 [28th Mar]",
-        "week-12-4th-apr": "Week 12 [4th Apr]",
-        "week-13-11th-apr": "Week 13 [11th Apr]",
+        "week-1-9th-jan": "Week 1 [9th Jan]",
+        "week-2-16th-jan": "Week 2 [16th Jan]",
+        "week-3-23rd-jan": "Week 3 [23rd Jan]",
+        "week-4-30th-jan": "Week 4 [30th Jan]",
+        "week-5-6th-feb": "Week 5 [6th Feb]",
+        "week-6-13th-feb": "Week 6 [13th Feb]",
+        "week-7-27th-feb": "Week 7 [27th Feb]",
+        "week-8-6th-mar": "Week 8 [6th Mar]",
+        "week-9-13th-mar": "Week 9 [13th Mar]",
+        "week-10-20th-mar": "Week 10 [20th Mar]",
+        "week-11-27th-mar": "Week 11 [27th Mar]",
+        "week-12-3rd-apr": "Week 12 [3rd Apr]",
+        "week-13-10th-apr": "Week 13 [10th Apr]",
         "reading-week-exam-period": "Reading week, exam period",
         "work-done-after-the-semester": "Work done after the semester"
       },
       "headingKeywords": {}
     },
     {
-      "src": "schedule/index-cs3282.mbd",
+      "src": "schedule/index-cs3282.md",
       "title": "CS3282 Schedule",
       "headings": {
         "cs3282-schedule": "CS3282 Schedule",
-        "week-1-10th-jan": "Week 1 [10th Jan]",
-        "week-2-17th-jan": "Week 2 [17th Jan]",
-        "week-3-24th-jan": "Week 3 [24th Jan]",
-        "week-4-31st-jan": "Week 4 [31st Jan]",
-        "week-5-7th-feb": "Week 5 [7th Feb]",
-        "week-6-14th-feb": "Week 6 [14th Feb]",
-        "week-7-28th-feb": "Week 7 [28th Feb]",
-        "week-8-7th-mar": "Week 8 [7th Mar]",
-        "week-9-14th-mar": "Week 9 [14th Mar]",
-        "week-10-21st-mar": "Week 10 [21st Mar]",
-        "week-11-28th-mar": "Week 11 [28th Mar]",
-        "week-12-4th-apr": "Week 12 [4th Apr]",
-        "week-13-11th-apr": "Week 13 [11th Apr]"
+        "week-1-9th-jan": "Week 1 [9th Jan]",
+        "week-2-16th-jan": "Week 2 [16th Jan]",
+        "week-3-23rd-jan": "Week 3 [23rd Jan]",
+        "week-4-30th-jan": "Week 4 [30th Jan]",
+        "week-5-6th-feb": "Week 5 [6th Feb]",
+        "week-6-13th-feb": "Week 6 [13th Feb]",
+        "week-7-27th-feb": "Week 7 [27th Feb]",
+        "week-8-6th-mar": "Week 8 [6th Mar]",
+        "week-9-13th-mar": "Week 9 [13th Mar]",
+        "week-10-20th-mar": "Week 10 [20th Mar]",
+        "week-11-27th-mar": "Week 11 [27th Mar]",
+        "week-12-3rd-apr": "Week 12 [3rd Apr]",
+        "week-13-10th-apr": "Week 13 [10th Apr]"
       },
       "headingKeywords": {}
     }

@@ -1,0 +1,190 @@
+2022-11-20T17:52:22.294Z - info: Website generation started at 1:52:21 am
+2022-11-20T17:52:23.882Z - info: Building assets...
+2022-11-20T17:52:25.090Z - info: Assets built
+2022-11-20T17:52:25.091Z - info: Generating pages...
+2022-11-20T17:52:25.955Z - error:  Error: Unsupported File Extension: '.mbd'
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:379:31
+    at Promise._execute (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at NodeProcessor.process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:344:16)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:491:35)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1177:22
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1195:34
+    at Array.forEach (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1195:10
+    at Promise._execute (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at Site.generatePagesAsyncThrottled (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1155:12)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1103:34
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\utils\async.js:27:19
+2022-11-20T17:52:25.957Z - warn:  Error: Error while generating C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.mbd
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1185:18
+2022-11-20T17:52:26.102Z - error:  Error: Unsupported File Extension: '.mbd'
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:379:31
+    at Promise._execute (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at NodeProcessor.process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:344:16)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:491:35)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1177:22
+    at Site.generateProgressBarStatus (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1217:32)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1182:16
+2022-11-20T17:52:26.102Z - error:  Error: Unsupported File Extension: '.mbd'
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:379:31
+    at Promise._execute (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at NodeProcessor.process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:344:16)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:491:35)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1177:22
+    at Site.generateProgressBarStatus (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1217:32)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1182:16
+2022-11-20T17:52:26.585Z - error:  Error: Unsupported File Extension: '.mbd'
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:379:31
+    at Promise._execute (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\debuggability.js:384:9)
+    at Promise._resolveFromExecutor (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:518:18)
+    at new Promise (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:103:10)
+    at NodeProcessor.process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:344:16)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:491:35)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1177:22
+    at Site.generateProgressBarStatus (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1217:32)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1182:16
+2022-11-20T17:52:27.760Z - info: Site data built
+2022-11-20T17:52:27.760Z - info: Website generation complete! Total build time: 5.841s
+2022-11-20T17:52:28.724Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-11-20T17:52:28.725Z - info: Press CTRL+C to stop ...
+2022-11-20T18:10:48.195Z - info: Website generation started at 2:10:47 am
+2022-11-20T18:10:49.898Z - info: Building assets...
+2022-11-20T18:10:51.106Z - info: Assets built
+2022-11-20T18:10:51.107Z - info: Generating pages...
+2022-11-20T18:10:53.910Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/admin/.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-20T18:10:53.910Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/schedule/index-.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-20T18:10:53.914Z - info: Pages built
+2022-11-20T18:10:55.102Z - info: Site data built
+2022-11-20T18:10:55.102Z - info: Website generation complete! Total build time: 7.153s
+2022-11-20T18:10:56.144Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-11-20T18:10:56.144Z - info: Press CTRL+C to stop ...
+2022-11-20T18:11:17.461Z - info: [2:11:17 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\index.md
+2022-11-20T18:11:18.478Z - info: Rebuilding 1 pages
+2022-11-20T18:11:18.643Z - info: Site data built
+2022-11-20T18:11:18.643Z - info: Pages rebuilt
+2022-11-20T18:11:18.644Z - info: Website regeneration complete! Total build time: 0.166s
+2022-11-20T18:12:10.626Z - info: [2:12:10 am] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md
+2022-11-20T18:12:11.678Z - info: Rebuilding 5 pages
+2022-11-20T18:12:11.996Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/admin/.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-20T18:12:11.997Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/schedule/index-.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-20T18:12:12.007Z - info: Site data built
+2022-11-20T18:12:12.007Z - info: Pages rebuilt
+2022-11-20T18:12:12.007Z - info: Website regeneration complete! Total build time: 0.33s
+2022-11-21T08:35:45.928Z - info: Website generation (lazy) started at 4:35:45 pm
+2022-11-21T08:35:47.260Z - info: Building assets...
+2022-11-21T08:35:48.245Z - info: Assets built
+2022-11-21T08:35:48.245Z - info: Generating landing page...
+2022-11-21T08:35:48.531Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-11-21T08:35:49.654Z - info: Site data built
+2022-11-21T08:35:49.654Z - info: Website generation (lazy) complete! Total build time: 4.042s
+2022-11-21T08:35:50.573Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2022-11-21T08:35:50.574Z - info: Press CTRL+C to stop ...
+2022-11-21T08:53:44.227Z - info: [4:53:44 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\header.md
+2022-11-21T08:53:44.227Z - info: Synchronizing opened pages list before reload
+2022-11-21T08:53:44.228Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T08:53:44.228Z - info: 1. index
+2022-11-21T08:53:45.238Z - info: Assets built
+2022-11-21T08:53:56.832Z - info: [4:53:56 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md
+2022-11-21T08:53:56.832Z - info: Synchronizing opened pages list before reload
+2022-11-21T08:53:56.832Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T08:53:56.832Z - info: 1. index
+2022-11-21T08:53:57.872Z - info: Rebuilding 1 pages
+2022-11-21T08:53:57.982Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/admin/.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-21T08:53:57.982Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/website/schedule/index-.html' found in file 'C:\repos\nus-cs3281\cs3281-website\_markbind\layouts\default.md'
+2022-11-21T08:53:57.987Z - info: Site data built
+2022-11-21T08:53:57.988Z - info: Pages rebuilt
+2022-11-21T08:53:57.988Z - info: Website regeneration complete! Total build time: 0.116s
+2022-11-21T08:54:45.578Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2022-11-21T08:54:45.854Z - info: Site data built
+2022-11-21T08:54:45.854Z - info: Lazy website regeneration complete! Total build time: 0.277s
+2022-11-21T08:54:59.663Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2022-11-21T08:55:00.407Z - info: Site data built
+2022-11-21T08:55:00.407Z - info: Lazy website regeneration complete! Total build time: 0.744s
+2022-11-21T08:55:00.947Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2022-11-21T08:55:01.023Z - info: Site data built
+2022-11-21T08:55:01.024Z - info: Lazy website regeneration complete! Total build time: 0.078s
+2022-11-21T08:56:58.096Z - info: [4:56:58 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.md
+2022-11-21T08:56:58.096Z - info: Synchronizing opened pages list before reload
+2022-11-21T08:56:58.096Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T08:56:58.097Z - info: 1. index
+2022-11-21T08:56:59.113Z - info: Rebuilding 1 pages
+2022-11-21T08:56:59.206Z - info: Site data built
+2022-11-21T08:56:59.206Z - info: Pages rebuilt
+2022-11-21T08:56:59.206Z - info: Website regeneration complete! Total build time: 0.093s
+2022-11-21T08:58:42.518Z - info: [4:58:42 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2022-11-21T08:58:42.519Z - info: Synchronizing opened pages list before reload
+2022-11-21T08:58:42.519Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T08:58:42.519Z - info: 1. index
+2022-11-21T08:58:43.551Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-11-21T08:58:43.552Z - info: Rebuilding 1 pages
+2022-11-21T08:58:43.641Z - info: Site data built
+2022-11-21T08:58:43.641Z - info: Pages rebuilt
+2022-11-21T08:58:43.642Z - info: Website regeneration complete! Total build time: 0.111s
+2022-11-21T09:13:22.591Z - info: [5:13:22 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.md
+2022-11-21T09:13:22.591Z - info: Synchronizing opened pages list before reload
+2022-11-21T09:13:22.592Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T09:13:22.592Z - info: 1. index
+2022-11-21T09:13:23.607Z - info: Rebuilding 1 pages
+2022-11-21T09:13:23.692Z - info: Site data built
+2022-11-21T09:13:23.692Z - info: Pages rebuilt
+2022-11-21T09:13:23.692Z - info: Website regeneration complete! Total build time: 0.086s
+2022-11-21T09:15:02.949Z - info: [5:15:02 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\_markbind\variables.md
+2022-11-21T09:15:02.949Z - info: Synchronizing opened pages list before reload
+2022-11-21T09:15:02.949Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T09:15:02.949Z - info: 1. index
+2022-11-21T09:15:02.972Z - info: [5:15:02 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\callForApplications.md
+2022-11-21T09:15:02.972Z - info: Synchronizing opened pages list before reload
+2022-11-21T09:15:02.972Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T09:15:02.973Z - info: 1. index
+2022-11-21T09:15:03.973Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-11-21T09:15:03.973Z - info: Rebuilding 1 pages
+2022-11-21T09:15:04.069Z - info: Site data built
+2022-11-21T09:15:04.069Z - info: Pages rebuilt
+2022-11-21T09:15:04.070Z - info: Website regeneration complete! Total build time: 0.104s
+2022-11-21T09:17:43.698Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2022-11-21T09:17:43.858Z - info: Site data built
+2022-11-21T09:17:43.859Z - info: Lazy website regeneration complete! Total build time: 0.161s
+2022-11-21T09:17:59.188Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-11-21T09:18:00.186Z - info: Site data built
+2022-11-21T09:18:00.186Z - info: Lazy website regeneration complete! Total build time: 0.998s
+2022-11-21T09:18:00.481Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2022-11-21T09:18:00.564Z - info: Site data built
+2022-11-21T09:18:00.564Z - info: Lazy website regeneration complete! Total build time: 0.083s
+2022-11-21T09:19:45.108Z - info: [5:19:45 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.md
+2022-11-21T09:19:45.108Z - info: Synchronizing opened pages list before reload
+2022-11-21T09:19:45.108Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T09:19:45.108Z - info: 1. schedule/index-cs3281
+2022-11-21T09:19:46.111Z - info: Rebuilding 1 pages
+2022-11-21T09:19:46.208Z - info: Site data built
+2022-11-21T09:19:46.208Z - info: Pages rebuilt
+2022-11-21T09:19:46.208Z - info: Website regeneration complete! Total build time: 0.097s
+2022-11-21T09:20:20.106Z - info: [5:20:20 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.md
+2022-11-21T09:20:20.106Z - info: Synchronizing opened pages list before reload
+2022-11-21T09:20:20.107Z - info: Current opened pages, from most-to-least recent:
+2022-11-21T09:20:20.107Z - info: 1. schedule/index-cs3281
+2022-11-21T09:20:21.122Z - info: Rebuilding 1 pages
+2022-11-21T09:20:21.239Z - info: Site data built
+2022-11-21T09:20:21.239Z - info: Pages rebuilt
+2022-11-21T09:20:21.240Z - info: Website regeneration complete! Total build time: 0.117s
+2022-11-21T09:21:58.012Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\mentors as some of its dependencies were changed since the last visit
+2022-11-21T09:21:58.127Z - info: Site data built
+2022-11-21T09:21:58.127Z - info: Lazy website regeneration complete! Total build time: 0.115s
+2022-11-21T09:22:24.693Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2022-11-21T09:22:24.778Z - info: Site data built
+2022-11-21T09:22:24.779Z - info: Lazy website regeneration complete! Total build time: 0.086s
+2022-11-21T09:25:24.174Z - info: Website generation started at 5:25:23 pm
+2022-11-21T09:25:25.941Z - info: Building assets...
