@@ -1,8 +1,8 @@
 <frontmatter>
 title: "CS3281 Code Sprint"
-header: head.mbdf
+header: head.md
 </frontmatter>
 
 # **NUS-OSS Code Sprint 2022**
 
-<include src="attendees.mbdf" />
+<include src="attendees.md" />

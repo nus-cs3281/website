@@ -1,11 +1,11 @@
-<variable name="year">2022</variable>
-<variable name="previous_year">2021</variable>
-<variable name="AY">21/22</variable>
+<variable name="year">2023</variable>
+<variable name="previous_year">2022</variable>
+<variable name="AY">22/23</variable>
 <variable name="is_pre_sem"></variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
-<variable name="cs3281_venue">COM1-0206</variable>
+<variable name="cs3281_venue">COM1-0204</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>
-<variable name="cs3282_venue">COM1-0206</variable>
+<variable name="cs3282_venue">COM1-0204</variable>
 <variable name="module_org">https://github.com/nus-cs3281</variable>
 <variable name="module_site">https://nus-cs3281.github.io</variable>
 <variable name="students_repo">{{ module_org }}/{{ year }}</variable>

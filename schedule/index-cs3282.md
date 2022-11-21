@@ -4,7 +4,7 @@ pageNav: 2
 layout: cs3282-layout.md
 </frontmatter>
 
-{% from "schedule/index-cs3281.mbd" import weeks with context %}
+{% from "schedule/index-cs3281.md" import weeks with context %}
 
 # CS3282 Schedule
 
@@ -234,7 +234,7 @@ If you haven't already,
 
 <panel type="secondary" header="For reference: Tips from round A" no-close>
 
-<include src="./index-cs3282.mbd#tips-roundA" />
+<include src="./index-cs3282.md#tips-roundA" />
 
 </panel>
 <p/>
@@ -303,7 +303,7 @@ If you haven't already,
 
 <box type="tip">
 
-<include src="index-cs3281.mbd#create-beginner-issues" />
+<include src="index-cs3281.md#create-beginner-issues" />
 </box>
 
 #### Todo

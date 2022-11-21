@@ -1,4 +1,4 @@
-<header fixed>
+<header sticky>
   <navbar type="{{ nav_type }}">
   <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">[CS3281&2 - {{ year }}]</a>
   <dropdown header="CS3281" class="nav-link">

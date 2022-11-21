@@ -2,7 +2,7 @@
 title: "CS3281&2 Call for Applications"
 keywords: Structure, Workload, Enrollment, Assessment, FAQ
 pageNav: 2
-head: head.mbdf
+head: head.md
 </frontmatter>
 
 # CS3281&2 - AY20{{ AY }}, Semester II
@@ -15,20 +15,20 @@ These two modules are **offered in Semester 2 only**.
 
 * Reason: Our past experience shows that one semester is not enough for students to reach a level where they can do project mentoring and take part in project management (which are important learning outcomes of this module pair).
 * If you get selected for CS3281, your place in CS3282 is guaranteed in subsequent years.
-* Qualifying project work done in between the two modules can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project ABC (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%
+* Qualifying project work done in between the two modules can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%
 * Typically, you are expected to take CS3281 in your 2nd or 3rd year and CS3282 in your 3rd or 4th year. It is also possible to take CS3281 in the 2nd year and CS3282 in the 4th year (i.e., a gap of 3-semesters in between).
 
 **Prerequisites** : CS2103/T or CS2113/T (with approval)
 
 <!-- ==================================================================================================== -->
 
-## Structure 
+## Structure
 
 * **[CS3281]({{baseUrl}}/admin/cs3281.html)**
   * **Do a major contribution to a medium size OSS project** <br>
     Students will be working in teams to add a major feature to one of the **[NUS-OSS Projects](https://nus-oss.github.io/)** (of your choice) that are mentored by Dr Damith. Those who do well can stay with the project after the module and get promoted to higher positions (paid) of the project. In addition, those who score well for this module will get priority for internship positions for future SIP/ATAP rounds.
 
-* **[CS3282]({{baseUrl}}/admin/cs3282.html)** 
+* **[CS3282]({{baseUrl}}/admin/cs3282.html)**
   * **Manage a project** (take part in project administration, mentor junior developers)<br>
     Take part in managing an OSS project, and mentoring other programmers. This requirement is fulfilled by serving as a senior developer in the NUS-OSS project(s) that you joined in CS3281.
   * **Do a small contributions to one or more big OSS projects**<br>
@@ -68,14 +68,14 @@ These two modules are **offered in Semester 2 only**.
 * Lectures are compulsory to attend.
   * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
   * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 15th)==.
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 14th)==.
 * No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.
 
 <!-- ==================================================================================================== -->
 
 ## Assessment
 
-Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam. 
+Students will be assessed on each module separately, based on their contributions to the project, and their skills/expertise gained. Both modules are 100% CA with no final exam.
 
 <!-- ==================================================================================================== -->
 
@@ -95,7 +95,7 @@ To get the full value of these module pair, you are encouraged to stay involved 
 Student selection is **not based on ModReg**. Instead, submit your application using ==[this application form](https://forms.office.com/r/SvtnieQXND)== (requires NUSNET login, requires you to upload the latest transcript).
 
 
-{{ icon_deadline }} Interested students are to **complete the application process by Mon 6 December {{ previous_year }}**. Late applications will not be entertained.
+{{ icon_deadline }} Interested students are to **complete the application process by Mon 5th December {{ previous_year }}**. Late applications will not be entertained.
 
 The outcome of all applications are expected to be **released via email around 21 December {{ previous_year }}**.
 
@@ -137,7 +137,7 @@ expects you to design and deliver a good product by the end of the semester | ex
 high workload, intended for strong programmers only | high workload, intended for strong programmers only
 </div>
 
-  
+
 * Q: Can I take this module while doing ATAP/SIP?<br>
   A: No. %%Reason: You need to be available during working hours for lectures and project meetings.%%
 
@@ -146,7 +146,7 @@ high workload, intended for strong programmers only | high workload, intended fo
 
 * Q: Can CEG students take this module?<br>
   A: Yes.
-  
+
 * Q: If selected for both CS3217 and CS3281&2, can I take both? <br>
   A: Discouraged (but allowed). %%Reason: all three modules have high workload.%%
 
