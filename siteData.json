@@ -96,16 +96,24 @@
     },
     {
       "src": "index.md",
-      "title": "CS3281&2 Call for Applications",
+      "title": "CS3281 Schedule",
       "headings": {
-        "cs3281-and-amp-2-ay2022-23-semester-ii": "CS3281&amp;2 - AY2022/23, Semester II",
-        "structure": "Structure",
-        "workload": "Workload",
-        "assessment": "Assessment",
-        "enrollment": "Enrollment",
-        "selection": "Selection",
-        "faq": "FAQ",
-        "have-a-question": "Have a Question?"
+        "cs3281-schedule": "CS3281 Schedule",
+        "week-1-9th-jan": "Week 1 [9th Jan]",
+        "week-2-16th-jan": "Week 2 [16th Jan]",
+        "week-3-23rd-jan": "Week 3 [23rd Jan]",
+        "week-4-30th-jan": "Week 4 [30th Jan]",
+        "week-5-6th-feb": "Week 5 [6th Feb]",
+        "week-6-13th-feb": "Week 6 [13th Feb]",
+        "week-7-27th-feb": "Week 7 [27th Feb]",
+        "week-8-6th-mar": "Week 8 [6th Mar]",
+        "week-9-13th-mar": "Week 9 [13th Mar]",
+        "week-10-20th-mar": "Week 10 [20th Mar]",
+        "week-11-27th-mar": "Week 11 [27th Mar]",
+        "week-12-3rd-apr": "Week 12 [3rd Apr]",
+        "week-13-10th-apr": "Week 13 [10th Apr]",
+        "reading-week-exam-period": "Reading week, exam period",
+        "work-done-after-the-semester": "Work done after the semester"
       },
       "headingKeywords": {}
     },
