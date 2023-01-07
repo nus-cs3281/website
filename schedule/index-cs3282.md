@@ -21,7 +21,7 @@ layout: cs3282-layout.md
 #### Thursday
 
 * {{ icon_lecture }} Lecture : CS3282 Module Intro
-  * Online lecture (Zoom link is in LumiNUS/WebLinks)
+  * Online lecture (Zoom link is in Canvas homepage)
 
 
 #### Saturday (Code Sprint)
@@ -75,8 +75,23 @@ You are welcome to do more than one book/chapter too.
 
 #### Thursday
 
+* {{ icon_lecture }} Project-specific discussions
+
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 4 [{{ weeks[4].day }}]
+
+#### Todo
+If you haven't already,
+* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
+
+
+#### Thursday
+
+
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
-  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on the alphabetical order of last three letters of the full name (as per LumiNUS).
+  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
 
 
 <panel type="secondary" header="##### Steps to follow when preparing" expanded no-close>
@@ -138,19 +153,6 @@ Try to follow these steps in the given order:
 
 </panel>
 <p/>
-
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 4 [{{ weeks[4].day }}]
-
-#### Todo
-If you haven't already,
-* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
-
-
-#### Thursday
-
-* {{ icon_lecture }} Project-specific discussions
 
 
 #### Sunday

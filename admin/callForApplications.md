@@ -69,7 +69,7 @@ These two modules are **offered in Semester 2 only**.
   * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
   * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
 * In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 14th)==.
-* No tutorials. Ignore the tutorial timings given in LumiNUS/ModReg.
+* No tutorials. Ignore the tutorial timings given in Canvas/ModReg.
 
 <!-- ==================================================================================================== -->
 

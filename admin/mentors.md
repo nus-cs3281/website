@@ -9,6 +9,7 @@ layout: cs3281-layout.md
 ## CATCher
 
 **Current focus:**
+* Build up the sister app: WATcher
 * Retire the desktop version.
 * Find a way to make the tester's repo private during the PE (to prevent others copying bugs).
 * Improve testing.
@@ -18,11 +19,10 @@ layout: cs3281-layout.md
 
 <box header="Mentors">
 
-* Ding Yuchen
-* Kang Su Min
-* Low Jun Kai, Sean
-* Anubhav (Industry)<sup>1</sup>
-* Koh Jun Wei (Industry)<sup>1</sup>
+* Kang Su Min (`@kkangs0226`)
+* Lee Chun Wei (`@chunweii`)
+* Lee Xiong Jie, Isaac (`@luminousleek`)
+* Anubhav (`@anubh-v`) (industry)<sup>1</sup>
 </box>
 
 ## MarkBind
@@ -45,14 +45,14 @@ layout: cs3281-layout.md
 
 <box header="Mentors">
 
-* Ang Ze Yu
-* Jonah Tan Jun Zi
-* Ong Wei Xing
-* Ryo Chandra Putra Armanda
-* Rayson Koh
-* Aaron Chong (Industry)<sup>1</sup>
-* Jiang Sheng (Industry)<sup>1</sup>
-* Marvin Chin (Industry)<sup>1</sup>
+* Jonah Tan Jun Zi (`@jonahtanjz`)
+* Jovyn Tan Li Shyan (`@jovyntls`)
+* Koh Rayson (`@raysonkoh`)
+* Liu Yongliang (`@tlylt`)
+* Ong Jun Xiong (`@ong6`)
+* Aaron Chong Jun Hao (`@acjh`) (industry)<sup>1</sup>
+* Ang Ze Yu (`@ang-zeyu`) (industry)<sup>1</sup>
+* Jiang Sheng (`@Gisonrg`) (industry)<sup>1</sup>
 </box>
 
 ## RepoSense
@@ -67,12 +67,13 @@ layout: cs3281-layout.md
 
 <box header="Mentors">
 
-* Chan Ger Hean
-* Hsu Zhong Jun
-* Huang Chengyu
-* Wang Chao (Industry)<sup>1</sup>
-* Eugene Peh (Industry)<sup>1</sup>
-* James Pang Mun Wai (Industry)<sup>1</sup>
+* Chan Jun Da (`@chan-j-d`)
+* Hsu Zhong Jun (`@dcshzj`)
+* Huang Chengyu (`@HCY123902`)
+* Tay Yi Hsuen (`@yhtMinceraft1010X`)
+* Zhou Jiahao (`@Zhou-Jiahao-1998`)
+* Peh Xian Bin, Eugene (`@eugenepeh`) (industry)<sup>1</sup>
+* Tejas Bhuwania (`@Tejas2805`) (industry)<sup>1</sup>
 </box>
 
 ## SE-EDU
@@ -95,18 +96,14 @@ Current [SE-EDU team](https://se-education.org/docs/team.html)
 
 <box header="Mentors">
 
-* Adithya Narayan
-* Chong Chee Yuan
-* Dao Ngoc Hieu
-* Li Jianhan
-* Lim Zhi Wei
-* Mo Zhongran
-* Muhammad Ahmed
-* Tan Chee Peng
-* Jeremy Choo (Industry)<sup>1</sup>
-* Rahul Rajesh<sup>1</sup>
-* Wilson Kurniawan (Industry)<sup>1</sup>
-* Xiao Pu (Industry)<sup>1</sup>
+* Dao Ngoc Hieu (`@daongochieu2810`)
+* Fang Junwei, Samuel (`@samuelfangjw`)
+* Wu Qirui (`@hhdqirui`)
+* Yu Shufan (`@fans2619`)
+* Zhao Jingjing (`@zhaojj2209`)
+* Muhammad Ahmed Bin Anwar Bahajjaj (`@madanalogy`) (industry)<sup>1</sup>
+* Wison Kurniawan (`@wkurniawan07`) (industry)<sup>1</sup>
+* Yen Pin Hsuan (`@ypinhsuan`) (industry)<sup>1</sup>
 </box>
 
 ---
