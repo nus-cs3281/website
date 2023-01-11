@@ -1,0 +1,30 @@
+2023-01-11T08:00:09.584Z - info: Website generation (lazy) started at 4:00:08 pm
+2023-01-11T08:00:11.207Z - info: Building assets...
+2023-01-11T08:00:12.210Z - info: Assets built
+2023-01-11T08:00:12.210Z - info: Generating landing page...
+2023-01-11T08:00:12.548Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-01-11T08:00:13.662Z - info: Site data built
+2023-01-11T08:00:13.663Z - info: Website generation (lazy) complete! Total build time: 4.708s
+2023-01-11T08:00:14.590Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2023-01-11T08:00:14.590Z - info: Press CTRL+C to stop ...
+2023-01-11T08:01:34.185Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2023-01-11T08:01:34.821Z - info: Site data built
+2023-01-11T08:01:34.821Z - info: Lazy website regeneration complete! Total build time: 0.637s
+2023-01-11T08:01:54.041Z - info: [4:01:54 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2023-01-11T08:01:54.042Z - info: Synchronizing opened pages list before reload
+2023-01-11T08:01:54.042Z - info: Current opened pages, from most-to-least recent:
+2023-01-11T08:01:54.043Z - info: 1. schedule/index-cs3282
+2023-01-11T08:01:55.059Z - info: Rebuilding 1 pages
+2023-01-11T08:01:55.344Z - info: Site data built
+2023-01-11T08:01:55.345Z - info: Pages rebuilt
+2023-01-11T08:01:55.345Z - info: Website regeneration complete! Total build time: 0.286s
+2023-01-11T08:08:26.586Z - info: [4:08:26 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2023-01-11T08:08:26.586Z - info: Synchronizing opened pages list before reload
+2023-01-11T08:08:26.586Z - info: Current opened pages, from most-to-least recent:
+2023-01-11T08:08:26.587Z - info: 1. schedule/index-cs3282
+2023-01-11T08:08:27.603Z - info: Rebuilding 1 pages
+2023-01-11T08:08:27.877Z - info: Site data built
+2023-01-11T08:08:27.877Z - info: Pages rebuilt
+2023-01-11T08:08:27.877Z - info: Website regeneration complete! Total build time: 0.276s
+2023-01-11T08:11:04.071Z - info: Website generation started at 4:11:03 pm
+2023-01-11T08:11:05.782Z - info: Building assets...
