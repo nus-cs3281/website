@@ -98,6 +98,7 @@ Current [SE-EDU team](https://se-education.org/docs/team.html)
 
 * Dao Ngoc Hieu (`@daongochieu2810`)
 * Fang Junwei, Samuel (`@samuelfangjw`)
+* Li Jianhan (`@jianhandev`)
 * Wu Qirui (`@hhdqirui`)
 * Yu Shufan (`@fans2619`)
 * Zhao Jingjing (`@zhaojj2209`)
