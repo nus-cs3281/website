@@ -52,7 +52,10 @@ You are welcome to do more than one book/chapter too.
 
 #### Todo
 
-* {{ icon_todo }} If you plan to contribute to an external project, start looking for one if you haven't done so already. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
+* {{ icon_todo }} **Keep updating `progress.md` and `knowledge.md`**, in the [nus-cs3281/{{ year }} repo](https://github.com/nus-cs3281/{{ year }}) periodically.
+  * `progress.md`: Your contributions to the internal project(s). Update similar to how you did in CS3281.
+  * `knowledge.md`: Keep evolving your `knowledge.md` to showcase things you have learned in various areas (e.g., your chosen expertise areas): resources explored, lessons learned, deliverables produced, etc.
+* {{ icon_todo }} **If you plan to contribute to an external project,** start looking for one if you haven't done so already. Once you have found a potential project, you can follow their instructions to get started on contributing. You can even try multiple projects if you are not sure the chosen project will work out.
 
 #### Thursday
 
