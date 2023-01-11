@@ -20,7 +20,7 @@ with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-
 with(this){return _c('h4',{attrs:{"id":"thursday"}},[_c('span',{staticClass:"anchor",attrs:{"id":"thursday"}}),_v("Thursday"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#thursday","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture : CS3282 Module Intro\n"),_c('ul',[_c('li',[_v("Online lecture (Zoom link is in Canvas homepage)")])])])])}
+with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture : CS3282 Module Intro\n"),_c('ul',[_c('li',[_v("Hybrid lecture (Zoom link is in Canvas homepage) -- "),_c('mark',[_v("F2F by default")]),_v(" unless you obtained permissions to not attend F2F.")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"saturday-code-sprint"}},[_c('span',{staticClass:"anchor",attrs:{"id":"saturday-code-sprint"}}),_v("Saturday (Code Sprint)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#saturday-code-sprint","onclick":"event.stopPropagation()"}})])}
@@ -194,6 +194,6 @@ with(this){return _c('h4',{attrs:{"id":"thursday-13"}},[_c('span',{staticClass:"
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture: Project specific discussions and wrap up")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")])]),_v(" on Wed, 11 Jan 2023, 8:26:32 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")])]),_v(" on Wed, 11 Jan 2023, 15:07:05 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
 }];
   
