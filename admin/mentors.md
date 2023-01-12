@@ -100,7 +100,6 @@ Current [SE-EDU team](https://se-education.org/docs/team.html)
 * Fang Junwei, Samuel (`@samuelfangjw`)
 * Li Jianhan (`@jianhandev`)
 * Wu Qirui (`@hhdqirui`)
-* Yu Shufan (`@fans2619`)
 * Zhao Jingjing (`@zhaojj2209`)
 * Muhammad Ahmed Bin Anwar Bahajjaj (`@madanalogy`) (industry)<sup>1</sup>
 * Wison Kurniawan (`@wkurniawan07`) (industry)<sup>1</sup>
