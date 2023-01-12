@@ -10,6 +10,17 @@
       "headingKeywords": {}
     },
     {
+      "src": "admin/attendees-fragment.md",
+      "title": "",
+      "headings": {
+        "catcher": "CATcher",
+        "markbind": "MarkBind",
+        "reposense": "RepoSense",
+        "teammates": "TEAMMATES"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "admin/attendees.md",
       "title": "",
       "headings": {
@@ -39,7 +50,7 @@
       "src": "admin/code-sprint.md",
       "title": "CS3281 Code Sprint",
       "headings": {
-        "nus-oss-code-sprint-2022": "NUS-OSS Code Sprint 2022",
+        "nus-oss-code-sprint-2023": "NUS-OSS Code Sprint 2023",
         "catcher": "CATcher",
         "markbind": "MarkBind",
         "reposense": "RepoSense",
