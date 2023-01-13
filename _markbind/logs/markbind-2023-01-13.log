@@ -1,0 +1,22 @@
+2023-01-13T14:08:57.168Z - info: Website generation (lazy) started at 10:08:56 pm
+2023-01-13T14:08:59.000Z - info: Building assets...
+2023-01-13T14:09:00.063Z - info: Assets built
+2023-01-13T14:09:00.063Z - info: Generating landing page...
+2023-01-13T14:09:00.402Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-01-13T14:09:01.594Z - info: Site data built
+2023-01-13T14:09:01.595Z - info: Website generation (lazy) complete! Total build time: 4.827s
+2023-01-13T14:09:02.544Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2023-01-13T14:09:02.545Z - info: Press CTRL+C to stop ...
+2023-01-13T14:09:17.464Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\code-sprint as some of its dependencies were changed since the last visit
+2023-01-13T14:09:17.639Z - info: Site data built
+2023-01-13T14:09:17.639Z - info: Lazy website regeneration complete! Total build time: 0.175s
+2023-01-13T14:11:18.772Z - info: [10:11:18 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\attendees-fragment.md
+2023-01-13T14:11:18.773Z - info: Synchronizing opened pages list before reload
+2023-01-13T14:11:18.773Z - info: Current opened pages, from most-to-least recent:
+2023-01-13T14:11:18.773Z - info: 1. admin/code-sprint
+2023-01-13T14:11:19.777Z - info: Rebuilding 1 pages
+2023-01-13T14:11:19.870Z - info: Site data built
+2023-01-13T14:11:19.870Z - info: Pages rebuilt
+2023-01-13T14:11:19.870Z - info: Website regeneration complete! Total build time: 0.093s
+2023-01-13T14:28:29.850Z - info: Website generation started at 10:28:29 pm
+2023-01-13T14:28:31.093Z - info: Building assets...
