@@ -44,7 +44,8 @@
         "faq": "FAQ",
         "have-a-question": "Have a Question?"
       },
-      "headingKeywords": {}
+      "headingKeywords": {},
+      "frontmatterKeywords": "Structure, Workload, Enrollment, Assessment, FAQ"
     },
     {
       "src": "admin/code-sprint.md",
