@@ -116,13 +116,13 @@ with(this){return _c('p',[_c('strong',[_v("Recess")])])}
 with(this){return _c('h2',{attrs:{"id":"week-7-27th-feb"}},[_c('span',{staticClass:"anchor",attrs:{"id":"week-7-27th-feb"}}),_v("Week 7 [27th Feb]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-7-27th-feb","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('blockquote',[_c('div',[_c('p',[_v("By the end of this semester, we expect you to,")]),_v(" "),_c('ol',[_c('li',[_v("deliver substantial value to the project, which may be through developing a fairly big feature\n(working solo or together with others) or doing a multitude of tasks in a specific area,")]),_v(" "),_c('li',[_v("more importantly, to gain expertise in a substantial part of the codebase\n(while being fairly familiar with the rest).")])]),_v(" "),_c('p',[_v("If you can't work out a plan that achieves the above, you can seek guidance from the seniors and/or the prof as well.")])])])}
+with(this){return _c('blockquote',[_c('div',[_c('p',[_v("By the end of this semester, we expect you to,")]),_v(" "),_c('ol',[_c('li',[_v("deliver substantial value to the project, which may be through developing a fairly big feature\n(working solo or with others) or doing a bunch of tasks in a specific area,")]),_v(" "),_c('li',[_v("more importantly, to gain expertise in a substantial part of the codebase\n(while being fairly familiar with the rest).")])]),_v(" "),_c('p',[_v("If you can't work out a plan that achieves the above, you can seek guidance from the seniors and/or the prof as well.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('mark',[_v("Deliverables for you (i.e., CS3282 mentors):")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("help mentees achieve the above goals,")]),_v(" "),_c('li',[_v("to ensure CS3281 students collectively gain expertise in the full codebase, and is able to 'manage' the project in future by themselves.")])])}
+with(this){return _c('ol',[_c('li',[_v("guide mentees achieve the above goals,")]),_v(" "),_c('li',[_v("to ensure CS3281 students collectively gain expertise in the full codebase, and is able to 'manage' the project in future by themselves.")])])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-6"}},[_c('span',{staticClass:"anchor",attrs:{"id":"todo-6"}}),_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-6","onclick":"event.stopPropagation()"}})])}
@@ -209,6 +209,6 @@ with(this){return _c('h4',{attrs:{"id":"thursday-13"}},[_c('span',{staticClass:"
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture: Project specific discussions and wrap up")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")])]),_v(" on Sat, 11 Mar 2023, 16:08:52 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")])]),_v(" on Sat, 11 Mar 2023, 16:17:28 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
 }];
   
