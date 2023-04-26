@@ -1,0 +1,9 @@
+2023-03-17T18:30:00.980Z - info: Website generation (lazy) started at 2:30:00 am
+2023-03-17T18:30:02.281Z - info: Building assets...
+2023-03-17T18:30:03.333Z - info: Assets built
+2023-03-17T18:30:03.334Z - info: Generating landing page...
+2023-03-17T18:30:04.263Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-03-17T18:30:05.357Z - info: Site data built
+2023-03-17T18:30:05.357Z - info: Website generation (lazy) complete! Total build time: 4.66s
+2023-03-17T18:30:06.245Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2023-03-17T18:30:06.245Z - info: Press CTRL+C to stop ...
