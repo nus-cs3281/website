@@ -90,6 +90,7 @@ Dao Ngoc Hieu<br>`@daongochieu2810` | Fang Junwei, Samuel<br>`@samuelfangjw` | W
 
 * **Chang Weng Yew, Nicolas** `@NicolasCwy` 
 * **Jay Aljelo Saez Ting** `@jayasting98` 
+* **Li Jianhan** `@jianhandev` 
 * **Liew Xin Yi** `@xyliew25` 
 * **Mok Kheng Sheng Fergus** `@FergusMok` 
 * **Muhammad Ahmed Bin Anwar Bahajjaj** `@madanalogy`  (alumni)

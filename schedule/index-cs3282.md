@@ -188,6 +188,9 @@ Try to follow these steps in the given order:
 * :alarm_clock: by Friday : Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
 * :alarm_clock: by end of recess week : Aim to finish the ['Book Chapter Report' activity](#activity-book-chapter-report)
 
+#### Resources
+
+* Online article of interest: [Steve Jobs's Masterful Presentation Ability Came Down to 1 Underrated Thing. ...](https://www.inc.com/jason-aten/steve-jobs-masterful-presentation-ability-came-down-to-1-underrated-thing-anyone-can-do-it.html)
 ---
 
 **Recess**
@@ -197,6 +200,16 @@ Try to follow these steps in the given order:
 <br>
 
 ## Week 7 [{{ weeks[7].day }}]
+
+For your reference, below are the instructions given to CS3281 students regarding their plan for the second half of the semester.
+<blockquote>
+<include src="index-cs3281.md#plan-for-second-half" />
+</blockquote>
+
+==Deliverables for you (i.e., CS3282 mentors):==
+
+1. guide mentees achieve the above goals,
+1. to ensure CS3281 students collectively gain expertise in the full codebase, and is able to 'manage' the project in future by themselves.
 
 #### Todo
 
@@ -270,7 +283,7 @@ Try to follow these steps in the given order:
 
 * {{ icon_lecture }} Lecture: Lecture:
   * Tips for Tech Talks - Part III
-  * Team-specific discussions
+
 
 <!-- ------------------------------------------------------------------------------------ -->
 
@@ -324,14 +337,14 @@ Try to follow these steps in the given order:
 #### Thursday
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
-<!--
-  * ==[Venue SR1]==
   * No Q&A
-  * Time will be limited to 7 minutes per talk. To minimize set up time,
-    * try to ==use the LT PC instead of your own laptop== as much as possible.
-    * embed demos as videos or animated gifs in the slide itself.
-    * come a few minutes early and copy the slides to the LT PC before the session starts.
--->
+  * By default, this is an improved version of the talk you gave in round B, based on feedback you received for it.<br>
+    Optionally, you may add up to 3 additional minutes of content (i.e., up to 10 minutes in total) if you wish.
+    * The additional content can be drawn from your round A talk, if your round B talk was a continuation of the round A talk, and you wish to make the round C talk a combination of the previous two talks.
+    * Alternatively, the additional content can be new, going deeper into the topic than you did in round B.
+    * You can also consider incorporating into the talk answers to relevant questions raised during round B Q&A session.
+    * Also consider adding info on the cons/downsides of the topic so that the talk can become more balanced, and your message to the audience become more credible (i.e., it appears like advice from an expert rather than a sales pitch).
+
 <panel type="info" header="**Targets for LT Round C**" expanded no-close>
 
 In this round you are ==expected to hit almost all targets(:dart:)== given below. You are recommended to follow tips (:bulb:) given under each target closely.
@@ -339,7 +352,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 **Talk structure**
 
 1. :dart: The talk is well-structured and aims for high impact.
-   1. :bulb: Document all the important elements of PUMA given below (listed in the order one would define each when planning the talk structure) as an extra/hidden slide in the slide deck (for verification/grading purposes)
+   1. :bulb: Document the following elements an extra/hidden slide in the slide deck (for verification/grading purposes)
       * Intended impact:
          * Know
          * Believe

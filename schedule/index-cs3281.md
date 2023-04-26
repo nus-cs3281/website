@@ -153,6 +153,18 @@ Don't worry if your RepoSense graph doesn't have as many ramps as others. Data s
 
 ## Week 7 [{{ weeks[7].day }}]
 
+<div id="plan-for-second-half">
+
+By the end of this semester, we expect you to,
+
+1. deliver substantial value to the project, which may be through developing a fairly big feature
+(working solo or with others) or doing a bunch of tasks in a specific area,
+1. more importantly, to gain expertise in a substantial part of the codebase
+(while being fairly familiar with the rest).
+
+If you can't work out a plan that achieves the above, you can seek guidance from the seniors and/or the prof as well.
+</div>
+
 * :alarm_clock: by Friday
   * Peer evaluations
 * :alarm_clock: by Sunday
@@ -257,17 +269,12 @@ Soft deadline: end of week 13; hard deadline: end of reading week
 
 ## Work done after the semester
 
-* For those taking CS3282 in a future semester, the work done after the semester is over
-  can be ==paid as part-time work, or used to earn CS3282 credit==. You can do a mix too,
-  as long as the same work is not used for both.
-  * If you wish to get paid, please let prof know in advance so that the relevant paperwork
-    can be done in time.
-  * If you wish to earn CS3282 credit, keep good records of the work done so that they can
-    be included in CS3282 work later when you take the module.
+* The work done after the semester is over can earn credit when taking CS3282 later.
   * Any value addition towards the module (e.g., PR reviews, mentoring, development work, etc.)
-    can be used for either of the above.
+    can be used for the above.
   * The work done prior to CS3282 start date can count up to 40% of the module load i.e.,
     at least 60% of the module work needs to be done during the semester itself.
+  * Keep good records of the work done so that they can be included in CS3282 work later when you take the module.
 * While keeping in touch with the project during the intervening period is not compulsory,
   it is **strongly encouraged as it would help you to deepen your expertise in the project**.
   The more expertise you have in the project, the better you will be able to do
