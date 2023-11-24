@@ -4,7 +4,7 @@ pageNav: 2
 layout: cs3281-layout.md
 </frontmatter>
 
-{% set sem_start = "2023-01-09" %}
+{% set sem_start = "2023-01-15" %}
 {% set weeks = [
     {num: "0", day: (sem_start | date("Do MMM", -7))},
     {num: "1", day: (sem_start | date("Do MMM", 0))},
@@ -42,8 +42,7 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 
 #### Monday
 
-* {{ icon_lecture }} Lecture: CS3281 Module Intro
-  * Online lecture (Zoom link is in Canvas course home page)
+* {{ icon_lecture }} Lecture: CS3281 Course Intro
 
 #### Saturday (Code Sprint)
 
@@ -270,11 +269,11 @@ Soft deadline: end of week 13; hard deadline: end of reading week
 ## Work done after the semester
 
 * The work done after the semester is over can earn credit when taking CS3282 later.
-  * Any value addition towards the module (e.g., PR reviews, mentoring, development work, etc.)
+  * Any value addition towards the course (e.g., PR reviews, mentoring, development work, etc.)
     can be used for the above.
-  * The work done prior to CS3282 start date can count up to 40% of the module load i.e.,
-    at least 60% of the module work needs to be done during the semester itself.
-  * Keep good records of the work done so that they can be included in CS3282 work later when you take the module.
+  * The work done prior to CS3282 start date can count up to 40% of the course load i.e.,
+    at least 60% of the course work needs to be done during the semester itself.
+  * Keep good records of the work done so that they can be included in CS3282 work later when you take the course.
 * While keeping in touch with the project during the intervening period is not compulsory,
   it is **strongly encouraged as it would help you to deepen your expertise in the project**.
   The more expertise you have in the project, the better you will be able to do

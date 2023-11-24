@@ -20,7 +20,7 @@ layout: cs3282-layout.md
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : CS3282 Module Intro
+* {{ icon_lecture }} Lecture : CS3282 Course Intro
   * Hybrid lecture (Zoom link is in Canvas homepage) -- ==F2F by default== unless you obtained permissions to not attend F2F.
 
 

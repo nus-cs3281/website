@@ -1,19 +1,19 @@
-<variable name="year">2023</variable>
-<variable name="previous_year">2022</variable>
-<variable name="AY">22/23</variable>
+<variable name="year">2024</variable>
+<variable name="AY">23/24</variable>
 <variable name="is_pre_sem"></variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
 <variable name="cs3281_venue">COM1-0204</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>
 <variable name="cs3282_venue">COM1-0204</variable>
-<variable name="module_org">https://github.com/nus-cs3281</variable>
-<variable name="module_site">https://nus-cs3281.github.io</variable>
-<variable name="students_repo">{{ module_org }}/{{ year }}</variable>
-<variable name="students_site">{{ module_site }}/{{ year }}</variable>
-<variable name="dashboard_repo">{{ module_org }}/{{ year }}-dashboard</variable>
-<variable name="dashboard_site">{{ module_site }}/{{ year }}-dashboard/?search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=&groupSelect=groupByAuthors&breakdown=false</variable>
+<variable name="course_org">https://github.com/nus-cs3281</variable>
+<variable name="course_site">https://nus-cs3281.github.io</variable>
+<variable name="students_repo">{{ course_org }}/{{ year }}</variable>
+<variable name="students_site">{{ course_site }}/{{ year }}</variable>
+<variable name="dashboard_repo">{{ course_org }}/{{ year }}-dashboard</variable>
+<variable name="dashboard_site">{{ course_site }}/{{ year }}-dashboard/?search=&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=&groupSelect=groupByAuthors&breakdown=false</variable>
 
 
+<variable name="previous_year">{{ (year | int) -1 }}</variable>
 <variable name="icon_deadline">:alarm_clock:</variable>
 <variable name="icon_dislike">:fas-thumbs-down:</variable>
 <variable name="icon_example">:fas-cube:</variable>

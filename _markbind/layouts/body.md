@@ -1,9 +1,9 @@
 <div id="flex-body">
-{% if module_code %}<nav id="site-nav" class="fixed-header-padding">
+{% if course_code %}<nav id="site-nav" class="fixed-header-padding">
     <div class="nav-component slim-scroll">
       <site-nav>
-* [Module Info]({{baseUrl}}/admin/{{ module_code }}.html)
-* [Schedule]({{baseUrl}}/schedule/index-{{ module_code }}.html)
+* [Course Info]({{baseUrl}}/admin/{{ course_code }}.html)
+* [Schedule]({{baseUrl}}/schedule/index-{{ course_code }}.html)
 * [Projects/Mentors]({{baseUrl}}/admin/mentors.html)
 * Students :expanded:
   * [CS3281]({{ students_site }}/index.html)
