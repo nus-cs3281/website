@@ -3,7 +3,6 @@
   "pages": [
     {
       "src": "README.md",
-      "title": "",
       "headings": {
         "ay1718s2": "AY1718S2"
       },
@@ -11,7 +10,6 @@
     },
     {
       "src": "admin/attendees-fragment.md",
-      "title": "",
       "headings": {
         "catcher": "CATcher",
         "markbind": "MarkBind",
@@ -22,7 +20,6 @@
     },
     {
       "src": "admin/attendees.md",
-      "title": "",
       "headings": {
         "catcher": "CATcher",
         "markbind": "MarkBind",
@@ -35,7 +32,7 @@
       "src": "admin/callForApplications.md",
       "title": "CS3281&2 Call for Applications",
       "headings": {
-        "cs3281-and-amp-2-ay2022-23-semester-ii": "CS3281&amp;2 - AY2022/23, Semester II",
+        "cs3281-and-amp-2-ay2023-24-semester-ii": "CS3281&amp;2 - AY2023/24, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
@@ -51,7 +48,7 @@
       "src": "admin/code-sprint.md",
       "title": "CS3281 Code Sprint",
       "headings": {
-        "nus-oss-code-sprint-2023": "NUS-OSS Code Sprint 2023",
+        "nus-oss-code-sprint-2024": "NUS-OSS Code Sprint 2024",
         "catcher": "CATcher",
         "markbind": "MarkBind",
         "reposense": "RepoSense",
@@ -61,7 +58,7 @@
     },
     {
       "src": "admin/cs3281.md",
-      "title": "CS3281 Module Info",
+      "title": "CS3281 Course Info",
       "headings": {
         "cs3281-thematic-systems-projects-i": "CS3281 : Thematic Systems Projects I",
         "lectures": "Lectures",
@@ -73,23 +70,23 @@
         "team-structure": "Team structure",
         "grading": "Grading",
         "expertise-areas": "Expertise Areas",
-        "pre-module-preparations": "Pre-Module Preparations"
+        "pre-course-preparations": "Pre-Course Preparations"
       },
       "headingKeywords": {}
     },
     {
       "src": "admin/cs3282.md",
-      "title": "CS3282 Module Info",
+      "title": "CS3282 Course Info",
       "headings": {
         "cs3282-thematic-systems-project-ii": "CS3282 : Thematic Systems Project II",
-        "module-structure": "Module structure",
+        "course-structure": "Course structure",
         "lectures": "Lectures",
         "pm-project-management": "[PM] Project Management",
         "lt-lightning-talks": "[LT] Lightning talks",
         "pc-professional-conduct": "[PC] Professional Conduct",
         "ep-external-project": "[EP] External Project",
         "ip2-2nd-internal-project": "[IP2] 2nd Internal Project",
-        "pre-module-preparations": "Pre-Module Preparations"
+        "pre-course-preparations": "Pre-Course Preparations"
       },
       "headingKeywords": {}
     },
@@ -110,7 +107,7 @@
       "src": "index.md",
       "title": "CS3281&2 Call for Applications",
       "headings": {
-        "cs3281-and-amp-2-ay2022-23-semester-ii": "CS3281&amp;2 - AY2022/23, Semester II",
+        "cs3281-and-amp-2-ay2023-24-semester-ii": "CS3281&amp;2 - AY2023/24, Semester II",
         "structure": "Structure",
         "workload": "Workload",
         "assessment": "Assessment",
@@ -127,19 +124,19 @@
       "title": "CS3281 Schedule",
       "headings": {
         "cs3281-schedule": "CS3281 Schedule",
-        "week-1-9th-jan": "Week 1 [9th Jan]",
-        "week-2-16th-jan": "Week 2 [16th Jan]",
-        "week-3-23rd-jan": "Week 3 [23rd Jan]",
-        "week-4-30th-jan": "Week 4 [30th Jan]",
-        "week-5-6th-feb": "Week 5 [6th Feb]",
-        "week-6-13th-feb": "Week 6 [13th Feb]",
-        "week-7-27th-feb": "Week 7 [27th Feb]",
-        "week-8-6th-mar": "Week 8 [6th Mar]",
-        "week-9-13th-mar": "Week 9 [13th Mar]",
-        "week-10-20th-mar": "Week 10 [20th Mar]",
-        "week-11-27th-mar": "Week 11 [27th Mar]",
-        "week-12-3rd-apr": "Week 12 [3rd Apr]",
-        "week-13-10th-apr": "Week 13 [10th Apr]",
+        "week-1-15th-jan": "Week 1 [15th Jan]",
+        "week-2-22nd-jan": "Week 2 [22nd Jan]",
+        "week-3-29th-jan": "Week 3 [29th Jan]",
+        "week-4-5th-feb": "Week 4 [5th Feb]",
+        "week-5-12th-feb": "Week 5 [12th Feb]",
+        "week-6-19th-feb": "Week 6 [19th Feb]",
+        "week-7-5th-mar": "Week 7 [5th Mar]",
+        "week-8-12th-mar": "Week 8 [12th Mar]",
+        "week-9-19th-mar": "Week 9 [19th Mar]",
+        "week-10-26th-mar": "Week 10 [26th Mar]",
+        "week-11-2nd-apr": "Week 11 [2nd Apr]",
+        "week-12-9th-apr": "Week 12 [9th Apr]",
+        "week-13-16th-apr": "Week 13 [16th Apr]",
         "reading-week-exam-period": "Reading week, exam period",
         "work-done-after-the-semester": "Work done after the semester"
       },
@@ -150,19 +147,19 @@
       "title": "CS3282 Schedule",
       "headings": {
         "cs3282-schedule": "CS3282 Schedule",
-        "week-1-9th-jan": "Week 1 [9th Jan]",
-        "week-2-16th-jan": "Week 2 [16th Jan]",
-        "week-3-23rd-jan": "Week 3 [23rd Jan]",
-        "week-4-30th-jan": "Week 4 [30th Jan]",
-        "week-5-6th-feb": "Week 5 [6th Feb]",
-        "week-6-13th-feb": "Week 6 [13th Feb]",
-        "week-7-27th-feb": "Week 7 [27th Feb]",
-        "week-8-6th-mar": "Week 8 [6th Mar]",
-        "week-9-13th-mar": "Week 9 [13th Mar]",
-        "week-10-20th-mar": "Week 10 [20th Mar]",
-        "week-11-27th-mar": "Week 11 [27th Mar]",
-        "week-12-3rd-apr": "Week 12 [3rd Apr]",
-        "week-13-10th-apr": "Week 13 [10th Apr]"
+        "week-1-15th-jan": "Week 1 [15th Jan]",
+        "week-2-22nd-jan": "Week 2 [22nd Jan]",
+        "week-3-29th-jan": "Week 3 [29th Jan]",
+        "week-4-5th-feb": "Week 4 [5th Feb]",
+        "week-5-12th-feb": "Week 5 [12th Feb]",
+        "week-6-19th-feb": "Week 6 [19th Feb]",
+        "week-7-5th-mar": "Week 7 [5th Mar]",
+        "week-8-12th-mar": "Week 8 [12th Mar]",
+        "week-9-19th-mar": "Week 9 [19th Mar]",
+        "week-10-26th-mar": "Week 10 [26th Mar]",
+        "week-11-2nd-apr": "Week 11 [2nd Apr]",
+        "week-12-9th-apr": "Week 12 [9th Apr]",
+        "week-13-16th-apr": "Week 13 [16th Apr]"
       },
       "headingKeywords": {}
     }
