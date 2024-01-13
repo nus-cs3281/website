@@ -74,3 +74,88 @@
 2024-01-13T09:09:19.984Z - info: Build success!
 2024-01-13T09:09:26.595Z - info: Website generation started at 5:09:26 pm
 2024-01-13T09:09:27.382Z - info: Building assets...
+2024-01-13T09:09:28.091Z - info: Assets built
+2024-01-13T09:09:28.091Z - info: Generating pages...
+2024-01-13T09:09:28.724Z - info: Pages built
+2024-01-13T09:09:29.196Z - info: Site data built
+2024-01-13T09:09:29.196Z - info: Website generation complete! Total build time: 2.818s
+2024-01-13T09:09:29.197Z - info: Build success!
+2024-01-13T09:10:10.216Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
+2024-01-13T11:30:12.053Z - info: Website generation (lazy) started at 7:30:11 pm
+2024-01-13T11:30:13.215Z - info: Building assets...
+2024-01-13T11:30:13.939Z - info: Assets built
+2024-01-13T11:30:13.939Z - info: Generating landing page...
+2024-01-13T11:30:14.157Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-01-13T11:30:14.902Z - info: Site data built
+2024-01-13T11:30:14.903Z - info: Website generation (lazy) complete! Total build time: 3.11s
+2024-01-13T11:30:15.735Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2024-01-13T11:30:15.735Z - info: Press CTRL+C to stop ...
+2024-01-13T11:30:23.628Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\mentors as some of its dependencies were changed since the last visit
+2024-01-13T11:30:23.750Z - info: Site data built
+2024-01-13T11:30:23.750Z - info: Lazy website regeneration complete! Total build time: 0.123s
+2024-01-13T11:34:58.206Z - info: [7:34:58 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T11:34:58.206Z - info: Synchronizing opened pages list before reload
+2024-01-13T11:34:58.206Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T11:34:58.207Z - info: 1. admin/mentors
+2024-01-13T11:34:59.210Z - info: Rebuilding 1 pages
+2024-01-13T11:34:59.280Z - info: Site data built
+2024-01-13T11:34:59.280Z - info: Pages rebuilt
+2024-01-13T11:34:59.280Z - info: Website regeneration complete! Total build time: 0.071s
+2024-01-13T11:37:11.517Z - info: [7:37:11 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T11:37:11.518Z - info: Synchronizing opened pages list before reload
+2024-01-13T11:37:11.518Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T11:37:11.518Z - info: 1. admin/mentors
+2024-01-13T11:37:12.529Z - info: Rebuilding 1 pages
+2024-01-13T11:37:12.586Z - info: Site data built
+2024-01-13T11:37:12.587Z - info: Pages rebuilt
+2024-01-13T11:37:12.587Z - info: Website regeneration complete! Total build time: 0.059s
+2024-01-13T12:00:19.106Z - info: [8:00:19 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:00:19.107Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:00:19.107Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:00:19.107Z - info: 1. admin/mentors
+2024-01-13T12:00:20.121Z - info: Rebuilding 1 pages
+2024-01-13T12:00:20.196Z - info: Site data built
+2024-01-13T12:00:20.197Z - info: Pages rebuilt
+2024-01-13T12:00:20.197Z - info: Website regeneration complete! Total build time: 0.076s
+2024-01-13T12:12:55.848Z - info: [8:12:55 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:12:55.848Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:12:55.849Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:12:55.849Z - info: 1. admin/mentors
+2024-01-13T12:12:56.861Z - info: Rebuilding 1 pages
+2024-01-13T12:12:56.924Z - info: Site data built
+2024-01-13T12:12:56.924Z - info: Pages rebuilt
+2024-01-13T12:12:56.924Z - info: Website regeneration complete! Total build time: 0.064s
+2024-01-13T12:14:06.344Z - info: [8:14:06 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:14:06.345Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:14:06.345Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:14:06.345Z - info: 1. admin/mentors
+2024-01-13T12:14:07.360Z - info: Rebuilding 1 pages
+2024-01-13T12:14:07.417Z - info: Site data built
+2024-01-13T12:14:07.417Z - info: Pages rebuilt
+2024-01-13T12:14:07.417Z - info: Website regeneration complete! Total build time: 0.058s
+2024-01-13T12:14:25.897Z - info: [8:14:25 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:14:25.897Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:14:25.898Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:14:25.898Z - info: 1. admin/mentors
+2024-01-13T12:14:26.903Z - info: Rebuilding 1 pages
+2024-01-13T12:14:26.959Z - info: Site data built
+2024-01-13T12:14:26.960Z - info: Pages rebuilt
+2024-01-13T12:14:26.960Z - info: Website regeneration complete! Total build time: 0.058s
+2024-01-13T12:14:41.226Z - info: [8:14:41 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:14:41.227Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:14:41.227Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:14:41.227Z - info: 1. admin/mentors
+2024-01-13T12:14:42.232Z - info: Rebuilding 1 pages
+2024-01-13T12:14:42.291Z - info: Site data built
+2024-01-13T12:14:42.291Z - info: Pages rebuilt
+2024-01-13T12:14:42.291Z - info: Website regeneration complete! Total build time: 0.059s
+2024-01-13T12:14:54.307Z - info: [8:14:54 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\mentors.md
+2024-01-13T12:14:54.307Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:14:54.307Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:14:54.308Z - info: 1. admin/mentors
+2024-01-13T12:14:55.325Z - info: Rebuilding 1 pages
+2024-01-13T12:14:55.388Z - info: Site data built
+2024-01-13T12:14:55.388Z - info: Pages rebuilt
+2024-01-13T12:14:55.388Z - info: Website regeneration complete! Total build time: 0.064s
+2024-01-13T12:20:59.094Z - info: Website generation started at 8:20:58 pm
+2024-01-13T12:21:00.057Z - info: Building assets...
