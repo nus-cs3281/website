@@ -125,7 +125,7 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 
 #### Monday
 
-* {{ icon_lecture }} Project-specific discussions
+* {{ icon_lecture }} ~~Project-specific discussions~~ (public holiday)
 
 
 #### Sunday

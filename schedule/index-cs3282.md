@@ -78,23 +78,8 @@ You are welcome to do more than one book/chapter too.
 
 #### Thursday
 
-* {{ icon_lecture }} Project-specific discussions
-
-
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 4 [{{ weeks[4].day }}]
-
-#### Todo
-If you haven't already,
-* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
-
-
-#### Thursday
-
-
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
-  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
+* See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
 
 
 <panel type="secondary" header="##### Steps to follow when preparing" expanded no-close>
@@ -145,17 +130,34 @@ Try to follow these steps in the given order:
 </panel -->
 <panel type="secondary" header="##### After the session" expanded no-close>
 
-  * :alarm_clock: by Thursday midnight:
-    * Speakers should _update_ the issue description (rather than add as a new comment) as follows:
-      * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
-      * State **WIIFY, Key Points, Impact**
-  * :alarm_clock: by Friday midnight:
-    * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
+* :alarm_clock: by Thursday midnight:
+* Speakers should _update_ the issue description (rather than add as a new comment) as follows:
+* Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
+* State **WIIFY, Key Points, Impact**
+* :alarm_clock: by Friday midnight:
+* All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
 
-  * Feel free to continue the discussion about each talk in the issue tracker.
+* Feel free to continue the discussion about each talk in the issue tracker.
 
 </panel>
 <p/>
+
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 4 [{{ weeks[4].day }}]
+
+#### Todo
+If you haven't already,
+* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
+
+
+#### Thursday
+
+
+* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 2
+  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
+
 
 
 #### Sunday
@@ -174,7 +176,7 @@ Try to follow these steps in the given order:
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 2
+* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
 
 
 ## Week 6 [{{ weeks[6].day }}]
@@ -282,6 +284,7 @@ For your reference, below are the instructions given to CS3281 students regardin
 #### Thursday
 
 * {{ icon_lecture }} Lecture: Lecture:
+  * Lightning Talks Round B - Part 3
   * Tips for Tech Talks - Part III
 
 
@@ -311,10 +314,9 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture:
-  * Discussion about observations from the external project
-  * Team-specific discussions (if needed)
-
+* {{ icon_lecture }} ~~Lecture~~ (NUS Well-Being Day):
+  * Tips for Tech Talks - Part III (to be released online)
+  * Discussion about observations from the external project (to be done online)
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 11 [{{ weeks[11].day }}]
@@ -426,4 +428,4 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Project specific discussions and wrap up
+* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 3
