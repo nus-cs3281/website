@@ -105,19 +105,26 @@
     },
     {
       "src": "index.md",
-      "title": "CS3281&2 Call for Applications",
+      "title": "CS3281 Schedule",
       "headings": {
-        "cs3281-and-amp-2-ay2023-24-semester-ii": "CS3281&amp;2 - AY2023/24, Semester II",
-        "structure": "Structure",
-        "workload": "Workload",
-        "assessment": "Assessment",
-        "enrollment": "Enrollment",
-        "selection": "Selection",
-        "faq": "FAQ",
-        "have-a-question": "Have a Question?"
+        "cs3281-schedule": "CS3281 Schedule",
+        "week-1-15th-jan": "Week 1 [15th Jan]",
+        "week-2-22nd-jan": "Week 2 [22nd Jan]",
+        "week-3-29th-jan": "Week 3 [29th Jan]",
+        "week-4-5th-feb": "Week 4 [5th Feb]",
+        "week-5-12th-feb": "Week 5 [12th Feb]",
+        "week-6-19th-feb": "Week 6 [19th Feb]",
+        "week-7-5th-mar": "Week 7 [5th Mar]",
+        "week-8-12th-mar": "Week 8 [12th Mar]",
+        "week-9-19th-mar": "Week 9 [19th Mar]",
+        "week-10-26th-mar": "Week 10 [26th Mar]",
+        "week-11-2nd-apr": "Week 11 [2nd Apr]",
+        "week-12-9th-apr": "Week 12 [9th Apr]",
+        "week-13-16th-apr": "Week 13 [16th Apr]",
+        "reading-week-exam-period": "Reading week, exam period",
+        "work-done-after-the-semester": "Work done after the semester"
       },
-      "headingKeywords": {},
-      "frontmatterKeywords": "Structure, Workload, Enrollment, Assessment, FAQ"
+      "headingKeywords": {}
     },
     {
       "src": "schedule/index-cs3281.md",
