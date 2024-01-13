@@ -283,3 +283,37 @@
 2024-01-13T12:48:39.303Z - info: Website regeneration complete! Total build time: 0.069s
 2024-01-13T12:49:13.684Z - info: Website generation started at 8:49:13 pm
 2024-01-13T12:49:14.558Z - info: Building assets...
+2024-01-13T12:49:15.317Z - info: Assets built
+2024-01-13T12:49:15.317Z - info: Generating pages...
+2024-01-13T12:49:15.975Z - info: Pages built
+2024-01-13T12:49:16.454Z - info: Site data built
+2024-01-13T12:49:16.455Z - info: Website generation complete! Total build time: 2.968s
+2024-01-13T12:49:16.455Z - info: Build success!
+2024-01-13T12:49:53.319Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
+2024-01-13T12:59:11.919Z - info: Website generation (lazy) started at 8:59:11 pm
+2024-01-13T12:59:12.872Z - info: Building assets...
+2024-01-13T12:59:13.724Z - info: Assets built
+2024-01-13T12:59:13.725Z - info: Generating landing page...
+2024-01-13T12:59:13.959Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-01-13T12:59:14.761Z - info: Site data built
+2024-01-13T12:59:14.761Z - info: Website generation (lazy) complete! Total build time: 3.095s
+2024-01-13T12:59:15.576Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2024-01-13T12:59:15.577Z - info: Press CTRL+C to stop ...
+2024-01-13T13:00:30.192Z - info: [9:00:30 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-01-13T13:00:30.192Z - info: Synchronizing opened pages list before reload
+2024-01-13T13:00:30.193Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T13:00:30.193Z - info: 1. index
+2024-01-13T13:00:31.202Z - info: No pages needed to be rebuilt
+2024-01-13T13:01:15.149Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2024-01-13T13:01:15.472Z - info: Site data built
+2024-01-13T13:01:15.472Z - info: Lazy website regeneration complete! Total build time: 0.324s
+2024-01-13T13:01:54.457Z - info: Website generation started at 9:01:54 pm
+2024-01-13T13:01:55.253Z - info: Building assets...
+2024-01-13T13:01:55.961Z - info: Assets built
+2024-01-13T13:01:55.961Z - info: Generating pages...
+2024-01-13T13:01:56.614Z - info: Pages built
+2024-01-13T13:01:57.162Z - info: Site data built
+2024-01-13T13:01:57.163Z - info: Website generation complete! Total build time: 2.921s
+2024-01-13T13:01:57.163Z - info: Build success!
+2024-01-13T13:02:00.041Z - info: Website generation started at 9:01:59 pm
+2024-01-13T13:02:00.841Z - info: Building assets...
