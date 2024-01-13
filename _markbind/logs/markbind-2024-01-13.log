@@ -212,3 +212,74 @@
 2024-01-13T12:39:20.161Z - info: No pages needed to be rebuilt
 2024-01-13T12:39:34.271Z - info: Website generation started at 8:39:34 pm
 2024-01-13T12:39:35.221Z - info: Building assets...
+2024-01-13T12:39:36.045Z - info: Assets built
+2024-01-13T12:39:36.046Z - info: Generating pages...
+2024-01-13T12:39:36.816Z - info: Pages built
+2024-01-13T12:39:37.591Z - info: Site data built
+2024-01-13T12:39:37.591Z - info: Website generation complete! Total build time: 3.591s
+2024-01-13T12:39:37.591Z - info: Build success!
+2024-01-13T12:40:13.452Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
+2024-01-13T12:41:53.072Z - info: [8:41:53 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.md
+2024-01-13T12:41:53.072Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:41:53.073Z - info: No pages are currently opened
+2024-01-13T12:41:54.075Z - info: No pages needed to be rebuilt
+2024-01-13T12:42:06.017Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2024-01-13T12:42:06.092Z - info: Site data built
+2024-01-13T12:42:06.093Z - info: Lazy website regeneration complete! Total build time: 0.076s
+2024-01-13T12:42:22.225Z - info: Website generation (lazy) started at 8:42:21 pm
+2024-01-13T12:42:23.038Z - info: Building assets...
+2024-01-13T12:42:23.753Z - info: Assets built
+2024-01-13T12:42:23.754Z - info: Generating landing page...
+2024-01-13T12:42:23.963Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-01-13T12:42:24.479Z - info: Site data built
+2024-01-13T12:42:24.479Z - info: Website generation (lazy) complete! Total build time: 2.515s
+2024-01-13T12:42:26.282Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:50579
+2024-01-13T12:42:26.283Z - info: Press CTRL+C to stop ...
+2024-01-13T12:42:37.157Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3282 as some of its dependencies were changed since the last visit
+2024-01-13T12:42:37.273Z - info: Site data built
+2024-01-13T12:42:37.273Z - info: Lazy website regeneration complete! Total build time: 0.116s
+2024-01-13T12:42:56.766Z - info: [8:42:56 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.md
+2024-01-13T12:42:56.766Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:42:56.766Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:42:56.766Z - info: 1. admin/cs3282
+2024-01-13T12:42:57.779Z - info: Rebuilding 1 pages
+2024-01-13T12:42:57.842Z - info: Site data built
+2024-01-13T12:42:57.842Z - info: Pages rebuilt
+2024-01-13T12:42:57.842Z - info: Website regeneration complete! Total build time: 0.065s
+2024-01-13T12:43:47.505Z - info: [8:43:47 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.md
+2024-01-13T12:43:47.505Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:43:47.506Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:43:47.506Z - info: 1. admin/cs3282
+2024-01-13T12:43:48.524Z - info: Rebuilding 1 pages
+2024-01-13T12:43:48.580Z - info: Site data built
+2024-01-13T12:43:48.580Z - info: Pages rebuilt
+2024-01-13T12:43:48.580Z - info: Website regeneration complete! Total build time: 0.057s
+2024-01-13T12:44:22.587Z - info: [8:44:22 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.md
+2024-01-13T12:44:22.587Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:44:22.588Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:44:22.588Z - info: 1. admin/cs3282
+2024-01-13T12:44:23.591Z - info: Rebuilding 1 pages
+2024-01-13T12:44:23.652Z - info: Site data built
+2024-01-13T12:44:23.653Z - info: Pages rebuilt
+2024-01-13T12:44:23.653Z - info: Website regeneration complete! Total build time: 0.062s
+2024-01-13T12:45:36.349Z - info: [8:45:36 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3282.md
+2024-01-13T12:45:36.349Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:45:36.350Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:45:36.350Z - info: 1. admin/cs3282
+2024-01-13T12:45:37.358Z - info: Rebuilding 1 pages
+2024-01-13T12:45:37.408Z - info: Site data built
+2024-01-13T12:45:37.409Z - info: Pages rebuilt
+2024-01-13T12:45:37.409Z - info: Website regeneration complete! Total build time: 0.051s
+2024-01-13T12:47:13.130Z - info: Building C:\repos\nus-cs3281\cs3281-website\admin\cs3281 as some of its dependencies were changed since the last visit
+2024-01-13T12:47:13.221Z - info: Site data built
+2024-01-13T12:47:13.221Z - info: Lazy website regeneration complete! Total build time: 0.091s
+2024-01-13T12:48:38.225Z - info: [8:48:38 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\admin\cs3281.md
+2024-01-13T12:48:38.226Z - info: Synchronizing opened pages list before reload
+2024-01-13T12:48:38.226Z - info: Current opened pages, from most-to-least recent:
+2024-01-13T12:48:38.226Z - info: 1. admin/cs3281
+2024-01-13T12:48:39.234Z - info: Rebuilding 1 pages
+2024-01-13T12:48:39.303Z - info: Site data built
+2024-01-13T12:48:39.303Z - info: Pages rebuilt
+2024-01-13T12:48:39.303Z - info: Website regeneration complete! Total build time: 0.069s
+2024-01-13T12:49:13.684Z - info: Website generation started at 8:49:13 pm
+2024-01-13T12:49:14.558Z - info: Building assets...
