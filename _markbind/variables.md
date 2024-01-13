@@ -2,9 +2,9 @@
 <variable name="AY">23/24</variable>
 <variable name="is_pre_sem"></variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
-<variable name="cs3281_venue">COM1-0204</variable>
+<variable name="cs3281_venue">COM1-02-12</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>
-<variable name="cs3282_venue">COM1-0204</variable>
+<variable name="cs3282_venue">COM1-02-12</variable>
 <variable name="course_org">https://github.com/nus-cs3281</variable>
 <variable name="course_site">https://nus-cs3281.github.io</variable>
 <variable name="students_repo">{{ course_org }}/{{ year }}</variable>
