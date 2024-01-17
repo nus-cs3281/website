@@ -14,7 +14,7 @@ layout: cs3282-layout.md
 
 #### Todo
 
-* {{ icon_todo }} **Check your details in [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html)** [:alarm_clock: Deadline: Friday] and update if necessary. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} **Check your details in [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/cs3282-index.html)** [:alarm_clock: Deadline: Friday] and [update](https://nus-cs3281.github.io/{{ year }}/instructions.html) if necessary. You will be given write permission to the repo by Monday.
 * {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for the code sprint.** Minimally, plan to have a chat with the CS3281 students. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 students started on the project work.
 
 
