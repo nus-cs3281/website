@@ -11,10 +11,11 @@
     {
       "src": "admin/attendees-fragment.md",
       "headings": {
+        "teammates": "TEAMMATES",
         "catcher": "CATcher",
         "markbind": "MarkBind",
-        "reposense": "RepoSense",
-        "teammates": "TEAMMATES"
+        "xu-shuyao-tim-siu": "Xu Shuyao@Tim-Siu",
+        "reposense": "RepoSense"
       },
       "headingKeywords": {}
     },
@@ -49,10 +50,11 @@
       "title": "CS3281 Code Sprint",
       "headings": {
         "nus-oss-code-sprint-2024": "NUS-OSS Code Sprint 2024",
+        "teammates": "TEAMMATES",
         "catcher": "CATcher",
         "markbind": "MarkBind",
-        "reposense": "RepoSense",
-        "teammates": "TEAMMATES"
+        "xu-shuyao-tim-siu": "Xu Shuyao@Tim-Siu",
+        "reposense": "RepoSense"
       },
       "headingKeywords": {}
     },
