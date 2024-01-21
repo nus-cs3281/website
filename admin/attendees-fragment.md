@@ -1,31 +1,4 @@
 
-# TEAMMATES{.text-primary}
-
-### CS3281 Students
-
-Tye Jia Jun, Marques<br>`@marquestye` | Dominic Berzin Chua Way Gin<br>`@domoberzin` | Zhu Yuanxi<br>`@yuanxi1` | Yeo Di Sheng<br>`@dishenggg`
----- | ---- | ---- | ----
-<img src="https://nus-cs3281.github.io/2024/students/marquestye/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/domoberzin/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/yuanxi1/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/dishenggg/photo.png" width="200"/>
-
-Xenos Fiorenzo Anong<br>`@xenosf` | Ching Ming Yuan<br>`@mingyuanc`
----- | ----
-<img src="https://nus-cs3281.github.io/2024/students/xenosf/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/mingyuanc/photo.png" width="200"/>
-
-### CS3282 Mentors
-
-Jay Aljelo Saez Ting<br>`@jayasting98` | Mok Kheng Sheng Fergus<br>`@FergusMok` | Ong Jun Heng, Cedric<br>`@cedricongjh` | Neo Wei Qing<br>`@weiquu` | Kevin Foong Wei Tong<br>`@kevin9foong` | Chang Weng Yew, Nicolas<br>`@Nicolascwy` | Dominic Lim Kai Jun<br>`@domlimm` | Zhang Ziqing<br>`@ziqing26` | Sim Sing Yee, Eunice<br>`@EuniceSim142`
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
-<img src="https://nus-cs3281.github.io/2024/students/jayasting98/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/FergusMok/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/cedricongjh/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/weiquu/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/kevin9foong/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/Nicolascwy/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/domlimm/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/ziqing26/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/EuniceSim142/photo.png" width="200"/>
-
-### Other Current/Past Devs
-
-* **Li Jianhan** `@jianhandev`  (alumni)
-* **Qiu Jiasheng, Jason** `@jasonqiu212` 
-* **Wison Kurniawan** `@wkurniawan07`  (alumni)
-* **Wu Qirui** `@hhdqirui`  (alumni)
-<hr>
-        
-
 # CATcher{.text-primary}
 
 ### CS3281 Students
@@ -44,6 +17,7 @@ Wong Chee Hong<br>`@cheehongw` | Goh Yee Chong, Gabriel<br>`@gycgabriel` | Lee X
 
 * **Kang Su Min** `@kkangs0226`  (alumni)
 * **Lee Chun Wei** `@chunweii` 
+* **Li Zhaoqi** `@Eclipse-Dominator` 
 * **Sun Xinyu** `@Echomo-Xinyu` 
 <hr>
         
@@ -96,5 +70,33 @@ Marcus Tang Xin Kye<br>`@MarcusTXK` | Gokul Rajiv<br>`@gok99` | Charisma Kausar<
 * **Huang Chengyu** `@HCY123902`  (alumni)
 * **Peh Xian Bin, Eugene** `@eugenepeh`  (alumni)
 * **Zhou Jiahao** `@Zhou-Jiahao-1998`  (alumni)
+<hr>
+        
+
+# TEAMMATES{.text-primary}
+
+### CS3281 Students
+
+Tye Jia Jun, Marques<br>`@marquestye` | Dominic Berzin Chua Way Gin<br>`@domoberzin` | Zhu Yuanxi<br>`@yuanxi1` | Yeo Di Sheng<br>`@dishenggg`
+---- | ---- | ---- | ----
+<img src="https://nus-cs3281.github.io/2024/students/marquestye/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/domoberzin/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/yuanxi1/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/dishenggg/photo.png" width="200"/>
+
+Xenos Fiorenzo Anong<br>`@xenosf` | Ching Ming Yuan<br>`@mingyuanc`
+---- | ----
+<img src="https://nus-cs3281.github.io/2024/students/xenosf/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/mingyuanc/photo.png" width="200"/>
+
+### CS3282 Mentors
+
+Jay Aljelo Saez Ting<br>`@jayasting98` | Mok Kheng Sheng Fergus<br>`@FergusMok` | Ong Jun Heng, Cedric<br>`@cedricongjh` | Neo Wei Qing<br>`@weiquu` | Kevin Foong Wei Tong<br>`@kevin9foong` | Chang Weng Yew, Nicolas<br>`@Nicolascwy` | Dominic Lim Kai Jun<br>`@domlimm` | Zhang Ziqing<br>`@ziqing26` | Sim Sing Yee, Eunice<br>`@EuniceSim142`
+---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+<img src="https://nus-cs3281.github.io/2024/students/jayasting98/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/FergusMok/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/cedricongjh/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/weiquu/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/kevin9foong/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/Nicolascwy/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/domlimm/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/ziqing26/photo.png" width="200"/> | <img src="https://nus-cs3281.github.io/2024/students/EuniceSim142/photo.png" width="200"/>
+
+### Other Current/Past Devs
+
+* **Li Jianhan** `@jianhandev`  (alumni)
+* **Qiu Jiasheng, Jason** `@jasonqiu212` 
+* **Wison Kurniawan** `@wkurniawan07`  (alumni)
+* **Wu Qirui** `@hhdqirui`  (alumni)
+* **Zhao Jingjing** `@zhaojj2209`  (alumni)
 <hr>
         
