@@ -117,8 +117,6 @@ Try to follow these steps in the given order:
   1. **Start the talk with a _PUNCH_, _WIIFY_, and the _Roadmap_**. ==Avoid the traditional `My name is A, my topic is B` type start.==
   1. **End the talk with key points and CtA.** It is also good to reiterate WIIFY together with key points.
 
-  1. **Test your laptop connection to the projector in advance**.
-
 </span>
 
 </panel>
