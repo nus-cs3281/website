@@ -73,7 +73,13 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
   * MarkBind, RepoSense, TEAMMATES: ~20 minutes each<br>
     CATcher: 10-15 minutes (also include WATcher in the demo)
   * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.
-
+* Guidelines for the demos:
+  * Everyone must contribute, but it is not necessary to (although good to) have everyone speaks/presents during the demo.
+  * Showcase some of the more impressive features in a reasonable order. There is no need to demo _all_ features.
+  * The aim is to impress the audience about the product, not to educate them on how to use it (it is not a 'how-to' tutorial)
+  * Plan, and follow, a specific path that you know well and has been proven to work (the so called _golden path_), rather than plan to 'wing it'.
+  * Use good demo data that puts the product in a good light, rather than use trivial demo data (`aaa`, `test123` etc.).
+  * Some parts may be covered using pre-recorded screencasts, to save time (e.g., parts that takes a longer time to demo in real-time).
 <!-- ----------------------------------------------------------------------------------- -->
 
 <div id="week3-monday"/>

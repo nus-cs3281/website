@@ -84,7 +84,7 @@ You are welcome to do more than one book/chapter too.
 
 <panel type="secondary" header="##### Steps to follow when preparing" expanded no-close>
 
-<span id="tips-roundA">
+<div id="tips-roundA">
 
 <box type="warning">
 
@@ -114,10 +114,18 @@ Try to follow these steps in the given order:
        >%%There are two categories of tools for doing Bar which is an essential part in building apps. Category 1 tools work inside-out and Category 2 tools work outside-in. Tool X is the currently a hot tool in category 2 because it is faster and more secure than other popular tools in that category, namely Y and Z.%%
      * Ensure the last slide has the key points (not a big `Thank You` or `Q&A`)
      * Limit the content to what you can deliver in **7 minutes** (in rehearsals, aim to finish in 6 minutes; the actual talk is likely to take longer than the rehearsal). The remaining 3 minutes is for Q&A.
-  1. **Start the talk with a _PUNCH_, _WIIFY_, and the _Roadmap_**. ==Avoid the traditional `My name is A, my topic is B` type start.==
+  1. **Start the talk with a _PUNCH_, _WIIFY_, and the _Roadmap_**. ==Avoid the traditional `My name is A, my topic is B` type start.==<br>
+     To keep things simpler in this round, assume the host/MC will introduce you first (i.e., ==no need to do a self-intro yourself==).
   1. **End the talk with key points and CtA.** It is also good to reiterate WIIFY together with key points.
 
-</span>
+<box type="important" seamless>
+
+**No open laptops during lightning talks!**{.text-danger}
+
+One important way we can support the speakers is to give them our undivided attention. To that end, we have a policy of not allowing any open laptops (among the audience) during lightning talks.<br>
+**Speakers: Please finalize your slides _before_ the session starts**, as you will not be able to do last minute tweaks to slides during the session itself (due to the above policy).
+</box>
+</div>
 
 </panel>
 <!-- panel type="secondary" header="##### During the session" expanded no-close>
@@ -128,14 +136,12 @@ Try to follow these steps in the given order:
 </panel -->
 <panel type="secondary" header="##### After the session" expanded no-close>
 
-* :alarm_clock: by Thursday midnight:
-* Speakers should _update_ the issue description (rather than add as a new comment) as follows:
-* Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
-* State **WIIFY, Key Points, Impact**
+* :alarm_clock: by Thursday midnight: Speakers should _update_ the issue description (rather than add as a new comment) as follows:
+  * Add a link to the slides. %%&nbsp;Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.%%
+  * State **WIIFY, Key Points, Impact**
 * :alarm_clock: by Friday midnight:
-* All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
-
-* Feel free to continue the discussion about each talk in the issue tracker.
+  * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
+  * Feel free to continue the discussion about each talk in the issue tracker.
 
 </panel>
 <p/>
