@@ -1,0 +1,105 @@
+2024-03-26T09:00:38.272Z - info: Website generation (lazy) started at 5:00:37 pm
+2024-03-26T09:00:39.320Z - info: Building assets...
+2024-03-26T09:00:40.024Z - info: Assets built
+2024-03-26T09:00:40.025Z - info: Generating landing page...
+2024-03-26T09:00:40.720Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-03-26T09:00:41.549Z - info: Site data built
+2024-03-26T09:00:41.550Z - info: Website generation (lazy) complete! Total build time: 3.567s
+2024-03-26T09:00:41.603Z - info: Serving "C:\repos\nus-cs3281\cs3281-website\_site" at http://127.0.0.1:8080
+2024-03-26T09:00:41.603Z - info: Press CTRL+C to stop ...
+2024-03-26T09:19:58.866Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282 as some of its dependencies were changed since the last visit
+2024-03-26T09:19:59.261Z - info: Site data built
+2024-03-26T09:19:59.262Z - info: Lazy website regeneration complete! Total build time: 0.397s
+2024-03-26T09:22:51.409Z - info: [5:22:51 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281.md
+2024-03-26T09:22:51.409Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:22:51.410Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:22:51.410Z - info: 1. schedule/index-cs3282
+2024-03-26T09:22:52.428Z - info: Rebuilding 1 pages
+2024-03-26T09:22:52.689Z - info: Site data built
+2024-03-26T09:22:52.690Z - info: Pages rebuilt
+2024-03-26T09:22:52.690Z - info: Website regeneration complete! Total build time: 0.263s
+2024-03-26T09:24:09.096Z - info: [5:24:09 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:24:09.097Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:24:09.098Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:24:09.098Z - info: 1. schedule/index-cs3282
+2024-03-26T09:24:10.110Z - info: Rebuilding 1 pages
+2024-03-26T09:24:10.377Z - info: Site data built
+2024-03-26T09:24:10.378Z - info: Pages rebuilt
+2024-03-26T09:24:10.378Z - info: Website regeneration complete! Total build time: 0.27s
+2024-03-26T09:27:42.513Z - info: [5:27:42 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:27:42.514Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:27:42.515Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:27:42.515Z - info: 1. schedule/index-cs3282
+2024-03-26T09:27:43.530Z - info: Rebuilding 1 pages
+2024-03-26T09:27:43.828Z - info: Site data built
+2024-03-26T09:27:43.828Z - info: Pages rebuilt
+2024-03-26T09:27:43.828Z - info: Website regeneration complete! Total build time: 0.299s
+2024-03-26T09:29:21.107Z - info: [5:29:21 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:29:21.107Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:29:21.108Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:29:21.108Z - info: 1. schedule/index-cs3282
+2024-03-26T09:29:22.120Z - info: Rebuilding 1 pages
+2024-03-26T09:29:22.319Z - info: Site data built
+2024-03-26T09:29:22.319Z - info: Pages rebuilt
+2024-03-26T09:29:22.319Z - info: Website regeneration complete! Total build time: 0.2s
+2024-03-26T09:29:46.729Z - info: [5:29:46 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:29:46.729Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:29:46.730Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:29:46.730Z - info: 1. schedule/index-cs3282
+2024-03-26T09:29:47.747Z - info: Rebuilding 1 pages
+2024-03-26T09:29:47.953Z - info: Site data built
+2024-03-26T09:29:47.953Z - info: Pages rebuilt
+2024-03-26T09:29:47.953Z - info: Website regeneration complete! Total build time: 0.207s
+2024-03-26T09:31:15.079Z - info: [5:31:15 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:31:15.080Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:31:15.080Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:31:15.080Z - info: 1. schedule/index-cs3282
+2024-03-26T09:31:16.089Z - info: Rebuilding 1 pages
+2024-03-26T09:31:16.299Z - info: Site data built
+2024-03-26T09:31:16.299Z - info: Pages rebuilt
+2024-03-26T09:31:16.300Z - info: Website regeneration complete! Total build time: 0.213s
+2024-03-26T09:31:38.456Z - info: [5:31:38 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:31:38.457Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:31:38.457Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:31:38.458Z - info: 1. schedule/index-cs3282
+2024-03-26T09:31:39.462Z - info: Rebuilding 1 pages
+2024-03-26T09:31:39.657Z - info: Site data built
+2024-03-26T09:31:39.657Z - info: Pages rebuilt
+2024-03-26T09:31:39.658Z - info: Website regeneration complete! Total build time: 0.195s
+2024-03-26T09:32:13.128Z - info: [5:32:13 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:32:13.128Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:32:13.128Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:32:13.128Z - info: 1. schedule/index-cs3282
+2024-03-26T09:32:14.133Z - info: Rebuilding 1 pages
+2024-03-26T09:32:14.341Z - info: Site data built
+2024-03-26T09:32:14.341Z - info: Pages rebuilt
+2024-03-26T09:32:14.342Z - info: Website regeneration complete! Total build time: 0.21s
+2024-03-26T09:33:52.992Z - info: [5:33:52 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:33:52.993Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:33:52.993Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:33:52.993Z - info: 1. schedule/index-cs3282
+2024-03-26T09:33:54.011Z - info: Rebuilding 1 pages
+2024-03-26T09:33:54.226Z - info: Site data built
+2024-03-26T09:33:54.227Z - info: Pages rebuilt
+2024-03-26T09:33:54.227Z - info: Website regeneration complete! Total build time: 0.218s
+2024-03-26T09:34:11.212Z - info: [5:34:11 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:34:11.212Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:34:11.213Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:34:11.213Z - info: 1. schedule/index-cs3282
+2024-03-26T09:34:12.219Z - info: Rebuilding 1 pages
+2024-03-26T09:34:12.406Z - info: Site data built
+2024-03-26T09:34:12.407Z - info: Pages rebuilt
+2024-03-26T09:34:12.407Z - info: Website regeneration complete! Total build time: 0.189s
+2024-03-26T09:34:33.249Z - info: [5:34:33 pm] Reload for file change: C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3282.md
+2024-03-26T09:34:33.250Z - info: Synchronizing opened pages list before reload
+2024-03-26T09:34:33.250Z - info: Current opened pages, from most-to-least recent:
+2024-03-26T09:34:33.251Z - info: 1. schedule/index-cs3282
+2024-03-26T09:34:34.259Z - info: Rebuilding 1 pages
+2024-03-26T09:34:34.509Z - info: Site data built
+2024-03-26T09:34:34.510Z - info: Pages rebuilt
+2024-03-26T09:34:34.510Z - info: Website regeneration complete! Total build time: 0.252s
+2024-03-26T09:35:39.265Z - info: Building C:\repos\nus-cs3281\cs3281-website\schedule\index-cs3281 as some of its dependencies were changed since the last visit
+2024-03-26T09:35:39.385Z - info: Site data built
+2024-03-26T09:35:39.385Z - info: Lazy website regeneration complete! Total build time: 0.12s
+2024-03-26T09:36:26.203Z - info: Website generation started at 5:36:25 pm
+2024-03-26T09:36:27.290Z - info: Building assets...
