@@ -8,7 +8,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 with(this){return _c('h1',{attrs:{"id":"cs3282-schedule"}},[_v("CS3282 Schedule"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#cs3282-schedule","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-1-15th-jan"}},[_v("Week 1 [15th Jan]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-1-15th-jan","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-1-15th-jan"}},[_v("Week 1 [15th Jan]"),_c('a',{attrs:{"id":"week-1"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-1-15th-jan","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo","onclick":"event.stopPropagation()"}})])}
@@ -29,7 +29,7 @@ with(this){return _c('h4',{attrs:{"id":"saturday-code-sprint"}},[_v("Saturday (C
 with(this){return _c('ul',[_c('li',[_v("Join the code sprint and introduce yourself to CS3281 students")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-2-22nd-jan"}},[_v("Week 2 [22nd Jan]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-2-22nd-jan","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-2-22nd-jan"}},[_v("Week 2 [22nd Jan]"),_c('a',{attrs:{"id":"week-2"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-2-22nd-jan","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-2"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-2","onclick":"event.stopPropagation()"}})])}
@@ -44,7 +44,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-2"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture: Tips for tech talks - Part 1")]),_v(" "),_c('li',[_v("Choosing topics for Lightning Talks:\n"),_c('ul',[_c('li',[_v("⏰ By the end of today, post an issue in repo "),_c('a',{attrs:{"href":"https://github.com/nus-cs3281/2024/issues"}},[_v("nus-cs3281/2024")]),_v(" as follows "),_c('span',{staticClass:"dimmed"},[_v(" Reason: posting titles in advance will help us avoid topic duplications")]),_v(":\n"),_c('ul',[_c('li',[_v("Issue subject: the title of your talk")]),_v(" "),_c('li',[_v("Issue body: 2-3 sentence preview of the talk")])])]),_v(" "),_c('li',[_v("Check to see if there are duplicate topics already posted. You are discouraged from (but not prevented from) choosing a topic already chosen by another.")]),_v(" "),_c('li',[_v("It is in your interest to choose a topic related to one of your "),_c('a',{attrs:{"href":"/website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is"}},[_v("expert areas")]),_v(". It is not a strict requirement though.")]),_v(" "),_c('li',[_v("Note that you will be peer-evaluated for the "),_c('mark',[_v("quality of delivery as well as the usefulness of the talk")]),_v(". It is recommended to pick topics that are potentially useful to the audience.")])])]),_v(" "),_c('li',[_v("Read next week's schedule to find more info about the upcoming lightning talks. The order of talks "),_c('span',{staticClass:"dimmed"},[_v("(i.e., who presents in which week)")]),_v(" is given there too.")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-3-29th-jan"}},[_v("Week 3 [29th Jan]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-3-29th-jan","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-3-29th-jan"}},[_v("Week 3 [29th Jan]"),_c('a',{attrs:{"id":"week-3"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-3-29th-jan","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"thursday-3"}},[_v("Thursday"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#thursday-3","onclick":"event.stopPropagation()"}})])}
@@ -53,7 +53,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-3"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture: Lightning Talks Round A - Part 1")]),_v(" "),_c('li',[_v("See the "),_c('strong',[_c('a',{attrs:{"href":"https://nus-cs3281.github.io/2024/students/talksSchedule.html","target":"_blank"}},[_v("Lightning Talks Schedule")])]),_v(" (created based on a random order).")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-4-5th-feb"}},[_v("Week 4 [5th Feb]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-4-5th-feb","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-4-5th-feb"}},[_v("Week 4 [5th Feb]"),_c('a',{attrs:{"id":"week-4"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-4-5th-feb","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-3"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-3","onclick":"event.stopPropagation()"}})])}
@@ -74,7 +74,7 @@ with(this){return _c('h4',{attrs:{"id":"sunday"}},[_v("Sunday"),_c('a',{staticCl
 with(this){return _c('ul',[_c('li',[_v("⏰ Update the "),_c('a',{attrs:{"href":"https://nus-cs3281.github.io/2024/instructions.html#updating-your-project-progress"}},[_v("progress")]),_v(" page.")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-5-12th-feb"}},[_v("Week 5 [12th Feb]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-5-12th-feb","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-5-12th-feb"}},[_v("Week 5 [12th Feb]"),_c('a',{attrs:{"id":"week-5"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-5-12th-feb","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-4"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-4","onclick":"event.stopPropagation()"}})])}
@@ -89,7 +89,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-5"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture : Lightning Talks Round A - Part 3")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-6-19th-feb"}},[_v("Week 6 [19th Feb]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-6-19th-feb","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-6-19th-feb"}},[_v("Week 6 [19th Feb]"),_c('a',{attrs:{"id":"week-6"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-6-19th-feb","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"thursday-6"}},[_v("Thursday"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#thursday-6","onclick":"event.stopPropagation()"}})])}
@@ -113,7 +113,7 @@ with(this){return _c('ul',[_c('li',[_v("Online article of interest: "),_c('a',{a
 with(this){return _c('p',[_c('strong',[_v("Recess")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-7-4th-mar"}},[_v("Week 7 [4th Mar]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-7-4th-mar","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-7-4th-mar"}},[_v("Week 7 [4th Mar]"),_c('a',{attrs:{"id":"week-7"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-7-4th-mar","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('div',[_c('p',[_v("By the end of this semester, we expect you to,")]),_v(" "),_c('ol',[_c('li',[_v("deliver substantial value to the project, which may be through developing a fairly big feature\n(working solo or with others) or doing a bunch of tasks in a specific area,")]),_v(" "),_c('li',[_v("more importantly, to gain expertise in a substantial part of the codebase\n(while being fairly familiar with the rest).")])]),_v(" "),_c('p',[_v("If you can't work out a plan that achieves the above, you can seek guidance from the seniors and/or the prof as well.")])])])}
@@ -137,7 +137,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-7"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lightning Talks Round B - Part 1 (see "),_c('a',{attrs:{"href":"https://nus-cs3281.github.io/2024/students/talksSchedule.html","target":"_blank"}},[_v("Lightning Talks Schedule")]),_v(")\n"),_c('ul',[_c('li',[_v("In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the "),_c('em',[_v("generic slide deck")]),_v(" pptx file, do take a look at it and make sure all its elements are also present in your slide deck.")]),_v(" "),_c('li',[_v("In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)")])])]),_v(" "),_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Team-specific discussions (if there's time left)")])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-8-11th-mar"}},[_v("Week 8 [11th Mar]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-8-11th-mar","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-8-11th-mar"}},[_v("Week 8 [11th Mar]"),_c('a',{attrs:{"id":"week-8"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-8-11th-mar","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("⏰ by Friday\n"),_c('ul',[_c('li',[_v("Peer evaluations")])])]),_v(" "),_c('li',[_v("⏰ by Sunday\n"),_c('ul',[_c('li',[_v("Update the progress page")])])])])}
@@ -149,7 +149,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-8"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture :\n"),_c('ul',[_c('li',[_v("Lightning Talks Round B - Part 2")]),_v(" "),_c('li',[_v("Team-specific discussions")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-9-18th-mar"}},[_v("Week 9 [18th Mar]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-9-18th-mar","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-9-18th-mar"}},[_v("Week 9 [18th Mar]"),_c('a',{attrs:{"id":"week-9"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-9-18th-mar","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("⏰ by Thursday")]),_v(" "),_c('li',[_v("Have a sync-up meeting with CS3281 mentees, together with non-CS3282 mentors (if they are available).")])])}
@@ -161,7 +161,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-9"}},[_v("Thursday"),_c('a',{st
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture: Lecture:\n"),_c('ul',[_c('li',[_v("Lightning Talks Round B - Part 3")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-10-25th-mar"}},[_v("Week 10 [25th Mar]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-10-25th-mar","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-10-25th-mar"}},[_v("Week 10 [25th Mar]"),_c('a',{attrs:{"id":"week-10"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-10-25th-mar","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-7"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-7","onclick":"event.stopPropagation()"}})])}
@@ -176,7 +176,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-10"}},[_v("Thursday"),_c('a',{s
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" "),_c('s',[_v("Lecture")]),_v(" (NUS Well-Being Day):\n"),_c('ul',[_c('li',[_v("Tips for Tech Talks - Part III (to be released online)")]),_v(" "),_c('li',[_v("Discussion about observations from the external project (to be done online)")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-11-1st-apr"}},[_v("Week 11 [1st Apr]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-11-1st-apr","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-11-1st-apr"}},[_v("Week 11 [1st Apr]"),_c('a',{attrs:{"id":"week-11"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-11-1st-apr","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"todo-8"}},[_v("Todo"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#todo-8","onclick":"event.stopPropagation()"}})])}
@@ -191,7 +191,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-11"}},[_v("Thursday"),_c('a',{s
 with(this){return _c('ul',[_c('li',[_v("Project-specific discussions:\n"),_c('ul',[_c('li',[_v("Strategize how to wrap up the semester's work")]),_v(" "),_c('li',[_v("Discuss the future of the project, for the summer and beyond")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-12-8th-apr"}},[_v("Week 12 [8th Apr]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-12-8th-apr","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-12-8th-apr"}},[_v("Week 12 [8th Apr]"),_c('a',{attrs:{"id":"week-12"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-12-8th-apr","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"thursday-12"}},[_v("Thursday"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#thursday-12","onclick":"event.stopPropagation()"}})])}
@@ -200,7 +200,7 @@ with(this){return _c('h4',{attrs:{"id":"thursday-12"}},[_v("Thursday"),_c('a',{s
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture : Lightning Talks Round C - Part 1\n"),_c('ul',[_c('li',[_v("No Q&A")]),_v(" "),_c('li',[_v("This should be an improved version of the talk you gave in round B, based on feedback you received for it."),_c('br'),_v(" "),_c('ul',[_c('li',[_v("You can also consider incorporating into the talk answers to relevant questions raised during round B Q&A session.")]),_v(" "),_c('li',[_v("Also consider adding info on the cons/downsides of the topic so that the talk can become more balanced, and your message to the audience become more credible (i.e., it appears like advice from an expert rather than a sales pitch).")])])]),_v(" "),_c('li',[_c('mark',[_v("Talk length should be strictly 7 minutes or less")]),_v(", as we have 10-11 talks per session.")]),_v(" "),_c('li',[_v("Assume some audience members have not seen round A or B (we plan to invite CS3281 students to attend this round of talks). So, don't refer to past rounds during your talk.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('h2',{attrs:{"id":"week-13-15th-apr"}},[_v("Week 13 [15th Apr]"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-13-15th-apr","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h2',{attrs:{"id":"week-13-15th-apr"}},[_v("Week 13 [15th Apr]"),_c('a',{attrs:{"id":"week-13"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#week-13-15th-apr","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('h4',{attrs:{"id":"thursday-13"}},[_v("Thursday"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#thursday-13","onclick":"event.stopPropagation()"}})])}
@@ -209,6 +209,6 @@ with(this){return _c('h4',{attrs:{"id":"thursday-13"}},[_v("Thursday"),_c('a',{s
 with(this){return _c('ul',[_c('li',[_c('span',{staticClass:"glyphicon glyphicon-blackboard",attrs:{"aria-hidden":"true"}}),_v(" Lecture : Lightning Talks Round C - Part 2")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")])]),_v(" on Tue, 26 Mar 2024, 9:36:28 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('p',[_v("["),_c('strong',[_v("This site was generated using "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"25"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.3.0")])]),_v(" on Tue, 26 Mar 2024, 11:28:31 UTC]"),_c('br'),_v(" "),_c('span',{staticClass:"dimmed"},[_c('small',[_c('small',[_v("favicon.ico of this site was made by "),_c('a',{attrs:{"href":"https://www.flaticon.com/authors/smashicons","title":"Smashicons"}},[_v("Smashicons")]),_v(" from "),_c('a',{attrs:{"href":"https://www.flaticon.com/","title":"Flaticon"}},[_v("www.flaticon.com")]),_v(" is licensed by "),_c('a',{attrs:{"href":"http://creativecommons.org/licenses/by/3.0/","title":"Creative Commons BY 3.0","target":"_blank"}},[_v("CC 3.0 BY")])])])])])])])}
 }];
   
