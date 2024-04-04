@@ -4,7 +4,7 @@ pageNav: 2
 layout: cs3281-layout.md
 </frontmatter>
 
-{% set sem_start = "2023-01-15" %}
+{% set sem_start = "2024-01-15" %}
 {% set weeks = [
     {num: "0", day: (sem_start | date("Do MMM", -7))},
     {num: "1", day: (sem_start | date("Do MMM", 0))},

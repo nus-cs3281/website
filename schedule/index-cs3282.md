@@ -10,7 +10,7 @@ layout: cs3282-layout.md
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 1 [{{ weeks[1].day }}]
+## Week 1 [{{ weeks[1].day }}]<a id="week-1"/>
 
 #### Todo
 
@@ -48,7 +48,7 @@ You are welcome to do more than one book/chapter too.
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 2 [{{ weeks[2].day }}]
+## Week 2 [{{ weeks[2].day }}]<a id="week-2"/>
 
 #### Todo
 
@@ -74,7 +74,7 @@ You are welcome to do more than one book/chapter too.
 
 <div id="week3-monday"/>
 
-## Week 3 [{{ weeks[3].day }}]
+## Week 3 [{{ weeks[3].day }}]<a id="week-3"/>
 
 #### Thursday
 
@@ -149,7 +149,7 @@ One important way we can support the speakers is to give them our undivided atte
 
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 4 [{{ weeks[4].day }}]
+## Week 4 [{{ weeks[4].day }}]<a id="week-4"/>
 
 #### Todo
 If you haven't already,
@@ -171,7 +171,7 @@ If you haven't already,
 <!-- ----------------------------------------------------------------------------------- -->
 
 
-## Week 5 [{{ weeks[5].day }}]
+## Week 5 [{{ weeks[5].day }}]<a id="week-5"/>
 
 #### Todo
 
@@ -183,7 +183,7 @@ If you haven't already,
 * {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
 
 
-## Week 6 [{{ weeks[6].day }}]
+## Week 6 [{{ weeks[6].day }}]<a id="week-6"/>
 
 #### Thursday
 
@@ -205,7 +205,7 @@ If you haven't already,
 
 <br>
 
-## Week 7 [{{ weeks[7].day }}]
+## Week 7 [{{ weeks[7].day }}]<a id="week-7"/>
 
 For your reference, below are the instructions given to CS3281 students regarding their plan for the second half of the semester.
 <blockquote>
@@ -265,7 +265,7 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 8 [{{ weeks[8].day }}]
+## Week 8 [{{ weeks[8].day }}]<a id="week-8"/>
 
 * :alarm_clock: by Friday
   * Peer evaluations
@@ -280,7 +280,7 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 9 [{{ weeks[9].day }}]
+## Week 9 [{{ weeks[9].day }}]<a id="week-9"/>
 
 * :alarm_clock: by Thursday
 * Have a sync-up meeting with CS3281 mentees, together with non-CS3282 mentors (if they are available).
@@ -289,12 +289,11 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 * {{ icon_lecture }} Lecture: Lecture:
   * Lightning Talks Round B - Part 3
-  * Tips for Tech Talks - Part III
 
 
 <!-- ------------------------------------------------------------------------------------ -->
 
-## Week 10 [{{ weeks[10].day }}]
+## Week 10 [{{ weeks[10].day }}]<a id="week-10"/>
 
 <box type="info">
 
@@ -323,7 +322,7 @@ For your reference, below are the instructions given to CS3281 students regardin
   * Discussion about observations from the external project (to be done online)
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 11 [{{ weeks[11].day }}]
+## Week 11 [{{ weeks[11].day }}]<a id="week-11"/>
 
 <box type="tip">
 
@@ -342,14 +341,23 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 #### Thursday
 
+* Project-specific discussions:
+  * Strategize how to wrap up the semester's work
+  * Discuss the future of the project, for the summer and beyond
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 12 [{{ weeks[12].day }}]<a id="week-12"/>
+
+#### Thursday
+
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
   * No Q&A
-  * By default, this is an improved version of the talk you gave in round B, based on feedback you received for it.<br>
-    Optionally, you may add up to 3 additional minutes of content (i.e., up to 10 minutes in total) if you wish.
-    * The additional content can be drawn from your round A talk, if your round B talk was a continuation of the round A talk, and you wish to make the round C talk a combination of the previous two talks.
-    * Alternatively, the additional content can be new, going deeper into the topic than you did in round B.
+  * This should be an improved version of the talk you gave in round B, based on feedback you received for it.<br>
     * You can also consider incorporating into the talk answers to relevant questions raised during round B Q&A session.
     * Also consider adding info on the cons/downsides of the topic so that the talk can become more balanced, and your message to the audience become more credible (i.e., it appears like advice from an expert rather than a sales pitch).
+  * ==Talk length should be strictly 7 minutes or less==, as we have 10-11 talks per session.
+  * Assume some audience members have not seen round A or B (we plan to invite CS3281 students to attend this round of talks). So, don't refer to past rounds during your talk.
 
 <panel type="info" header="**Targets for LT Round C**" expanded no-close>
 
@@ -418,18 +426,13 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 </panel>
 <p/>
+
+
 <!-- ----------------------------------------------------------------------------------- -->
 
-## Week 12 [{{ weeks[12].day }}]
+## Week 13 [{{ weeks[13].day }}]<a id="week-13"/>
 
 #### Thursday
 
 * {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 2
 
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 13 [{{ weeks[13].day }}]
-
-#### Thursday
-
-* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 3
