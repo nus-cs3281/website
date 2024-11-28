@@ -1,0 +1,293 @@
+2024-11-28T14:08:01.259Z - info: Website generation (lazy) started at 22:08:01
+2024-11-28T14:08:01.287Z - info: Building assets...
+2024-11-28T14:08:01.301Z - info: Assets built
+2024-11-28T14:08:01.301Z - info: Generating landing page...
+2024-11-28T14:08:01.390Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-28T14:08:01.455Z - info: Site data built
+2024-11-28T14:08:01.455Z - info: Website generation (lazy) complete! Total build time: 0.223s
+2024-11-28T14:08:01.463Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2024-11-28T14:08:01.463Z - info: Press CTRL+C to stop ...
+2024-11-28T14:09:26.020Z - info: [22:09:26] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/index.md
+2024-11-28T14:09:26.021Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:09:26.022Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:09:26.022Z - info: 1. index
+2024-11-28T14:09:27.030Z - info: Rebuilding 1 pages
+2024-11-28T14:09:27.122Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2024-11-28T14:09:27.125Z - info: Site data built
+2024-11-28T14:09:27.125Z - info: Pages rebuilt
+2024-11-28T14:09:27.125Z - info: Website regeneration complete! Total build time: 0.097s
+2024-11-28T14:10:02.544Z - info: [22:10:02] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/variables.md
+2024-11-28T14:10:02.546Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:10:02.546Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:10:02.546Z - info: 1. index
+2024-11-28T14:10:03.572Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-11-28T14:10:03.573Z - info: Rebuilding 1 pages
+2024-11-28T14:10:03.614Z - info: Site data built
+2024-11-28T14:10:03.615Z - info: Pages rebuilt
+2024-11-28T14:10:03.615Z - info: Website regeneration complete! Total build time: 0.067s
+2024-11-28T14:37:16.754Z - info: [22:37:16] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/variables.md
+2024-11-28T14:37:16.755Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:37:16.758Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:37:16.758Z - info: 1. index
+2024-11-28T14:37:17.795Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-11-28T14:37:17.804Z - info: Rebuilding 1 pages
+2024-11-28T14:37:17.839Z - info: Site data built
+2024-11-28T14:37:17.839Z - info: Pages rebuilt
+2024-11-28T14:37:17.839Z - info: Website regeneration complete! Total build time: 0.077s
+2024-11-28T14:51:58.684Z - info: [22:51:58] Reload for file add: /Users/damithch/Repos/nus-cs3281/cs3281-website/images/IMG_5106.JPG
+2024-11-28T14:51:58.685Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:51:58.686Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:51:58.686Z - info: 1. index
+2024-11-28T14:51:59.710Z - info: Assets built
+2024-11-28T14:52:09.519Z - info: [22:52:09] Reload for file deletion: /Users/damithch/Repos/nus-cs3281/cs3281-website/images/IMG_5106.JPG
+2024-11-28T14:52:09.520Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:52:09.520Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:52:09.521Z - info: 1. index
+2024-11-28T14:52:09.578Z - info: [22:52:09] Reload for file add: /Users/damithch/Repos/nus-cs3281/cs3281-website/images/Students-2024.JPG
+2024-11-28T14:52:09.578Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:52:09.578Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:52:09.579Z - info: 1. index
+2024-11-28T14:52:10.535Z - debug: Assets removed
+2024-11-28T14:52:10.594Z - info: Assets built
+2024-11-28T14:54:06.909Z - info: [22:54:06] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/images/Students-2024.JPG
+2024-11-28T14:54:06.910Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:54:06.910Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:54:06.911Z - info: 1. index
+2024-11-28T14:54:07.925Z - info: Assets built
+2024-11-28T14:55:24.878Z - info: [22:55:24] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T14:55:24.879Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:55:24.879Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:55:24.879Z - info: 1. index
+2024-11-28T14:55:25.887Z - info: Rebuilding 1 pages
+2024-11-28T14:55:25.944Z - info: Site data built
+2024-11-28T14:55:25.944Z - info: Pages rebuilt
+2024-11-28T14:55:25.944Z - info: Website regeneration complete! Total build time: 0.062s
+2024-11-28T14:55:47.310Z - info: [22:55:47] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T14:55:47.310Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:55:47.310Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:55:47.310Z - info: 1. index
+2024-11-28T14:55:48.313Z - info: Rebuilding 1 pages
+2024-11-28T14:55:48.362Z - info: Site data built
+2024-11-28T14:55:48.362Z - info: Pages rebuilt
+2024-11-28T14:55:48.362Z - info: Website regeneration complete! Total build time: 0.051s
+2024-11-28T14:56:29.694Z - info: [22:56:29] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T14:56:29.694Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:56:29.695Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:56:29.695Z - info: 1. index
+2024-11-28T14:56:30.698Z - info: Rebuilding 1 pages
+2024-11-28T14:56:30.751Z - info: Site data built
+2024-11-28T14:56:30.751Z - info: Pages rebuilt
+2024-11-28T14:56:30.751Z - info: Website regeneration complete! Total build time: 0.055s
+2024-11-28T14:57:02.906Z - info: [22:57:02] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T14:57:02.907Z - info: Synchronizing opened pages list before reload
+2024-11-28T14:57:02.907Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T14:57:02.907Z - info: 1. index
+2024-11-28T14:57:03.910Z - info: Rebuilding 1 pages
+2024-11-28T14:57:03.960Z - info: Site data built
+2024-11-28T14:57:03.960Z - info: Pages rebuilt
+2024-11-28T14:57:03.960Z - info: Website regeneration complete! Total build time: 0.052s
+2024-11-28T15:07:57.262Z - info: [23:07:57] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:07:57.263Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:07:57.263Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:07:57.263Z - info: 1. index
+2024-11-28T15:07:58.269Z - info: Rebuilding 1 pages
+2024-11-28T15:07:58.333Z - info: Site data built
+2024-11-28T15:07:58.333Z - info: Pages rebuilt
+2024-11-28T15:07:58.333Z - info: Website regeneration complete! Total build time: 0.067s
+2024-11-28T15:12:37.629Z - info: [23:12:37] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:12:37.636Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:12:37.640Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:12:37.640Z - info: 1. index
+2024-11-28T15:12:38.645Z - info: Rebuilding 1 pages
+2024-11-28T15:12:38.700Z - info: Site data built
+2024-11-28T15:12:38.700Z - info: Pages rebuilt
+2024-11-28T15:12:38.700Z - info: Website regeneration complete! Total build time: 0.057s
+2024-11-28T15:13:52.868Z - info: [23:13:52] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:13:52.868Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:13:52.868Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:13:52.868Z - info: 1. index
+2024-11-28T15:13:53.869Z - info: Rebuilding 1 pages
+2024-11-28T15:13:53.926Z - info: Site data built
+2024-11-28T15:13:53.926Z - info: Pages rebuilt
+2024-11-28T15:13:53.926Z - info: Website regeneration complete! Total build time: 0.058s
+2024-11-28T15:14:03.402Z - info: [23:14:03] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:14:03.402Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:14:03.402Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:14:03.402Z - info: 1. index
+2024-11-28T15:14:04.404Z - info: Rebuilding 1 pages
+2024-11-28T15:14:04.463Z - info: Site data built
+2024-11-28T15:14:04.463Z - info: Pages rebuilt
+2024-11-28T15:14:04.463Z - info: Website regeneration complete! Total build time: 0.06s
+2024-11-28T15:14:14.140Z - info: [23:14:14] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:14:14.140Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:14:14.140Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:14:14.140Z - info: 1. index
+2024-11-28T15:14:15.142Z - info: Rebuilding 1 pages
+2024-11-28T15:14:15.193Z - info: Site data built
+2024-11-28T15:14:15.193Z - info: Pages rebuilt
+2024-11-28T15:14:15.193Z - info: Website regeneration complete! Total build time: 0.052s
+2024-11-28T15:14:56.350Z - info: [23:14:56] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:14:56.350Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:14:56.350Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:14:56.350Z - info: 1. index
+2024-11-28T15:14:57.352Z - info: Rebuilding 1 pages
+2024-11-28T15:14:57.400Z - info: Site data built
+2024-11-28T15:14:57.400Z - info: Pages rebuilt
+2024-11-28T15:14:57.400Z - info: Website regeneration complete! Total build time: 0.049s
+2024-11-28T15:16:46.090Z - info: [23:16:46] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications.md
+2024-11-28T15:16:46.090Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:16:46.091Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:16:46.091Z - info: 1. index
+2024-11-28T15:16:47.095Z - info: Rebuilding 1 pages
+2024-11-28T15:16:47.152Z - info: Site data built
+2024-11-28T15:16:47.152Z - info: Pages rebuilt
+2024-11-28T15:16:47.152Z - info: Website regeneration complete! Total build time: 0.059s
+2024-11-28T15:18:58.380Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281 as some of its dependencies were changed since the last visit
+2024-11-28T15:18:58.439Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2024-11-28T15:18:58.439Z - info: Site data built
+2024-11-28T15:18:58.439Z - info: Lazy website regeneration complete! Total build time: 0.06s
+2024-11-28T15:19:24.991Z - info: [23:19:24] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/variables.md
+2024-11-28T15:19:24.992Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:19:24.992Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:19:24.992Z - info: 1. admin/cs3281
+2024-11-28T15:19:26.013Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-11-28T15:19:26.014Z - info: Rebuilding 1 pages
+2024-11-28T15:19:26.058Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2024-11-28T15:19:26.058Z - info: Site data built
+2024-11-28T15:19:26.058Z - info: Pages rebuilt
+2024-11-28T15:19:26.058Z - info: Website regeneration complete! Total build time: 0.064s
+2024-11-28T15:19:47.639Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors as some of its dependencies were changed since the last visit
+2024-11-28T15:19:47.689Z - info: Site data built
+2024-11-28T15:19:47.689Z - info: Lazy website regeneration complete! Total build time: 0.051s
+2024-11-28T15:20:51.796Z - info: [23:20:51] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2024-11-28T15:20:51.796Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:20:51.796Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:20:51.796Z - info: 1. admin/mentors
+2024-11-28T15:20:52.799Z - info: Rebuilding 1 pages
+2024-11-28T15:20:52.849Z - info: Site data built
+2024-11-28T15:20:52.849Z - info: Pages rebuilt
+2024-11-28T15:20:52.849Z - info: Website regeneration complete! Total build time: 0.052s
+2024-11-28T15:21:05.143Z - info: [23:21:05] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2024-11-28T15:21:05.143Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:21:05.143Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:21:05.143Z - info: 1. admin/mentors
+2024-11-28T15:21:06.145Z - info: Rebuilding 1 pages
+2024-11-28T15:21:06.194Z - info: Site data built
+2024-11-28T15:21:06.194Z - info: Pages rebuilt
+2024-11-28T15:21:06.194Z - info: Website regeneration complete! Total build time: 0.05s
+2024-11-28T15:24:51.746Z - info: [23:24:51] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/body.md
+2024-11-28T15:24:51.746Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:24:51.746Z - info: No pages are currently opened
+2024-11-28T15:24:52.783Z - info: No pages needed to be rebuilt
+2024-11-28T15:25:55.591Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3282 as some of its dependencies were changed since the last visit
+2024-11-28T15:25:55.658Z - info: Site data built
+2024-11-28T15:25:55.658Z - info: Lazy website regeneration complete! Total build time: 0.068s
+2024-11-28T15:26:13.024Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281 as some of its dependencies were changed since the last visit
+2024-11-28T15:26:13.078Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2024-11-28T15:26:13.079Z - info: Site data built
+2024-11-28T15:26:13.079Z - info: Lazy website regeneration complete! Total build time: 0.055s
+2024-11-28T15:26:16.557Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors as some of its dependencies were changed since the last visit
+2024-11-28T15:26:16.607Z - info: Site data built
+2024-11-28T15:26:16.607Z - info: Lazy website regeneration complete! Total build time: 0.05s
+2024-11-28T15:26:19.197Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281 as some of its dependencies were changed since the last visit
+2024-11-28T15:26:19.252Z - info: Site data built
+2024-11-28T15:26:19.252Z - info: Lazy website regeneration complete! Total build time: 0.056s
+2024-11-28T15:26:57.002Z - info: [23:26:57] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3282.md
+2024-11-28T15:26:57.002Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:26:57.002Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:26:57.003Z - info: 1. admin/cs3282
+2024-11-28T15:26:58.006Z - info: Rebuilding 1 pages
+2024-11-28T15:26:58.049Z - info: Site data built
+2024-11-28T15:26:58.049Z - info: Pages rebuilt
+2024-11-28T15:26:58.049Z - info: Website regeneration complete! Total build time: 0.045s
+2024-11-28T15:27:10.651Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282 as some of its dependencies were changed since the last visit
+2024-11-28T15:27:10.763Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2024-11-28T15:27:10.764Z - info: Site data built
+2024-11-28T15:27:10.764Z - info: Lazy website regeneration complete! Total build time: 0.114s
+2024-11-28T15:29:07.383Z - info: [23:29:07] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2024-11-28T15:29:07.384Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:29:07.385Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:29:07.385Z - info: 1. schedule/index-cs3282
+2024-11-28T15:29:08.390Z - info: Rebuilding 1 pages
+2024-11-28T15:29:08.518Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2024-11-28T15:29:08.519Z - info: Site data built
+2024-11-28T15:29:08.519Z - info: Pages rebuilt
+2024-11-28T15:29:08.519Z - info: Website regeneration complete! Total build time: 0.13s
+2024-11-28T15:29:27.672Z - info: [23:29:27] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2024-11-28T15:29:27.672Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:29:27.672Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:29:27.672Z - info: 1. schedule/index-cs3282
+2024-11-28T15:29:27.673Z - info: [23:29:27] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2024-11-28T15:29:27.673Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:29:27.673Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:29:27.673Z - info: 1. schedule/index-cs3282
+2024-11-28T15:29:28.676Z - info: Rebuilding 1 pages
+2024-11-28T15:29:28.779Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2024-11-28T15:29:28.780Z - info: Site data built
+2024-11-28T15:29:28.780Z - info: Pages rebuilt
+2024-11-28T15:29:28.780Z - info: Website regeneration complete! Total build time: 0.105s
+2024-11-28T15:29:38.251Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications as some of its dependencies were changed since the last visit
+2024-11-28T15:29:38.300Z - info: Site data built
+2024-11-28T15:29:38.300Z - info: Lazy website regeneration complete! Total build time: 0.049s
+2024-11-28T15:30:35.727Z - info: [23:30:35] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2024-11-28T15:30:35.729Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:30:35.729Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:30:35.730Z - info: 1. admin/cs3281
+2024-11-28T15:30:36.773Z - info: Rebuilding 1 pages
+2024-11-28T15:30:36.803Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2024-11-28T15:30:36.804Z - info: Site data built
+2024-11-28T15:30:36.804Z - info: Pages rebuilt
+2024-11-28T15:30:36.804Z - info: Website regeneration complete! Total build time: 0.032s
+2024-11-28T15:30:52.736Z - info: [23:30:52] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2024-11-28T15:30:52.736Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:30:52.736Z - info: Current opened pages, from most-to-least recent:
+2024-11-28T15:30:52.736Z - info: 1. admin/cs3281
+2024-11-28T15:30:53.758Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/cs3281-layout.md)
+  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/cs3281-layout.md)
+  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/css.md)
+  ReferenceError: callbackAsap is not defined
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:116:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2024-11-28T15:31:16.765Z - info: [23:31:16] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2024-11-28T15:31:16.765Z - info: Synchronizing opened pages list before reload
+2024-11-28T15:31:16.765Z - info: No pages are currently opened
+2024-11-28T15:31:17.767Z - info: No pages needed to be rebuilt
+2024-11-28T15:31:25.947Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications as some of its dependencies were changed since the last visit
+2024-11-28T15:31:25.986Z - info: Site data built
+2024-11-28T15:31:25.986Z - info: Lazy website regeneration complete! Total build time: 0.04s
+2024-11-28T15:31:44.298Z - info: Website generation (lazy) started at 23:31:44
+2024-11-28T15:31:44.325Z - info: Building assets...
+2024-11-28T15:31:44.341Z - info: Assets built
+2024-11-28T15:31:44.341Z - info: Generating landing page...
+2024-11-28T15:31:44.421Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-11-28T15:31:44.497Z - info: Site data built
+2024-11-28T15:31:44.498Z - info: Website generation (lazy) complete! Total build time: 0.229s
+2024-11-28T15:31:44.507Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2024-11-28T15:31:44.507Z - info: Press CTRL+C to stop ...
+2024-11-28T15:31:56.303Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/callForApplications as some of its dependencies were changed since the last visit
+2024-11-28T15:31:56.373Z - info: Site data built
+2024-11-28T15:31:56.373Z - info: Lazy website regeneration complete! Total build time: 0.072s
+2024-11-28T15:55:00.455Z - info: Website generation started at 23:55:00
+2024-11-28T15:55:00.483Z - info: Building assets...
