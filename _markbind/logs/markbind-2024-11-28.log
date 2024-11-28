@@ -291,3 +291,14 @@
 2024-11-28T15:31:56.373Z - info: Lazy website regeneration complete! Total build time: 0.072s
 2024-11-28T15:55:00.455Z - info: Website generation started at 23:55:00
 2024-11-28T15:55:00.483Z - info: Building assets...
+2024-11-28T15:55:00.500Z - info: Assets built
+2024-11-28T15:55:00.500Z - info: Generating pages...
+2024-11-28T15:55:00.751Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2024-11-28T15:55:00.751Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2024-11-28T15:55:00.751Z - info: Pages built
+2024-11-28T15:55:00.816Z - info: Site data built
+2024-11-28T15:55:00.816Z - info: Website generation complete! Total build time: 0.406s
+2024-11-28T15:55:00.816Z - info: Build success!
+2024-11-28T15:55:07.606Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
