@@ -7,6 +7,12 @@ layout: cs3282-layout.md
 {% from "schedule/index-cs3281.md" import weeks with context %}
 
 # CS3282 Schedule
+{% if is_pre_sem %}
+<box type="important" icon=":fas-exclamation-triangle:" light>
+
+The info given below is from the previous round, as a reference only. **Major changes are highly unlikely**, however.
+</box>
+{% endif %}
 
 <!-- ----------------------------------------------------------------------------------- -->
 

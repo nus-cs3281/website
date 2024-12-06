@@ -6,6 +6,13 @@ layout: cs3281-layout.md
 
 # CS3281 Projects and Mentors
 
+{% if is_pre_sem %}
+<box type="important" icon=":fas-exclamation-triangle:" light>
+
+The info given below is from the previous round, as a reference only. Will be updated in due course.
+</box>
+{% endif %}
+
 ## CATCher
 
 **Current focus:**

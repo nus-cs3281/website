@@ -4,11 +4,11 @@
       <site-nav>
 * [Course Info]({{baseUrl}}/admin/{{ course_code }}.html)
 * [Schedule]({{baseUrl}}/schedule/index-{{ course_code }}.html)
-* [Projects/Mentors]({{baseUrl}}/admin/mentors.html)
+* [Projects/Mentors]({{baseUrl}}/admin/mentors.html){% if not is_pre_sem %}
 * Students :expanded:
   * [CS3281]({{ students_site }}/index.html)
   * [CS3282]({{ students_site }}/cs3282-index.html)
-* [Dashboard]({{ dashboard_site }})
+* [Dashboard]({{ dashboard_site }}){% endif %}
 * [Call for Applications]({{baseUrl}}/admin/callForApplications.html)
       </site-nav>
     </div>

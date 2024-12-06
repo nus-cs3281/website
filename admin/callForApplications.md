@@ -41,22 +41,24 @@ These two courses are **offered in Semester 2 only**.
 <box>
 
 <tabs>
-  <tab header="CS3282 projects at STePS (2019 April)">
+<tab header="2024 Batch">
 
-<img src="{{baseUrl}}/images/STePS-2019.png" width="800" /><br>
-[[more photos...](https://www.facebook.com/media/set/?set=a.10159074110948636&type=1&l=215e349ae5)]
-  </tab>
-  <tab header="2018 Batch">
-
-<img src="{{baseUrl}}/images/STePS-2018.png" width="800" /><br>
+<img src="{{baseUrl}}/images/Students-2024.JPG" width="800" /><br>
 [[more photos...](https://www.facebook.com/media/set/?set=a.10157387238478636&type=1&l=215e349ae5)]
 
-  </tab>
-  <tab header="2017 Batch">
+</tab>
+<tab header="2019 Batch">
+
+<img src="{{baseUrl}}/images/STePS-2019.png" width="800" /><br>
+</tab>
+<tab header="2018 Batch">
+
+<img src="{{baseUrl}}/images/STePS-2018.png" width="800" /><br>
+</tab>
+<tab header="2017 Batch">
 
 <img src="{{baseUrl}}/images/STePS-2016.png" width="800" /><br>
-[[more photos...](https://www.facebook.com/media/set/?set=a.10156195088693636&type=1&l=f410da79f1)]
-  </tab>
+</tab>
 </tabs>
 
 </box>
@@ -69,7 +71,7 @@ These two courses are **offered in Semester 2 only**.
 * Lectures are compulsory to attend.
   * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
   * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 20th)==.
+* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 18th)==.
 * No tutorials. Ignore the tutorial timings given in Canvas/CourseReg.
 
 <!-- ==================================================================================================== -->
@@ -95,9 +97,9 @@ To get the full value of these course pair, you are encouraged to stay involved 
 Student selection is **not based on CourseReg**. Instead, submit your application using ==[this application form](https://forms.office.com/r/SvtnieQXND)== (requires NUSNET login, requires you to upload the latest transcript).
 
 
-{{ icon_deadline }} Interested students are to **complete the application process by Mon 11th December {{ previous_year }}**. Late applications will not be entertained.
+{{ icon_deadline }} Interested students are to **submit the application by Mon 2nd December {{ previous_year }} (soft deadline)**. We will accept late applications till Mon 9th December (hard deadline).
 
-The outcome of all applications are expected to be **released via email around Wed 27 December {{ previous_year }}**.
+The outcome of all applications are expected to be **released via email around December 20th, {{ previous_year }}**.
 
 <!-- ==================================================================================================== -->
 
@@ -105,6 +107,7 @@ The outcome of all applications are expected to be **released via email around W
 
 * **Entry is competitive**. We typically receive about 2-3 applications for each available vacancy. The selection is based on,
   1. Interest and ability shown in programming, especially, in contributing to OSS projects.
+  1. Evidence of doing on side projects related to SE.
   1. Performance in SE/programming courses.
   1. Compatibility between your interests and the availability of vacancies in the NUS-OSS project you want to join.
 
