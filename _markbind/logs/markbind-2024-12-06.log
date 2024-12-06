@@ -1,0 +1,3 @@
+2024-12-06T14:41:59.792Z - info: Website generation started at 22:41:59
+2024-12-06T14:41:59.819Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2024-12-06T14:41:59.828Z - info: Building assets...
