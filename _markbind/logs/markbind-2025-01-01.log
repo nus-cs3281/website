@@ -1,0 +1,13 @@
+2024-12-31T16:48:26.619Z - info: Website generation (lazy) started at 00:48:26
+2024-12-31T16:48:26.642Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2024-12-31T16:48:26.651Z - info: Building assets...
+2024-12-31T16:48:26.743Z - info: Assets built
+2024-12-31T16:48:26.744Z - info: Generating landing page...
+2024-12-31T16:48:26.840Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-12-31T16:48:26.907Z - info: Site data built
+2024-12-31T16:48:26.907Z - info: Website generation (lazy) complete! Total build time: 0.361s
+2024-12-31T16:48:26.913Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2024-12-31T16:48:26.914Z - info: Press CTRL+C to stop ...
+2024-12-31T16:49:06.092Z - info: Website generation started at 00:49:06
+2024-12-31T16:49:06.117Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2024-12-31T16:49:06.126Z - info: Building assets...
