@@ -1,0 +1,241 @@
+2025-01-19T08:27:40.508Z - info: Website generation (lazy) started at 16:27:40
+2025-01-19T08:27:40.538Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-19T08:27:40.548Z - info: Building assets...
+2025-01-19T08:27:40.637Z - info: Assets built
+2025-01-19T08:27:40.637Z - info: Generating landing page...
+2025-01-19T08:27:40.733Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-01-19T08:27:40.803Z - info: Site data built
+2025-01-19T08:27:40.803Z - info: Website generation (lazy) complete! Total build time: 0.361s
+2025-01-19T08:27:40.811Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2025-01-19T08:27:40.811Z - info: Press CTRL+C to stop ...
+2025-01-19T08:29:45.214Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors as some of its dependencies were changed since the last visit
+2025-01-19T08:29:45.288Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T08:29:45.289Z - info: Site data built
+2025-01-19T08:29:45.289Z - info: Lazy website regeneration complete! Total build time: 0.076s
+2025-01-19T08:32:01.005Z - info: [16:32:01] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:32:01.008Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:32:01.010Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:32:01.010Z - info: 1. admin/mentors
+2025-01-19T08:32:02.017Z - info: Rebuilding 1 pages
+2025-01-19T08:32:02.076Z - info: Site data built
+2025-01-19T08:32:02.076Z - info: Pages rebuilt
+2025-01-19T08:32:02.076Z - info: Website regeneration complete! Total build time: 0.06s
+2025-01-19T08:38:03.685Z - info: [16:38:03] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:38:03.686Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:38:03.686Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:38:03.687Z - info: 1. admin/mentors
+2025-01-19T08:38:04.690Z - info: Rebuilding 1 pages
+2025-01-19T08:38:04.741Z - info: Site data built
+2025-01-19T08:38:04.741Z - info: Pages rebuilt
+2025-01-19T08:38:04.741Z - info: Website regeneration complete! Total build time: 0.052s
+2025-01-19T08:41:26.025Z - info: [16:41:26] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:41:26.026Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:41:26.026Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:41:26.026Z - info: 1. admin/mentors
+2025-01-19T08:41:27.030Z - info: Rebuilding 1 pages
+2025-01-19T08:41:27.084Z - info: Site data built
+2025-01-19T08:41:27.084Z - info: Pages rebuilt
+2025-01-19T08:41:27.084Z - info: Website regeneration complete! Total build time: 0.055s
+2025-01-19T08:42:12.284Z - info: [16:42:12] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:42:12.284Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:42:12.284Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:42:12.284Z - info: 1. admin/mentors
+2025-01-19T08:42:13.286Z - info: Rebuilding 1 pages
+2025-01-19T08:42:13.332Z - info: Site data built
+2025-01-19T08:42:13.332Z - info: Pages rebuilt
+2025-01-19T08:42:13.332Z - info: Website regeneration complete! Total build time: 0.047s
+2025-01-19T08:42:53.500Z - info: [16:42:53] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:42:53.501Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:42:53.501Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:42:53.501Z - info: 1. admin/mentors
+2025-01-19T08:42:54.504Z - info: Rebuilding 1 pages
+2025-01-19T08:42:54.550Z - info: Site data built
+2025-01-19T08:42:54.550Z - info: Pages rebuilt
+2025-01-19T08:42:54.550Z - info: Website regeneration complete! Total build time: 0.047s
+2025-01-19T08:44:46.278Z - info: [16:44:46] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:44:46.278Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:44:46.278Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:44:46.278Z - info: 1. admin/mentors
+2025-01-19T08:44:47.282Z - info: Rebuilding 1 pages
+2025-01-19T08:44:47.325Z - info: Site data built
+2025-01-19T08:44:47.325Z - info: Pages rebuilt
+2025-01-19T08:44:47.325Z - info: Website regeneration complete! Total build time: 0.044s
+2025-01-19T08:46:31.566Z - info: [16:46:31] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:46:31.568Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:46:31.571Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:46:31.571Z - info: 1. admin/mentors
+2025-01-19T08:46:32.576Z - info: Rebuilding 1 pages
+2025-01-19T08:46:32.616Z - info: Site data built
+2025-01-19T08:46:32.616Z - info: Pages rebuilt
+2025-01-19T08:46:32.616Z - info: Website regeneration complete! Total build time: 0.041s
+2025-01-19T08:48:53.484Z - info: [16:48:53] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:48:53.485Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:48:53.485Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:48:53.485Z - info: 1. admin/mentors
+2025-01-19T08:48:54.494Z - info: Rebuilding 1 pages
+2025-01-19T08:48:54.544Z - info: Site data built
+2025-01-19T08:48:54.544Z - info: Pages rebuilt
+2025-01-19T08:48:54.544Z - info: Website regeneration complete! Total build time: 0.055s
+2025-01-19T08:50:01.203Z - info: [16:50:01] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:50:01.203Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:50:01.203Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:50:01.203Z - info: 1. admin/mentors
+2025-01-19T08:50:02.206Z - info: Rebuilding 1 pages
+2025-01-19T08:50:02.251Z - info: Site data built
+2025-01-19T08:50:02.251Z - info: Pages rebuilt
+2025-01-19T08:50:02.251Z - info: Website regeneration complete! Total build time: 0.046s
+2025-01-19T08:57:30.850Z - info: [16:57:30] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T08:57:30.851Z - info: Synchronizing opened pages list before reload
+2025-01-19T08:57:30.853Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T08:57:30.854Z - info: 1. admin/mentors
+2025-01-19T08:57:31.859Z - info: Rebuilding 1 pages
+2025-01-19T08:57:31.912Z - info: Site data built
+2025-01-19T08:57:31.912Z - info: Pages rebuilt
+2025-01-19T08:57:31.912Z - info: Website regeneration complete! Total build time: 0.055s
+2025-01-19T09:00:20.952Z - info: [17:00:20] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:00:20.953Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:00:20.953Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:00:20.953Z - info: 1. admin/mentors
+2025-01-19T09:00:21.957Z - info: Rebuilding 1 pages
+2025-01-19T09:00:22.014Z - info: Site data built
+2025-01-19T09:00:22.015Z - info: Pages rebuilt
+2025-01-19T09:00:22.015Z - info: Website regeneration complete! Total build time: 0.059s
+2025-01-19T09:04:52.530Z - info: [17:04:52] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:04:52.532Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:04:52.533Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:04:52.533Z - info: 1. admin/mentors
+2025-01-19T09:04:53.542Z - info: Rebuilding 1 pages
+2025-01-19T09:04:53.599Z - info: Site data built
+2025-01-19T09:04:53.599Z - info: Pages rebuilt
+2025-01-19T09:04:53.599Z - info: Website regeneration complete! Total build time: 0.059s
+2025-01-19T09:05:05.129Z - info: [17:05:05] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:05:05.129Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:05:05.129Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:05:05.134Z - info: 1. admin/mentors
+2025-01-19T09:05:06.137Z - info: Rebuilding 1 pages
+2025-01-19T09:05:06.181Z - info: Site data built
+2025-01-19T09:05:06.181Z - info: Pages rebuilt
+2025-01-19T09:05:06.181Z - info: Website regeneration complete! Total build time: 0.045s
+2025-01-19T09:09:40.271Z - info: [17:09:40] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:09:40.277Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:09:40.282Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:09:40.284Z - info: 1. admin/mentors
+2025-01-19T09:09:41.293Z - info: Rebuilding 1 pages
+2025-01-19T09:09:41.351Z - info: Site data built
+2025-01-19T09:09:41.351Z - info: Pages rebuilt
+2025-01-19T09:09:41.351Z - info: Website regeneration complete! Total build time: 0.061s
+2025-01-19T09:09:55.180Z - info: [17:09:55] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:09:55.181Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:09:55.181Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:09:55.181Z - info: 1. admin/mentors
+2025-01-19T09:09:56.183Z - info: Rebuilding 1 pages
+2025-01-19T09:09:56.224Z - info: Site data built
+2025-01-19T09:09:56.224Z - info: Pages rebuilt
+2025-01-19T09:09:56.224Z - info: Website regeneration complete! Total build time: 0.042s
+2025-01-19T09:12:38.833Z - info: [17:12:38] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:12:38.834Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:12:38.834Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:12:38.835Z - info: 1. admin/mentors
+2025-01-19T09:12:39.840Z - info: Rebuilding 1 pages
+2025-01-19T09:12:39.894Z - info: Site data built
+2025-01-19T09:12:39.894Z - info: Pages rebuilt
+2025-01-19T09:12:39.894Z - info: Website regeneration complete! Total build time: 0.055s
+2025-01-19T09:18:45.703Z - info: [17:18:45] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:18:45.725Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:18:45.727Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:18:45.728Z - info: 1. admin/mentors
+2025-01-19T09:18:46.738Z - info: Rebuilding 1 pages
+2025-01-19T09:18:46.794Z - info: Site data built
+2025-01-19T09:18:46.794Z - info: Pages rebuilt
+2025-01-19T09:18:46.794Z - info: Website regeneration complete! Total build time: 0.058s
+2025-01-19T09:19:29.591Z - info: [17:19:29] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:19:29.591Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:19:29.591Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:19:29.591Z - info: 1. admin/mentors
+2025-01-19T09:19:30.592Z - info: Rebuilding 1 pages
+2025-01-19T09:19:30.630Z - info: Site data built
+2025-01-19T09:19:30.630Z - info: Pages rebuilt
+2025-01-19T09:19:30.631Z - info: Website regeneration complete! Total build time: 0.039s
+2025-01-19T09:21:34.173Z - info: [17:21:34] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:21:34.174Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:21:34.175Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:21:34.177Z - info: 1. admin/mentors
+2025-01-19T09:21:35.180Z - info: Rebuilding 1 pages
+2025-01-19T09:21:35.229Z - info: Site data built
+2025-01-19T09:21:35.229Z - info: Pages rebuilt
+2025-01-19T09:21:35.229Z - info: Website regeneration complete! Total build time: 0.05s
+2025-01-19T09:22:33.879Z - info: [17:22:33] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:22:33.880Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:22:33.880Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:22:33.880Z - info: 1. admin/mentors
+2025-01-19T09:22:34.883Z - info: Rebuilding 1 pages
+2025-01-19T09:22:34.948Z - info: Site data built
+2025-01-19T09:22:34.948Z - info: Pages rebuilt
+2025-01-19T09:22:34.948Z - info: Website regeneration complete! Total build time: 0.066s
+2025-01-19T09:37:49.433Z - info: [17:37:49] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/mentors.md
+2025-01-19T09:37:49.434Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:37:49.435Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:37:49.437Z - info: 1. admin/mentors
+2025-01-19T09:37:50.443Z - info: Rebuilding 1 pages
+2025-01-19T09:37:50.504Z - info: Site data built
+2025-01-19T09:37:50.504Z - info: Pages rebuilt
+2025-01-19T09:37:50.504Z - info: Website regeneration complete! Total build time: 0.063s
+2025-01-19T09:38:07.991Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281 as some of its dependencies were changed since the last visit
+2025-01-19T09:38:08.069Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:38:08.073Z - info: Site data built
+2025-01-19T09:38:08.076Z - info: Lazy website regeneration complete! Total build time: 0.082s
+2025-01-19T09:41:52.329Z - info: [17:41:52] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-19T09:41:52.329Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:41:52.330Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:41:52.330Z - info: 1. schedule/index-cs3281
+2025-01-19T09:41:53.340Z - info: Rebuilding 1 pages
+2025-01-19T09:41:53.415Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:41:53.415Z - info: Site data built
+2025-01-19T09:41:53.415Z - info: Pages rebuilt
+2025-01-19T09:41:53.415Z - info: Website regeneration complete! Total build time: 0.077s
+2025-01-19T09:42:21.689Z - info: [17:42:21] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-19T09:42:21.689Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:42:21.689Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:42:21.689Z - info: 1. schedule/index-cs3281
+2025-01-19T09:42:22.691Z - info: Rebuilding 1 pages
+2025-01-19T09:42:22.754Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:42:22.754Z - info: Site data built
+2025-01-19T09:42:22.754Z - info: Pages rebuilt
+2025-01-19T09:42:22.754Z - info: Website regeneration complete! Total build time: 0.065s
+2025-01-19T09:44:09.543Z - info: [17:44:09] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-19T09:44:09.546Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:44:09.546Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:44:09.546Z - info: 1. schedule/index-cs3281
+2025-01-19T09:44:10.551Z - info: Rebuilding 1 pages
+2025-01-19T09:44:10.614Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:44:10.617Z - info: Site data built
+2025-01-19T09:44:10.617Z - info: Pages rebuilt
+2025-01-19T09:44:10.617Z - info: Website regeneration complete! Total build time: 0.067s
+2025-01-19T09:45:04.036Z - info: [17:45:04] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-19T09:45:04.036Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:45:04.036Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:45:04.037Z - info: 1. schedule/index-cs3281
+2025-01-19T09:45:05.039Z - info: Rebuilding 1 pages
+2025-01-19T09:45:05.098Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:45:05.099Z - info: Site data built
+2025-01-19T09:45:05.099Z - info: Pages rebuilt
+2025-01-19T09:45:05.099Z - info: Website regeneration complete! Total build time: 0.061s
+2025-01-19T09:45:39.723Z - info: [17:45:39] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-19T09:45:39.723Z - info: Synchronizing opened pages list before reload
+2025-01-19T09:45:39.723Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T09:45:39.723Z - info: 1. schedule/index-cs3281
+2025-01-19T09:45:40.725Z - info: Rebuilding 1 pages
+2025-01-19T09:45:40.789Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T09:45:40.789Z - info: Site data built
+2025-01-19T09:45:40.789Z - info: Pages rebuilt
+2025-01-19T09:45:40.789Z - info: Website regeneration complete! Total build time: 0.065s
+2025-01-19T09:46:18.204Z - info: Website generation started at 17:46:18
+2025-01-19T09:46:18.233Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-19T09:46:18.242Z - info: Building assets...
