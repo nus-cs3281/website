@@ -239,3 +239,106 @@
 2025-01-19T09:46:18.204Z - info: Website generation started at 17:46:18
 2025-01-19T09:46:18.233Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
 2025-01-19T09:46:18.242Z - info: Building assets...
+2025-01-19T09:46:18.330Z - info: Assets built
+2025-01-19T09:46:18.331Z - info: Generating pages...
+2025-01-19T09:46:18.604Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T09:46:18.604Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2025-01-19T09:46:18.604Z - info: Pages built
+2025-01-19T09:46:18.669Z - info: Site data built
+2025-01-19T09:46:18.669Z - info: Website generation complete! Total build time: 0.531s
+2025-01-19T09:46:18.670Z - info: Build success!
+2025-01-19T09:46:25.130Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
+2025-01-19T13:07:17.078Z - info: Website generation (lazy) started at 21:07:17
+2025-01-19T13:07:17.113Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-19T13:07:17.123Z - info: Building assets...
+2025-01-19T13:07:17.212Z - info: Assets built
+2025-01-19T13:07:17.213Z - info: Generating landing page...
+2025-01-19T13:07:17.305Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-01-19T13:07:17.374Z - info: Site data built
+2025-01-19T13:07:17.374Z - info: Website generation (lazy) complete! Total build time: 0.373s
+2025-01-19T13:07:17.385Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2025-01-19T13:07:17.385Z - info: Press CTRL+C to stop ...
+2025-01-19T13:07:28.965Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282 as some of its dependencies were changed since the last visit
+2025-01-19T13:07:29.119Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-19T13:07:29.119Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:07:29.119Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:07:29.120Z - info: Site data built
+2025-01-19T13:07:29.120Z - info: Lazy website regeneration complete! Total build time: 0.156s
+2025-01-19T13:12:24.737Z - info: [21:12:24] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2025-01-19T13:12:24.738Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:12:24.739Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:12:24.739Z - info: 1. schedule/index-cs3282
+2025-01-19T13:12:25.745Z - info: Rebuilding 1 pages
+2025-01-19T13:12:25.867Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:12:25.867Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:12:25.868Z - info: Site data built
+2025-01-19T13:12:25.868Z - info: Pages rebuilt
+2025-01-19T13:12:25.868Z - info: Website regeneration complete! Total build time: 0.125s
+2025-01-19T13:13:15.019Z - info: [21:13:15] Reload for file add: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md~
+2025-01-19T13:13:15.021Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:13:15.021Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:13:15.021Z - info: 1. schedule/index-cs3282
+2025-01-19T13:13:15.027Z - info: [21:13:15] Reload for file deletion: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md~
+2025-01-19T13:13:15.027Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:13:15.027Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:13:15.027Z - info: 1. schedule/index-cs3282
+2025-01-19T13:13:15.113Z - info: [21:13:15] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2025-01-19T13:13:15.113Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:13:15.113Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:13:15.113Z - info: 1. schedule/index-cs3282
+2025-01-19T13:13:16.034Z - debug: Assets removed
+2025-01-19T13:13:16.034Z - error: ENOENT: no such file or directory, stat '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md~'
+2025-01-19T13:13:16.118Z - info: Rebuilding 1 pages
+2025-01-19T13:13:16.262Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:13:16.263Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:13:16.263Z - info: Site data built
+2025-01-19T13:13:16.263Z - info: Pages rebuilt
+2025-01-19T13:13:16.263Z - info: Website regeneration complete! Total build time: 0.147s
+2025-01-19T13:14:09.345Z - info: [21:14:09] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2025-01-19T13:14:09.349Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:14:09.349Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:14:09.349Z - info: 1. schedule/index-cs3282
+2025-01-19T13:14:10.355Z - info: Rebuilding 1 pages
+2025-01-19T13:14:10.468Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:14:10.468Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:14:10.468Z - info: Site data built
+2025-01-19T13:14:10.468Z - info: Pages rebuilt
+2025-01-19T13:14:10.468Z - info: Website regeneration complete! Total build time: 0.116s
+2025-01-19T13:21:46.151Z - info: [21:21:46] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2025-01-19T13:21:46.152Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:21:46.152Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:21:46.153Z - info: 1. schedule/index-cs3282
+2025-01-19T13:21:47.158Z - info: Rebuilding 1 pages
+2025-01-19T13:21:47.284Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:21:47.285Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:21:47.285Z - info: Site data built
+2025-01-19T13:21:47.285Z - info: Pages rebuilt
+2025-01-19T13:21:47.285Z - info: Website regeneration complete! Total build time: 0.129s
+2025-01-19T13:22:20.860Z - info: [21:22:20] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md
+2025-01-19T13:22:20.860Z - info: Synchronizing opened pages list before reload
+2025-01-19T13:22:20.861Z - info: Current opened pages, from most-to-least recent:
+2025-01-19T13:22:20.861Z - info: 1. schedule/index-cs3282
+2025-01-19T13:22:21.864Z - info: Rebuilding 1 pages
+2025-01-19T13:22:21.968Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:22:21.968Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-19T13:22:21.969Z - info: Site data built
+2025-01-19T13:22:21.969Z - info: Pages rebuilt
+2025-01-19T13:22:21.969Z - info: Website regeneration complete! Total build time: 0.107s
+2025-01-19T13:23:12.351Z - info: Website generation started at 21:23:12
+2025-01-19T13:23:12.381Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-19T13:23:12.391Z - info: Building assets...
