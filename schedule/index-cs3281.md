@@ -4,7 +4,7 @@ pageNav: 2
 layout: cs3281-layout.md
 </frontmatter>
 
-{% set sem_start = "2024-01-15" %}
+{% set sem_start = "2025-01-13" %}
 {% set weeks = [
     {num: "0", day: (sem_start | date("Do MMM", -7))},
     {num: "1", day: (sem_start | date("Do MMM", 0))},
@@ -50,53 +50,14 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 
 #### Monday
 
-* {{ icon_lecture }} Lecture: CS3281 Course Intro
-
-#### Saturday (Code Sprint)
-
-* The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
-
-<!--
-* Venue: SR10
-* Schedule:
-  * 0930 - 1200 : Project work
-  * 1200 - 1300 : Lunch break (lunch  provided :stew:)
-  * 1300 - 1530 : Project work
- -->
-
-* Agenda
-  * 10-11am: A common Zoom session for students and  mentors to introduce themselves. Try to join from a private location where you can **use the webcam and appear without a mask**. The Zoom link will be posted in Canvas.
-  * 11am onwards:  Separate briefings for each project, on Zoom, led by mentors. e.g., technical overview, on-boarding, etc. Will be recorded in case some students are interested to learn a 2nd project. The Zoom links will be provided by the mentors on the day.
-  * Afternoon: Students do tasks indicated by mentors earlier and consult mentors if needed.
-  * 4-5.30pm: Prof to meet with each team separately for a short debriefing. Mentors need not join.<br>
-    Use the same Zoom link used for the intro session.
-
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 2 [{{ weeks[2].day }}]
-
-#### Monday
-* {{ icon_lecture }} Lecture: Product demos, project-specific discussions
-* Demo the product created by your project.
-  * MarkBind, RepoSense, TEAMMATES: ~20 minutes each<br>
-    CATcher: 10-15 minutes (also include WATcher in the demo)
-  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.
-* Guidelines for the demos:
-  * Everyone must contribute, but it is not necessary to (although good to) have everyone speaks/presents during the demo.
-  * Showcase some of the more impressive features in a reasonable order. There is no need to demo _all_ features.
-  * The aim is to impress the audience about the product, not to educate them on how to use it (it is not a 'how-to' tutorial)
-  * Plan, and follow, a specific path that you know well and has been proven to work (the so called _golden path_), rather than plan to 'wing it'.
-  * Use good demo data that puts the product in a good light, rather than use trivial demo data (`aaa`, `test123` etc.).
-  * Some parts may be covered using pre-recorded screencasts, to save time (e.g., parts that takes a longer time to demo in real-time).
-<!-- ----------------------------------------------------------------------------------- -->
-
-<div id="week3-monday"/>
-
-## Week 3 [{{ weeks[3].day }}]
-
-#### Monday
-
-* {{ icon_lecture }} Lecture: Project-specific discussions
+* {{ icon_lecture }} Lecture: **A 'dev-experiments' session**
+  * Objectives: for you to get to know team members (and possibly, some mentors), and help each other set up (and get familiar with) the dev environment.
+  * Structure:
+    1. Starts with a brief course intro (by prof)
+    1. Sit together with team members
+    1. Get to know team members
+    1. Help team members set up dev environment
+    1. Start doing some experimental changes to code, with the aim of getting familiar with the code base
 
 <box type="tip" seamless>
 
@@ -111,6 +72,58 @@ As you learn the codebase, investigate issues, learn related tools etc., try to 
 Reasons: It increases the visibility of your work. Those records can be useful references to you and others.
 
 </box>
+<!--
+#### Saturday (Code Sprint)
+
+* The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
+
+* Venue: SR10
+* Schedule:
+  * 0930 - 1200 : Project work
+  * 1200 - 1300 : Lunch break (lunch  provided :stew:)
+  * 1300 - 1530 : Project work
+
+* Agenda
+  * 10-11am: A common Zoom session for students and  mentors to introduce themselves. Try to join from a private location where you can **use the webcam and appear without a mask**. The Zoom link will be posted in Canvas.
+  * 11am onwards:  Separate briefings for each project, on Zoom, led by mentors. e.g., technical overview, on-boarding, etc. Will be recorded in case some students are interested to learn a 2nd project. The Zoom links will be provided by the mentors on the day.
+  * Afternoon: Students do tasks indicated by mentors earlier and consult mentors if needed.
+  * 4-5.30pm: Prof to meet with each team separately for a short debriefing. Mentors need not join.<br>
+    Use the same Zoom link used for the intro session.
+ -->
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 2 [{{ weeks[2].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: **A 'user-experiments' session**
+  * Brief product intro (by prof)
+  * Experiment with the product _as a user_ i.e., try to use the product, and stretch its limits, simulate use cases etc.<br>
+    You can **follow the suggested 'user experiments' in [this page](../admin/mentors.md)**.
+  * Show your 'dev experiments' (done last week) and 'user experiments' to prof.<br>
+    If you have queries about the product (e.g., motivations behind some features), this is a good time to clarify them.
+* **Record your dev/user experiments** in your `progress.md`, and keep updating the `knowledge.md` as you learn new things.
+<!-- ----------------------------------------------------------------------------------- -->
+
+<div id="week3-monday"/>
+
+## Week 3 [{{ weeks[3].day }}]
+
+#### Monday
+
+* {{ icon_lecture }} Lecture: **Product demos**
+* Demo the product created by your project.
+  * MarkBind, RepoSense, TEAMMATES: ~15-20 minutes each
+  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.
+* Guidelines for the demos:
+  * Everyone must contribute, and take part in the demo. Also include a self-intro (name, year, major, something interesting about yourself).
+  * Showcase some of the more impressive features in a reasonable order. There is no need to demo _all_ features.
+  * The aim is to impress the audience about the product, not to educate them on how to use it (it is not a 'how-to' tutorial)
+  * Plan, and follow, a specific path that you know well and has been proven to work (the so called _golden path_), rather than plan to 'wing it'.
+  * Use good demo data that puts the product in a good light, rather than use trivial demo data (`aaa`, `test123` etc.).
+  * Some parts may be covered using pre-recorded screencasts, to save time (e.g., parts that takes a longer time to demo in real-time).
+
 
 <!-- ----------------------------------------------------------------------------------- -->
 

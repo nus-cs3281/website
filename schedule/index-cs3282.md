@@ -21,7 +21,12 @@ The info given below is from the previous round, as a reference only. **Major ch
 #### Todo
 
 * {{ icon_todo }} **Check your details in [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/cs3282-index.html)** [:alarm_clock: Deadline: Friday] and [update](https://nus-cs3281.github.io/{{ year }}/instructions.html) if necessary. You will be given write permission to the repo by Monday.
-* {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for the code sprint.** Minimally, plan to have a chat with the CS3281 students. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 students started on the project work.
+* {{ icon_todo }} **Discuss with other senior team members to plan onboarding activities for CS3281 students.**
+
+
+#### Monday
+
+* Attend the CS3281 session if possible, meet new devs (from CS3281), and help them set up the project.
 
 
 #### Thursday
@@ -29,10 +34,14 @@ The info given below is from the previous round, as a reference only. **Major ch
 * {{ icon_lecture }} Lecture : CS3282 Course Intro
   * Hybrid lecture (Zoom link is in Canvas homepage) -- ==F2F by default== unless you obtained permissions to not attend F2F.
 
+#### Kick-Off Team Meeting
 
-#### Saturday (Code Sprint)
-
-* Join the code sprint and introduce yourself to CS3281 students
+* Within the first two weeks of the semester (the earlier, the better), you should arrange a 'kick-off' team meeting.
+* All CS3281 and CS3282 students of the project should attend. Even better if other senior devs can attend, if they are available.
+* A food budget of $10/attendee will be given.
+* Minimally, use the meeting for team bonding. In addition, you can do technical briefings, tutorials, workshops etc. to get CS3281 students started on the project work.
+* Suggested duration 1.5 hours. OK to have this on a weekend, if all attendees are agreeable.
+* Approach prof if you need help booking a venue.
 
 <panel type="info" header="#### Activity: Book Chapter Report" expanded>
 
@@ -81,6 +90,26 @@ You are welcome to do more than one book/chapter too.
 <div id="week3-monday"/>
 
 ## Week 3 [{{ weeks[3].day }}]<a id="week-3"/>
+
+#### Todo
+
+* Decide primary/secondary mentor allocation for your project
+
+#### Thursday
+
+* ~~{{ icon_lecture }} Lecture:~~ No lecture due to holidays
+
+
+
+
+<!-- ----------------------------------------------------------------------------------- -->
+
+## Week 4 [{{ weeks[4].day }}]<a id="week-4"/>
+
+#### Todo
+
+If you haven't already,
+* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
 
 #### Thursday
 
@@ -134,12 +163,7 @@ One important way we can support the speakers is to give them our undivided atte
 </div>
 
 </panel>
-<!-- panel type="secondary" header="##### During the session" expanded no-close>
 
-  * ==Audience members are not allowed to use laptops allowed during the talks==.
-  * Note down comments about the talk on paper (provided).
-
-</panel -->
 <panel type="secondary" header="##### After the session" expanded no-close>
 
 * :alarm_clock: by Thursday midnight: Speakers should _update_ the issue description (rather than add as a new comment) as follows:
@@ -151,23 +175,6 @@ One important way we can support the speakers is to give them our undivided atte
 
 </panel>
 <p/>
-
-
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 4 [{{ weeks[4].day }}]<a id="week-4"/>
-
-#### Todo
-If you haven't already,
-* {{ icon_todo }} [If applicable] get started with contributing to the external project. If you don't make any progress by week 5, you need to find another project.
-
-
-#### Thursday
-
-
-* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 2
-  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
-
 
 
 #### Sunday
@@ -186,7 +193,8 @@ If you haven't already,
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round A - Part 3
+* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 2
+  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
 
 
 ## Week 6 [{{ weeks[6].day }}]<a id="week-6"/>
