@@ -1,0 +1,23 @@
+2025-01-26T11:52:56.166Z - info: Website generation (lazy) started at 19:52:56
+2025-01-26T11:52:56.203Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-26T11:52:56.213Z - info: Building assets...
+2025-01-26T11:52:56.328Z - info: Assets built
+2025-01-26T11:52:56.328Z - info: Generating landing page...
+2025-01-26T11:52:56.422Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-01-26T11:52:56.489Z - info: Site data built
+2025-01-26T11:52:56.490Z - info: Website generation (lazy) complete! Total build time: 0.403s
+2025-01-26T11:52:56.498Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2025-01-26T11:52:56.498Z - info: Press CTRL+C to stop ...
+2025-01-26T12:01:10.029Z - info: [20:01:10] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md
+2025-01-26T12:01:10.030Z - info: Synchronizing opened pages list before reload
+2025-01-26T12:01:10.031Z - info: Current opened pages, from most-to-least recent:
+2025-01-26T12:01:10.031Z - info: 1. index
+2025-01-26T12:01:11.038Z - info: Rebuilding 1 pages
+2025-01-26T12:01:11.121Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#stage-3-managing' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3281.md'
+2025-01-26T12:01:11.122Z - info: Site data built
+2025-01-26T12:01:11.122Z - info: Pages rebuilt
+2025-01-26T12:01:11.122Z - info: Website regeneration complete! Total build time: 0.086s
+2025-01-26T12:02:05.802Z - info: Website generation started at 20:02:05
+2025-01-26T12:02:05.840Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-01-26T12:02:05.849Z - info: Building assets...
