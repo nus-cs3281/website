@@ -95,6 +95,71 @@ You are welcome to do more than one book/chapter too.
 
 * Decide primary/secondary mentor allocation for your project
 
+
+<panel type="warning" header="##### Wrap-up the previous in-lecture exercise" expanded no-close>
+
+In a recent in-lecture exercise, you started on creating a PUMA <tooltip content="because we left out the supporting points, it is just a skeleton only (i.e., not fleshed out)">skeleton</tooltip> for a hypothetical talk. Let's wrap it up before you start working on your real lightning talk.
+
+==#r#Action item: Finalize the PUMA skeleton (in the Google Doc) by week 3 Tuesday.##==
+
+To help you further with the above, here is a walkthrough of how we can come up with a PUMA skeleton for a sample talk.
+
+1. Let's start with a rough goal: `a talk to promote NUS-OSS projects among first-year CS students`.
+1. Next, we decide what's the impact we want to achieve from this talk.
+   * We want the attendees to `do: contribute code to NUS-OSS projects`.
+   * For them to do that, they need to `believe: contributing to NUS-OSS projects is possible, and beneficial`.
+   * For them to believe that, they need to `know: benefits of contributing to NUS-OSS projects`.
+1. Before we go any further, let's figure out what the attendees will get out of this talk (i.e., the WIIFY). Without a strong WIIFY, it is unlikely we can get them to pay attention.<br>
+   To define a good WIIFY, we should understand fears/desires/aspirations/knowledge of our attendees (i.e., first year CS students). Most likely they got into CS due to good job prospects but worried about competition for good jobs.<br>
+   `WIIFY: this talks is about a way that can help you get into better SE jobs/internships`.
+1. Now, let's come up with a few key points that are aligned with intended impact, and matches the WIIFY as well.
+   * `KP1: Contributing to OSS projects shows recruiters that you can write production quality code`. This is not something you can prove through normal school projects.
+   * `KP2: NUS-OSS projects are of manageable size, and in relatable domains` i.e., they are not 'too big', and are related to education.
+   * `KP3: NUS-OSS projects come with guidance from NUS seniors/profs`. This is not the case for other OSS projects.
+   * `KP4: If you are willing to try, you have a good chance of getting into one`, even if you are not a strong programmer now.
+1. Next, let's decide how to present the content (covering the above key points) in an agenda.
+   * `Section A. What is NUS-OSS`
+   * `Section B. How it can help you get better internships/jobs`
+   * `Section C. What you need to do to get in`
+1. Now, let's look for a PUNCH. Here are some choices:
+   * **P**ersonal: share how some work you contributed to an NUS-OSS project is now benefitting thousands of students/teachers, how something you learned from an NUS-OSS project helped you during an interview, how the interviewer was also an alumni of an NUS-OSS project etc.
+   * **U**nexpected: `Did you know that NUS-MODS that you all use is an open source project created by SoC students?`
+   * **N**ovel: ?
+   * **C**hallenge: `What percentage of the code you write in the school will be actually used by someone? 10%? 2%? 1%? 0%? Most likely closer to 0%, right? But it doesn't have to be like that.`
+   * **H**umor: ?
+1. How about a catchy call-to-action? `Join an NUS-OSS project, to aim for better jobs`?
+1. Finally, let's decide on how to phrase the topic. Well, the call-to-action can serve as the talk topic as well.
+
+Putting it all together:
+
+<blockquote>
+
+**Title:** Join an NUS-OSS project, to aim for better jobs
+
+**Audience:** First year CS students in SoC
+
+**PUNCH:** What percentage of the code you write in the school will be actually used by someone? 10%? 2%? 1%? 0%? Most likely closer to 0%, right? But it doesn't have to be like that.
+
+**WIIFY:** I'm going to tell you a way that can help you get into better SE jobs/internships.
+
+**Agenda:**<br>
+[A] First, I'll explain what NUS-OSS is.<br>
+[B] Then, how it can help you get better internships/jobs.<br>
+[C] Finally, what you need to get in.
+
+**Key points:**
+* KP1: Contributing to OSS projects shows recruiters that you can write production quality code. %%(-> to be covered in section B)%%
+* KP2: NUS-OSS projects are of manageable size, and in relatable domains %%(-> in section A)%%
+* KP3: NUS-OSS projects come with guidance from NUS seniors/profs %%(-> in section A)%%
+* KP4: If you are willing to try, you have a good chance of getting into one %%(-> in section C)%%
+
+**Call to action:** Join an NUS-OSS project, to aim for better jobs
+</blockquote>
+
+
+</panel>
+<p/>
+
 #### Thursday
 
 * ~~{{ icon_lecture }} Lecture:~~ No lecture due to holidays
@@ -116,8 +181,7 @@ If you haven't already,
 * {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
 * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
 
-
-<panel type="secondary" header="##### Steps to follow when preparing" expanded no-close>
+<panel type="danger" header="##### Steps to follow when preparing for the lightning talk" expanded no-close>
 
 <div id="tips-roundA">
 

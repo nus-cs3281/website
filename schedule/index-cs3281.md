@@ -43,10 +43,10 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 
 #### Todo
 
-* {{ icon_todo }} Update GitHub profile: As most of your work will be submitted via GitHub, you are encouraged to update your GitHub profile with your full or partial name.
-* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.
+* {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.<br>
+  **The photo should be similar to a passport photo** (i.e., bust, front facing, face visible, no mask), as the purpose is to help recognize you.
 * {{ icon_todo }} Set up the dev environment of your project in your Computer. Follow instructions provided by the project for new contributors.
-* {{ icon_todo }} Join `nusossprojects` slack channel when you receive the invitation. As our projects use slack for chats, please ==keep slack running (and notifications enabled)== during periods in which you are actively involved in our projects (or check slack at least once a day).
+* {{ icon_todo }} Join `nusossprojects` Slack channel when you receive the invitation. As our projects use Slack for chats, please ==keep Slack running (and notifications enabled)== during periods in which you are actively involved in our projects (or check Slack at least once a day).
 
 #### Monday
 
@@ -112,17 +112,40 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 
 #### Monday
 
-* {{ icon_lecture }} Lecture: **Product demos**
-* Demo the product created by your project.
-  * MarkBind, RepoSense, TEAMMATES: ~15-20 minutes each
-  * The main objective is to learn/explain the product from the user's POV. Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature). No need (but preferred) for every team member to take part either. Decide among yourselves who will demo which feature.
-* Guidelines for the demos:
-  * Everyone must contribute, and take part in the demo. Also include a self-intro (name, year, major, something interesting about yourself).
-  * Showcase some of the more impressive features in a reasonable order. There is no need to demo _all_ features.
-  * The aim is to impress the audience about the product, not to educate them on how to use it (it is not a 'how-to' tutorial)
-  * Plan, and follow, a specific path that you know well and has been proven to work (the so called _golden path_), rather than plan to 'wing it'.
-  * Use good demo data that puts the product in a good light, rather than use trivial demo data (`aaa`, `test123` etc.).
-  * Some parts may be covered using pre-recorded screencasts, to save time (e.g., parts that takes a longer time to demo in real-time).
+* {{ icon_lecture }} Lecture: **Product demos**. Demo the product created by your project. Refer the panel below for more details.
+
+<panel type="info" header="##### Product Demo Instructions" expanded>
+
+**++Objective:++** To show that you have learned the product from the user's POV. As a side benefit, you get to practice giving product demos.
+
+**++Requirements:++**
+
+* ~15-20 minutes each.
+* Everyone must contribute, and take part in the demo.
+* Each presenter should start with a self-intro (name, year, major, something interesting about yourself).
+
+**++What to include:++**
+
+*  Focus on giving an overview of the product from the user's POV, and limit to highlights of the features if there are many features (i.e., no need to do a comprehensive demo of every little feature).
+* CATcher team: Don't spend time elaborating CATcher features visible to students (as everyone in the audience are familiar with them). Cover WATcher as well. Also explain a bit about what happens behind the scene (e.g., how bugs are transferred between phases) using the diagarm in [this page](https://catcher-org.github.io/dg/user-workflow.html).
+* It's OK to get demo slides from seniors but #r#don't look at past demo slides until you have come up with your own plan## for the demo. If you do, you will end up repeating the mistakes for past batches. After deciding your own demo plan, you can refer the past slides and reuse some of them where they can fit into your demo.
+
+**++#r#Mistakes to avoid:##++**
+
+1. **Focusing on feature, instead of benefits** (because [_Features Tell, Benefits Sell_](https://www.linkedin.com/pulse/ideology-behind-why-features-tell-benefits-sell-zoho-community/)).
+   * [Not good] "The product can sort by X, Y, Z."
+   * [Better] "Suppose the user want to find out who is most active. Just sort by X, and you the most active
+      will be at the top."
+1. **Spending too much time on known/basic stuff**. If you spend too much time on explaining things the audience already knows or 'expected', you will not be able to get to the 'good stuff'.
+   Showcase some of the more impressive features in a reasonable order. There is no need to demo _all_ features.<br>
+   You can even say "Of course it has basic features such as X, Y; but let me show you how it does X in a much better way than other products."
+1. **Trying to teach how to use the product**/**too much nitty-gritties**. The aim is to impress the audience about the product, not to educate them on how to use it (it is not a 'how-to' tutorial). For example, there is no need to explain each flag used in a command, or each property of a config file.
+1. **Not enough preparation:**
+   * Plan, and follow, a specific path that you know well and has been proven to work (the so called _golden path_), rather than plan to 'wing it'.
+   * Use good demo data that puts the product in a good light, rather than use trivial demo data (`aaa`, `test123` etc.).
+   * Some parts may be covered using pre-recorded screencasts, to save time (e.g., parts that takes a longer time to demo in real-time).
+
+</panel>
 
 
 <!-- ----------------------------------------------------------------------------------- -->
