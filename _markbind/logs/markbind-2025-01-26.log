@@ -21,3 +21,14 @@
 2025-01-26T12:02:05.802Z - info: Website generation started at 20:02:05
 2025-01-26T12:02:05.840Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
 2025-01-26T12:02:05.849Z - info: Building assets...
+2025-01-26T12:02:05.942Z - info: Assets built
+2025-01-26T12:02:05.942Z - info: Generating pages...
+2025-01-26T12:02:06.216Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/schedule/index-cs3282.md'
+2025-01-26T12:02:06.216Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2025-01-26T12:02:06.216Z - info: Pages built
+2025-01-26T12:02:06.284Z - info: Site data built
+2025-01-26T12:02:06.284Z - info: Website generation complete! Total build time: 0.529s
+2025-01-26T12:02:06.284Z - info: Build success!
+2025-01-26T12:02:11.609Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
