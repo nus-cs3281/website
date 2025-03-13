@@ -345,8 +345,8 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 ## Week 8 [{{ weeks[8].day }}]<a id="week-8"/>
 
-* :alarm_clock: by Friday
-  * Peer evaluations
+#### Todo
+
 * :alarm_clock: by Sunday
   * Update the progress page
 
@@ -360,13 +360,17 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 ## Week 9 [{{ weeks[9].day }}]<a id="week-9"/>
 
+#### Todo
+
 * :alarm_clock: by Thursday
-* Have a sync-up meeting with CS3281 mentees, together with non-CS3282 mentors (if they are available).
+  * Have a sync-up meeting with CS3281 mentees (at least, your primary mentees) and ensure they are clear on expectations and timelines of any significant deliverables expected from them.<br>
+  Also brief them on project management tasks they are supposed to gradually take on in the coming weeks (as they enter the [_managing_ phase](../admin/cs3281.html#stage-3-managing)).
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Lecture:
-  * Lightning Talks Round B - Part 3
+* {{ icon_lecture }} Lecture:
+  * Tips for Tech Talks - Part III
+  * Team-specific discussions
 
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -388,16 +392,16 @@ For your reference, below are the instructions given to CS3281 students regardin
     1. [Optional] Suggested areas of improvement for the external project
   * Submission:
     * Add your observations to the file `{{ students_repo }}/students/yourName/observations.md`.<br>
-      Afterwards, your additions will appear in the [Observations page](https://nus-cs3281.github.io/{{ year }}/students/observations.html).
+      Afterward, your additions will appear in the [Observations page](https://nus-cs3281.github.io/{{ year }}/students/observations.html).
     * Recommended length: about 0.5 - 1 A4 page
   * If you contributed to multiple projects, you may document all those projects in your observations or choose one of them to include.
   * If some of your classmates contributed to the same project, you should still write your own observations.
 
 #### Thursday
 
-* {{ icon_lecture }} ~~Lecture~~ (NUS Well-Being Day):
-  * Tips for Tech Talks - Part III (to be released online)
-  * Discussion about observations from the external project (to be done online)
+* {{ icon_lecture }} Lecture:
+  * Discussion about observations from the external project.
+  * Strategize how to wrap up the semester's work
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 11 [{{ weeks[11].day }}]<a id="week-11"/>
@@ -419,17 +423,7 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 #### Thursday
 
-* Project-specific discussions:
-  * Strategize how to wrap up the semester's work
-  * Discuss the future of the project, for the summer and beyond
-
-<!-- ----------------------------------------------------------------------------------- -->
-
-## Week 12 [{{ weeks[12].day }}]<a id="week-12"/>
-
-#### Thursday
-
-* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 1
+* {{ icon_lecture }} Lecture : Lightning Talks Round C
   * No Q&A
   * This should be an improved version of the talk you gave in round B, based on feedback you received for it.<br>
     * You can also consider incorporating into the talk answers to relevant questions raised during round B Q&A session.
@@ -508,9 +502,23 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 <!-- ----------------------------------------------------------------------------------- -->
 
+## Week 12 [{{ weeks[12].day }}]<a id="week-12"/>
+
+
+#### Thursday
+
+* Project-specific discussions:
+  * Discuss the future of the project, for the summer and beyond
+
+#### Todo
+
+* {{ icon_todo }} before week 13 Thursday: Have a project wrap-up meeting with mentees and brief them on any leftover tasks, summer plans, etc.
+
+<!-- ----------------------------------------------------------------------------------- -->
+
 ## Week 13 [{{ weeks[13].day }}]<a id="week-13"/>
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round C - Part 2
+* {{ icon_lecture }} Lecture : Wrap up
 

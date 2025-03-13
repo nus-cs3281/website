@@ -169,19 +169,19 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 #### Todo
 
 * If you haven't started already, this is a good time to start getting ==at least one peer-review from classmates== before requesting reviews from a senior developer.
-  * You can request a review from a peer directly or you can post a 'call for reviewers' in the respective chat channels.
+  * You can request a review from a peer directly, or you can post a 'call for reviewers' in the respective chat channels.
   * You can get early inputs from senior devs if necessary, %%e.g., you are not sure about the overall direction of the PR, you want to know the rationale for the current code, etc.%%
 * You can also ==help to manage new/external contributors== %%e.g., answer their questions, review their PRs etc.%% Even if their question is directed at a senior dev or the prof, you can jump in and answer if you know the answer.
 
 #### Monday
 
-* {{ icon_lecture }} ~~Project-specific discussions~~ (public holiday)
+* {{ icon_lecture }} Project-specific discussions
 
 
 #### Sunday
 
-* Keep updating the the _progress page_ and the _knowledge page_ on a weekly basis, as was done in the previous week. These pages are used in grading.
-* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/configs) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://reposense.org/ug/customizingReports.html#customize-using-csv-config-files).
+* Keep updating the _progress page_ and the _knowledge page_ on a weekly basis, as was done in the previous week. These pages are used in grading.
+* :alarm_clock: PR to update [these csv config files]({{ dashboard_repo }}/tree/master/config) if all your internal project work is not captured in the [dashboard]({{ dashboard_site }}). More info about the file format can be found [here](https://reposense.org/ug/customizingReports.html#customize-using-csv-config-files).
 
 <box type="tip" seamless>
 
