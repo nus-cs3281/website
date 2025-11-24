@@ -18,6 +18,8 @@ These two courses are **offered in Semester 2 only**.
 * Qualifying project work done in between the two courses can be counted for CS3282. %%For example, suppose you worked on a certain NUS-OSS project for CS3281 in the semester 2 of this AY. You can continue to contribute to the same project (e.g., do more PRs, review other PRs) over the next 9 months and count that work for CS3282 in the semester 2 of the following AY.%%<br>
   In fact, continuing work in between the two courses is encouraged and typical, as it helps you to build up your project expertise to match the level expected in CS3282.
 * Typically, you are expected to take CS3281 in your 2nd or 3rd year and CS3282 in your 3rd or 4th year. It is also possible to take CS3281 in the 2nd year and CS3282 in the 4th year (i.e., a gap of 3-semesters in between).
+* CS3282 counts as a [SE Focus Area](https://www.comp.nus.edu.sg/programmes/ug/focus/#SWEngrg) primary.
+* In this round, ==both courses will incorporate a significant AI-in-SE component==, aiming to develop your expertise in the use of AI tools in SE projects, in large production systems in particular. You will experiment with latest AI tools (e.g., Cursor, Claude, Gemini etc.) and evaluate how they can be used in the NUS-OSS project you are working in.
 
 **Prerequisites** : CS2103/T or CS2113/T (with approval)
 
@@ -41,11 +43,13 @@ These two courses are **offered in Semester 2 only**.
 <box>
 
 <tabs>
+<tab header="2025 Batch">
+
+<img src="{{baseUrl}}/images/Students-2025.png" width="800" />
+</tab>
 <tab header="2024 Batch">
 
-<img src="{{baseUrl}}/images/Students-2024.JPG" width="800" /><br>
-[[more photos...](https://www.facebook.com/media/set/?set=a.10157387238478636&type=1&l=215e349ae5)]
-
+<img src="{{baseUrl}}/images/Students-2024.JPG" width="800" />
 </tab>
 <tab header="2019 Batch">
 
@@ -97,7 +101,7 @@ To get the full value of these course pair, you are encouraged to stay involved 
 Student selection is **not based on CourseReg**. Instead, submit your application using ==[this application form](https://forms.office.com/r/SvtnieQXND)== (requires NUSNET login, requires you to upload the latest transcript).
 
 
-{{ icon_deadline }} Interested students are to **submit the application by Mon 2nd December {{ previous_year }} (soft deadline)**. We will accept late applications till Mon 9th December (hard deadline).
+{{ icon_deadline }} Interested students are to **submit the application by Mon 1st December {{ previous_year }} (soft deadline)**. We will accept late applications till Sun 7th December (hard deadline).
 
 The outcome of all applications are expected to be **released via email around December 20th, {{ previous_year }}**.
 

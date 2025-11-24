@@ -4,7 +4,7 @@ pageNav: 2
 layout: cs3281-layout.md
 </frontmatter>
 
-{% set sem_start = "2025-01-13" %}
+{% set sem_start = "2026-01-12" %}
 {% set weeks = [
     {num: "0", day: (sem_start | date("Do MMM", -7))},
     {num: "1", day: (sem_start | date("Do MMM", 0))},
@@ -29,15 +29,16 @@ layout: cs3281-layout.md
 
 The info given below is from the previous round, as a reference only. **Major changes are highly unlikely**, however.
 </box>
-{% endif %}
-
 <p/>
-<!-- ----------------------------------------------------------------------------------- -->
+{% else %}
 
 <box type="important" icon=":fas-exclamation-triangle:" light>
 
 The schedule for future weeks is tentative, given as a reference only. The prof will finalize the details of a week near to the start of the week, although **major changes are highly unlikely**.
 </box>
+{% endif %}
+
+<!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 1 [{{ weeks[1].day }}]
 

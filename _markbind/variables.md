@@ -1,6 +1,6 @@
-<variable name="year">2025</variable>
-<variable name="AY">24/25</variable>
-<variable name="is_pre_sem"></variable>
+<variable name="year">2026</variable>
+<variable name="AY">25/26</variable>
+<variable name="is_pre_sem">yes</variable>
 <variable name="cs3281_time">MON 1200-1400</variable>
 <variable name="cs3281_venue">COM1-02-12</variable>
 <variable name="cs3282_time">THU 1400-1600</variable>

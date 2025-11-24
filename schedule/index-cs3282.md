@@ -74,6 +74,8 @@ You are welcome to do more than one book/chapter too.
 
 #### Thursday
 
+* {{ icon_lecture }} Lecture
+<!--
 * {{ icon_lecture }} Lecture: Tips for tech talks - Part 1
 * Choosing topics for Lightning Talks:
   * :alarm_clock: By the end of today, post an issue in repo [nus-cs3281/{{ year }}](https://github.com/nus-cs3281/{{ year }}/issues) as follows %%&nbsp;Reason: posting titles in advance will help us avoid topic duplications%%:
@@ -83,7 +85,7 @@ You are welcome to do more than one book/chapter too.
   * It is in your interest to choose a topic related to one of your [expert areas](../admin/cs3281.html#expertise-areas:~:text=and%20instructor%20observations.-,Expertise%20Areas,-While%20this%20is). It is not a strict requirement though.
   * Note that you will be peer-evaluated for the ==quality of delivery as well as the usefulness of the talk==. It is recommended to pick topics that are potentially useful to the audience.
 * Read next week's schedule to find more info about the upcoming lightning talks. The order of talks %%(i.e., who presents in which week)%% is given there too.
-
+-->
 
 <!-- ----------------------------------------------------------------------------------- -->
 
@@ -95,7 +97,7 @@ You are welcome to do more than one book/chapter too.
 
 * Decide primary/secondary mentor allocation for your project
 
-
+<!--
 <panel type="warning" header="##### Wrap-up the previous in-lecture exercise" expanded no-close>
 
 In a recent in-lecture exercise, you started on creating a PUMA <tooltip content="because we left out the supporting points, it is just a skeleton only (i.e., not fleshed out)">skeleton</tooltip> for a hypothetical talk. Let's wrap it up before you start working on your real lightning talk.
@@ -159,10 +161,11 @@ Putting it all together:
 
 </panel>
 <p/>
+-->
 
 #### Thursday
 
-* ~~{{ icon_lecture }} Lecture:~~ No lecture due to holidays
+* ~~{{ icon_lecture }} Lecture
 
 
 
@@ -178,7 +181,9 @@ If you haven't already,
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 1
+* {{ icon_lecture }} Lecture
+
+<!-- : Lightning Talks Round A - Part 1
 * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
 
 <panel type="danger" header="##### Steps to follow when preparing for the lightning talk" expanded no-close>
@@ -240,7 +245,7 @@ One important way we can support the speakers is to give them our undivided atte
 </panel>
 <p/>
 
-
+-->
 #### Sunday
 
 * :alarm_clock: Update the [progress]({{ students_site }}/instructions.html#updating-your-project-progress) page.
@@ -257,24 +262,23 @@ One important way we can support the speakers is to give them our undivided atte
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Lightning Talks Round A - Part 2
-  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
+* {{ icon_lecture }} Lecture
 
+<!--: Lightning Talks Round A - Part 2
+  * See the **<a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>** (created based on a random order).
+-->
 
 ## Week 6 [{{ weeks[6].day }}]<a id="week-6"/>
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture: Tips for Tech Talks - Part 2
+* {{ icon_lecture }} Lecture
 
 #### Todo
 
-* :alarm_clock: by Friday : Post _Lightning Talks Round B_ topic in the issue tracker, as was done in Round A
 * :alarm_clock: by end of recess week : Aim to finish the ['Book Chapter Report' activity](#activity-book-chapter-report)
 
-#### Resources
 
-* Online article of interest: [Steve Jobs's Masterful Presentation Ability Came Down to 1 Underrated Thing. ...](https://www.inc.com/jason-aten/steve-jobs-masterful-presentation-ability-came-down-to-1-underrated-thing-anyone-can-do-it.html)
 ---
 
 **Recess**
@@ -302,12 +306,9 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 #### Thursday
 
-* {{ icon_lecture }} Lightning Talks Round B - Part 1 (see <a href="{{ students_site }}/students/talksSchedule.html" target="_blank">Lightning Talks Schedule</a>)
-  * In your slide design and delivery, try to apply the tips covered in week 6 lecture. Some of those points are given in the panel below but you are advised to look at the lecture slides again before you prepare for the talk. While are you not required to use the _generic slide deck_ pptx file, do take a look at it and make sure all its elements are also present in your slide deck.
-  * In addition, aim for a stronger application of tips given for round A (see the panel below for a reference)
 * {{ icon_lecture }} Team-specific discussions (if there's time left)
 
-
+<!--
 <panel type="info" header="Tips for round B" expanded no-close>
 
 * **Make slides more visual**:
@@ -340,6 +341,7 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 </panel>
 <p/>
+-->
 
 <!-- ------------------------------------------------------------------------------------ -->
 
@@ -353,7 +355,6 @@ For your reference, below are the instructions given to CS3281 students regardin
 #### Thursday
 
 * {{ icon_lecture }} Lecture :
-  * Lightning Talks Round B - Part 2
   * Team-specific discussions
 
 <!-- ------------------------------------------------------------------------------------ -->
@@ -369,7 +370,6 @@ For your reference, below are the instructions given to CS3281 students regardin
 #### Thursday
 
 * {{ icon_lecture }} Lecture:
-  * Tips for Tech Talks - Part III
   * Team-specific discussions
 
 
@@ -423,7 +423,10 @@ For your reference, below are the instructions given to CS3281 students regardin
 
 #### Thursday
 
-* {{ icon_lecture }} Lecture : Lightning Talks Round C
+
+* {{ icon_lecture }} Lecture
+
+<!--: Lightning Talks Round C
   * No Q&A
   * This should be an improved version of the talk you gave in round B, based on feedback you received for it.<br>
     * You can also consider incorporating into the talk answers to relevant questions raised during round B Q&A session.
@@ -501,6 +504,7 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 </panel>
 <p/>
 
+-->
 
 <!-- ----------------------------------------------------------------------------------- -->
 
