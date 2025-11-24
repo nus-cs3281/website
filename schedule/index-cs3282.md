@@ -437,64 +437,66 @@ In this round you are ==expected to hit almost all targets(:dart:)== given below
 
 **Talk structure**
 
-1. :dart: The talk is well-structured and aims for high impact.
-   1. :bulb: Document the following elements an extra/hidden slide in the slide deck (for verification/grading purposes)
-      * Intended impact:
-         * Know
-         * Believe
-         * Do
+1. :dart: The talk is well-structured and the following are clear.
+      * PUNCH
       * WIIFY
+      * Roadmap/agenda
       * Key points
       * Call-to-action
-      * Roadmap
-      * PUNCH
+1. :dart: The talk is well-rounded and balanced.
+   * Cover downsides, not just upsides only %%e.g., if the talk is about X, you can cover use cases for which X fits well (thus implying where it doesn't fit too), instead of giving the impression that it fits _every_ use case%%. { icon="fas-lightbulb" i-class="text-success" }
+   * Cover the 'big picture aspect' %%e.g., if the talk is about a coding tool X, where does X fit into the big picture of coding tools, what are the competing/complementary tools, how is it different/similar to other tools etc.%%.
+   * Cover all pertinent aspects %%so that the audiences is not left wondering "you talked about A,B,D but why leave out C?"%%.
 
 **Slide design**
 
 1. :dart: No visual clutter
-   1. :bulb: Remove any conspicuous background graphics that do not add value
-   1. :bulb: Avoid using <tooltip content="done without good reason; uncalled for">gratuitous</tooltip> images that don't really add value
-1. :dart: Visual slides
-   1. :bulb: Wherever you have bullet points (or paragraph text), look for another suitable structure such as a table, flow chart, map, graph, etc.
-   1. :bulb: Use graphics instead of (or in addition to) text
+   * Remove any conspicuous background graphics that do not add value. { icon="fas-lightbulb" i-class="text-success" }
+   * Avoid using <tooltip content="done without good reason; uncalled for">gratuitous</tooltip> images that don't really add value
+1. :dart: Slides are 'visual'
+   * Wherever you have bullet points (or paragraph text), look for another suitable structure such as a table, flow chart, map, graph, etc. { icon="fas-lightbulb" i-class="text-success" }
+   * Use graphics instead of (or in addition to) text
 1. :dart: Important elements of the talk are captured prominently in slides
-   1. :bulb: Ensure WIIFY, Roadmap, start/end of sections of the Roadmap, and each keypoint are captured as separate slides or as noticeable visual elements
-   1. :bulb: Use words `Key point` in text so that they are hard to miss<br>
+   * Ensure WIIFY, Roadmap, start/end of sections of the Roadmap, and each keypoint are captured as separate slides or as noticeable visual elements { icon="fas-lightbulb" i-class="text-success" }
+   * Use words `Key point` in text so that they are hard to miss<br>
     %%e.g., `KEY POINT: Java is verbose!`%%
-   1. :bulb: use a different (and more prominent) design for important slides and key elements<br>
+   * Use a different (and more prominent) design for important slides and key elements<br>
     %%e.g., use a brighter background, bigger font size%%
+   * Revisit the agenda slide when you transition from one section of the talk to another, to show the audience the progression of the talk through the agenda items.
 1. :dart: Last slide is used to good effect
-   1. :bulb: at least it should contain key points and the call-to-action
-   1. :bulb: as the last slide should contain the essence of the talk, it is ok to be 'crowded'
-   1. :bulb: you may want to include your contact details in the last slide too
+   * At least it should contain key points and the call-to-action. Good to have the agenda items too -- show that you've completed all of them. { icon="fas-lightbulb" i-class="text-success" }
+   * as the last slide should contain the essence of the talk, it is ok to be 'crowded'.<br>
+      Augmenting the key points with some additional 'specifics' helps them to stick in the audience's mind -- otherwise they can become generic statements that are easily forgotten.
+   * you may want to include your contact details in the last slide too.
 1. :dart: Slides optimized to convey the point, and help your delivery
-   1. :bulb: Write down in slide notes the point(s) a slide is supposed to convey. Each slide should have at least a main point, and possibly some sub points. e.g.,
+   * Write down in slide notes the point(s) a slide is supposed to convey. Each slide should have at least a main point, and possibly some sub points. e.g., { icon="fas-lightbulb" i-class="text-success" }
       ```{.no-line-numbers}
       Java is still the most popular language today.
       * Java positions lead job vacancies.
       * Highest percentage of devices support JVM.
       * All fortune 500 companies use Java for their enterprise systems.
       ```
-   1. :bulb: If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
+   * If possible, use the assertion-evidence format to bring out the main point. i.e., show the main point as the slide title.<br>
     %%e.g., the slide title can be `Java is still the most popular language today.` (i.e., the main point) instead of `Java popularity` (i.e., a phrase/topic)%%
-   1. :bulb: For each sub point, ensure there is a corresponding click.<br>
+   * For each sub point, ensure there is a corresponding click.<br>
     %%e.g., the slide should have at least three clicks so that you can use the click-look-recall technique as a prompt to talk about each of the three sub points.%%
-1. :dart: Minimum use of jargon
-   1. :bulb: Format jargon in a different way e.g., use a different font so that you remember to define them. Alternatively, put the definition on the slide.
-1. :dart: Meaningful animations
-   1. :bulb: Use meaningful slide transitions e.g., use a more drastic transition when moving from one major section to another.
-   1. :bulb: When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery.
+1. :dart: Kept jargon usage to a minimum
+   * Format jargon in a different way e.g., use a different font so that you remember to define them. Alternatively, put the definition on the slide. { icon="fas-lightbulb" i-class="text-success" }
+1. :dart: Used meaningful animations
+   * Use meaningful slide transitions e.g., use a more drastic transition when moving from one major section to another. { icon="fas-lightbulb" i-class="text-success" }
+   * When possible, gradually remove/introduce elements into a slide so that the audience can maintain context i.e., minimize drastic change of scenery.
 
 **Delivery**
 
-1. :dart: Start with a PUNCH (instead of traditional self-intro)
-   1. :bulb: Open with a brief greeting, and jump starlight into your PUNCH
+1. :dart: Started with a PUNCH (instead of traditional self-intro)
+   * Open with a brief greeting, and jump starlight into your PUNCH { icon="fas-lightbulb" i-class="text-success" }
 1. :dart: WIIFY and Roadmap clearly communicated.
-   1. :bulb: Use clear 'marker' phrases to draw attention to these important elements of the talk. e.g., `"I think this is a very important topic to you because ..."` `"In the next few minutes, I'm going to talk about (a)... (b)... and (c)"`
+   * Use clear 'marker' phrases to draw attention to these important elements of the talk. e.g., `"I think this is a very important topic to you because ..."` `"In the next few minutes, I'm going to talk about (a)... (b)... and (c)"` { icon="fas-lightbulb" i-class="text-success" }
 1. :dart: Each key point is clearly made
-   1. :bulb: When the key slide comes up, use the marker phrase `"So, the key point here is ..."` to draw attention to it.
-1. :dart: Finish by reiterating key points, and call-to-action.
-   1. :bulb: Follow the call-to-action with a clear `"Thank you!"` and if applicable, `"I'm ready for your questions"` to indicate the end of your talk.
+   * When the key slide comes up, use the marker phrase `"So, the key point here is ..."` to draw attention to it. { icon="fas-lightbulb" i-class="text-success" }
+1. :dart: Finished by reiterating key points, and call-to-action.
+   * Follow the call-to-action with a clear `"Thank you!"` and if applicable, `"I'm ready for your questions"` to indicate the end of your talk. { icon="fas-lightbulb" i-class="text-success" }
+1. :dart: Finished within the allotted time limit (e.g., 7 minutes).
 
 </panel>
 <p/>

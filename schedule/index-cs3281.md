@@ -300,11 +300,21 @@ In fact, go the extra mile to create such issues when you can, as a good supply 
 
 <box type="important">
 
-As we are now reaching the end of the semester:
-* **Wrap up any ongoing PRs** soon. Only merged work can be counted for grading.
-* **Update your knowledge and progress pages**. Those will be used in grading.
+Things to do as we reach the end of the semester:
 
-Soft deadline: end of week 13; hard deadline: end of reading week
+**Wrap up any ongoing PRs** soon. Only merged work can be counted for grading.
+
+**Create beginner issues** (at least 2 per person) that are suitable for future
+ new contributors. These could be small things that gives new contributors can do without needed an
+ in-depth knowledge of the codebase -- so, shouldn't be trivial chores either (e.g., fix a typo in a document).
+
+**Update your progress/knowledge pages** to capture all your work (soft deadline: end of week 13; hard deadline: end of reading week
+)<br>
+   **Give a summary at the top of the progress page**, describing your key contributions.<br>
+   What to include in the summary? Imagine an interviewer asked you "what you did in this project?".
+   The summary could be similar in length and coverage (e.g., a small number of bullet points or short paragraphs)
+   to the answer you would give to that question, but can also include hyperlinks to relevant PRs/issues, etc.
+
 </box>
 
 <!-- ----------------------------------------------------------------------------------- -->
