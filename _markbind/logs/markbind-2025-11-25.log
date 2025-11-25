@@ -223,3 +223,25 @@
 2025-11-25T08:00:19.828Z - info: Website generation started at 16:00:19
 2025-11-25T08:00:19.850Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
 2025-11-25T08:00:19.860Z - info: Building assets...
+2025-11-25T08:00:19.967Z - info: Assets built
+2025-11-25T08:00:19.968Z - info: Generating pages...
+2025-11-25T08:00:20.244Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2025-11-25T08:00:20.245Z - info: Pages built
+2025-11-25T08:00:20.309Z - info: Site data built
+2025-11-25T08:00:20.309Z - info: Website generation complete! Total build time: 0.523s
+2025-11-25T08:00:20.309Z - info: Build success!
+2025-11-25T08:00:26.230Z - info: The website has been deployed at: https://nus-cs3281.github.io/website
+2025-11-25T09:38:47.500Z - info: Website generation (lazy) started at 17:38:47
+2025-11-25T09:38:47.547Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-11-25T09:38:47.557Z - info: Building assets...
+2025-11-25T09:38:47.659Z - info: Assets built
+2025-11-25T09:38:47.659Z - info: Generating landing page...
+2025-11-25T09:38:47.741Z - info: Landing page built, other pages will be built as you navigate to them!
+2025-11-25T09:38:47.815Z - info: Site data built
+2025-11-25T09:38:47.816Z - info: Website generation (lazy) complete! Total build time: 0.431s
+2025-11-25T09:38:47.825Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2025-11-25T09:38:47.825Z - info: Press CTRL+C to stop ...
+2025-11-25T09:39:39.855Z - info: Website generation started at 17:39:39
+2025-11-25T09:39:39.874Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2025-11-25T09:39:39.883Z - info: Building assets...
