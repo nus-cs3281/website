@@ -72,11 +72,8 @@ These two courses are **offered in Semester 2 only**.
 ## Workload
 
 * **Each course will have the 4 Units of workload** (similar to other regular courses), i.e. 10 hours of workload per week in total.
-* Lectures are compulsory to attend.
-  * CS3281 lecture -- {{ cs3281_time }} in {{ cs3281_venue }}
-  * CS3282 lecture -- {{ cs3282_time }} in {{ cs3282_venue }}
-* In addition, you are required to attend a ==**compulsory full-day _Code Sprint_** (under CS3281) on the first Saturday of the semester (Sat Jan 18th)==.
-* No tutorials. Ignore the tutorial timings given in Canvas/CourseReg.
+* ==Lectures are (compulsory to attend)==: {{ cs3281_time }} in {{ cs3281_venue }}.
+* No tutorials. Ignore the tutorial timings given in Canvas/CourseReg. In lieu of tutorials, there will be weekly project meetings, to be arranged based on team member availability.
 
 <!-- ==================================================================================================== -->
 
