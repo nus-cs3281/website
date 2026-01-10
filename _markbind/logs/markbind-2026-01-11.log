@@ -1,0 +1,82 @@
+2026-01-10T16:00:27.623Z - info: [00:00:27] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:00:27.639Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:00:27.639Z - info: Current opened pages, from most-to-least recent:
+2026-01-10T16:00:27.640Z - info: 1. admin/mentors
+2026-01-10T16:00:28.692Z - warn:  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/cs3282-layout.md)
+  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/cs3282-layout.md)
+  Template render error: (/Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/css.md)
+  ReferenceError: callbackAsap is not defined
+    at Object._prettifyError (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:32:11)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:383:17
+    at Template.root [as rootRenderFunc] (eval at _compile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/environment.js:527:18), <anonymous>:116:3)
+    at Template.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:372:8)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:54:25
+    at createTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:121:7)
+    at handle (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:133:9)
+    at /opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:145:7
+    at next (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:258:7)
+    at Object.asyncIter (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/nunjucks/src/lib.js:263:3)
+    at Environment.getTemplate (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/load-event.js:127:7)
+    at Environment.render (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/patches/nunjucks/context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableRenderer.js:73:24)
+    at VariableProcessor.renderWithSiteVariables (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/variables/VariableProcessor.js:154:57)
+    at Layout.<anonymous> (/opt/homebrew/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Layout/Layout.js:70:61)
+    at Generator.next (<anonymous>)
+2026-01-10T16:00:42.040Z - info: [00:00:42] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:00:42.041Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:00:42.042Z - info: No pages are currently opened
+2026-01-10T16:00:43.053Z - info: No pages needed to be rebuilt
+2026-01-10T16:00:58.988Z - info: [00:00:58] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:00:58.988Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:00:58.988Z - info: No pages are currently opened
+2026-01-10T16:01:00.017Z - info: No pages needed to be rebuilt
+2026-01-10T16:01:03.909Z - info: Building /Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281 as some of its dependencies were changed since the last visit
+2026-01-10T16:01:03.948Z - warn: You might have an invalid hash for intra-link! Ignore this warning if it was intended.'
+  /website/admin/cs3282.html#lightning-talks' found in file '/Users/damithch/Repos/nus-cs3281/cs3281-website/admin/cs3281.md'
+2026-01-10T16:01:03.948Z - info: Site data built
+2026-01-10T16:01:03.949Z - info: Lazy website regeneration complete! Total build time: 0.041s
+2026-01-10T16:01:09.279Z - info: Website generation (lazy) started at 00:01:09
+2026-01-10T16:01:09.321Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2026-01-10T16:01:09.330Z - info: Building assets...
+2026-01-10T16:01:09.440Z - info: Assets built
+2026-01-10T16:01:09.440Z - info: Generating landing page...
+2026-01-10T16:01:09.514Z - info: Landing page built, other pages will be built as you navigate to them!
+2026-01-10T16:01:09.592Z - info: Site data built
+2026-01-10T16:01:09.593Z - info: Website generation (lazy) complete! Total build time: 0.348s
+2026-01-10T16:01:09.601Z - info: Serving "/Users/damithch/Repos/nus-cs3281/cs3281-website/_site" at http://127.0.0.1:8080
+2026-01-10T16:01:09.601Z - info: Press CTRL+C to stop ...
+2026-01-10T16:01:43.083Z - info: [00:01:43] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:01:43.087Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:01:43.088Z - info: Current opened pages, from most-to-least recent:
+2026-01-10T16:01:43.088Z - info: 1. index
+2026-01-10T16:01:44.193Z - info: Rebuilding 1 pages
+2026-01-10T16:01:44.318Z - info: Site data built
+2026-01-10T16:01:44.318Z - info: Pages rebuilt
+2026-01-10T16:01:44.318Z - info: Website regeneration complete! Total build time: 0.128s
+2026-01-10T16:02:21.053Z - info: [00:02:21] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:02:21.054Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:02:21.055Z - info: Current opened pages, from most-to-least recent:
+2026-01-10T16:02:21.055Z - info: 1. index
+2026-01-10T16:02:22.091Z - info: Rebuilding 1 pages
+2026-01-10T16:02:22.128Z - info: Site data built
+2026-01-10T16:02:22.128Z - info: Pages rebuilt
+2026-01-10T16:02:22.128Z - info: Website regeneration complete! Total build time: 0.037s
+2026-01-10T16:03:16.950Z - info: [00:03:16] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:03:16.953Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:03:16.955Z - info: Current opened pages, from most-to-least recent:
+2026-01-10T16:03:16.956Z - info: 1. index
+2026-01-10T16:03:17.984Z - info: Rebuilding 1 pages
+2026-01-10T16:03:18.014Z - info: Site data built
+2026-01-10T16:03:18.014Z - info: Pages rebuilt
+2026-01-10T16:03:18.015Z - info: Website regeneration complete! Total build time: 0.031s
+2026-01-10T16:03:55.255Z - info: [00:03:55] Reload for file change: /Users/damithch/Repos/nus-cs3281/cs3281-website/_markbind/layouts/header.md
+2026-01-10T16:03:55.257Z - info: Synchronizing opened pages list before reload
+2026-01-10T16:03:55.261Z - info: Current opened pages, from most-to-least recent:
+2026-01-10T16:03:55.261Z - info: 1. index
+2026-01-10T16:03:56.284Z - info: Rebuilding 1 pages
+2026-01-10T16:03:56.302Z - info: Site data built
+2026-01-10T16:03:56.302Z - info: Pages rebuilt
+2026-01-10T16:03:56.302Z - info: Website regeneration complete! Total build time: 0.019s
+2026-01-10T17:25:56.090Z - info: Website generation started at 01:25:55
+2026-01-10T17:25:56.141Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs3281/cs3281-website/node_modules/.cache/gh-pages/https!github.com!nus-cs3281!website.git/_markbind/variables.md'
+2026-01-10T17:25:56.151Z - info: Building assets...
