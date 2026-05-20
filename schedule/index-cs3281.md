@@ -23,7 +23,7 @@ layout: cs3281-layout.md
 ] %}
 
 # CS3281 Schedule
-
+<!--
 {% if is_pre_sem %}
 <box type="important" icon=":fas-exclamation-triangle:" light>
 
@@ -37,7 +37,7 @@ The info given below is from the previous round, as a reference only. **Major ch
 The schedule for future weeks is tentative, given as a reference only. The prof will finalize the details of a week near to the start of the week, although **major changes are highly unlikely**.
 </box>
 {% endif %}
-
+-->
 <!-- ----------------------------------------------------------------------------------- -->
 
 ## Week 1 [{{ weeks[1].day }}]
@@ -47,7 +47,8 @@ The schedule for future weeks is tentative, given as a reference only. The prof 
 * {{ icon_todo }} Add your info to the repo [nus-cs3281/{{ year }}](https://nus-cs3281.github.io/{{ year }}/instructions.html) [:alarm_clock: Deadline: Friday]. You will be given write permission to the repo by Monday.<br>
   **The photo should be similar to a passport photo** (i.e., bust, front facing, face visible, no mask), as the purpose is to help recognize you.
 * {{ icon_todo }} Set up the dev environment of your project in your Computer. Follow instructions provided by the project for new contributors.
-* {{ icon_todo }} Join `nusossprojects` Slack channel when you receive the invitation. As our projects use Slack for chats, please ==keep Slack running (and notifications enabled)== during periods in which you are actively involved in our projects (or check Slack at least once a day).
+* {{ icon_todo }} Fill up the 'CS3281&2 2026 -- AI Tools' GDoc. The link will be sent to you close to Monday.
+
 
 #### Monday
 
@@ -93,7 +94,12 @@ Reasons: It increases the visibility of your work. Those records can be useful r
  -->
 
 <!-- ----------------------------------------------------------------------------------- -->
+<box type="important" icon=":fas-exclamation-triangle:" light>
 
+The schedule for the remaining weeks will be added in due course.
+</box>
+
+<!--
 ## Week 2 [{{ weeks[2].day }}]
 
 #### Monday
@@ -105,8 +111,8 @@ Reasons: It increases the visibility of your work. Those records can be useful r
   * Show your 'dev experiments' (done last week) and 'user experiments' to prof.<br>
     If you have queries about the product (e.g., motivations behind some features), this is a good time to clarify them.
 * **Record your dev/user experiments** in your `progress.md`, and keep updating the `knowledge.md` as you learn new things.
-<!-- ----------------------------------------------------------------------------------- -->
-
+----------------------------------------------------------------------------------- -->
+<!--
 <div id="week3-monday"/>
 
 ## Week 3 [{{ weeks[3].day }}]
@@ -149,8 +155,8 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 </panel>
 
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Week 4 [{{ weeks[4].day }}]
 
 #### Monday
@@ -162,8 +168,9 @@ Reasons: It increases the visibility of your work. Those records can be useful r
 
 * :alarm_clock: Update the [progress page]({{ students_site }}/instructions.html#updating-your-project-progress) and the [knowledge page]({{ students_site }}/instructions.html#updating-the-knowledge-gained-page).
 
-<!-- ----------------------------------------------------------------------------------- -->
+ ----------------------------------------------------------------------------------- -->
 
+<!--
 
 ## Week 5 [{{ weeks[5].day }}]
 
@@ -224,25 +231,25 @@ If you can't work out a plan that achieves the above, you can seek guidance from
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
-
+-->
 <!-- ------------------------------------------------------------------------------------ -->
-
+<!--
 ## Week 8 [{{ weeks[8].day }}]
 
 #### Monday
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
-<!-- ------------------------------------------------------------------------------------ -->
-
+ ------------------------------------------------------------------------------------ -->
+<!--
 ## Week 9 [{{ weeks[9].day }}]
 
 #### Monday
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
-<!-- ------------------------------------------------------------------------------------ -->
-
+ ------------------------------------------------------------------------------------ -->
+<!--
 ## Week 10 [{{ weeks[10].day }}]
 
 <box type="info">
@@ -255,8 +262,8 @@ If you can't work out a plan that achieves the above, you can seek guidance from
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Week 11 [{{ weeks[11].day }}]
 
 <box type="tip" id="create-beginner-issues">
@@ -270,19 +277,19 @@ In fact, go the extra mile to create such issues when you can, as a good supply 
 
 * Plan to finish ongoing (and new) PRs by end of week 12, with one week to spare. If PRs are stalling due to lack of reviews from mentors, feel free to nag.
 
-<!--
+
 * STePS preparations:
   * Start planning the posters. Note that here are some requirements from STePS regarding the poster format (e.g., include some sponsor logos). While STePS let you print the poster for free, you'll have to print it by the schedule they give, and the printing date is likely to be earlier than presentation date. Please get my feedback for the poster before printing it. You can get a copy of the previous year poster from the whoever did the poster last year. As the poster is not graded, it is ok to reuse some of the stuff from the previous year poster, but best not to copy it wholesale.
   * Submit project info (screenshots, videos etc.) to the STePS website. We want our projects to appear well in the STePS website because our main goal of participating in STePS is to gain exposure for your projects within the industry.
   -->
-
+<!--
 #### Monday
 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Week 12 [{{ weeks[12].day }}]
 
 #### Monday
@@ -290,8 +297,8 @@ In fact, go the extra mile to create such issues when you can, as a good supply 
 * {{ icon_lecture }} Lecture: Project-specific discussions
 
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Week 13 [{{ weeks[13].day }}]
 
 #### Monday
@@ -318,15 +325,15 @@ Things to do as we reach the end of the semester:
 
 </box>
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Reading week, exam period
 
 * **Ensure the progress/knowledge pages are up-to-date** latest by the end of the first
   week in the exam period.
 
-<!-- ----------------------------------------------------------------------------------- -->
-
+ ----------------------------------------------------------------------------------- -->
+<!--
 ## Work done after the semester
 
 * The work done after the semester is over can earn credit when taking CS3282 later.
@@ -340,3 +347,4 @@ Things to do as we reach the end of the semester:
   The more expertise you have in the project, the better you will be able to do
   project management and mentoring tasks included in the CS3282 workload.
 * See [here](../admin/cs3282.html) for more info on CS3282 workload.
+-->
